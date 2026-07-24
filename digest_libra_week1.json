@@ -23,7 +23,7 @@
       "disagreement": "Some readers saw family as something to build toward, while others described it as something being left behind."
     }
   },
-  "overall_tone_summary": "Transformative and hopeful, with an empowering push toward positive change.",
+  "overall_tone_summary": "Decisions you make now carry real weight \u2014 own that authority.",
   "readers": [
     {
       "video_id": "QcNg1TSl4bg",
@@ -55,5 +55,6 @@
       "tone": "hopeful",
       "url": "https://www.youtube.com/watch?v=aXHviRxi5qI"
     }
-  ]
+  ],
+  "overall_tone": "empowering"
 }

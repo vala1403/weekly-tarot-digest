@@ -23,7 +23,7 @@
       "disagreement": "Some readers focused on ongoing challenges and the search for domestic warmth, while others suggested a family situation is already wrapping up with positive outcomes."
     }
   },
-  "overall_tone_summary": "Mostly transformative and hopeful, with a note of caution ahead.",
+  "overall_tone_summary": "Something you've held onto for too long is finally ready to shift.",
   "readers": [
     {
       "video_id": "CB_J4RYOI9Q",
@@ -55,5 +55,6 @@
       "tone": "hopeful",
       "url": "https://www.youtube.com/watch?v=SZdlp4igHc4"
     }
-  ]
+  ],
+  "overall_tone": "transformative"
 }

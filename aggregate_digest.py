@@ -15,7 +15,15 @@ import anthropic
 MODEL = "claude-sonnet-4-6"
 CATEGORIES = ["love", "finance", "career", "family"]
 
+# Fixed vocabulary for the weekly overall-tone tag. Do not deviate from this
+# list — it's also the enum used for theme-log.json archive entries.
+THEME_VOCABULARY = [
+    "cautious", "hopeful", "restless", "transformative",
+    "reflective", "empowering", "turbulent", "liberating",
+]
+
 TAGGED_DIR = Path(__file__).parent / "tagged"
+THEME_LOG_PATH = Path(__file__).parent / "data" / "theme-log.json"
 
 CATEGORY_SCHEMA = {
     "type": "object",
@@ -30,8 +38,11 @@ CATEGORY_SCHEMA = {
 
 TONE_SCHEMA = {
     "type": "object",
-    "properties": {"summary": {"type": "string"}},
-    "required": ["summary"],
+    "properties": {
+        "theme": {"type": "string", "enum": THEME_VOCABULARY},
+        "note": {"type": "string"},
+    },
+    "required": ["theme", "note"],
     "additionalProperties": False,
 }
 
@@ -74,6 +85,33 @@ def load_tagged(video_id: str) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def load_theme_log() -> list:
+    if not THEME_LOG_PATH.exists():
+        return []
+    return json.loads(THEME_LOG_PATH.read_text(encoding="utf-8"))
+
+
+def save_theme_log(theme_log: list):
+    THEME_LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
+    THEME_LOG_PATH.write_text(json.dumps(theme_log, indent=2), encoding="utf-8")
+
+
+def get_sign_theme_history(theme_log: list, sign_slug: str, before_week: str, limit: int = 4) -> list:
+    """Most-recent-first list of {week, theme} for this sign, strictly before `before_week`."""
+    entries = [w for w in theme_log if w["week"] < before_week and sign_slug in w.get("signs", {})]
+    entries.sort(key=lambda w: w["week"], reverse=True)
+    return [{"week": w["week"], "theme": w["signs"][sign_slug]["theme"]} for w in entries[:limit]]
+
+
+def upsert_theme_log_entry(theme_log: list, week: str, sign_slug: str, theme: str, note: str) -> list:
+    for entry in theme_log:
+        if entry["week"] == week:
+            entry.setdefault("signs", {})[sign_slug] = {"theme": theme, "note": note}
+            return theme_log
+    theme_log.append({"week": week, "signs": {sign_slug: {"theme": theme, "note": note}}})
+    return theme_log
+
+
 def call_json(client: anthropic.Anthropic, prompt: str, schema: dict) -> dict:
     response = client.messages.create(
         model=MODEL,
@@ -106,15 +144,35 @@ Set reader_count based on how many of the 5 readers touched on the theme describ
     return call_json(client, prompt, CATEGORY_SCHEMA)
 
 
-def aggregate_tone(client: anthropic.Anthropic, sign: str, readings: list) -> str:
+def aggregate_tone(client: anthropic.Anthropic, sign: str, readings: list, history: list) -> dict:
     tones = ", ".join(f"{r['video_id']}: {r['tags']['overall_tone']}" for r in readings)
+    vocab_list = ", ".join(THEME_VOCABULARY)
+
+    if history:
+        history_lines = "\n".join(f"  {h['week']}: {h['theme']}" for h in history)
+        last_theme = history[0]["theme"]
+        history_block = f"""
+
+This sign's theme history for the last {len(history)} week(s) (most recent first):
+{history_lines}
+
+The most recent week used "{last_theme}". If "{last_theme}" still fits, prefer a different word from the vocabulary instead — unless this week's readings truly repeat that exact energy, in which case it's fine to reuse it."""
+    else:
+        history_block = ""
+
     prompt = f"""Here are the overall tones assigned to 5 different tarot readings for {sign} this week:
 
 {tones}
+{history_block}
 
-Summarize these 5 tones into one short, plain-language phrase describing the week's overall mood (e.g. "mostly hopeful with some caution"). Keep it under 12 words."""
-    result = call_json(client, prompt, TONE_SCHEMA)
-    return result["summary"]
+Pick exactly ONE dominant theme word from this fixed vocabulary — do not use any word outside this list:
+{vocab_list}
+
+If the 5 readings genuinely lean toward two different themes, choose the stronger or more specific one as dominant. Do not blend two theme words together into one phrase (e.g. never "transformative and hopeful" or "hopeful and empowering") — pick one.
+
+Then write ONE short, natural sentence (under 14 words) capturing the week's mood around that single theme. Vary your sentence structure and word choice — don't default to a template like "Mostly [theme] with a note of caution" every time. Write it as if describing this specific week's energy, not filling in a fixed pattern."""
+
+    return call_json(client, prompt, TONE_SCHEMA)
 
 
 def summarize_readers(client: anthropic.Anthropic, sign: str, readings: list) -> dict:
@@ -166,17 +224,22 @@ def main():
         print(f"Aggregating category: {category}...")
         categories_result[category] = aggregate_category(client, sign, category, readings)
 
+    week_of = datetime.date.today().isoformat()
+    theme_log = load_theme_log()
+    history = get_sign_theme_history(theme_log, sign_slug, before_week=week_of)
+
     print("Aggregating overall tone...")
-    tone_summary = aggregate_tone(client, sign, readings)
+    tone_result = aggregate_tone(client, sign, readings, history)
 
     print("Summarizing each reader's distinctive point...")
     reader_summaries = {r["video_id"]: r["channel_theme"] for r in summarize_readers(client, sign, readings)}
 
     digest = {
         "sign": sign,
-        "week_of": datetime.date.today().isoformat(),
+        "week_of": week_of,
         "categories": categories_result,
-        "overall_tone_summary": tone_summary,
+        "overall_tone": tone_result["theme"],
+        "overall_tone_summary": tone_result["note"],
         "readers": [
             {
                 "video_id": r["video_id"],
@@ -190,10 +253,14 @@ def main():
 
     output_path.write_text(json.dumps(digest, indent=2), encoding="utf-8")
 
+    theme_log = upsert_theme_log_entry(theme_log, week_of, sign_slug, tone_result["theme"], tone_result["note"])
+    save_theme_log(theme_log)
+
     print("\n" + "=" * 70)
     print(f"{sign.upper()} DIGEST — week of {digest['week_of']}")
     print("=" * 70)
-    print(f"\nOverall tone: {digest['overall_tone_summary']}\n")
+    print(f"\nOverall theme: {digest['overall_tone']}")
+    print(f"Overall tone note: {digest['overall_tone_summary']}\n")
 
     for category in CATEGORIES:
         c = digest["categories"][category]

@@ -1,0 +1,55 @@
+[
+  {
+    "week": "2026-07-20",
+    "signs": {
+      "aries": {
+        "theme": "transformative",
+        "note": "Old patterns are breaking down, clearing real space for what comes next."
+      },
+      "taurus": {
+        "theme": "transformative",
+        "note": "Something you've held onto for too long is finally ready to shift."
+      },
+      "gemini": {
+        "theme": "hopeful",
+        "note": "A genuine opening is forming, and it points somewhere worth going."
+      },
+      "cancer": {
+        "theme": "transformative",
+        "note": "Three steps forward this week, and the ground beneath them feels solid."
+      },
+      "leo": {
+        "theme": "empowering",
+        "note": "You have more pull in this situation than you've been giving yourself credit for."
+      },
+      "virgo": {
+        "theme": "hopeful",
+        "note": "Quiet persistence pays off, and the week tilts noticeably in your favor."
+      },
+      "libra": {
+        "theme": "empowering",
+        "note": "Decisions you make now carry real weight \u2014 own that authority."
+      },
+      "scorpio": {
+        "theme": "cautious",
+        "note": "Move carefully; the footing is uneven even where it looks firm."
+      },
+      "sagittarius": {
+        "theme": "empowering",
+        "note": "Energy you've been waiting on finally shows up and asks you to lead."
+      },
+      "capricorn": {
+        "theme": "hopeful",
+        "note": "The numbers, the effort, the timing \u2014 for once, they all line up."
+      },
+      "aquarius": {
+        "theme": "transformative",
+        "note": "Forces outside your control are rearranging things in ways that matter."
+      },
+      "pisces": {
+        "theme": "liberating",
+        "note": "A door you kept closed swings open, and walking through it feels right."
+      }
+    }
+  }
+]
