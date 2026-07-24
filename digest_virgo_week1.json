@@ -1,0 +1,59 @@
+{
+  "sign": "Virgo",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "Only two readers touched on love this week \u2014 both sensed a romantic reconnection or new connection emerging, suggesting that clarity and renewed possibility in love may be slowly taking shape for Virgo.",
+      "reader_count": 2,
+      "disagreement": "One reader saw a fresh romantic beginning with growing emotional clarity, while another emphasized an uncertain reconnection still clouded by doubt and guardedness."
+    },
+    "finance": {
+      "summary": "Most readers this week point to financial rewards on the horizon for Virgo, with past hard work and motivated energy likely opening doors to new income or opportunities \u2014 lean into your strengths to make the most of it.",
+      "reader_count": 4,
+      "disagreement": "One reader highlighted financial constraints and resource challenges rather than incoming rewards, suggesting a more cautious picture focused on working through limitations."
+    },
+    "career": {
+      "summary": "Most readers this week point to a career period defined by focused effort and decisive action \u2014 shedding distractions, taking initiative, and staying committed are the keys to reaching the professional breakthrough that appears to be within reach.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw an imminent concrete opportunity arriving now, while others emphasized ongoing effort and competition still requiring decisive pushthrough before success materializes."
+    },
+    "family": {
+      "summary": "Few readers touched on family this week; the one who did suggested that existing tensions are on their way out, making room for deeper appreciation and stronger connections with loved ones and community.",
+      "reader_count": 1,
+      "disagreement": null
+    }
+  },
+  "overall_tone_summary": "Mostly hopeful with some turbulence and room for reflection.",
+  "readers": [
+    {
+      "video_id": "DO_ta5O6xvA",
+      "channel_theme": "A hopeful new romantic connection arrives alongside long-awaited financial and career clarity.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=DO_ta5O6xvA"
+    },
+    {
+      "video_id": "ReG-mOXBjtU",
+      "channel_theme": "A lost romance cautiously revives, but emotional doubt still lingers.",
+      "tone": "turbulent",
+      "url": "https://www.youtube.com/watch?v=ReG-mOXBjtU"
+    },
+    {
+      "video_id": "Cjv4e_Q_Sdg",
+      "channel_theme": "Virgo withdraws socially to focus intensely on financial growth and productivity.",
+      "tone": "introspective",
+      "url": "https://www.youtube.com/watch?v=Cjv4e_Q_Sdg"
+    },
+    {
+      "video_id": "UunmmsIFIIY",
+      "channel_theme": "A long-awaited career or financial green light is finally arriving soon.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=UunmmsIFIIY"
+    },
+    {
+      "video_id": "JNHFWpqsils",
+      "channel_theme": "Community bonds strengthen as Virgo leads through financial and workplace challenges.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=JNHFWpqsils"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "sign": "Sagitario",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "La mayoría de los lectores perciben que se acerca una conexión romántica significativa para Sagitario esta semana. En lugar de esperar pasivamente o forzar que las cosas sucedan, el camino más claro parece ser abrirse con valentía y permitir que todo fluya de forma natural.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores describieron una conexión dichosa y sin complicaciones que llega por destino, mientras que otros señalaron heridas emocionales sin sanar o situaciones del pasado que podrían influir en cómo se vive esa experiencia."
+    },
+    "finance": {
+      "summary": "La mayoría de los lectores perciben un cambio financiero que comienza a tomar forma poco a poco esta semana. Lo más aconsejable es enfocar tu energía en lo que realmente te da resultados y mantener una actitud abierta al acuerdo, ya que el avance será gradual y constante, no un golpe de suerte de la noche a la mañana.",
+      "reader_count": 4,
+      "disagreement": "Una lectura sugirió que podría llegar una bendición material importante o una oportunidad largamente esperada, mientras que otras apuntaron a una mejora lenta e incremental, sin hablar de un cambio drástico o repentino."
+    },
+    "career": {
+      "summary": "La mayoría de los lectores ven cómo el impulso profesional de Sagitario va en aumento esta semana. El consejo más claro y compartido es dejar de dudar y actuar con determinación, confiando en que el esfuerzo sostenido está a punto de dar frutos de manera significativa.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores enfatizaron la necesidad de avanzar con audacia y sin demora, mientras que otros sugirieron tomarse un momento para equilibrar la ambición con la practicidad y la disposición a ceder, en lugar de lanzarse sin mirar."
+    },
+    "family": {
+      "summary": "Solo un lector abordó el tema familiar esta semana, señalando un conflicto pendiente con un ser querido —posiblemente relacionado con asuntos legales o económicos— que está comenzando a resolverse de a poco.",
+      "reader_count": 1,
+      "disagreement": null
+    }
+  },
+  "overall_tone_summary": "Transformador y fortalecedor, con una perspectiva esperanzadora matizada por la cautela.",
+  "readers": [
+    {
+      "video_id": "P11uzmNlEBk",
+      "channel_theme": "No te rindas ahora: estás a un paso de lograrlo.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=P11uzmNlEBk"
+    },
+    {
+      "video_id": "iTtuxYfBYWc",
+      "channel_theme": "Ceder en lo justo vale más que perseguir la perfección; aquí gana quien actúa con cabeza.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=iTtuxYfBYWc"
+    },
+    {
+      "video_id": "HlGWua_FQxE",
+      "channel_theme": "Se avecina un reencuentro que parece destinado, aunque las heridas del pasado aún complican las cosas.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=HlGWua_FQxE"
+    },
+    {
+      "video_id": "MGJ6l6eew0A",
+      "channel_theme": "Deja de planear y da ahora mismo ese paso valiente y decisivo que estás postergando.",
+      "tone": "empoderador",
+      "url": "https://www.youtube.com/watch?v=MGJ6l6eew0A"
+    },
+    {
+      "video_id": "BNoXbato1Ms",
+      "channel_theme": "Esta misma semana llega una conexión romántica profunda y llena de significado, como si estuviera escrita de antemano.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=BNoXbato1Ms"
+    }
+  ]
+}

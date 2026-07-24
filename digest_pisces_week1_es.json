@@ -1,0 +1,59 @@
+{
+  "sign": "Piscis",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "La mayoría de los lectores perciben sanación emocional y cambio en el amor esta semana — soltar las heridas del pasado, la manipulación o el desamor es fundamental para abrirte a algo más genuino y significativo.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores vieron llegar una nueva conexión emocionante, mientras que otros señalaron que aún quedan pendientes como la falta de comunicación o la deshonestidad que deben resolverse antes de que el amor pueda florecer de verdad."
+    },
+    "finance": {
+      "summary": "La mayoría de los lectores perciben un punto de inflexión financiero esta semana — nuevas oportunidades podrían llegar para recompensar el esfuerzo del pasado, pero mantener la constancia e invertir tu energía solo en lo que realmente te da frutos será clave.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores se enfocaron en las oportunidades y recompensas que se aproximan, mientras que otros hicieron hincapié en la necesidad de reevaluar el camino actual y enfrentar verdades difíciles antes de poder avanzar."
+    },
+    "career": {
+      "summary": "El impulso profesional está creciendo para Piscis esta semana — la mayoría de los lectores coinciden en que la perseverancia ante los obstáculos es esencial en este momento, ya que los grandes avances, las nuevas oportunidades y las recompensas tangibles parecen estar al alcance de la mano.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores se centraron en una oportunidad externa inminente que hay que aprovechar con decisión, mientras que otros destacaron la importancia de atravesar una etapa difícil antes de ver los resultados."
+    },
+    "family": {
+      "summary": "Pocos lectores abordaron el tema familiar esta semana; el único que lo hizo señaló posibles sentimientos de traición o injusticia en el entorno doméstico o parental, con posibles implicaciones legales.",
+      "reader_count": 1,
+      "disagreement": null
+    }
+  },
+  "overall_tone_summary": "Esperanzador y liberador, con una energía transformadora y una nota de cautela.",
+  "readers": [
+    {
+      "video_id": "kOjdw2SqXpg",
+      "channel_theme": "El esfuerzo y la disciplina de ahora pueden traducirse directamente en logros financieros y profesionales.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=kOjdw2SqXpg"
+    },
+    {
+      "video_id": "CJ_4CKOkuYE",
+      "channel_theme": "Una conexión romántica se va desgastando en silencio por la distancia emocional que no se expresa.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=CJ_4CKOkuYE"
+    },
+    {
+      "video_id": "ZGO49pePggo",
+      "channel_theme": "Estás liberándote de una pareja controladora y recuperando tu independencia.",
+      "tone": "liberador",
+      "url": "https://www.youtube.com/watch?v=ZGO49pePggo"
+    },
+    {
+      "video_id": "w82yDuanh2s",
+      "channel_theme": "Una traición impactante o una promesa rota podrían abrir inesperadamente un nuevo y alegre capítulo en tu vida.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=w82yDuanh2s"
+    },
+    {
+      "video_id": "9eyf5NJuy5Y",
+      "channel_theme": "El perdón es la llave esencial para abrir la puerta a un nuevo amor y a la plenitud.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=9eyf5NJuy5Y"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "sign": "Aries",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "La mayoría de los lectores perciben un cambio importante en el amor esta semana para Aries: ya sea soltando lo que ya no encaja o abriendo la puerta a una conexión profundamente compatible, la energía apunta hacia relaciones que realmente resuenan con la persona en la que te estás convirtiendo.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores vieron llegar un compromiso prometedor y momentos de alegría genuina, mientras que otros sugirieron que Aries quizás necesite alejarse o reevaluar con honestidad las relaciones actuales que ya no le aportan nada."
+    },
+    "finance": {
+      "summary": "La mayoría de los lectores ven una mejora financiera acercándose para Aries esta semana: ya sea a través de apoyo inesperado, decisiones pasadas que empiezan a dar frutos, o un cambio de mentalidad hacia la abundancia, el impulso positivo parece estar tomando fuerza.",
+      "reader_count": 4,
+      "disagreement": "Un lector señaló buenos ingresos acompañados de un estrés laboral considerable, mientras que otros se enfocaron en golpes de suerte o herencias sin hacer mayor mención de dificultades."
+    },
+    "career": {
+      "summary": "La mayoría de los lectores anticipan un giro significativo en la carrera de Aries esta semana: ya sea a través de una nueva oportunidad, un proyecto creativo, o la decisión de tomar un camino más independiente, la energía favorece los movimientos audaces y autodeterminados.",
+      "reader_count": 4,
+      "disagreement": "Un lector se centró en el avance profesional a través del esfuerzo y la habilidad, mientras que otro advirtió sobre los riesgos de trabajar en exceso y animó a establecer límites más firmes entre la vida personal y laboral, en lugar de perseguir nuevas oportunidades."
+    },
+    "family": {
+      "summary": "Solo unos pocos lectores abordaron el tema familiar esta semana. Quienes lo hicieron señalaron que Aries quizás necesite ser más consciente e intencional a la hora de estar presente para sus seres queridos, al mismo tiempo que suelta aquellas relaciones que ya no ofrecen respeto mutuo.",
+      "reader_count": 3,
+      "disagreement": "Algunos lectores se enfocaron en liberarse de vínculos familiares que drenan la energía, mientras que uno destacó la posibilidad de construir una nueva familia o dejar un legado, contrastando así los finales con los nuevos comienzos."
+    }
+  },
+  "overall_tone_summary": "Semana de transformación y esperanza, aunque con una nota de precaución en el horizonte.",
+  "readers": [
+    {
+      "video_id": "E40CNrNSfu8",
+      "channel_theme": "Rupturas dolorosas en el amor, la carrera y la familia anuncian una transformación profunda en todos los aspectos de la vida.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=E40CNrNSfu8"
+    },
+    {
+      "video_id": "W42h_Vp987g",
+      "channel_theme": "Energía de matrimonio y cambios financieros repentinos apuntan hacia una transformación positiva y de gran alcance.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=W42h_Vp987g"
+    },
+    {
+      "video_id": "2GxWuYcNXQs",
+      "channel_theme": "Una ayuda económica externa podría ser la llave que finalmente abra la puerta a ese anhelo personal tan postergado.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=2GxWuYcNXQs"
+    },
+    {
+      "video_id": "jdvyw4NfpP0",
+      "channel_theme": "Las decisiones financieras del pasado están acumulando frutos que apuntan hacia una riqueza sólida y duradera, casi a nivel de herencia.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=jdvyw4NfpP0"
+    },
+    {
+      "video_id": "Vnnco6-xFd8",
+      "channel_theme": "Los altos ingresos tienen un precio: el exceso de trabajo empieza a pasar factura en las relaciones personales.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=Vnnco6-xFd8"
+    }
+  ]
+}

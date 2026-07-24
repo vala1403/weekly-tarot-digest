@@ -1,0 +1,59 @@
+{
+  "sign": "Cáncer",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "Varios lectores perciben que el amor llega a un punto de inflexión para Cáncer esta semana — ya sea alejándote de lo que ya no te nutre, teniendo conversaciones honestas y necesarias, o manteniéndote abierto a que una conexión significativa entre en tu vida.",
+      "reader_count": 3,
+      "disagreement": "Algunos lectores vieron a Cáncer posiblemente cerrando o distanciándose de una relación, mientras que otros sugirieron la llegada o el fortalecimiento de una conexión de tipo alma gemela — direcciones opuestas para el amor esta semana."
+    },
+    "finance": {
+      "summary": "La mayoría de los lectores ven oportunidades financieras y abundancia llegando a Cáncer esta semana — la clave está en abandonar la mentalidad de escasez, tomar decisiones inteligentes y evitar los gastos impulsivos para aprovechar al máximo este momento.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores se enfocaron en recompensas inminentes y nuevas oportunidades, mientras que otros hicieron énfasis en la precaución, la protección y en saber reconocer cuándo alejarse de situaciones inestables."
+    },
+    "career": {
+      "summary": "La mayoría de los lectores sienten que el impulso profesional de Cáncer va tomando fuerza esta semana — ya sea a través de una oportunidad atrevida, una nueva oferta o un proyecto personal, el consejo más claro y compartido es comprometerse de lleno y dar un paso decisivo hacia adelante.",
+      "reader_count": 5,
+      "disagreement": "Una lectura se centró en nutrir un proyecto de pasión personal como posible camino profesional futuro, mientras que otras apuntaron a oportunidades externas como ofertas de trabajo, ascensos o conexiones influyentes que ya están surgiendo ahora."
+    },
+    "family": {
+      "summary": "Los temas familiares son protagonistas esta semana, y muchos lectores sienten que las relaciones — sean tensas, distantes o cercanas — están pidiendo atención; reconectar con tus seres queridos o apoyarte en esos vínculos puede traerte una verdadera restauración emocional y una nueva claridad.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores vieron a la familia como fuente de tensión o sacrificio, mientras que otros la señalaron como fuente de consuelo y motivación en la que vale la pena apoyarse."
+    }
+  },
+  "overall_tone_summary": "La energía de la semana es predominantemente transformadora, con un hilo de esperanza que lo atraviesa todo.",
+  "readers": [
+    {
+      "video_id": "jqwfV2LYZBs",
+      "channel_theme": "Dejar atrás a los seres queridos puede ser el precio de una oportunidad que cambie tu vida para siempre.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=jqwfV2LYZBs"
+    },
+    {
+      "video_id": "3O6_4qtPECY",
+      "channel_theme": "Una recompensa financiera inesperada está por llegar, fruto del esfuerzo que pusiste en el pasado.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=3O6_4qtPECY"
+    },
+    {
+      "video_id": "EeP-d9fYjtI",
+      "channel_theme": "Una reconexión con el pasado podría abrir puertas de manera inesperada.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=EeP-d9fYjtI"
+    },
+    {
+      "video_id": "QYpYYAQj9bA",
+      "channel_theme": "Una conexión profunda del alma o un espíritu afín podría entrar pronto en tu vida.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=QYpYYAQj9bA"
+    },
+    {
+      "video_id": "QaTXMUbd0pA",
+      "channel_theme": "Invierte en tu proyecto de pasión — podría convertirse en tu verdadera vocación profesional.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=QaTXMUbd0pA"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "sign": "Pisces",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "Most readers sense emotional healing and transition in love this week \u2014 letting go of past wounds, manipulation, or heartbreak is essential to opening yourself up to something more genuine and fulfilling.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw an exciting new connection arriving, while others pointed to ongoing struggles like communication gaps or dishonesty still needing resolution before love can truly flourish."
+    },
+    "finance": {
+      "summary": "Most readers sense a financial turning point this week \u2014 new opportunities may be arriving to reward past efforts, but staying persistent and investing your energy only in what truly gives back will be key.",
+      "reader_count": 4,
+      "disagreement": "Some readers focused on incoming opportunities and rewards, while others emphasized reassessing current paths and confronting difficult truths before progress can be made."
+    },
+    "career": {
+      "summary": "Career momentum is building for Pisces this week \u2014 most readers agree that persistence through challenges is essential right now, as breakthroughs, new opportunities, and tangible rewards appear to be just within reach.",
+      "reader_count": 4,
+      "disagreement": "Some readers focused on an imminent external opportunity to seize boldly, while others emphasized enduring an ongoing difficult stretch before the payoff arrives."
+    },
+    "family": {
+      "summary": "Few readers touched on family this week; the one who did pointed to possible feelings of betrayal or injustice in a domestic or parental situation, with potential legal dimensions.",
+      "reader_count": 1,
+      "disagreement": null
+    }
+  },
+  "overall_tone_summary": "Hopeful and liberating with transformative energy and a note of caution.",
+  "readers": [
+    {
+      "video_id": "kOjdw2SqXpg",
+      "channel_theme": "Disciplined effort now can translate directly into financial and career gains.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=kOjdw2SqXpg"
+    },
+    {
+      "video_id": "CJ_4CKOkuYE",
+      "channel_theme": "A romantic connection is quietly eroding due to unspoken emotional distance.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=CJ_4CKOkuYE"
+    },
+    {
+      "video_id": "ZGO49pePggo",
+      "channel_theme": "You are breaking free from a controlling partner and reclaiming your independence.",
+      "tone": "liberating",
+      "url": "https://www.youtube.com/watch?v=ZGO49pePggo"
+    },
+    {
+      "video_id": "w82yDuanh2s",
+      "channel_theme": "A shocking betrayal or broken promise may actually open a joyful new chapter.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=w82yDuanh2s"
+    },
+    {
+      "video_id": "9eyf5NJuy5Y",
+      "channel_theme": "Forgiveness is the essential key to unlocking new love and fulfillment.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=9eyf5NJuy5Y"
+    }
+  ]
+}

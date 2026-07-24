@@ -1,0 +1,59 @@
+{
+  "sign": "Gemini",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "Most readers sense meaningful romantic potential on the horizon for Gemini this week, with an unexpected connection possibly emerging \u2014 though it may require honest reflection on what you truly want before fully embracing it.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw a promising new emotional bond approaching, while one described a significant relationship having already ended, with healing still ahead."
+    },
+    "finance": {
+      "summary": "Financial opportunities appear to be opening up for Gemini, and most readers suggest evaluating them thoughtfully rather than rushing \u2014 focusing on building solid, lasting abundance through natural strengths and careful discernment.",
+      "reader_count": 4,
+      "disagreement": "One reading emphasized caution around self-limiting beliefs and potential exploitation, while others leaned more optimistic, focusing on growth and groundwork without flagging interpersonal risk."
+    },
+    "career": {
+      "summary": "Most readers see promising new career opportunities on the horizon for Gemini this week \u2014 the shared advice is to be bold and decisive rather than holding back, as hesitation could mean missing out on something significant.",
+      "reader_count": 5,
+      "disagreement": "One reading urged pausing and waiting for clarity before acting, while most others emphasized the importance of moving quickly and boldly on incoming opportunities."
+    },
+    "family": {
+      "summary": "Home, family roots, and the people closest to Gemini take center stage this week \u2014 whether that means making practical changes to living arrangements, nurturing key relationships, or leaning on a trusted maternal figure for support during a challenging stretch.",
+      "reader_count": 5,
+      "disagreement": "Some readers highlighted warmth and celebration within close circles, while others pointed to difficult sacrifices or disruptions tied to home and loved ones as a result of new opportunities."
+    }
+  },
+  "overall_tone_summary": "Hopeful and transformative with a touch of reflection",
+  "readers": [
+    {
+      "video_id": "dW4tpTFfWnQ",
+      "channel_theme": "Bold action now will unlock major professional wins for Gemini.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=dW4tpTFfWnQ"
+    },
+    {
+      "video_id": "KILSEdmFDdI",
+      "channel_theme": "A painful ending clears the way for incoming career offers and closure.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=KILSEdmFDdI"
+    },
+    {
+      "video_id": "hbmizBBoZ_A",
+      "channel_theme": "A sudden opportunity may demand leaving comfort and loved ones behind.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=hbmizBBoZ_A"
+    },
+    {
+      "video_id": "6AbWflaXMUY",
+      "channel_theme": "An older female figure is stepping in to offer real financial support.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=6AbWflaXMUY"
+    },
+    {
+      "video_id": "XFhdkD8fUOg",
+      "channel_theme": "Pause and wait for clarity before making any major decisions now.",
+      "tone": "reflective",
+      "url": "https://www.youtube.com/watch?v=XFhdkD8fUOg"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "sign": "Tauro",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "La mayoría de las lectoras perciben un momento decisivo en la vida amorosa de Tauro esta semana. Es hora de ser honesta contigo misma sobre si una conexión realmente te nutre, y de estar dispuesta a profundizar en ella con intención o dejarla ir para abrir espacio a algo mejor.",
+      "reader_count": 5,
+      "disagreement": "Algunas lectoras vieron un nuevo potencial romántico asomándose en el horizonte para Tauro, mientras que otras sugirieron que una relación existente podría necesitar liberarse o replantearse desde sus cimientos."
+    },
+    "finance": {
+      "summary": "La mayoría de las lectoras ven abundancia financiera acercándose para Tauro, pero el mensaje es claro y consistente: quedarse de brazos cruzados no será suficiente. El esfuerzo proactivo es lo que convierte condiciones prometedoras en ganancias reales.",
+      "reader_count": 4,
+      "disagreement": "Una lectura destacó que decisiones financieras del pasado están empezando a dar frutos, mientras que otras se centraron en oportunidades futuras que todavía requieren acción para materializarse."
+    },
+    "career": {
+      "summary": "La mayoría de las lectoras perciben un período de mayor visibilidad y momentum profesional para Tauro. Apostar por la acción decidida y mantenerse abierta a nuevas oportunidades es el camino más claro para aprovechar al máximo este impulso.",
+      "reader_count": 4,
+      "disagreement": "Una lectora señaló cambios laborales frustrantes que parecen contraproducentes, mientras que otras vieron esta semana como directamente prometedora en términos de avance y crecimiento profesional."
+    },
+    "family": {
+      "summary": "Algunas lectoras abordaron el tema familiar esta semana, sugiriendo que los vínculos con los seres queridos ofrecen lealtad y estabilidad en momentos de cambio, con indicios de que un ciclo familiar más largo podría estar llegando por fin a su resolución.",
+      "reader_count": 3,
+      "disagreement": "Algunas lectoras se enfocaron en los desafíos que continúan y en la búsqueda de calidez en el hogar, mientras que otras indicaron que una situación familiar ya está cerrando con resultados positivos."
+    }
+  },
+  "overall_tone_summary": "En general, la energía de esta semana es transformadora y llena de esperanza, aunque con una nota de precaución que conviene tener presente.",
+  "readers": [
+    {
+      "video_id": "CB_J4RYOI9Q",
+      "channel_theme": "Tauro debe trabajar activamente en su crecimiento personal para atraer un amor verdaderamente significativo.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=CB_J4RYOI9Q"
+    },
+    {
+      "video_id": "pByCskcetSQ",
+      "channel_theme": "La entrada de Quirón en Tauro transforma su relación con el dinero y abre las puertas a una nueva prosperidad.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=pByCskcetSQ"
+    },
+    {
+      "video_id": "J8tah51Ppt8",
+      "channel_theme": "Actuar en solitario podría dar mejores resultados que mantener asociaciones o colaboraciones que no avanzan.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=J8tah51Ppt8"
+    },
+    {
+      "video_id": "nuxkG5CPADU",
+      "channel_theme": "Cambios de normas en el entorno laboral podrían frustrar a Tauro y socavar su sentido de propósito profesional.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=nuxkG5CPADU"
+    },
+    {
+      "video_id": "SZdlp4igHc4",
+      "channel_theme": "Una encrucijada amorosa importante exige que Tauro tome pronto una decisión que marcará el rumbo de su vida.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=SZdlp4igHc4"
+    }
+  ]
+}

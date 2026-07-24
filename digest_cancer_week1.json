@@ -1,0 +1,59 @@
+{
+  "sign": "Cancer",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "Several readers sense love is at a turning point for Cancer this week \u2014 whether that means stepping away from what no longer serves you, having honest conversations, or staying open to a meaningful new connection entering your life.",
+      "reader_count": 3,
+      "disagreement": "Some readers saw Cancer potentially ending or stepping back from a relationship, while others suggested a soulmate-type connection arriving or deepening \u2014 opposite directions for love this week."
+    },
+    "finance": {
+      "summary": "Most readers see financial opportunity and abundance heading Cancer's way this week \u2014 the key is to shift away from scarcity thinking, make smart choices, and avoid overspending to make the most of it.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on incoming rewards and new opportunities, while others emphasized caution, protection, and recognizing when to move on from unstable situations."
+    },
+    "career": {
+      "summary": "Most readers sense real career momentum building for Cancer this week \u2014 whether through a bold opportunity, new offer, or passion project, the clearest shared advice is to commit fully and make a decisive move forward.",
+      "reader_count": 5,
+      "disagreement": "One reading focused on nurturing a personal passion project as a future career path, while others pointed to external opportunities like job offers, promotions, or influential connections already emerging now."
+    },
+    "family": {
+      "summary": "Family themes are prominent this week, with many readers sensing that relationships \u2014 whether strained, distant, or close \u2014 are calling for attention; reconnecting with loved ones or leaning into those bonds could offer real emotional restoration and renewed clarity.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw family as a source of tension or sacrifice, while others suggested it as a source of comfort and motivation worth leaning into."
+    }
+  },
+  "overall_tone_summary": "Predominantly transformative with a hopeful undertone throughout the week.",
+  "readers": [
+    {
+      "video_id": "jqwfV2LYZBs",
+      "channel_theme": "Leaving loved ones behind may be the price of a life-changing opportunity.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=jqwfV2LYZBs"
+    },
+    {
+      "video_id": "3O6_4qtPECY",
+      "channel_theme": "An unexpected financial reward is arriving soon from past hard work.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=3O6_4qtPECY"
+    },
+    {
+      "video_id": "EeP-d9fYjtI",
+      "channel_theme": "A reconnection from the past could unexpectedly unlock new doors.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=EeP-d9fYjtI"
+    },
+    {
+      "video_id": "QYpYYAQj9bA",
+      "channel_theme": "A meaningful soul connection or kindred spirit may enter your life soon.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=QYpYYAQj9bA"
+    },
+    {
+      "video_id": "QaTXMUbd0pA",
+      "channel_theme": "Invest in your passion project \u2014 it could become your true career.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=QaTXMUbd0pA"
+    }
+  ]
+}

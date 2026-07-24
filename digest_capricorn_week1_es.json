@@ -1,0 +1,59 @@
+{
+  "sign": "Capricornio",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "La mayoría de los lectores perciben un desarrollo romántico significativo tomando forma para Capricornio esta semana — ya sea una nueva conexión, un vínculo que se profundiza o una llegada marcada por el destino, la energía apunta hacia un cambio importante en el amor.",
+      "reader_count": 3,
+      "disagreement": "Algunos lectores vieron comienzos románticos frescos y emocionantes entrando en la vida de Capricornio. Uno sugirió que una relación existente es fuente de decepción, ligada a instintos que no fueron escuchados."
+    },
+    "finance": {
+      "summary": "La mayoría de los lectores coinciden en que se acerca un punto de inflexión financiero para Capricornio tras un esfuerzo sostenido — mantente abierto a nuevas ofertas y evita conformarte, ya que la perseverancia de ahora parece estar a punto de dar sus frutos.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores vieron el cambio como algo que ya está en marcha de forma gradual, mientras que otros sugirieron que un momento de quiebre específico — como una conversación clave o una oportunidad inesperada — todavía está por llegar."
+    },
+    "career": {
+      "summary": "Los cinco lectores señalan una semana crucial para la carrera de Capricornio — nuevas direcciones audaces, oportunidades frescas y decisiones importantes están sobre la mesa, así que confía en tus instintos y actúa con determinación ahora.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores destacaron un impulso hacia adelante audaz e imparable, mientras que uno sugirió que una conversación decisiva podría rescatar lo que parecía un cierre profesional, en lugar de dar inicio a algo completamente nuevo."
+    },
+    "family": {
+      "summary": "La mayoría de los lectores perciben una energía cálida y esperanzadora en torno a la familia esta semana para Capricornio — las relaciones parecen estar sanando, profundizándose o incluso expandiéndose, lo que convierte este momento en una oportunidad valiosa para apreciar y nutrir los vínculos más cercanos.",
+      "reader_count": 4,
+      "disagreement": "Un lector señaló la posibilidad de tristeza o tensión en la dinámica familiar, mientras que otros vieron crecimiento, gratitud y nuevos comienzos tomando forma."
+    }
+  },
+  "overall_tone_summary": "El tono general es mayormente esperanzador y empoderador, con una nota de cautela",
+  "readers": [
+    {
+      "video_id": "BpuFhewkaEI",
+      "channel_theme": "Libérate de los hábitos financieros que te limitan para abrir la puerta a una mayor abundancia.",
+      "tone": "empoderador",
+      "url": "https://www.youtube.com/watch?v=BpuFhewkaEI"
+    },
+    {
+      "video_id": "6Ks5NJz2zVU",
+      "channel_theme": "Un gran capítulo romántico está comenzando, acompañado de una fuerte energía de fertilidad.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=6Ks5NJz2zVU"
+    },
+    {
+      "video_id": "blsIo5BLOgE",
+      "channel_theme": "La duda en uno mismo está bloqueando el éxito profesional a pesar de las grandes oportunidades disponibles.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=blsIo5BLOgE"
+    },
+    {
+      "video_id": "ZqMn8aNWM4w",
+      "channel_theme": "Una conversación crucial esta semana podría ser la clave para rescatar las finanzas o un contrato importante.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=ZqMn8aNWM4w"
+    },
+    {
+      "video_id": "_vy33yX8JH4",
+      "channel_theme": "Una conexión romántica marcada por el destino llega tras un período de apatía emocional.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=_vy33yX8JH4"
+    }
+  ]
+}

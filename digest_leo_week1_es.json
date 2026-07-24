@@ -1,0 +1,59 @@
+{
+  "sign": "Leo",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "La mayoría de los lectores perciben que Leo atraviesa un período de reflexión y transición en el amor — es momento de evaluar con calma si las conexiones actuales o las que están por llegar realmente van en sintonía con lo que deseas a largo plazo.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores indicaron que se avecinan finales y nuevos comienzos de forma inminente, mientras que otros vieron a Leo manteniéndose firme, eligiendo la soltería y sopesando sus opciones con cuidado antes de dar cualquier paso."
+    },
+    "finance": {
+      "summary": "La mayoría de los lectores sienten que el crecimiento financiero está al alcance de la mano esta semana — confía en tu intuición y piensa de manera creativa para atraer abundancia y nuevas oportunidades.",
+      "reader_count": 3,
+      "disagreement": "Una lectura señaló una interrupción material repentina antes de que llegue la estabilidad, mientras que otras apuntaron a un crecimiento fluido y abundante sin necesidad de atravesar una fase turbulenta primero."
+    },
+    "career": {
+      "summary": "La mayoría de los lectores ven esta semana como una invitación para que Leo salga de su zona de confort profesional y dé pasos audaces — ya sea explorando nuevos sectores, lanzando un proyecto apasionante o destacándose a través de sus fortalezas únicas.",
+      "reader_count": 4,
+      "disagreement": "Una lectura se centró en la construcción de equipos y la búsqueda de colaboradores, sugiriendo un rol más evaluativo o colectivo, en contraste con el espíritu emprendedor e individual que los demás lectores enfatizaron."
+    },
+    "family": {
+      "summary": "Solo dos lectores abordaron el tema familiar esta semana — uno señala la necesidad de navegar un cambio en cómo los seres queridos perciben a Leo, mientras que el otro anima a apoyarse en las conexiones de confianza en lugar de alejarse cuando los chismes generan distancia.",
+      "reader_count": 2,
+      "disagreement": "Una lectura se enfoca en Leo reinventándose ante su familia, mientras que la otra gira en torno a la traición y las interferencias externas — dos puntos de partida y tonos emocionales muy distintos."
+    }
+  },
+  "overall_tone_summary": "En general, la energía de esta semana es profundamente transformadora y fortalecedora, con una dosis de esperanza y una pizca de cautela.",
+  "readers": [
+    {
+      "video_id": "cPiqqqQeoDw",
+      "channel_theme": "Transforma tu identidad profesional aplicando tus habilidades actuales en un sector completamente diferente.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=cPiqqqQeoDw"
+    },
+    {
+      "video_id": "_UmrCg1VMzI",
+      "channel_theme": "Confía en tu intuición para abrir las puertas a una abundancia material significativa muy pronto.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=_UmrCg1VMzI"
+    },
+    {
+      "video_id": "Z7ZgcbwebfE",
+      "channel_theme": "Muchos Leo están eligiendo la soltería para enfocarse en su crecimiento personal en este momento.",
+      "tone": "empoderador",
+      "url": "https://www.youtube.com/watch?v=Z7ZgcbwebfE"
+    },
+    {
+      "video_id": "O4y6ABAC644",
+      "channel_theme": "Los chismes de terceros podrían estar provocando en secreto una dolorosa ruptura familiar o de amistad.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=O4y6ABAC644"
+    },
+    {
+      "video_id": "F5QqM4n92UY",
+      "channel_theme": "Se acerca una interrupción financiera repentina, pero tras un período de espera llegará la estabilidad.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=F5QqM4n92UY"
+    }
+  ]
+}

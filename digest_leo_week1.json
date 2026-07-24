@@ -1,0 +1,59 @@
+{
+  "sign": "Leo",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "Most readers sense a period of romantic evaluation and transition for Leo \u2014 carefully assess whether current or incoming connections are truly aligned with what you genuinely want long-term.",
+      "reader_count": 4,
+      "disagreement": "Some readers suggested endings and new beginnings are imminent, while others saw Leo holding steady, staying single, and thoughtfully weighing options rather than making any immediate moves."
+    },
+    "finance": {
+      "summary": "Most readers sense financial growth is within reach this week \u2014 trust your instincts and think creatively to draw in abundance and opportunity.",
+      "reader_count": 3,
+      "disagreement": "One reading pointed to sudden material disruption before stability returns, while others suggested straightforward growth and abundance without a turbulent phase first."
+    },
+    "career": {
+      "summary": "Most readers see this as a week for Leo to break out of professional comfort zones and take bold steps \u2014 whether by exploring new industries, launching a passion project, or standing out through their unique strengths.",
+      "reader_count": 4,
+      "disagreement": "One reading focused on team-building and recruitment rather than individual boldness, suggesting a more collaborative or evaluative role than the entrepreneurial risk-taking others emphasized."
+    },
+    "family": {
+      "summary": "Only two readers touched on family this week \u2014 one points to navigating a shift in how Leos are perceived by loved ones, while the other urges leaning on supportive connections rather than withdrawing when gossip creates distance.",
+      "reader_count": 2,
+      "disagreement": "One reading focuses on Leos stepping into a new self with family, while the other centers on betrayal and social interference \u2014 different emotional tones and starting points."
+    }
+  },
+  "overall_tone_summary": "Largely transformative and empowering, with hope and a touch of caution.",
+  "readers": [
+    {
+      "video_id": "cPiqqqQeoDw",
+      "channel_theme": "Transform your professional identity by applying existing skills in an entirely new industry.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=cPiqqqQeoDw"
+    },
+    {
+      "video_id": "_UmrCg1VMzI",
+      "channel_theme": "Trust your gut feeling to unlock significant material abundance very soon.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=_UmrCg1VMzI"
+    },
+    {
+      "video_id": "Z7ZgcbwebfE",
+      "channel_theme": "Many Leos are choosing to stay single and focus on self-growth now.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=Z7ZgcbwebfE"
+    },
+    {
+      "video_id": "O4y6ABAC644",
+      "channel_theme": "Third-party gossip may be secretly driving a painful family or friendship rift.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=O4y6ABAC644"
+    },
+    {
+      "video_id": "F5QqM4n92UY",
+      "channel_theme": "A sudden financial disruption is coming, but stability will follow after waiting.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=F5QqM4n92UY"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "sign": "Aquarius",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "Aquarius faces a mix of lingering emotional wounds and new romantic possibilities this week \u2014 the clearest advice across readers is to release past disappointments and open the heart to genuine connection and joy.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw new romantic potential and relationship renewal ahead, while one reading emphasized betrayal and letdown from someone who proved untrustworthy."
+    },
+    "finance": {
+      "summary": "Most readers this week point to financial shifts for Aquarius \u2014 whether a strong incoming gain, a fresh opportunity with long-term potential, or a lingering burden finally lifting, the overall momentum leans toward positive movement and opening doors.",
+      "reader_count": 4,
+      "disagreement": "One reading suggested a professional or financial opportunity may have fallen short, leaving disappointment rather than gain \u2014 a notably different outlook from the more optimistic readings."
+    },
+    "career": {
+      "summary": "Most readers sense a period of meaningful professional momentum for Aquarius \u2014 whether through a mentor's push, smoother advancement after a long climb, or a bold new venture, the overall advice is to step forward with confidence while staying grounded.",
+      "reader_count": 4,
+      "disagreement": "One reading warned of a deceptive coworker requiring a careful exit, while others focused on internal growth and forward movement rather than interpersonal conflict."
+    },
+    "family": {
+      "summary": "Few readers touched on family this week; among the two who did, one pointed to a joyful new arrival in the Aquarius's inner circle, while the other highlighted the need to set firmer limits with those closest to them.",
+      "reader_count": 2,
+      "disagreement": "One reading focused on a happy, expansive family event, while the other suggested Aquarius is being drained by family demands and must pull back."
+    }
+  },
+  "overall_tone_summary": "A transformative week blending triumph, healing, reflection, adventure, and mindful caution.",
+  "readers": [
+    {
+      "video_id": "2WUlmUZWejQ",
+      "channel_theme": "Embrace an unfamiliar venture, knowing a moment of honest self-reckoning awaits.",
+      "tone": "adventurous",
+      "url": "https://www.youtube.com/watch?v=2WUlmUZWejQ"
+    },
+    {
+      "video_id": "NKA0HzkHc5Y",
+      "channel_theme": "A deceptive coworker is causing drama, but walking away protects your reputation.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=NKA0HzkHc5Y"
+    },
+    {
+      "video_id": "oAbo7eiXh2k",
+      "channel_theme": "Restore fun to your relationship before seriousness tips the balance too far.",
+      "tone": "reflective",
+      "url": "https://www.youtube.com/watch?v=oAbo7eiXh2k"
+    },
+    {
+      "video_id": "Sk9hxhSrOHA",
+      "channel_theme": "Someone in your inner circle is expecting a new baby soon.",
+      "tone": "triumphant",
+      "url": "https://www.youtube.com/watch?v=Sk9hxhSrOHA"
+    },
+    {
+      "video_id": "so3SxbmYMkI",
+      "channel_theme": "A mentor figure could reignite your ambition and open doors to promotion.",
+      "tone": "healing",
+      "url": "https://www.youtube.com/watch?v=so3SxbmYMkI"
+    }
+  ]
+}

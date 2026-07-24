@@ -1,0 +1,431 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Escorpio — Semana del 20 de julio de 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Macondo+Swash+Caps&family=Antic&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #fcfaf6;
+    --bg-card: #fcfaf6;
+    --text: #29231f;
+    --text-soft: #6e655d;
+    --accent: #c1642b;
+    --accent-soft: #e8d9c4;
+    --disagree-bg: #f7f1e8;
+    --disagree-border: #d27a42;
+    --border: #e3d7c4;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Antic', -apple-system, sans-serif;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 48px 20px 80px;
+  }
+
+  header {
+    position: relative;
+    text-align: center;
+    margin-bottom: 48px;
+    animation: fadeSlideIn 0.7s ease-out both;
+  }
+
+  .header-sparkle {
+    position: absolute;
+    top: 2px;
+    right: 8%;
+    width: 22px;
+    height: 22px;
+    color: var(--accent);
+    opacity: 0.55;
+  }
+
+  .sign-name {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-weight: 400;
+    text-transform: none;
+    font-size: clamp(3.75rem, 14vw, 8.5rem);
+    line-height: 0.9;
+    margin: 0 0 6px;
+    letter-spacing: 0.01em;
+    color: var(--text);
+  }
+
+  .week-line {
+    font-family: 'Antic', -apple-system, sans-serif;
+    font-weight: 400;
+    font-size: clamp(1.5rem, 4.5vw, 2.4rem);
+    margin: 0 0 14px;
+    letter-spacing: 0;
+    color: var(--text);
+  }
+
+  .subheadline {
+    font-family: 'Antic', -apple-system, sans-serif;
+    font-size: clamp(1.05rem, 2.5vw, 1.3rem);
+    color: var(--accent);
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: 0;
+    margin: 0;
+  }
+
+  .cards {
+    margin-bottom: 44px;
+  }
+
+  .card {
+    position: relative;
+    padding: 40px 0;
+    border-bottom: 1px solid var(--border);
+    opacity: 0;
+    animation: fadeSlideIn 0.6s ease-out both;
+  }
+
+  .card:first-child {
+    padding-top: 0;
+  }
+
+  .card:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .card-divider-sparkle {
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 18px;
+    height: 18px;
+    background: var(--bg);
+    padding: 0 8px;
+    color: var(--accent);
+    opacity: 0.7;
+  }
+
+  .card-icon {
+    display: inline-flex;
+    color: var(--accent);
+    margin-bottom: 10px;
+  }
+
+  .card-icon svg {
+    width: 48px;
+    height: 48px;
+    display: block;
+  }
+
+  .card-title {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-size: clamp(1.6rem, 4vw, 2.1rem);
+    margin: 0 0 14px;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    color: var(--text);
+  }
+
+  .card-headline {
+    font-size: 1.08rem;
+    font-weight: 500;
+    color: var(--text);
+    margin: 0 0 16px;
+  }
+
+  .agreement-pill {
+    display: inline-block;
+    background: var(--accent-soft);
+    color: var(--text);
+    font-size: 0.82rem;
+    font-weight: 600;
+    padding: 5px 12px;
+    border-radius: 999px;
+    margin-bottom: 4px;
+  }
+
+  .callout {
+    margin-top: 18px;
+    font-size: 0.92rem;
+  }
+
+  .callout p {
+    margin: 4px 0 0;
+    font-size: 1.05rem;
+    color: var(--text-soft);
+  }
+
+  .callout-label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .callout-disagreement {
+    background: var(--disagree-bg);
+    border-left: 2px solid var(--disagree-border);
+    border-radius: 8px;
+    padding: 14px 16px;
+  }
+  .callout-disagreement .callout-label {
+    color: var(--disagree-border);
+    text-transform: none;
+    letter-spacing: 0.02em;
+  }
+  .callout-disagreement p {
+    font-size: 1rem;
+  }
+
+  .tone-section {
+    text-align: center;
+    padding: 28px 0;
+    margin-bottom: 48px;
+    opacity: 0;
+    animation: fadeSlideIn 0.6s ease-out both;
+    animation-delay: 0.2s;
+  }
+
+  .tone-section h2 {
+    font-family: 'Antic', -apple-system, sans-serif;
+    font-size: 0.95rem;
+    margin: 0 0 10px;
+    color: var(--accent);
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+  }
+
+  .tone-section p {
+    font-family: 'Antic', -apple-system, sans-serif;
+    font-size: clamp(1.2rem, 3vw, 1.6rem);
+    font-style: italic;
+    color: var(--text);
+    margin: 0;
+  }
+
+  .readers-section {
+    opacity: 0;
+    animation: fadeSlideIn 0.6s ease-out both;
+    animation-delay: 0.7s;
+  }
+
+  .readers-section h2 {
+    font-family: 'Antic', -apple-system, sans-serif;
+    font-size: 1.75rem;
+    margin: 0 0 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+    color: var(--text);
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  thead th {
+    text-align: left;
+    font-size: 0.76rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-soft);
+    font-weight: 700;
+    padding: 14px 18px 14px 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  tbody tr {
+    opacity: 0;
+    animation: fadeSlideIn 0.5s ease-out both;
+  }
+
+  tbody tr:not(:last-child) td {
+    border-bottom: 1px solid var(--border);
+  }
+
+  td {
+    padding: 16px 18px 16px 0;
+    vertical-align: top;
+    font-size: 0.93rem;
+  }
+
+  th:first-child, td:first-child { padding-left: 0; }
+  th:last-child, td:last-child { padding-right: 0; }
+
+  .tone-tag {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 999px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    background: var(--accent-soft);
+    color: var(--text);
+    white-space: nowrap;
+  }
+
+  .watch-link {
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .watch-link:hover { text-decoration: underline; }
+
+  footer {
+    text-align: center;
+    margin-top: 56px;
+    color: var(--text-soft);
+    font-size: 0.82rem;
+  }
+
+  @keyframes fadeSlideIn {
+    from { opacity: 0; transform: translateY(14px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @media (max-width: 640px) {
+    .wrap { padding: 32px 16px 56px; }
+    .header-sparkle { display: none; }
+
+    table, thead, tbody, th, td, tr { display: block; }
+    thead { display: none; }
+    tbody tr {
+      padding: 16px 18px;
+      border-bottom: 1px solid var(--border);
+    }
+    tbody tr:last-child { border-bottom: none; }
+    td {
+      border: none !important;
+      padding: 6px 0;
+    }
+    td[data-label]::before {
+      content: attr(data-label);
+      display: block;
+      font-size: 0.68rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-soft);
+      font-weight: 700;
+      margin-bottom: 2px;
+    }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <span class="header-sparkle"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c.6 4.2 2.8 6.4 7 7-4.2.6-6.4 2.8-7 7-.6-4.2-2.8-6.4-7-7 4.2-.6 6.4-2.8 7-7z"/></svg></span>
+      <h1 class="sign-name">Escorpio</h1>
+      <p class="week-line">Semana del 20 de julio de 2026</p>
+      <p class="subheadline">Esta semana en el tarot de YouTube</p>
+    </header>
+
+    <section class="tone-section">
+      <h2>Ánimo general</h2>
+      <p>El tono general de esta semana es mayormente cauteloso, aunque con destellos de esperanza y un potencial transformador que vale la pena tener en cuenta.</p>
+    </section>
+
+    <section class="cards">
+        <article class="card" style="animation-delay: 0.4s">
+          <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20.5s-7.5-4.6-10-9.3C.6 8 2 4.5 5.3 4c2.2-.3 4 .9 6.7 3.6C14.7 4.9 16.5 3.7 18.7 4c3.3.5 4.7 4 3.3 7.2-2.5 4.7-10 9.3-10 9.3z"/></svg></div>
+          <h3 class="card-title">Amor</h3>
+          <p class="card-headline">Varios lectores abordaron el amor esta semana, con un enfoque claro en las transiciones: ya sea la duda ante el compromiso, un intento cauteloso de reconciliación, o un cierre necesario que despeja el camino hacia algo más equilibrado y pleno.</p>
+          <div class="agreement-pill">Compartido por 3 de 5 lectores</div>
+          <div class="callout callout-disagreement">
+            <span class="callout-label">Una perspectiva diferente</span>
+            <p>Algunos lectores interpretaron los finales dolorosos o las separaciones como el evento central, mientras que otros destacaron los intentos de reconciliación y un renovado enfoque en la autoestima y la reciprocidad.</p>
+          </div>
+          <span class="card-divider-sparkle"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c.6 4.2 2.8 6.4 7 7-4.2.6-6.4 2.8-7 7-.6-4.2-2.8-6.4-7-7 4.2-.6 6.4-2.8 7-7z"/></svg></span>
+        </article>
+        <article class="card" style="animation-delay: 0.52s">
+          <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 9 12 3l7.5 6-7.5 12-7.5-12z"/><path d="M4.5 9h15M9 9l3-6 3 6M9 9l3 12 3-12"/></svg></div>
+          <h3 class="card-title">Finanzas</h3>
+          <p class="card-headline">Para Escorpio, se avecina un punto de inflexión financiero importante: ya sea a través de una inversión significativa, nuevas fuentes de ingresos o una independencia ganada con esfuerzo. Esta semana tiene un potencial real para la estabilidad a largo plazo, siempre que se actúe con claridad y conciencia.</p>
+          <div class="agreement-pill">Compartido por 3 de 5 lectores</div>
+          <div class="callout callout-disagreement">
+            <span class="callout-label">Una perspectiva diferente</span>
+            <p>Algunos lectores vieron un camino despejado hacia el crecimiento y las oportunidades, mientras que uno advirtió que ciertas actividades financieras podrían estar ocultando intenciones ocultas o engaños que conviene vigilar de cerca.</p>
+          </div>
+          <span class="card-divider-sparkle"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c.6 4.2 2.8 6.4 7 7-4.2.6-6.4 2.8-7 7-.6-4.2-2.8-6.4-7-7 4.2-.6 6.4-2.8 7-7z"/></svg></span>
+        </article>
+        <article class="card" style="animation-delay: 0.64s">
+          <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 9.5h17a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1h-17a1 1 0 0 1-1-1v-9a1 1 0 0 1 1-1z"/><path d="M9 9.5V7a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2.5"/><path d="M3 14h18"/></svg></div>
+          <h3 class="card-title">Carrera</h3>
+          <p class="card-headline">El impulso profesional es un tema protagonista esta semana para Escorpio: pueden llegar recompensas, producirse cambios importantes o abrirse un camino completamente nuevo. Lo clave es confiar en el proceso y comprometerse con la dirección elegida, en lugar de dar vueltas en exceso o intentar controlar cada detalle.</p>
+          <div class="agreement-pill">Compartido por 4 de 5 lectores</div>
+          <div class="callout callout-disagreement">
+            <span class="callout-label">Una perspectiva diferente</span>
+            <p>Algunos lectores percibieron una energía profesional estable y gratificante, mientras que otros sugirieron que fuerzas ocultas o disrupciones inesperadas podrían estar reconfigurando el panorama laboral sin previo aviso.</p>
+          </div>
+          <span class="card-divider-sparkle"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c.6 4.2 2.8 6.4 7 7-4.2.6-6.4 2.8-7 7-.6-4.2-2.8-6.4-7-7 4.2-.6 6.4-2.8 7-7z"/></svg></span>
+        </article>
+        <article class="card" style="animation-delay: 0.76s">
+          <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11.5 12 4l8 7.5"/><path d="M6 10v9.5h12V10"/><path d="M10 19.5v-6h4v6"/></svg></div>
+          <h3 class="card-title">Familia</h3>
+          <p class="card-headline">Pocos lectores abordaron el tema familiar esta semana; quien lo hizo sugirió que soltar lazos profundamente arraigados o un lugar querido del pasado, aunque emocionalmente difícil, puede ser un paso importante en el camino del crecimiento personal.</p>
+          <div class="agreement-pill">Compartido por 1 de 5 lectores</div>
+        </article>
+    </section>
+
+    <section class="readers-section">
+      <h2>Lecturas de esta semana</h2>
+      <div style="overflow-x:auto;">
+      <table>
+        <thead>
+          <tr>
+            <th>Tema</th>
+            <th>Tono</th>
+            <th>Ver</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="animation-delay: 0.5s">
+            <td data-label="Tema">Un gran movimiento financiero, posiblemente relacionado con bienes raíces, promete abundancia duradera para quienes se comprometan con él.</td>
+            <td data-label="Tono"><span class="tone-tag tone-cautelosamente esperanzador">cautelosamente esperanzador</span></td>
+            <td data-label="Ver"><a class="watch-link" href="https://www.youtube.com/watch?v=qaj0Lo5xGUs" target="_blank" rel="noopener">Ver →</a></td>
+          </tr>
+          <tr style="animation-delay: 0.58s">
+            <td data-label="Tema">Podría haber agendas ocultas detrás de lo que aparenta ser una actividad positiva en lo profesional y lo financiero.</td>
+            <td data-label="Tono"><span class="tone-tag tone-cauteloso">cauteloso</span></td>
+            <td data-label="Ver"><a class="watch-link" href="https://www.youtube.com/watch?v=12nNKcfVYnc" target="_blank" rel="noopener">Ver →</a></td>
+          </tr>
+          <tr style="animation-delay: 0.66s">
+            <td data-label="Tema">Un ex regresa con seguridad en sí mismo, pero Escorpio tiene la mirada puesta en encontrar una relación verdaderamente recíproca.</td>
+            <td data-label="Tono"><span class="tone-tag tone-cauteloso">cauteloso</span></td>
+            <td data-label="Ver"><a class="watch-link" href="https://www.youtube.com/watch?v=0-1Iivj2I8k" target="_blank" rel="noopener">Ver →</a></td>
+          </tr>
+          <tr style="animation-delay: 0.74s">
+            <td data-label="Tema">Suelta el control y confía en que el universo te traerá la oportunidad profesional ideal.</td>
+            <td data-label="Tono"><span class="tone-tag tone-cauteloso">cauteloso</span></td>
+            <td data-label="Ver"><a class="watch-link" href="https://www.youtube.com/watch?v=PNhYW2XtQk8" target="_blank" rel="noopener">Ver →</a></td>
+          </tr>
+          <tr style="animation-delay: 0.8200000000000001s">
+            <td data-label="Tema">Un derrumbe en el amor, la carrera y el hogar despeja el terreno para una transformación total.</td>
+            <td data-label="Tono"><span class="tone-tag tone-transformador">transformador</span></td>
+            <td data-label="Ver"><a class="watch-link" href="https://www.youtube.com/watch?v=U3ykVbUkfRI" target="_blank" rel="noopener">Ver →</a></td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
+    </section>
+
+    <footer>
+      Recopilado de cinco lecturas independientes de Escorpio publicadas para la semana del 20 de julio de 2026. Los temas están parafraseados y comparados; las interpretaciones siguen siendo las de sus creadores originales.
+    </footer>
+  </div>
+</body>
+</html>

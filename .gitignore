@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+transcripts/
+tagged/
+get-pip.py
+.DS_Store

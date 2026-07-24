@@ -1,0 +1,59 @@
+{
+  "sign": "Libra",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "Most readers sense that love is at a crossroads for Libra this week \u2014 whether that means releasing what no longer serves you or taking a courageous leap toward a deeper, more fulfilling connection that awaits just ahead.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw Libra clinging to a fading relationship and needing to let go, while others suggested a meaningful new romantic connection is approaching and worth embracing."
+    },
+    "finance": {
+      "summary": "Most readers sense a financial turning point for Libra this week \u2014 whether through a windfall, raise, or letting go of old security, the recurring message is to stop settling and actively pursue greater, more lasting abundance.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw incoming opportunities to seize quickly, while others emphasized releasing what no longer serves financially. One reading cautioned against accepting less than deserved rather than rushing forward."
+    },
+    "career": {
+      "summary": "Most readers see Libra at a significant career crossroads this week \u2014 whether staying or going, the advice leans toward boldly refusing to settle and trusting that a stronger path is already within reach.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw Libra fighting to hold ground and win in their current role, while others suggested the current path may need to be left behind entirely for real growth to happen."
+    },
+    "family": {
+      "summary": "Only a couple of readers touched on family this week \u2014 one pointed to Libras in new partnerships beginning to think about building a future together, while another highlighted the emotional weight of stepping away from familiar family ties as part of a deeper personal evolution.",
+      "reader_count": 2,
+      "disagreement": "Some readers saw family as something to build toward, while others described it as something being left behind."
+    }
+  },
+  "overall_tone_summary": "Transformative and hopeful, with an empowering push toward positive change.",
+  "readers": [
+    {
+      "video_id": "QcNg1TSl4bg",
+      "channel_theme": "Reject an unfair financial offer and trust your instincts in negotiations.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=QcNg1TSl4bg"
+    },
+    {
+      "video_id": "d8YccdMY1uQ",
+      "channel_theme": "A sudden windfall or investment opportunity is approaching and demands quick action.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=d8YccdMY1uQ"
+    },
+    {
+      "video_id": "cNmWqZkVERI",
+      "channel_theme": "You keep postponing an overdue goodbye to a relationship that is already over.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=cNmWqZkVERI"
+    },
+    {
+      "video_id": "SD0fiRjdYgM",
+      "channel_theme": "Leaving home, family, and stability is a necessary and soul-level transformation.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=SD0fiRjdYgM"
+    },
+    {
+      "video_id": "aXHviRxi5qI",
+      "channel_theme": "A committed romance may arrive once Mercury retrograde ends, so leap boldly.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=aXHviRxi5qI"
+    }
+  ]
+}

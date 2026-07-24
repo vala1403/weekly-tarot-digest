@@ -1,0 +1,59 @@
+{
+  "sign": "Libra",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "La mayoría de los lectores perciben que el amor llega a una encrucijada para Libra esta semana: ya sea soltando lo que ya no te nutre o dando un salto valiente hacia una conexión más profunda y satisfactoria que te espera a la vuelta de la esquina.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores vieron a Libra aferrándose a una relación que se apaga y con necesidad de soltar, mientras que otros sugirieron que se acerca una nueva conexión romántica significativa que vale la pena abrazar."
+    },
+    "finance": {
+      "summary": "La mayoría de los lectores perciben un punto de inflexión financiero para Libra esta semana: ya sea a través de un golpe de suerte, un aumento o el abandono de viejas formas de seguridad, el mensaje que se repite es claro: deja de conformarte y persigue activamente una abundancia mayor y más duradera.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores vieron oportunidades entrantes que hay que aprovechar rápidamente, mientras que otros hicieron hincapié en soltar lo que ya no funciona en el plano económico. Una lectura advirtió sobre el riesgo de aceptar menos de lo que mereces en lugar de avanzar con prisa."
+    },
+    "career": {
+      "summary": "La mayoría de los lectores ven a Libra ante una encrucijada profesional importante esta semana: sea que decidas quedarte o irte, el consejo apunta a negarte con firmeza a conformarte con menos y a confiar en que un camino más sólido ya está a tu alcance.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores vieron a Libra luchando por mantenerse firme y salir victorioso en su rol actual, mientras que otros sugirieron que el camino presente quizás deba dejarse atrás por completo para que ocurra un crecimiento real."
+    },
+    "family": {
+      "summary": "Solo un par de lectores abordaron el tema familiar esta semana: uno señaló que los Libra en nuevas relaciones de pareja comienzan a pensar en construir un futuro juntos, mientras que otro destacó el peso emocional de alejarse de los lazos familiares conocidos como parte de una evolución personal más profunda.",
+      "reader_count": 2,
+      "disagreement": "Algunos lectores vieron la familia como algo hacia lo cual avanzar, mientras que otros la describieron como algo que se está dejando atrás."
+    }
+  },
+  "overall_tone_summary": "Transformador y esperanzador, con un fuerte impulso hacia el cambio positivo y el empoderamiento personal.",
+  "readers": [
+    {
+      "video_id": "QcNg1TSl4bg",
+      "channel_theme": "Rechaza una oferta económica injusta y confía en tu instinto a la hora de negociar.",
+      "tone": "empoderador",
+      "url": "https://www.youtube.com/watch?v=QcNg1TSl4bg"
+    },
+    {
+      "video_id": "d8YccdMY1uQ",
+      "channel_theme": "Se acerca un golpe de suerte o una oportunidad de inversión que exige actuar con rapidez.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=d8YccdMY1uQ"
+    },
+    {
+      "video_id": "cNmWqZkVERI",
+      "channel_theme": "Sigues postergando una despedida largamente pendiente de una relación que ya terminó.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=cNmWqZkVERI"
+    },
+    {
+      "video_id": "SD0fiRjdYgM",
+      "channel_theme": "Dejar el hogar, la familia y la estabilidad es una transformación necesaria que responde al llamado del alma.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=SD0fiRjdYgM"
+    },
+    {
+      "video_id": "aXHviRxi5qI",
+      "channel_theme": "Un romance comprometido podría llegar una vez que Mercurio retrógrado termine, así que da el salto con valentía.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=aXHviRxi5qI"
+    }
+  ]
+}

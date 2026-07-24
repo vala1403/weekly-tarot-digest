@@ -1,0 +1,59 @@
+{
+  "sign": "Aries",
+  "week_of": "2026-07-20",
+  "categories": {
+    "love": {
+      "summary": "Most readers sense a significant shift in love this week for Aries \u2014 whether releasing what no longer fits or welcoming a deeply compatible connection, the energy points toward relationships that genuinely align with who you are becoming.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw promising new commitment and joy arriving, while others suggested Aries may need to walk away from or honestly reassess current relationships that no longer serve them."
+    },
+    "finance": {
+      "summary": "Most readers see financial improvement on the horizon for Aries this week \u2014 whether through unexpected support, compounding past decisions, or a mindset shift toward abundance, positive momentum appears to be building.",
+      "reader_count": 4,
+      "disagreement": "One reader noted strong earnings paired with significant work stress, while others focused on incoming windfalls or inherited wealth with little mention of hardship."
+    },
+    "career": {
+      "summary": "Most readers see a significant career shift on the horizon for Aries this week \u2014 whether through a new opportunity, a creative venture, or forging a more independent path, the energy favors bold, self-directed moves forward.",
+      "reader_count": 4,
+      "disagreement": "One reader focused on career advancement through dedication and skill, while another warned against overworking and urged stronger work-life boundaries rather than chasing new opportunities."
+    },
+    "family": {
+      "summary": "Only a handful of readers touched on family this week \u2014 those who did noted that Aries may need to be more intentional about showing up for loved ones, while also letting go of relationships that no longer offer mutual respect.",
+      "reader_count": 3,
+      "disagreement": "Some readers focused on releasing draining family ties, while one highlighted building new family or legacy \u2014 contrasting endings with beginnings."
+    }
+  },
+  "overall_tone_summary": "Transformative and hopeful with a hint of caution ahead.",
+  "readers": [
+    {
+      "video_id": "E40CNrNSfu8",
+      "channel_theme": "Painful releases across love, career, and family signal a major life overhaul.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=E40CNrNSfu8"
+    },
+    {
+      "video_id": "W42h_Vp987g",
+      "channel_theme": "Marriage energy and sudden financial shifts point to sweeping positive transformation.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=W42h_Vp987g"
+    },
+    {
+      "video_id": "2GxWuYcNXQs",
+      "channel_theme": "Outside financial help may finally unlock a long-desired personal pursuit.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=2GxWuYcNXQs"
+    },
+    {
+      "video_id": "jdvyw4NfpP0",
+      "channel_theme": "Past financial decisions are compounding toward inheritance-level long-term wealth.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=jdvyw4NfpP0"
+    },
+    {
+      "video_id": "Vnnco6-xFd8",
+      "channel_theme": "High earnings come at a cost as overwork strains personal relationships.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=Vnnco6-xFd8"
+    }
+  ]
+}
