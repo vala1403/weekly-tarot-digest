@@ -45,6 +45,14 @@ STRINGS = {
         "lang_toggle_text": "Leer en español",
         "lang_toggle_href": "index-es.html",
         "pending_label": "Coming soon",
+        "how_it_works_link": "How it works",
+        "modal_title": "How it works",
+        "modal_body": [
+            "Each week, we select five public YouTube tarot readings covering that week's predictions for every zodiac sign.",
+            "We compare the recurring themes, show where interpretations differ, and link to the original videos.",
+            "This digest is a brief preview, not a replacement for the complete readings.",
+        ],
+        "modal_close": "Close",
         "output_path": Path(__file__).parent / "index.html",
     },
     "es": {
@@ -55,6 +63,14 @@ STRINGS = {
         "lang_toggle_text": "Read in English",
         "lang_toggle_href": "index.html",
         "pending_label": "Próximamente",
+        "how_it_works_link": "Cómo funciona",
+        "modal_title": "Cómo funciona",
+        "modal_body": [
+            "Cada semana, seleccionamos cinco lecturas de tarot públicas de YouTube que cubren las predicciones de esa semana para cada signo del zodíaco.",
+            "Comparamos los temas recurrentes, mostramos dónde difieren las interpretaciones, y enlazamos a los videos originales.",
+            "Este resumen es un adelanto breve, no un reemplazo de las lecturas completas.",
+        ],
+        "modal_close": "Cerrar",
         "output_path": Path(__file__).parent / "index-es.html",
     },
 }
@@ -150,6 +166,76 @@ def build_html(cards_html: str, strings: dict) -> str:
   }}
   .lang-toggle a:hover {{ border-bottom-color: var(--accent); }}
 
+  .how-it-works-link {{
+    display: inline-block;
+    margin-top: 14px;
+    background: none;
+    border: none;
+    padding: 0;
+    font-family: 'Antic', -apple-system, sans-serif;
+    font-size: 0.85rem;
+    color: var(--text-soft);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    cursor: pointer;
+  }}
+  .how-it-works-link:hover {{ color: var(--accent); }}
+
+  .modal-overlay {{
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(41, 35, 31, 0.55);
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }}
+  .modal-overlay.open {{ display: flex; }}
+
+  .modal-box {{
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    max-width: 440px;
+    width: 100%;
+    max-height: calc(100vh - 40px);
+    overflow-y: auto;
+    padding: 30px 26px;
+    box-shadow: 0 12px 32px rgba(43, 36, 32, 0.18);
+  }}
+
+  .modal-box h2 {{
+    font-family: 'Macondo Swash Caps', cursive;
+    font-weight: 400;
+    font-size: 1.9rem;
+    letter-spacing: 0.01em;
+    margin: 0 0 16px;
+    color: var(--text);
+  }}
+
+  .modal-box p {{
+    font-size: 0.95rem;
+    color: var(--text-soft);
+    margin: 0 0 14px;
+    line-height: 1.6;
+  }}
+
+  .modal-close {{
+    display: inline-block;
+    font-family: 'Antic', -apple-system, sans-serif;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--accent);
+    background: var(--accent-soft);
+    border: none;
+    padding: 11px 24px;
+    border-radius: 999px;
+    cursor: pointer;
+    margin-top: 6px;
+  }}
+  .modal-close:hover {{ background: var(--border); }}
+
   header {{
     text-align: center;
     margin-bottom: 48px;
@@ -240,6 +326,8 @@ def build_html(cards_html: str, strings: dict) -> str:
     .grid {{ grid-template-columns: repeat(2, 1fr); gap: 14px; }}
     .sign-card {{ padding: 20px 16px; }}
     .sign-card-name {{ font-size: 1.5rem; }}
+    .modal-box {{ padding: 24px 20px; }}
+    .modal-box h2 {{ font-size: 1.6rem; }}
   }}
 
   @media (max-width: 400px) {{
@@ -256,11 +344,45 @@ def build_html(cards_html: str, strings: dict) -> str:
     <header>
       <h1>{esc(strings['title'])}</h1>
       <p class="subtitle">{esc(strings['subtitle'])}</p>
+      <button type="button" id="how-it-works-trigger" class="how-it-works-link">{esc(strings['how_it_works_link'])}</button>
     </header>
 
     <section class="grid">{cards_html}
     </section>
+
+    <div id="how-it-works-modal" class="modal-overlay" aria-hidden="true">
+      <div class="modal-box" role="dialog" aria-modal="true" aria-labelledby="how-it-works-title">
+        <h2 id="how-it-works-title">{esc(strings['modal_title'])}</h2>
+        {"".join(f'<p>{esc(p)}</p>' + chr(10) + "        " for p in strings['modal_body'])}<button type="button" class="modal-close">{esc(strings['modal_close'])}</button>
+      </div>
+    </div>
   </div>
+
+  <script>
+    (function () {{
+      var trigger = document.getElementById('how-it-works-trigger');
+      var overlay = document.getElementById('how-it-works-modal');
+      var closeBtn = overlay.querySelector('.modal-close');
+
+      function openModal() {{
+        overlay.classList.add('open');
+        overlay.setAttribute('aria-hidden', 'false');
+      }}
+      function closeModal() {{
+        overlay.classList.remove('open');
+        overlay.setAttribute('aria-hidden', 'true');
+      }}
+
+      trigger.addEventListener('click', openModal);
+      closeBtn.addEventListener('click', closeModal);
+      overlay.addEventListener('click', function (e) {{
+        if (e.target === overlay) closeModal();
+      }});
+      document.addEventListener('keydown', function (e) {{
+        if (e.key === 'Escape') closeModal();
+      }});
+    }})();
+  </script>
 </body>
 </html>
 """
