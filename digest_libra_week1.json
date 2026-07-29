@@ -1,60 +1,60 @@
 {
   "sign": "Libra",
-  "week_of": "2026-07-20",
+  "week_of": "2026-07-29",
   "categories": {
     "love": {
-      "summary": "Most readers sense that love is at a crossroads for Libra this week \u2014 whether that means releasing what no longer serves you or taking a courageous leap toward a deeper, more fulfilling connection that awaits just ahead.",
-      "reader_count": 4,
-      "disagreement": "Some readers saw Libra clinging to a fading relationship and needing to let go, while others suggested a meaningful new romantic connection is approaching and worth embracing."
+      "summary": "Most readers see meaningful romantic potential arriving for Libra this week, with the shared advice being to release past emotional wounds and open your heart to welcome a compatible connection in.",
+      "reader_count": 5,
+      "disagreement": "Some readers emphasized a specific, confident romantic figure entering the picture, while others kept the possibility more open-ended, whether someone new or an existing relationship deepening."
     },
     "finance": {
-      "summary": "Most readers sense a financial turning point for Libra this week \u2014 whether through a windfall, raise, or letting go of old security, the recurring message is to stop settling and actively pursue greater, more lasting abundance.",
-      "reader_count": 4,
-      "disagreement": "Some readers saw incoming opportunities to seize quickly, while others emphasized releasing what no longer serves financially. One reading cautioned against accepting less than deserved rather than rushing forward."
+      "summary": "All five readers point to a period of growing financial abundance for Libra \u2014 nurturing what's already been built, whether through property, partnerships, or new opportunities, appears to be the key to sustaining that momentum.",
+      "reader_count": 5,
+      "disagreement": "Some readers emphasized appreciating existing stability and cultivating what's already present, while others focused on new external figures \u2014 investors, partners, or advisors \u2014 arriving to accelerate financial growth."
     },
     "career": {
-      "summary": "Most readers see Libra at a significant career crossroads this week \u2014 whether staying or going, the advice leans toward boldly refusing to settle and trusting that a stronger path is already within reach.",
+      "summary": "Most readers point to meaningful professional progress on the horizon this week \u2014 sustained effort and intentional focus on what truly matters will be the key to unlocking recognition and real growth.",
       "reader_count": 5,
-      "disagreement": "Some readers saw Libra fighting to hold ground and win in their current role, while others suggested the current path may need to be left behind entirely for real growth to happen."
+      "disagreement": "Some readers emphasized inner focus and productivity to break stagnation, while others saw external recognition and new opportunities arriving soon regardless."
     },
     "family": {
-      "summary": "Only a couple of readers touched on family this week \u2014 one pointed to Libras in new partnerships beginning to think about building a future together, while another highlighted the emotional weight of stepping away from familiar family ties as part of a deeper personal evolution.",
-      "reader_count": 2,
-      "disagreement": "Some readers saw family as something to build toward, while others described it as something being left behind."
+      "summary": "Most readers this week sense that celebrations, gatherings, and meaningful connections with loved ones are especially favored for Libra \u2014 lean into community and shared joy, as a strong sense of belonging is within reach.",
+      "reader_count": 4,
+      "disagreement": "No notable disagreement among readers who addressed this theme."
     }
   },
-  "overall_tone_summary": "Decisions you make now carry real weight \u2014 own that authority.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "Triumph and transformation open bright doors for Libra this week.",
   "readers": [
     {
-      "video_id": "QcNg1TSl4bg",
-      "channel_theme": "Reject an unfair financial offer and trust your instincts in negotiations.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=QcNg1TSl4bg"
-    },
-    {
-      "video_id": "d8YccdMY1uQ",
-      "channel_theme": "A sudden windfall or investment opportunity is approaching and demands quick action.",
+      "video_id": "L-Np3hZR56A",
+      "channel_theme": "Gratitude for current abundance is the key to growing future prosperity.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=d8YccdMY1uQ"
+      "url": "https://www.youtube.com/watch?v=L-Np3hZR56A"
     },
     {
-      "video_id": "cNmWqZkVERI",
-      "channel_theme": "You keep postponing an overdue goodbye to a relationship that is already over.",
+      "video_id": "f8AN1RKUIY4",
+      "channel_theme": "Fear is the primary obstacle blocking long-term security and love.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=cNmWqZkVERI"
+      "url": "https://www.youtube.com/watch?v=f8AN1RKUIY4"
     },
     {
-      "video_id": "SD0fiRjdYgM",
-      "channel_theme": "Leaving home, family, and stability is a necessary and soul-level transformation.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=SD0fiRjdYgM"
+      "video_id": "gjRGE222i1c",
+      "channel_theme": "Past emotional wounds could prevent embracing a promising new connection.",
+      "tone": "triumphant",
+      "url": "https://www.youtube.com/watch?v=gjRGE222i1c"
     },
     {
-      "video_id": "aXHviRxi5qI",
-      "channel_theme": "A committed romance may arrive once Mercury retrograde ends, so leap boldly.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=aXHviRxi5qI"
+      "video_id": "wIgHdb2Rh4Q",
+      "channel_theme": "Major public recognition and a platform-elevating opportunity are imminent.",
+      "tone": "triumphant",
+      "url": "https://www.youtube.com/watch?v=wIgHdb2Rh4Q"
+    },
+    {
+      "video_id": "cVRetFpDt9g",
+      "channel_theme": "A new business partner or advisor brings financial celebration and change.",
+      "tone": "celebratory",
+      "url": "https://www.youtube.com/watch?v=cVRetFpDt9g"
     }
-  ],
-  "overall_tone": "empowering"
+  ]
 }

@@ -1,59 +1,59 @@
 {
   "sign": "Virgo",
-  "week_of": "2026-07-20",
+  "week_of": "2026-07-29",
   "categories": {
     "love": {
-      "summary": "Solo dos lectoras se enfocaron en el amor esta semana, y ambas percibieron una reconexión romántica o una nueva conexión emergiendo, lo que sugiere que la claridad y la posibilidad renovada en el amor están tomando forma poco a poco para Virgo.",
-      "reader_count": 2,
-      "disagreement": "Una lectora vio un comienzo romántico fresco con una claridad emocional creciente, mientras que otra destacó una reconexión incierta, todavía nublada por la duda y la cautela."
+      "summary": "La mayoría de los lectores esta semana perciben un giro decisivo en la vida amorosa de Virgo: soltar lo que ya no te sirve —ya sea mediante una decisión difícil o una separación natural— abre el espacio necesario para que llegue algo más genuino y satisfactorio.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores vieron el cierre o la liberación como algo necesario y fortalecedor. Otros, en cambio, sugirieron que podría haber una reconciliación o una segunda oportunidad en el horizonte."
     },
     "finance": {
-      "summary": "La mayoría de las lectoras esta semana señalan que hay recompensas financieras en camino para Virgo — el esfuerzo del pasado y la energía motivada probablemente abrirán puertas a nuevos ingresos y oportunidades. Apóyate en tus fortalezas para aprovechar al máximo este momento.",
-      "reader_count": 4,
-      "disagreement": "Una lectora destacó limitaciones económicas y dificultades con los recursos en lugar de recompensas inminentes, ofreciendo una perspectiva más cautelosa centrada en superar obstáculos."
+      "summary": "Tres lectores señalan una semana prometedora para las finanzas de Virgo, con oportunidades y abundancia a la vista — la clave está en actuar con planes concretos, mantener los pies en la tierra y no dejarse seducir por ofertas demasiado convincentes ni por una obsesión con lo material.",
+      "reader_count": 3,
+      "disagreement": "Algunos lectores hicieron énfasis en la necesidad de ser cautelosos ante propuestas financieras dudosas, mientras que otros apostaron por el optimismo y la acción — unos se inclinaron más hacia la prudencia, y los demás hacia la confianza."
     },
     "career": {
-      "summary": "La mayoría de las lectoras apuntan a una etapa profesional marcada por el enfoque y la acción decidida — dejar ir las distracciones, tomar la iniciativa y mantenerse comprometida son las claves para alcanzar ese avance profesional que parece estar al alcance de la mano.",
+      "summary": "La mayoría de los lectores anticipa una semana intensa y con propósito para Virgo en el trabajo — apoyarse en el trabajo en equipo, delegar cuando sea posible y evitar caer en el exceso serán claves para mantener el impulso sin llegar al agotamiento.",
       "reader_count": 4,
-      "disagreement": "Algunas lectoras vieron una oportunidad concreta e inminente llegando ya, mientras que otras enfatizaron que aún se requiere esfuerzo sostenido y superar la competencia antes de que el éxito se materialice."
+      "disagreement": "Algunos lectores vieron posibles señales de insatisfacción o una encrucijada que exige decidir con cuidado si quedarse o marcharse, mientras que otros señalaron nuevas oportunidades y un llamado claro hacia el liderazgo."
     },
     "family": {
-      "summary": "Pocas lectoras abordaron el tema familiar esta semana; la que lo hizo sugirió que las tensiones existentes están llegando a su fin, abriendo espacio para una mayor apreciación y vínculos más fuertes con los seres queridos y la comunidad.",
-      "reader_count": 1,
-      "disagreement": null
+      "summary": "Solo algunos lectores abordaron el tema familiar esta semana — quienes lo hicieron señalaron cambios positivos en la confianza y la conexión, y uno de ellos destacó que el crecimiento personal suele beneficiar también a los seres queridos.",
+      "reader_count": 2,
+      "disagreement": "Una lectura instó a Virgo a alejarse de dinámicas familiares o de coparentalidad poco saludables en lugar de quedarse por seguridad, mientras que otras vieron los lazos familiares fortaleciéndose y bendiciones que comienzan a manifestarse."
     }
   },
-  "overall_tone_summary": "La constancia silenciosa da frutos y la semana se inclina claramente a tu favor.",
+  "overall_tone_summary": "Se avecinan cambios profundos que invitan a Virgo a abrazar las transformaciones importantes que trae esta semana.",
   "readers": [
     {
-      "video_id": "DO_ta5O6xvA",
-      "channel_theme": "Una nueva conexión romántica llena de esperanza llega junto con la claridad largamente esperada en lo financiero y lo profesional.",
+      "video_id": "LAFfYvucQjQ",
+      "channel_theme": "Desconfía de quienes hablan demasiado bien; en el amor y las finanzas, los hechos valen más que las palabras.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=LAFfYvucQjQ"
+    },
+    {
+      "video_id": "TRutcrWWPW0",
+      "channel_theme": "Virgo se encuentra ante una bifurcación clave: perdonar y quedarse, o alejarse definitivamente.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=TRutcrWWPW0"
+    },
+    {
+      "video_id": "cpbwA4hwetQ",
+      "channel_theme": "Una partida despeja el camino para nuevos comienzos y planes llenos de energía renovada.",
+      "tone": "empoderador",
+      "url": "https://www.youtube.com/watch?v=cpbwA4hwetQ"
+    },
+    {
+      "video_id": "N7O8GYFC3hE",
+      "channel_theme": "Suelta los apegos nacidos del miedo; tu valor propio importa más que aferrarte a la seguridad.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=N7O8GYFC3hE"
+    },
+    {
+      "video_id": "yrJoYk6wQdc",
+      "channel_theme": "Se acerca una reconciliación inesperada que trae sanación emocional y una conexión renovada.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=DO_ta5O6xvA"
-    },
-    {
-      "video_id": "ReG-mOXBjtU",
-      "channel_theme": "Un amor perdido intenta revivir con cautela, pero la duda emocional sigue presente.",
-      "tone": "turbulento",
-      "url": "https://www.youtube.com/watch?v=ReG-mOXBjtU"
-    },
-    {
-      "video_id": "Cjv4e_Q_Sdg",
-      "channel_theme": "Virgo se retira socialmente para concentrarse con intensidad en el crecimiento financiero y la productividad.",
-      "tone": "introspectivo",
-      "url": "https://www.youtube.com/watch?v=Cjv4e_Q_Sdg"
-    },
-    {
-      "video_id": "UunmmsIFIIY",
-      "channel_theme": "La luz verde que Virgo tanto esperaba en lo profesional o financiero finalmente está por llegar.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=UunmmsIFIIY"
-    },
-    {
-      "video_id": "JNHFWpqsils",
-      "channel_theme": "Los lazos comunitarios se fortalecen mientras Virgo lidera frente a los desafíos económicos y laborales.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=JNHFWpqsils"
+      "url": "https://www.youtube.com/watch?v=yrJoYk6wQdc"
     }
   ]
 }

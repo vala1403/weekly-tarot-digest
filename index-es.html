@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>El Tarot de Esta Semana</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Macondo+Swash+Caps&family=Antic&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #fcfaf6;
+    --bg-card: #fcfaf6;
+    --text: #29231f;
+    --text-soft: #6e655d;
+    --accent: #c1642b;
+    --accent-soft: #e8d9c4;
+    --border: #e3d7c4;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Antic', -apple-system, sans-serif;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 48px 20px 80px;
+  }
+
+  .lang-toggle {
+    text-align: center;
+    margin-bottom: 32px;
+  }
+
+  .lang-toggle a {
+    color: var(--accent);
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
+    padding-bottom: 2px;
+  }
+  .lang-toggle a:hover { border-bottom-color: var(--accent); }
+
+  .how-it-works-link {
+    display: inline-block;
+    margin-top: 14px;
+    background: none;
+    border: none;
+    padding: 0;
+    font-family: 'Antic', -apple-system, sans-serif;
+    font-size: 0.85rem;
+    color: var(--text-soft);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    cursor: pointer;
+  }
+  .how-it-works-link:hover { color: var(--accent); }
+
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(41, 35, 31, 0.55);
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  .modal-overlay.open { display: flex; }
+
+  .modal-box {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    max-width: 440px;
+    width: 100%;
+    max-height: calc(100vh - 40px);
+    overflow-y: auto;
+    padding: 30px 26px;
+    box-shadow: 0 12px 32px rgba(43, 36, 32, 0.18);
+  }
+
+  .modal-box h2 {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-weight: 400;
+    font-size: 1.9rem;
+    letter-spacing: 0.01em;
+    margin: 0 0 16px;
+    color: var(--text);
+  }
+
+  .modal-box p {
+    font-size: 0.95rem;
+    color: var(--text-soft);
+    margin: 0 0 14px;
+    line-height: 1.6;
+  }
+
+  .modal-close {
+    display: inline-block;
+    font-family: 'Antic', -apple-system, sans-serif;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--accent);
+    background: var(--accent-soft);
+    border: none;
+    padding: 11px 24px;
+    border-radius: 999px;
+    cursor: pointer;
+    margin-top: 6px;
+  }
+  .modal-close:hover { background: var(--border); }
+
+  header {
+    text-align: center;
+    margin-bottom: 48px;
+    animation: fadeSlideIn 0.7s ease-out both;
+  }
+
+  h1 {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-weight: 400;
+    font-size: clamp(2.75rem, 8vw, 5rem);
+    line-height: 1;
+    margin: 0 0 14px;
+    letter-spacing: 0.01em;
+    color: var(--text);
+  }
+
+  .subtitle {
+    font-size: clamp(1rem, 2.2vw, 1.15rem);
+    color: var(--accent);
+    font-style: italic;
+    margin: 0;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+  }
+
+  .sign-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    padding: 28px 22px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: var(--bg-card);
+    opacity: 0;
+    animation: fadeSlideIn 0.5s ease-out both;
+    transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+  }
+
+  a.sign-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(43, 36, 32, 0.08);
+  }
+
+  .sign-card-pending {
+    opacity: 0.55;
+    animation: fadeSlideIn 0.5s ease-out both;
+  }
+
+  .sign-card-name {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-size: 1.9rem;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    margin: 0 0 10px;
+    color: var(--text);
+  }
+
+  .sign-card-teaser {
+    font-size: 0.95rem;
+    color: var(--text-soft);
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .sign-card-teaser-pending {
+    font-size: 0.82rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+    color: var(--text-soft);
+  }
+
+  @keyframes fadeSlideIn {
+    from { opacity: 0; transform: translateY(14px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @media (max-width: 640px) {
+    .wrap { padding: 32px 16px 56px; }
+    .grid { grid-template-columns: repeat(2, 1fr); gap: 14px; }
+    .sign-card { padding: 20px 16px; }
+    .sign-card-name { font-size: 1.5rem; }
+    .modal-box { padding: 24px 20px; }
+    .modal-box h2 { font-size: 1.6rem; }
+  }
+
+  @media (max-width: 400px) {
+    .grid { grid-template-columns: repeat(2, 1fr); }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="lang-toggle">
+      <a href="index.html">Read in English</a>
+    </div>
+
+    <header>
+      <h1>El Tarot de Esta Semana</h1>
+      <p class="subtitle">Elige tu signo para ver en qué coinciden cinco lectores independientes esta semana.</p>
+      <button type="button" id="how-it-works-trigger" class="how-it-works-link">Cómo funciona</button>
+    </header>
+
+    <section class="grid">
+        <a class="sign-card" href="digest-aries-es.html" style="animation-delay: 0.1s">
+          <h2 class="sign-card-name">Aries</h2>
+          <p class="sign-card-teaser">La transformación ya echó raíces, y en su lugar florece el optimismo junto con la posibilidad de un nuevo comienzo.</p>
+        </a>
+        <a class="sign-card" href="digest-taurus-es.html" style="animation-delay: 0.15s">
+          <h2 class="sign-card-name">Tauro</h2>
+          <p class="sign-card-teaser">Afirma bien los pies antes de lanzarte a buscar lo que quieres esta semana.</p>
+        </a>
+        <a class="sign-card" href="digest-gemini-es.html" style="animation-delay: 0.2s">
+          <h2 class="sign-card-name">Géminis</h2>
+          <p class="sign-card-teaser">Esta semana, Géminis recibe el impulso que necesita para retomar las riendas de su propia historia.</p>
+        </a>
+        <a class="sign-card" href="digest-cancer-es.html" style="animation-delay: 0.25s">
+          <h2 class="sign-card-name">Cáncer</h2>
+          <p class="sign-card-teaser">Una corriente constante de optimismo acompaña a Cáncer a lo largo de los cambios de esta semana.</p>
+        </a>
+        <a class="sign-card" href="digest-leo-es.html" style="animation-delay: 0.3s">
+          <h2 class="sign-card-name">Leo</h2>
+          <p class="sign-card-teaser">Se están gestando cambios profundos que traen consigo una promesa genuina de lo que está por venir.</p>
+        </a>
+        <a class="sign-card" href="digest-virgo-es.html" style="animation-delay: 0.35s">
+          <h2 class="sign-card-name">Virgo</h2>
+          <p class="sign-card-teaser">Se avecinan cambios profundos que invitan a Virgo a abrazar las transformaciones importantes que trae esta semana.</p>
+        </a>
+        <a class="sign-card" href="digest-libra-es.html" style="animation-delay: 0.4s">
+          <h2 class="sign-card-name">Libra</h2>
+          <p class="sign-card-teaser">El triunfo y la transformación abren puertas llenas de luz para Libra esta semana.</p>
+        </a>
+        <a class="sign-card" href="digest-scorpio-es.html" style="animation-delay: 0.45s">
+          <h2 class="sign-card-name">Escorpio</h2>
+          <p class="sign-card-teaser">Escorpio enfrenta cambios profundos esta semana que exigen una transformación interior valiente y decidida.</p>
+        </a>
+        <a class="sign-card" href="digest-sagittarius-es.html" style="animation-delay: 0.5s">
+          <h2 class="sign-card-name">Sagitario</h2>
+          <p class="sign-card-teaser">Una energía luminosa y esperanzadora acompaña a Sagitario durante toda la semana, llenándolo de una confianza tranquila pero firme.</p>
+        </a>
+        <a class="sign-card" href="digest-capricorn-es.html" style="animation-delay: 0.55s">
+          <h2 class="sign-card-name">Capricornio</h2>
+          <p class="sign-card-teaser">Los cambios llegan rápido esta semana — es momento de abrirse a ellos en lugar de resistirse.</p>
+        </a>
+        <a class="sign-card" href="digest-aquarius-es.html" style="animation-delay: 0.6s">
+          <h2 class="sign-card-name">Acuario</h2>
+          <p class="sign-card-teaser">Acuario entra con paso firme en su propia fortaleza esta semana.</p>
+        </a>
+        <a class="sign-card" href="digest-pisces-es.html" style="animation-delay: 0.65s">
+          <h2 class="sign-card-name">Piscis</h2>
+          <p class="sign-card-teaser">El optimismo ilumina el camino a seguir, incluso en medio de la incertidumbre de esta semana.</p>
+        </a>
+    </section>
+
+    <div id="how-it-works-modal" class="modal-overlay" aria-hidden="true">
+      <div class="modal-box" role="dialog" aria-modal="true" aria-labelledby="how-it-works-title">
+        <h2 id="how-it-works-title">Cómo funciona</h2>
+        <p>Cada semana, seleccionamos cinco lecturas de tarot públicas de YouTube que cubren las predicciones de esa semana para cada signo del zodíaco.</p>
+        <p>Comparamos los temas recurrentes, mostramos dónde difieren las interpretaciones, y enlazamos a los videos originales.</p>
+        <p>Este resumen es un adelanto breve, no un reemplazo de las lecturas completas.</p>
+        <button type="button" class="modal-close">Cerrar</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      var trigger = document.getElementById('how-it-works-trigger');
+      var overlay = document.getElementById('how-it-works-modal');
+      var closeBtn = overlay.querySelector('.modal-close');
+
+      function openModal() {
+        overlay.classList.add('open');
+        overlay.setAttribute('aria-hidden', 'false');
+      }
+      function closeModal() {
+        overlay.classList.remove('open');
+        overlay.setAttribute('aria-hidden', 'true');
+      }
+
+      trigger.addEventListener('click', openModal);
+      closeBtn.addEventListener('click', closeModal);
+      overlay.addEventListener('click', function (e) {
+        if (e.target === overlay) closeModal();
+      });
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') closeModal();
+      });
+    })();
+  </script>
+</body>
+</html>

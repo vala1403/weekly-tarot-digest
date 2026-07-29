@@ -1,60 +1,60 @@
 {
   "sign": "Sagittarius",
-  "week_of": "2026-07-20",
+  "week_of": "2026-07-29",
   "categories": {
     "love": {
-      "summary": "Most readers sense a meaningful romantic connection approaching for Sagittarius this week \u2014 rather than waiting passively or forcing outcomes, opening up with courage and letting things unfold naturally seems to be the path forward.",
-      "reader_count": 4,
-      "disagreement": "Some readers described a joyful, uncomplicated destined connection arriving, while others noted lingering emotional wounds or past relationship complications that may color the experience."
+      "summary": "Three readers this week sense meaningful relational shifts for Sagittarius \u2014 whether reconnecting with someone, deepening a bond, or reopening a closed door, the shared advice is to stay open but move thoughtfully before fully investing your heart.",
+      "reader_count": 3,
+      "disagreement": "Some readers saw Sagittarius becoming more selective and guarded in love, while others suggested opening up and giving someone a second chance."
     },
     "finance": {
-      "summary": "Most readers sense a gradual financial shift unfolding this week \u2014 focus your energy on your most productive efforts and stay open to compromise, as steady progress rather than an overnight breakthrough is likely in store.",
-      "reader_count": 4,
-      "disagreement": "One reading suggested a major material blessing or long-sought opportunity is arriving, while others pointed to slow, incremental improvement rather than a significant windfall."
+      "summary": "Most readers see Sagittarius moving toward greater financial stability this week \u2014 take time to honestly evaluate your situation, release what undervalues you, and invest disciplined effort in building lasting security.",
+      "reader_count": 5,
+      "disagreement": "One reading warned of a potential disruptive financial shock, while others focused on steady, gradual improvement and growing clarity."
     },
     "career": {
-      "summary": "Most readers see career momentum building for Sagittarius this week \u2014 the clearest shared advice is to stop hesitating and take decisive action, trusting that sustained effort is on the verge of paying off in a meaningful way.",
+      "summary": "Career shifts and transitions are prominent this week for Sagittarius \u2014 whether that means stepping into leadership, recognizing hard-earned progress, or preparing for a bold new chapter, a meaningful professional change appears to be unfolding.",
       "reader_count": 5,
-      "disagreement": "Some readers emphasized pushing forward with boldness and urgency, while others suggested slowing down to balance ambition with practicality and compromise rather than charging ahead."
+      "disagreement": "Some readers saw positive growth through new authority figures, leadership, or earned recognition. Others suggested disillusionment at work or an impending leap into unfamiliar territory, implying less stability ahead."
     },
     "family": {
-      "summary": "Only one reader touched on family this week, pointing to lingering conflict with a loved one \u2014 possibly tied to legal or financial matters \u2014 that is gradually beginning to ease.",
-      "reader_count": 1,
-      "disagreement": null
+      "summary": "Most readers see this week bringing a meaningful shift in your sense of home and belonging \u2014 whether through healing old rifts, joyful reconnection, or moving toward people who truly embrace who you are.",
+      "reader_count": 4,
+      "disagreement": "Some readers emphasized joyful reunions and togetherness within existing relationships, while others focused on stepping away from unsupportive people toward a new, more accepting community."
     }
   },
-  "overall_tone_summary": "Energy you've been waiting on finally shows up and asks you to lead.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "A bright, forward-looking energy carries Sagittarius through the week with quiet confidence.",
   "readers": [
     {
-      "video_id": "P11uzmNlEBk",
-      "channel_theme": "Don't quit now\u2014you're on the verge of a breakthrough.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=P11uzmNlEBk"
-    },
-    {
-      "video_id": "iTtuxYfBYWc",
-      "channel_theme": "Compromise beats chasing perfection; decisive practicality wins here.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=iTtuxYfBYWc"
-    },
-    {
-      "video_id": "HlGWua_FQxE",
-      "channel_theme": "A destined reconnection looms, though past wounds still complicate things.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=HlGWua_FQxE"
-    },
-    {
-      "video_id": "MGJ6l6eew0A",
-      "channel_theme": "Stop planning and take one bold, decisive step forward now.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=MGJ6l6eew0A"
-    },
-    {
-      "video_id": "BNoXbato1Ms",
-      "channel_theme": "A fated, deeply fulfilling romantic connection arrives this very week.",
+      "video_id": "OahgHAOdq-I",
+      "channel_theme": "A new authority figure may soon lighten your professional load significantly.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=BNoXbato1Ms"
+      "url": "https://www.youtube.com/watch?v=OahgHAOdq-I"
+    },
+    {
+      "video_id": "Kd26o9zT5LI",
+      "channel_theme": "You are done tolerating disrespect and are actively preparing to walk away.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=Kd26o9zT5LI"
+    },
+    {
+      "video_id": "iT5A6tisiSg",
+      "channel_theme": "A painful relational break may finally be healing, opening the door to reconciliation.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=iT5A6tisiSg"
+    },
+    {
+      "video_id": "6nHacQsXMYE",
+      "channel_theme": "You are moving toward a chosen community that truly celebrates who you are.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=6nHacQsXMYE"
+    },
+    {
+      "video_id": "IlH65Y_ILD4",
+      "channel_theme": "A major career leap looms, demanding one careful decision before you jump.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=IlH65Y_ILD4"
     }
-  ],
-  "overall_tone": "empowering"
+  ]
 }

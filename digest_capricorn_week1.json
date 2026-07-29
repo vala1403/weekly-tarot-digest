@@ -1,60 +1,60 @@
 {
   "sign": "Capricorn",
-  "week_of": "2026-07-20",
+  "week_of": "2026-07-29",
   "categories": {
     "love": {
-      "summary": "Most readers sense a meaningful romantic development unfolding for Capricorn this week \u2014 whether a new connection, a deepening bond, or a fated arrival, the energy points toward an important shift in love.",
-      "reader_count": 3,
-      "disagreement": "Some readers saw fresh, exciting romantic beginnings entering Capricorn's life. One suggested an existing relationship is a source of disappointment tied to ignored instincts."
+      "summary": "Most readers sense a meaningful romantic shift ahead for Capricorn \u2014 whether healing past wounds or releasing unstable connections, moving toward a deeper, more emotionally fulfilling partnership seems to be the collective call this week.",
+      "reader_count": 5,
+      "disagreement": "One reading suggested a relationship is ending and a clean break is imminent, while another pointed to a committed milestone like moving in or getting engaged \u2014 opposite directions for love."
     },
     "finance": {
-      "summary": "Most readers agree that a financial turning point is approaching for Capricorn after sustained effort \u2014 stay open to new offers and avoid settling, as persistence now appears poised to pay off.",
-      "reader_count": 5,
-      "disagreement": "Some readers saw the shift as already underway and gradual, while others suggested a specific breakthrough moment \u2014 like a key conversation or unexpected opportunity \u2014 is still just ahead."
+      "summary": "Financial opportunities appear likely this week \u2014 whether through a new partnership, a pending settlement, or an incoming offer \u2014 but real abundance will come only to those willing to make disciplined, structural changes rather than waiting passively.",
+      "reader_count": 4,
+      "disagreement": "Some readers emphasized an incoming opportunity arriving with little resistance, while others stressed that meaningful financial growth requires active effort and real structural change to avoid self-sabotage."
     },
     "career": {
-      "summary": "All five readers point to a pivotal week for Capricorn's career \u2014 bold new directions, fresh opportunities, and key decisions are all in play, so trust your instincts and take decisive action now.",
+      "summary": "Most readers sense that Capricorn is approaching a significant professional turning point, with stagnant or obligatory career paths giving way to something more purposeful \u2014 making this the week to act boldly on what truly resonates.",
       "reader_count": 5,
-      "disagreement": "Some readers highlighted bold, unstoppable forward momentum, while one suggested a critical conversation could rescue what seemed like a professional ending rather than launch something entirely new."
+      "disagreement": "Some readers saw an ending to a burdensome situation as the main shift, while others emphasized a new spark or opportunity arriving that demands quick, confident action."
     },
     "family": {
-      "summary": "Most readers sense a warm and hopeful energy surrounding family this week for Capricorn \u2014 relationships appear to be healing, deepening, or even expanding, making it a meaningful time to appreciate and nurture the bonds closest to you.",
-      "reader_count": 4,
-      "disagreement": "One reader pointed to potential sorrow or tension in family dynamics, while others saw growth, gratitude, and new beginnings taking shape."
+      "summary": "Only a couple of readers touched on family this week \u2014 one pointed to wrapping up home projects or celebrating domestic milestones, while another highlighted lingering wounds from parental figures, especially fathers, as a source of current instability.",
+      "reader_count": 2,
+      "disagreement": "One reading emphasized positive completion and celebration at home; another suggested unresolved past trauma is disrupting present family dynamics \u2014 these point in opposite directions."
     }
   },
-  "overall_tone_summary": "The numbers, the effort, the timing \u2014 for once, they all line up.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Shifts are arriving fast \u2014 lean in rather than hold back.",
   "readers": [
     {
-      "video_id": "BpuFhewkaEI",
-      "channel_theme": "Break free from limiting financial habits to unlock greater abundance.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=BpuFhewkaEI"
+      "video_id": "ID5u08xuJac",
+      "channel_theme": "",
+      "tone": "optimistic",
+      "url": "https://www.youtube.com/watch?v=ID5u08xuJac"
     },
     {
-      "video_id": "6Ks5NJz2zVU",
-      "channel_theme": "A major romantic chapter is beginning alongside strong fertility themes.",
+      "video_id": "TR--yD2v81w",
+      "channel_theme": "A toxic partnership is ending, and a financial or property split brings freedom.",
+      "tone": "liberating",
+      "url": "https://www.youtube.com/watch?v=TR--yD2v81w"
+    },
+    {
+      "video_id": "nr8SJN2iJRY",
+      "channel_theme": "A fated, high-value romantic interest approaches after Capricorn's grief period.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=6Ks5NJz2zVU"
+      "url": "https://www.youtube.com/watch?v=nr8SJN2iJRY"
     },
     {
-      "video_id": "blsIo5BLOgE",
-      "channel_theme": "Self-doubt is blocking career success despite strong available opportunities.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=blsIo5BLOgE"
+      "video_id": "2xBnzaj1rFI",
+      "channel_theme": "Unresolved father wounds are fueling unstable patterns in love and life.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=2xBnzaj1rFI"
     },
     {
-      "video_id": "ZqMn8aNWM4w",
-      "channel_theme": "A crucial conversation this week could rescue finances or a contract.",
+      "video_id": "n5hFiG5LIa0",
+      "channel_theme": "Healing past heartbreak is the prerequisite before true love can arrive.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=ZqMn8aNWM4w"
-    },
-    {
-      "video_id": "_vy33yX8JH4",
-      "channel_theme": "A fated romantic connection arrives after a period of emotional apathy.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=_vy33yX8JH4"
+      "url": "https://www.youtube.com/watch?v=n5hFiG5LIa0"
     }
-  ],
-  "overall_tone": "hopeful"
+  ]
 }

@@ -51,5 +51,58 @@
         "note": "A door you kept closed swings open, and walking through it feels right."
       }
     }
+  },
+  {
+    "week": "2026-07-29",
+    "signs": {
+      "aries": {
+        "theme": "hopeful",
+        "note": "Transformation has settled, leaving space for optimism and fresh possibility."
+      },
+      "taurus": {
+        "theme": "cautious",
+        "note": "Steady your footing before reaching for what you want this week."
+      },
+      "gemini": {
+        "theme": "empowering",
+        "note": "This week hands Gemini the confidence to reclaim their own narrative."
+      },
+      "cancer": {
+        "theme": "hopeful",
+        "note": "A steady current of optimism carries Cancer through the week's changes."
+      },
+      "leo": {
+        "theme": "transformative",
+        "note": "Deep shifts are underway, carrying genuine promise for what comes next."
+      },
+      "virgo": {
+        "theme": "transformative",
+        "note": "Deep shifts are underway, urging Virgo to embrace meaningful change this week."
+      },
+      "libra": {
+        "theme": "hopeful",
+        "note": "Triumph and transformation open bright doors for Libra this week."
+      },
+      "scorpio": {
+        "theme": "transformative",
+        "note": "Scorpio faces powerful shifts this week, demanding bold inner change."
+      },
+      "sagittarius": {
+        "theme": "hopeful",
+        "note": "A bright, forward-looking energy carries Sagittarius through the week with quiet confidence."
+      },
+      "capricorn": {
+        "theme": "transformative",
+        "note": "Shifts are arriving fast \u2014 lean in rather than hold back."
+      },
+      "aquarius": {
+        "theme": "empowering",
+        "note": "Aquarius steps boldly into its own strength this week."
+      },
+      "pisces": {
+        "theme": "hopeful",
+        "note": "Optimism lights the way forward, even through uncertainty this week."
+      }
+    }
   }
 ]

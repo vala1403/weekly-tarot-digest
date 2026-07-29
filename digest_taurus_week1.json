@@ -1,60 +1,60 @@
 {
   "sign": "Taurus",
-  "week_of": "2026-07-20",
+  "week_of": "2026-07-29",
   "categories": {
     "love": {
-      "summary": "Most readers sense a pivotal moment in Taurus's love life this week \u2014 be honest about whether a connection is truly serving you, and be willing to either deepen it with intention or release it to make room for something better.",
-      "reader_count": 5,
-      "disagreement": "Some readers saw new romantic potential on the horizon for Taurus, while others suggested that an existing relationship may need to be released or fundamentally reconsidered."
+      "summary": "Most readers sense a complicated romantic situation this week \u2014 whether it's recognizing unhealthy patterns or a returning connection, the consistent advice is to move carefully and on your own terms.",
+      "reader_count": 4,
+      "disagreement": "Some readers leaned toward walking away from an unfulfilling dynamic, while others suggested a meaningful connection worth nurturing or cautiously revisiting."
     },
     "finance": {
-      "summary": "Most readers see financial abundance on the horizon for Taurus, but the consistent message is that sitting back won't cut it \u2014 proactive effort is what turns promising conditions into real gains.",
+      "summary": "A sense of financial imbalance runs through this week for Taurus \u2014 whether you've been giving more than you're receiving or waiting on delayed rewards, the clearest advice is to pause and reassess before committing further energy or resources.",
       "reader_count": 4,
-      "disagreement": "One reading highlighted past financial decisions paying off, while others focused on future opportunities still requiring action to materialize."
+      "disagreement": "Some readers saw karmic rewards and incoming abundance on the horizon, while others pointed to ongoing depletion and hesitation about reinvesting \u2014 one signals gain, the other signals withdrawal."
     },
     "career": {
-      "summary": "Most readers sense a period of rising visibility and professional momentum for Taurus \u2014 leaning into bold action and staying open to new opportunities is the clearest path to making the most of it.",
+      "summary": "Most readers this week highlight workplace friction \u2014 whether from ego-driven colleagues or pressure to act \u2014 and encourage Taurus to hold firm, trust the process, and move forward with new or returning opportunities on their own terms.",
       "reader_count": 4,
-      "disagreement": "One reader flagged frustrating workplace changes that feel counterproductive, while others saw this week as straightforwardly promising for advancement and growth."
+      "disagreement": "Some readers focused on navigating conflict and standing your ground, while others suggested leaning into fresh starts or revisiting past work with clearer boundaries."
     },
     "family": {
-      "summary": "A few readers touched on family this week, suggesting that bonds with loved ones offer loyalty and stability during times of change, with some indication that a longer family chapter may finally be reaching its resolution.",
+      "summary": "A few readers touched on family this week \u2014 where they did, the focus was on managing dynamics that require clear boundaries, whether with dependents or co-creative partners, though one reader saw family bonds as a source of genuine stability and warmth.",
       "reader_count": 3,
-      "disagreement": "Some readers focused on ongoing challenges and the search for domestic warmth, while others suggested a family situation is already wrapping up with positive outcomes."
+      "disagreement": "Some readers flagged tension and the need for boundaries in family dynamics; one reader described the family sphere as secure and deeply fulfilling."
     }
   },
-  "overall_tone_summary": "Something you've held onto for too long is finally ready to shift.",
+  "overall_tone": "cautious",
+  "overall_tone_summary": "Steady your footing before reaching for what you want this week.",
   "readers": [
     {
-      "video_id": "CB_J4RYOI9Q",
-      "channel_theme": "Taurus must actively work on self-improvement to attract meaningful romance.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=CB_J4RYOI9Q"
+      "video_id": "5ic4uljZYnI",
+      "channel_theme": "Taurus must set firm boundaries against those draining them financially and emotionally.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=5ic4uljZYnI"
     },
     {
-      "video_id": "pByCskcetSQ",
-      "channel_theme": "Chiron entering Taurus reshapes money mindset and unlocks new prosperity.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=pByCskcetSQ"
-    },
-    {
-      "video_id": "J8tah51Ppt8",
-      "channel_theme": "Going solo may outperform stalled partnerships or collaborations right now.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=J8tah51Ppt8"
-    },
-    {
-      "video_id": "nuxkG5CPADU",
-      "channel_theme": "Frustrating workplace rule changes may undermine Taurus's professional purpose.",
+      "video_id": "59JrM42Pomw",
+      "channel_theme": "Karmic justice is approaching, urging Taurus to hold firm and trust fairness.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=nuxkG5CPADU"
+      "url": "https://www.youtube.com/watch?v=59JrM42Pomw"
     },
     {
-      "video_id": "SZdlp4igHc4",
-      "channel_theme": "A major romantic crossroads demands a decisive, life-shaping choice soon.",
+      "video_id": "FbYwsUATruo",
+      "channel_theme": "An unconventional advisor could fast-track a passionate new venture toward major success.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=SZdlp4igHc4"
+      "url": "https://www.youtube.com/watch?v=FbYwsUATruo"
+    },
+    {
+      "video_id": "KVoFUwO0AsI",
+      "channel_theme": "Outside jealousy threatens an otherwise harmonious and stable soul connection.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=KVoFUwO0AsI"
+    },
+    {
+      "video_id": "uDvHDPWIbkM",
+      "channel_theme": "A past romance may return, but only accept it strictly on your terms.",
+      "tone": "cautiously hopeful",
+      "url": "https://www.youtube.com/watch?v=uDvHDPWIbkM"
     }
-  ],
-  "overall_tone": "transformative"
+  ]
 }

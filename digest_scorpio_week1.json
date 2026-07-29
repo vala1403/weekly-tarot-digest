@@ -1,60 +1,60 @@
 {
   "sign": "Scorpio",
-  "week_of": "2026-07-20",
+  "week_of": "2026-07-29",
   "categories": {
     "love": {
-      "summary": "A few readers touched on love this week, centering on transitions \u2014 whether through hesitation around commitment, a guarded attempt at reconciliation, or a necessary ending that clears the way for something more balanced and fulfilling.",
-      "reader_count": 3,
-      "disagreement": "Some readers saw painful endings or separations as the central event, while others pointed to reconciliation attempts and renewed focus on self-worth and reciprocity."
+      "summary": "Most readers sense meaningful romantic connections being stalled or delayed this week \u2014 opening up emotionally and taking action before the moment passes entirely is the most consistent advice shared across readings.",
+      "reader_count": 4,
+      "disagreement": "Some readers focused on releasing toxic dynamics to reach deeper connection, while others emphasized that inaction and mismatched intentions risk letting the energy fade without resolution."
     },
     "finance": {
-      "summary": "A financial turning point seems to be building for Scorpio \u2014 whether through a major investment, new income opportunities, or a hard-won independence, this week carries real potential for long-term stability if approached with eyes open.",
-      "reader_count": 3,
-      "disagreement": "Some readers saw straightforward growth and opportunity ahead, while one suggested financial activity may be masking hidden motives or deception worth watching for."
+      "summary": "Most readers this week see financial improvement or opportunity on the horizon for Scorpio \u2014 the shared advice is to approach these possibilities with patience and careful judgment rather than impulsive action.",
+      "reader_count": 4,
+      "disagreement": "Some readers emphasized gradual recovery from past hardship, while others pointed to abundant new opportunities already arriving. The tone ranges from cautious optimism to confident prosperity."
     },
     "career": {
-      "summary": "Career momentum is a strong theme this week for Scorpio \u2014 whether rewards are incoming, shifts are unfolding, or a new path is emerging, trust the process and commit rather than overthinking or trying to control every outcome.",
+      "summary": "Most readers see career momentum building for Scorpio this week \u2014 whether through a new opportunity, escaping a stagnant situation, or steady persistence, the consistent advice is to keep pushing forward rather than hesitating or giving up.",
       "reader_count": 4,
-      "disagreement": "Some readers saw career energy as stable and rewarding; others suggested disruption or hidden forces may be reshaping the professional landscape unexpectedly."
+      "disagreement": "Some readers emphasized bold action and seizing visible opportunities, while others stressed patience and gradual, sustained effort over time."
     },
     "family": {
-      "summary": "Few readers touched on family this week; the one who did suggested that releasing deeply rooted ties or a cherished place from your past, though emotionally difficult, may be an important step in your personal growth.",
-      "reader_count": 1,
-      "disagreement": null
+      "summary": "Few readers touched on family this week; those who did pointed to building lasting bonds and legacy-minded thinking, with one emphasizing better communication and inner-child healing to strengthen relationships.",
+      "reader_count": 2,
+      "disagreement": "One reading focused on long-term legacy and generational foundations, while the other centered on healing emotional wounds and improving communication in current relationships."
     }
   },
-  "overall_tone_summary": "Move carefully; the footing is uneven even where it looks firm.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Scorpio faces powerful shifts this week, demanding bold inner change.",
   "readers": [
     {
-      "video_id": "qaj0Lo5xGUs",
-      "channel_theme": "A major financial move, possibly real estate, promises lasting abundance if committed to.",
-      "tone": "cautiously hopeful",
-      "url": "https://www.youtube.com/watch?v=qaj0Lo5xGUs"
-    },
-    {
-      "video_id": "12nNKcfVYnc",
-      "channel_theme": "Hidden agendas may be lurking behind seemingly positive career and financial activity.",
+      "video_id": "YNn96R3qed4",
+      "channel_theme": "Delays and hesitation risk letting a promising opportunity slip away entirely.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=12nNKcfVYnc"
+      "url": "https://www.youtube.com/watch?v=YNn96R3qed4"
     },
     {
-      "video_id": "0-1Iivj2I8k",
-      "channel_theme": "An ex returns with confidence, but Scorpio is focused on finding true reciprocity.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=0-1Iivj2I8k"
-    },
-    {
-      "video_id": "PNhYW2XtQk8",
-      "channel_theme": "Release control and trust the universe to deliver your ideal career opportunity.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=PNhYW2XtQk8"
-    },
-    {
-      "video_id": "U3ykVbUkfRI",
-      "channel_theme": "Collapse across love, career, and home clears the way for total transformation.",
+      "video_id": "ebKLvm3WuQ0",
+      "channel_theme": "Breaking free from toxic patterns could finally open the door to true soulmate connection.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=U3ykVbUkfRI"
+      "url": "https://www.youtube.com/watch?v=ebKLvm3WuQ0"
+    },
+    {
+      "video_id": "YHcQkvsJ9DI",
+      "channel_theme": "Steady persistence now will build a lasting legacy and lasting competitive edge.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=YHcQkvsJ9DI"
+    },
+    {
+      "video_id": "rOadIn8UARM",
+      "channel_theme": "A passionate connection is stalling because neither person will make the first move.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=rOadIn8UARM"
+    },
+    {
+      "video_id": "an7964jogVo",
+      "channel_theme": "A highly visible, world-stage opportunity is now within Scorpio's reach.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=an7964jogVo"
     }
-  ],
-  "overall_tone": "cautious"
+  ]
 }

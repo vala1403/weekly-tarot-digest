@@ -1,60 +1,60 @@
 {
   "sign": "Leo",
-  "week_of": "2026-07-20",
+  "week_of": "2026-07-29",
   "categories": {
     "love": {
-      "summary": "Most readers sense a period of romantic evaluation and transition for Leo \u2014 carefully assess whether current or incoming connections are truly aligned with what you genuinely want long-term.",
+      "summary": "Most readers sense that a meaningful but emotionally complex connection is shifting \u2014 releasing what no longer fits and opening the door to a healthier, more fulfilling love ahead.",
       "reader_count": 4,
-      "disagreement": "Some readers suggested endings and new beginnings are imminent, while others saw Leo holding steady, staying single, and thoughtfully weighing options rather than making any immediate moves."
+      "disagreement": "Some readers focused on healing and moving on from past hurt, while others emphasized fresh emotional beginnings and incoming love opportunities."
     },
     "finance": {
-      "summary": "Most readers sense financial growth is within reach this week \u2014 trust your instincts and think creatively to draw in abundance and opportunity.",
-      "reader_count": 3,
-      "disagreement": "One reading pointed to sudden material disruption before stability returns, while others suggested straightforward growth and abundance without a turbulent phase first."
+      "summary": "Most readers sense financial strain and potential instability for Leo this week, with the strongest shared advice being to reassess money habits and take practical steps toward greater financial independence or abundance.",
+      "reader_count": 4,
+      "disagreement": "Some readers emphasized caution and budgeting due to looming instability, while others pointed toward positive shifts, entrepreneurial growth, and incoming abundance."
     },
     "career": {
-      "summary": "Most readers see this as a week for Leo to break out of professional comfort zones and take bold steps \u2014 whether by exploring new industries, launching a passion project, or standing out through their unique strengths.",
-      "reader_count": 4,
-      "disagreement": "One reading focused on team-building and recruitment rather than individual boldness, suggesting a more collaborative or evaluative role than the entrepreneurial risk-taking others emphasized."
+      "summary": "Most readers see Leo on the verge of a meaningful professional shift this week \u2014 the key advice is to move forward boldly despite inner doubt, rather than waiting for the perfect moment or outside push.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on internal self-doubt as the main obstacle to overcome, while others pointed to external dynamics like colleague tension or leaving familiar environments as the primary challenge."
     },
     "family": {
-      "summary": "Only two readers touched on family this week \u2014 one points to navigating a shift in how Leos are perceived by loved ones, while the other urges leaning on supportive connections rather than withdrawing when gossip creates distance.",
-      "reader_count": 2,
-      "disagreement": "One reading focuses on Leos stepping into a new self with family, while the other centers on betrayal and social interference \u2014 different emotional tones and starting points."
+      "summary": "Most readers highlight a warm, nurturing energy in Leo's family life this week, with supportive figures offering stability and a deeper sense of belonging \u2014 though one reading notes that household tensions may arise, and Leo needn't take on every conflict as their own.",
+      "reader_count": 3,
+      "disagreement": "Some readers saw family as a source of unconditional support and connection. One suggested home-life friction or disruption may be present instead."
     }
   },
-  "overall_tone_summary": "You have more pull in this situation than you've been giving yourself credit for.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Deep shifts are underway, carrying genuine promise for what comes next.",
   "readers": [
     {
-      "video_id": "cPiqqqQeoDw",
-      "channel_theme": "Transform your professional identity by applying existing skills in an entirely new industry.",
+      "video_id": "k3bdhsspnRE",
+      "channel_theme": "A past soul connection left Leo wiser yet still uncertain about its lessons.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=cPiqqqQeoDw"
+      "url": "https://www.youtube.com/watch?v=k3bdhsspnRE"
     },
     {
-      "video_id": "_UmrCg1VMzI",
-      "channel_theme": "Trust your gut feeling to unlock significant material abundance very soon.",
+      "video_id": "VQujPf7FOdU",
+      "channel_theme": "Leo may find a calling in counseling, drawing strength from personal hardships.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=_UmrCg1VMzI"
+      "url": "https://www.youtube.com/watch?v=VQujPf7FOdU"
     },
     {
-      "video_id": "Z7ZgcbwebfE",
-      "channel_theme": "Many Leos are choosing to stay single and focus on self-growth now.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=Z7ZgcbwebfE"
+      "video_id": "E6Xxmn35Z7s",
+      "channel_theme": "Leo should step away from draining relationships and reclaim their emotional freedom.",
+      "tone": "celebratory",
+      "url": "https://www.youtube.com/watch?v=E6Xxmn35Z7s"
     },
     {
-      "video_id": "O4y6ABAC644",
-      "channel_theme": "Third-party gossip may be secretly driving a painful family or friendship rift.",
+      "video_id": "RE8vSX8LHWk",
+      "channel_theme": "Leo is moving toward entrepreneurial independence after a period of loss.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=O4y6ABAC644"
+      "url": "https://www.youtube.com/watch?v=RE8vSX8LHWk"
     },
     {
-      "video_id": "F5QqM4n92UY",
-      "channel_theme": "A sudden financial disruption is coming, but stability will follow after waiting.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=F5QqM4n92UY"
+      "video_id": "Tt0UCx05Jp4",
+      "channel_theme": "New love and emotional openness are arriving after a period of self-doubt.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=Tt0UCx05Jp4"
     }
-  ],
-  "overall_tone": "empowering"
+  ]
 }

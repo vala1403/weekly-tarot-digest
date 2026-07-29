@@ -1,60 +1,60 @@
 {
   "sign": "Pisces",
-  "week_of": "2026-07-20",
+  "week_of": "2026-07-29",
   "categories": {
     "love": {
-      "summary": "Most readers sense emotional healing and transition in love this week \u2014 letting go of past wounds, manipulation, or heartbreak is essential to opening yourself up to something more genuine and fulfilling.",
+      "summary": "Most readers this week sense a meaningful romantic opportunity approaching for Pisces \u2014 the shared advice is to carefully consider whether and how to open your heart, rather than acting impulsively or staying emotionally guarded.",
       "reader_count": 5,
-      "disagreement": "Some readers saw an exciting new connection arriving, while others pointed to ongoing struggles like communication gaps or dishonesty still needing resolution before love can truly flourish."
+      "disagreement": "Some readers encouraged strategic patience and discernment before engaging. Others emphasized releasing past wounds and reopening the heart more freely to incoming energy."
     },
     "finance": {
-      "summary": "Most readers sense a financial turning point this week \u2014 new opportunities may be arriving to reward past efforts, but staying persistent and investing your energy only in what truly gives back will be key.",
-      "reader_count": 4,
-      "disagreement": "Some readers focused on incoming opportunities and rewards, while others emphasized reassessing current paths and confronting difficult truths before progress can be made."
+      "summary": "A stable financial opportunity that has been developing over time seems poised to arrive \u2014 most readers suggest patience and avoiding impulsive decisions will be key to making the most of it.",
+      "reader_count": 3,
+      "disagreement": "One reading warned of a tempting offer with hidden conditions or compromises, while others focused on steady progress and favorable outcomes through restraint."
     },
     "career": {
-      "summary": "Career momentum is building for Pisces this week \u2014 most readers agree that persistence through challenges is essential right now, as breakthroughs, new opportunities, and tangible rewards appear to be just within reach.",
-      "reader_count": 4,
-      "disagreement": "Some readers focused on an imminent external opportunity to seize boldly, while others emphasized enduring an ongoing difficult stretch before the payoff arrives."
+      "summary": "Only two readers addressed career this week \u2014 one highlighted collaborative energy and new beginnings alongside a potential tension between income and passion, while the other urged quiet, strategic preparation before making any bold professional moves.",
+      "reader_count": 2,
+      "disagreement": "One reading emphasized active partnership and new starts; the other suggested holding back and planning carefully before acting \u2014 contrasting approaches to timing and boldness."
     },
     "family": {
-      "summary": "Few readers touched on family this week; the one who did pointed to possible feelings of betrayal or injustice in a domestic or parental situation, with potential legal dimensions.",
+      "summary": "Few readers touched on family this week; the one who did suggested that collaborating with those at home on shared goals or household improvements could be especially productive.",
       "reader_count": 1,
       "disagreement": null
     }
   },
-  "overall_tone_summary": "A door you kept closed swings open, and walking through it feels right.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "Optimism lights the way forward, even through uncertainty this week.",
   "readers": [
     {
-      "video_id": "kOjdw2SqXpg",
-      "channel_theme": "Disciplined effort now can translate directly into financial and career gains.",
+      "video_id": "TmvoMgCMGgI",
+      "channel_theme": "Healing past wounds opens the door to a bold new romantic beginning.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=kOjdw2SqXpg"
+      "url": "https://www.youtube.com/watch?v=TmvoMgCMGgI"
     },
     {
-      "video_id": "CJ_4CKOkuYE",
-      "channel_theme": "A romantic connection is quietly eroding due to unspoken emotional distance.",
+      "video_id": "lP87pkUb3_8",
+      "channel_theme": "Long-awaited financial stability is finally arriving at just the right moment.",
+      "tone": "introspective",
+      "url": "https://www.youtube.com/watch?v=lP87pkUb3_8"
+    },
+    {
+      "video_id": "MleqKmY06pc",
+      "channel_theme": "A tempting offer may force a hard choice between money and fulfillment.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=CJ_4CKOkuYE"
+      "url": "https://www.youtube.com/watch?v=MleqKmY06pc"
     },
     {
-      "video_id": "ZGO49pePggo",
-      "channel_theme": "You are breaking free from a controlling partner and reclaiming your independence.",
-      "tone": "liberating",
-      "url": "https://www.youtube.com/watch?v=ZGO49pePggo"
-    },
-    {
-      "video_id": "w82yDuanh2s",
-      "channel_theme": "A shocking betrayal or broken promise may actually open a joyful new chapter.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=w82yDuanh2s"
-    },
-    {
-      "video_id": "9eyf5NJuy5Y",
-      "channel_theme": "Forgiveness is the essential key to unlocking new love and fulfillment.",
+      "video_id": "kXgZ-UdPf3I",
+      "channel_theme": "Use discernment to decide whether an incoming romantic offer is truly right.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=9eyf5NJuy5Y"
+      "url": "https://www.youtube.com/watch?v=kXgZ-UdPf3I"
+    },
+    {
+      "video_id": "_5CQeyE6DVw",
+      "channel_theme": "Play it cool strategically \u2014 don't reveal your hand too soon in love.",
+      "tone": "strategic",
+      "url": "https://www.youtube.com/watch?v=_5CQeyE6DVw"
     }
-  ],
-  "overall_tone": "liberating"
+  ]
 }

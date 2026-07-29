@@ -1,59 +1,59 @@
 {
   "sign": "Piscis",
-  "week_of": "2026-07-20",
+  "week_of": "2026-07-29",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores perciben sanación emocional y cambio en el amor esta semana — soltar las heridas del pasado, la manipulación o el desamor es fundamental para abrirte a algo más genuino y significativo.",
+      "summary": "La mayoría de los lectores esta semana perciben que se acerca una oportunidad romántica significativa para Piscis. El consejo generalizado es reflexionar con cuidado sobre si abrir el corazón y cómo hacerlo, en lugar de actuar impulsivamente o mantenerse emocionalmente a la defensiva.",
       "reader_count": 5,
-      "disagreement": "Algunos lectores vieron llegar una nueva conexión emocionante, mientras que otros señalaron que aún quedan pendientes como la falta de comunicación o la deshonestidad que deben resolverse antes de que el amor pueda florecer de verdad."
+      "disagreement": "Algunos lectores recomendaron paciencia estratégica y discernimiento antes de involucrarse. Otros, en cambio, hicieron énfasis en soltar las heridas del pasado y abrirse con mayor libertad a la energía entrante."
     },
     "finance": {
-      "summary": "La mayoría de los lectores perciben un punto de inflexión financiero esta semana — nuevas oportunidades podrían llegar para recompensar el esfuerzo del pasado, pero mantener la constancia e invertir tu energía solo en lo que realmente te da frutos será clave.",
-      "reader_count": 4,
-      "disagreement": "Algunos lectores se enfocaron en las oportunidades y recompensas que se aproximan, mientras que otros hicieron hincapié en la necesidad de reevaluar el camino actual y enfrentar verdades difíciles antes de poder avanzar."
+      "summary": "Una oportunidad financiera estable que ha venido gestándose parece estar a punto de concretarse. La mayoría de los lectores sugieren que la paciencia y evitar las decisiones impulsivas serán claves para aprovecharla al máximo.",
+      "reader_count": 3,
+      "disagreement": "Una lectura advirtió sobre una oferta tentadora que podría tener condiciones ocultas o implicar concesiones importantes, mientras que otras se enfocaron en el avance constante y los resultados favorables que trae la moderación."
     },
     "career": {
-      "summary": "El impulso profesional está creciendo para Piscis esta semana — la mayoría de los lectores coinciden en que la perseverancia ante los obstáculos es esencial en este momento, ya que los grandes avances, las nuevas oportunidades y las recompensas tangibles parecen estar al alcance de la mano.",
-      "reader_count": 4,
-      "disagreement": "Algunos lectores se centraron en una oportunidad externa inminente que hay que aprovechar con decisión, mientras que otros destacaron la importancia de atravesar una etapa difícil antes de ver los resultados."
+      "summary": "Solo dos lectores abordaron el tema laboral esta semana: uno destacó una energía de colaboración y nuevos comienzos, junto con una posible tensión entre los ingresos y la vocación, mientras que el otro instó a una preparación tranquila y estratégica antes de dar cualquier paso profesional audaz.",
+      "reader_count": 2,
+      "disagreement": "Una lectura puso el acento en la asociación activa y los nuevos arranques, mientras que la otra sugería contenerse y planificar con cuidado antes de actuar — dos enfoques contrastantes sobre el momento oportuno y la audacia."
     },
     "family": {
-      "summary": "Pocos lectores abordaron el tema familiar esta semana; el único que lo hizo señaló posibles sentimientos de traición o injusticia en el entorno doméstico o parental, con posibles implicaciones legales.",
+      "summary": "Pocos lectores tocaron el tema familiar esta semana; el que lo hizo sugirió que colaborar con quienes conviven en casa en metas compartidas o mejoras del hogar podría ser especialmente productivo.",
       "reader_count": 1,
       "disagreement": null
     }
   },
-  "overall_tone_summary": "Una puerta que mantuviste cerrada se abre, y cruzarla se siente como lo correcto.",
+  "overall_tone_summary": "El optimismo ilumina el camino a seguir, incluso en medio de la incertidumbre de esta semana.",
   "readers": [
     {
-      "video_id": "kOjdw2SqXpg",
-      "channel_theme": "El esfuerzo y la disciplina de ahora pueden traducirse directamente en logros financieros y profesionales.",
+      "video_id": "TmvoMgCMGgI",
+      "channel_theme": "Sanar las heridas del pasado abre la puerta a un nuevo y valiente comienzo romántico.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=kOjdw2SqXpg"
+      "url": "https://www.youtube.com/watch?v=TmvoMgCMGgI"
     },
     {
-      "video_id": "CJ_4CKOkuYE",
-      "channel_theme": "Una conexión romántica se va desgastando en silencio por la distancia emocional que no se expresa.",
+      "video_id": "lP87pkUb3_8",
+      "channel_theme": "La estabilidad financiera tan esperada llega por fin en el momento justo.",
+      "tone": "introspectivo",
+      "url": "https://www.youtube.com/watch?v=lP87pkUb3_8"
+    },
+    {
+      "video_id": "MleqKmY06pc",
+      "channel_theme": "Una oferta tentadora podría obligarte a elegir entre el dinero y la realización personal.",
       "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=CJ_4CKOkuYE"
+      "url": "https://www.youtube.com/watch?v=MleqKmY06pc"
     },
     {
-      "video_id": "ZGO49pePggo",
-      "channel_theme": "Estás liberándote de una pareja controladora y recuperando tu independencia.",
-      "tone": "liberador",
-      "url": "https://www.youtube.com/watch?v=ZGO49pePggo"
-    },
-    {
-      "video_id": "w82yDuanh2s",
-      "channel_theme": "Una traición impactante o una promesa rota podrían abrir inesperadamente un nuevo y alegre capítulo en tu vida.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=w82yDuanh2s"
-    },
-    {
-      "video_id": "9eyf5NJuy5Y",
-      "channel_theme": "El perdón es la llave esencial para abrir la puerta a un nuevo amor y a la plenitud.",
+      "video_id": "kXgZ-UdPf3I",
+      "channel_theme": "Usa el discernimiento para decidir si una propuesta romántica que se avecina es realmente la indicada para ti.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=9eyf5NJuy5Y"
+      "url": "https://www.youtube.com/watch?v=kXgZ-UdPf3I"
+    },
+    {
+      "video_id": "_5CQeyE6DVw",
+      "channel_theme": "Juega tus cartas con inteligencia — no muestres tu mano demasiado pronto en el amor.",
+      "tone": "estratégico",
+      "url": "https://www.youtube.com/watch?v=_5CQeyE6DVw"
     }
   ]
 }

@@ -1,60 +1,60 @@
 {
   "sign": "Aquarius",
-  "week_of": "2026-07-20",
+  "week_of": "2026-07-29",
   "categories": {
     "love": {
-      "summary": "Aquarius faces a mix of lingering emotional wounds and new romantic possibilities this week \u2014 the clearest advice across readers is to release past disappointments and open the heart to genuine connection and joy.",
-      "reader_count": 4,
-      "disagreement": "Some readers saw new romantic potential and relationship renewal ahead, while one reading emphasized betrayal and letdown from someone who proved untrustworthy."
+      "summary": "Around half the readers this week touched on love for Aquarius, pointing to a moment of openness and renewal \u2014 whether that means welcoming a fresh connection or releasing old wounds to deepen an existing bond.",
+      "reader_count": 3,
+      "disagreement": "Some readers focused on a brand-new romantic beginning, while others emphasized healing and recommitting to an existing relationship."
     },
     "finance": {
-      "summary": "Most readers this week point to financial shifts for Aquarius \u2014 whether a strong incoming gain, a fresh opportunity with long-term potential, or a lingering burden finally lifting, the overall momentum leans toward positive movement and opening doors.",
+      "summary": "Most readers see this as a promising financial period for Aquarius, with new opportunities likely to emerge \u2014 the key advice is to focus on your own monetary growth and let steady, intentional effort build lasting abundance.",
       "reader_count": 4,
-      "disagreement": "One reading suggested a professional or financial opportunity may have fallen short, leaving disappointment rather than gain \u2014 a notably different outlook from the more optimistic readings."
+      "disagreement": "Some readers emphasized gradual, consistent progress toward financial stability, while others pointed to sudden or unexpected opportunities arriving this week."
     },
     "career": {
-      "summary": "Most readers sense a period of meaningful professional momentum for Aquarius \u2014 whether through a mentor's push, smoother advancement after a long climb, or a bold new venture, the overall advice is to step forward with confidence while staying grounded.",
-      "reader_count": 4,
-      "disagreement": "One reading warned of a deceptive coworker requiring a careful exit, while others focused on internal growth and forward movement rather than interpersonal conflict."
+      "summary": "Most readers agree that Aquarius is at a meaningful career turning point \u2014 past efforts are paying off, and now is the time to commit boldly to your path and channel energy into goals that truly matter.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on bold, large-scale long-term ambition, while others emphasized simply redirecting daily energy more purposefully. One noted an outside figure may help stabilize the journey."
     },
     "family": {
-      "summary": "Few readers touched on family this week; among the two who did, one pointed to a joyful new arrival in the Aquarius's inner circle, while the other highlighted the need to set firmer limits with those closest to them.",
+      "summary": "Only two readers touched on family this week \u2014 one pointed to the possibility of domestic harmony returning after hardship, while the other highlighted major life milestones like marriage or starting a family as potential outcomes of taking bold steps forward.",
       "reader_count": 2,
-      "disagreement": "One reading focused on a happy, expansive family event, while the other suggested Aquarius is being drained by family demands and must pull back."
+      "disagreement": "One reading focused on rebuilding everyday home life and inner contentment, while the other emphasized formal commitments and major life decisions \u2014 slightly different scales of domestic change."
     }
   },
-  "overall_tone_summary": "Forces outside your control are rearranging things in ways that matter.",
+  "overall_tone": "empowering",
+  "overall_tone_summary": "Aquarius steps boldly into its own strength this week.",
   "readers": [
     {
-      "video_id": "2WUlmUZWejQ",
-      "channel_theme": "Embrace an unfamiliar venture, knowing a moment of honest self-reckoning awaits.",
-      "tone": "adventurous",
-      "url": "https://www.youtube.com/watch?v=2WUlmUZWejQ"
+      "video_id": "6pm85X1DIBg",
+      "channel_theme": "A nearly two-decade window of professional authority is now opening for Aquarius.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=6pm85X1DIBg"
     },
     {
-      "video_id": "NKA0HzkHc5Y",
-      "channel_theme": "A deceptive coworker is causing drama, but walking away protects your reputation.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=NKA0HzkHc5Y"
+      "video_id": "RMqsN7ZxUk8",
+      "channel_theme": "Major milestones like marriage, proposals, or starting a family are highlighted this week.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=RMqsN7ZxUk8"
     },
     {
-      "video_id": "oAbo7eiXh2k",
-      "channel_theme": "Restore fun to your relationship before seriousness tips the balance too far.",
-      "tone": "reflective",
-      "url": "https://www.youtube.com/watch?v=oAbo7eiXh2k"
+      "video_id": "J4a9O_sQhHw",
+      "channel_theme": "Step into leadership now \u2014 you already have the wisdom needed.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=J4a9O_sQhHw"
     },
     {
-      "video_id": "Sk9hxhSrOHA",
-      "channel_theme": "Someone in your inner circle is expecting a new baby soon.",
-      "tone": "triumphant",
-      "url": "https://www.youtube.com/watch?v=Sk9hxhSrOHA"
+      "video_id": "_xennl8il7o",
+      "channel_theme": "A Sagittarius connection may spark new romance after a difficult period.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=_xennl8il7o"
     },
     {
-      "video_id": "so3SxbmYMkI",
-      "channel_theme": "A mentor figure could reignite your ambition and open doors to promotion.",
-      "tone": "healing",
-      "url": "https://www.youtube.com/watch?v=so3SxbmYMkI"
+      "video_id": "S_zA1Kg-JFA",
+      "channel_theme": "Stop enabling financial drains and prioritize your own emerging prosperity.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=S_zA1Kg-JFA"
     }
-  ],
-  "overall_tone": "transformative"
+  ]
 }

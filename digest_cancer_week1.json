@@ -1,60 +1,60 @@
 {
   "sign": "Cancer",
-  "week_of": "2026-07-20",
+  "week_of": "2026-07-29",
   "categories": {
     "love": {
-      "summary": "Several readers sense love is at a turning point for Cancer this week \u2014 whether that means stepping away from what no longer serves you, having honest conversations, or staying open to a meaningful new connection entering your life.",
-      "reader_count": 3,
-      "disagreement": "Some readers saw Cancer potentially ending or stepping back from a relationship, while others suggested a soulmate-type connection arriving or deepening \u2014 opposite directions for love this week."
+      "summary": "Most readers see Cancer moving through emotional healing toward a new romantic possibility \u2014 releasing past pain and staying open to connection appears to be the week's clearest shared message.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on an active new romantic opportunity arriving now, while others emphasized healing from a specific past wound or separation as the necessary first step."
     },
     "finance": {
-      "summary": "Most readers see financial opportunity and abundance heading Cancer's way this week \u2014 the key is to shift away from scarcity thinking, make smart choices, and avoid overspending to make the most of it.",
-      "reader_count": 5,
-      "disagreement": "Some readers focused on incoming rewards and new opportunities, while others emphasized caution, protection, and recognizing when to move on from unstable situations."
+      "summary": "Most readers agree that steady, consistent effort is the key to Cancer's financial growth this week \u2014 with the right mindset and persistence, meaningful progress and material stability are well within reach.",
+      "reader_count": 4,
+      "disagreement": "Some readers emphasized taking bold action to seize new opportunities, while others focused on gradual, patient effort as the path to financial success."
     },
     "career": {
-      "summary": "Most readers sense real career momentum building for Cancer this week \u2014 whether through a bold opportunity, new offer, or passion project, the clearest shared advice is to commit fully and make a decisive move forward.",
-      "reader_count": 5,
-      "disagreement": "One reading focused on nurturing a personal passion project as a future career path, while others pointed to external opportunities like job offers, promotions, or influential connections already emerging now."
+      "summary": "Most readers see this as a pivotal week for Cancer's career \u2014 bold action, focused effort, and persistence are key, as meaningful progress or a significant opportunity is within reach.",
+      "reader_count": 4,
+      "disagreement": "Some readers highlighted zeroing in on one goal to reach completion, while others encouraged branching out into new directions entirely."
     },
     "family": {
-      "summary": "Family themes are prominent this week, with many readers sensing that relationships \u2014 whether strained, distant, or close \u2014 are calling for attention; reconnecting with loved ones or leaning into those bonds could offer real emotional restoration and renewed clarity.",
-      "reader_count": 5,
-      "disagreement": "Some readers saw family as a source of tension or sacrifice, while others suggested it as a source of comfort and motivation worth leaning into."
+      "summary": "Only a couple of readers touched on family this week \u2014 those who did suggested Cancer may be juggling too many responsibilities and would benefit from leaning on others while being more intentional about who truly belongs in their circle going forward.",
+      "reader_count": 2,
+      "disagreement": "One reading focused on managing overextension through delegation, while the other emphasized consciously choosing who deserves a place in Cancer's next chapter."
     }
   },
-  "overall_tone_summary": "Three steps forward this week, and the ground beneath them feels solid.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "A steady current of optimism carries Cancer through the week's changes.",
   "readers": [
     {
-      "video_id": "jqwfV2LYZBs",
-      "channel_theme": "Leaving loved ones behind may be the price of a life-changing opportunity.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=jqwfV2LYZBs"
+      "video_id": "ggZm0eqjmxo",
+      "channel_theme": "Bold action is required now or financial and career opportunities will slip away.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=ggZm0eqjmxo"
     },
     {
-      "video_id": "3O6_4qtPECY",
-      "channel_theme": "An unexpected financial reward is arriving soon from past hard work.",
+      "video_id": "zhFHDPlUfyQ",
+      "channel_theme": "Reviving past passions could unlock a path to financial independence and abundance.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=3O6_4qtPECY"
+      "url": "https://www.youtube.com/watch?v=zhFHDPlUfyQ"
     },
     {
-      "video_id": "EeP-d9fYjtI",
-      "channel_theme": "A reconnection from the past could unexpectedly unlock new doors.",
+      "video_id": "Y3Dpni54IY4",
+      "channel_theme": "Cancer must honestly decide whether reconnecting with an ex would truly bring happiness.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=Y3Dpni54IY4"
+    },
+    {
+      "video_id": "1nKIl9T1bw0",
+      "channel_theme": "Finishing one focused project could lead to a tangible win, especially by August.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=EeP-d9fYjtI"
+      "url": "https://www.youtube.com/watch?v=1nKIl9T1bw0"
     },
     {
-      "video_id": "QYpYYAQj9bA",
-      "channel_theme": "A meaningful soul connection or kindred spirit may enter your life soon.",
+      "video_id": "Z8J05MeCz2Y",
+      "channel_theme": "Cancer is urged to delegate family duties before juggling responsibilities becomes overwhelming.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=QYpYYAQj9bA"
-    },
-    {
-      "video_id": "QaTXMUbd0pA",
-      "channel_theme": "Invest in your passion project \u2014 it could become your true career.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=QaTXMUbd0pA"
+      "url": "https://www.youtube.com/watch?v=Z8J05MeCz2Y"
     }
-  ],
-  "overall_tone": "transformative"
+  ]
 }
