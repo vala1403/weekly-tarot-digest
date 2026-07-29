@@ -224,7 +224,8 @@ def main():
         print(f"Aggregating category: {category}...")
         categories_result[category] = aggregate_category(client, sign, category, readings)
 
-    week_of = datetime.date.today().isoformat()
+    today = datetime.date.today()
+    week_of = (today - datetime.timedelta(days=today.weekday())).isoformat()
     theme_log = load_theme_log()
     history = get_sign_theme_history(theme_log, sign_slug, before_week=week_of)
 
