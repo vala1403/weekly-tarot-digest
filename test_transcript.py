@@ -1,4 +1,5 @@
 """Test script: pull YouTube transcripts and save them as .txt files."""
+import os
 import re
 import sys
 from pathlib import Path
@@ -6,6 +7,31 @@ from urllib.parse import urlparse, parse_qs
 
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import CouldNotRetrieveTranscript
+from youtube_transcript_api.proxies import GenericProxyConfig
+
+
+def load_env_file(path: Path):
+    if not path.exists():
+        return
+    for line in path.read_text().splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, value = line.partition("=")
+        os.environ.setdefault(key.strip(), value.strip())
+
+
+load_env_file(Path(__file__).parent / ".env")
+
+
+def _build_proxy_config():
+    proxy_url = os.environ.get("WEBSHARE_PROXY_URL")
+    if not proxy_url:
+        return None
+    return GenericProxyConfig(http_url=proxy_url, https_url=proxy_url)
+
+
+PROXY_CONFIG = _build_proxy_config()
 
 TEST_URLS = [
     "https://www.youtube.com/watch?v=twhCm_X4FDc",
@@ -34,7 +60,7 @@ def extract_video_id(url: str) -> str:
 
 
 def fetch_transcript_text(video_id: str) -> str:
-    api = YouTubeTranscriptApi()
+    api = YouTubeTranscriptApi(proxy_config=PROXY_CONFIG)
     fetched = api.fetch(video_id)
     return " ".join(snippet.text.strip() for snippet in fetched if snippet.text.strip())
 
