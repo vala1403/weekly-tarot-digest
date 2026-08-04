@@ -1,60 +1,60 @@
 {
   "sign": "Libra",
-  "week_of": "2026-07-27",
+  "week_of": "2026-08-03",
   "categories": {
     "love": {
-      "summary": "Most readers see meaningful romantic potential arriving for Libra this week, with the shared advice being to release past emotional wounds and open your heart to welcome a compatible connection in.",
-      "reader_count": 5,
-      "disagreement": "Some readers emphasized a specific, confident romantic figure entering the picture, while others kept the possibility more open-ended, whether someone new or an existing relationship deepening."
+      "summary": "Love readings this week are mixed \u2014 some Libras may welcome new romantic potential, but patience is key, as meaningful connections cannot be forced and timing matters greatly.",
+      "reader_count": 3,
+      "disagreement": "One reader saw hopeful new romantic possibilities, while another warned that a connection may have been built on false promises and emotional deception."
     },
     "finance": {
-      "summary": "All five readers point to a period of growing financial abundance for Libra — nurturing what's already been built, whether through property, partnerships, or new opportunities, appears to be the key to sustaining that momentum.",
+      "summary": "Most readers this week point to financial independence as a central theme for Libra \u2014 whether through leveraging personal strengths, shifting to an abundance mindset, or standing on your own, the consistent advice is to trust your self-sufficiency and make deliberate, empowered financial choices.",
       "reader_count": 5,
-      "disagreement": "Some readers emphasized appreciating existing stability and cultivating what's already present, while others focused on new external figures — investors, partners, or advisors — arriving to accelerate financial growth."
+      "disagreement": "Some readers emphasized inner confidence and stability already in place, while others highlighted an incoming decision or offer requiring careful, strategic action before committing."
     },
     "career": {
-      "summary": "Most readers point to meaningful professional progress on the horizon this week — sustained effort and intentional focus on what truly matters will be the key to unlocking recognition and real growth.",
-      "reader_count": 5,
-      "disagreement": "Some readers emphasized inner focus and productivity to break stagnation, while others saw external recognition and new opportunities arriving soon regardless."
+      "summary": "Most readers see this as a pivotal moment for Libra's career, with bold action, creative thinking, and willingness to release what no longer fits potentially unlocking a major breakthrough or lasting success.",
+      "reader_count": 4,
+      "disagreement": "One reader cautioned that an opportunity may be misleading or exploitative, while others viewed incoming offers as genuinely promising and worth pursuing."
     },
     "family": {
-      "summary": "Most readers this week sense that celebrations, gatherings, and meaningful connections with loved ones are especially favored for Libra — lean into community and shared joy, as a strong sense of belonging is within reach.",
-      "reader_count": 4,
-      "disagreement": "No notable disagreement among readers who addressed this theme."
+      "summary": "Only a few readers touched on family this week \u2014 those who did pointed to the possibility of renewed happiness at home and the value of leaning on emotionally wise support to navigate relational challenges, with one reader framing it more as quiet reflection on legacy.",
+      "reader_count": 3,
+      "disagreement": "Some readers saw active emotional challenges needing outside support, while one framed family themes as personal reflection on legacy rather than immediate relational dynamics."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "Triumph and transformation open bright doors for Libra this week.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Shifts this week invite Libra to release old patterns and embrace renewal.",
   "readers": [
     {
-      "video_id": "L-Np3hZR56A",
-      "channel_theme": "Gratitude for current abundance is the key to growing future prosperity.",
+      "video_id": "hCpJUQa_pS4",
+      "channel_theme": "Marriage and lasting happiness may be just around the corner for Libra.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=L-Np3hZR56A"
+      "url": "https://www.youtube.com/watch?v=hCpJUQa_pS4"
     },
     {
-      "video_id": "f8AN1RKUIY4",
-      "channel_theme": "Fear is the primary obstacle blocking long-term security and love.",
+      "video_id": "lYWD6z0inEI",
+      "channel_theme": "Patience and perfect timing are essential before love or partnerships can flourish.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=lYWD6z0inEI"
+    },
+    {
+      "video_id": "zCBNs-gUPSs",
+      "channel_theme": "Releasing a burdensome situation opens the door to true independence.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=f8AN1RKUIY4"
+      "url": "https://www.youtube.com/watch?v=zCBNs-gUPSs"
     },
     {
-      "video_id": "gjRGE222i1c",
-      "channel_theme": "Past emotional wounds could prevent embracing a promising new connection.",
-      "tone": "triumphant",
-      "url": "https://www.youtube.com/watch?v=gjRGE222i1c"
+      "video_id": "GzaZBveWLFQ",
+      "channel_theme": "A destined career offer appears, but Libra should negotiate rather than settle.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=GzaZBveWLFQ"
     },
     {
-      "video_id": "wIgHdb2Rh4Q",
-      "channel_theme": "Major public recognition and a platform-elevating opportunity are imminent.",
-      "tone": "triumphant",
-      "url": "https://www.youtube.com/watch?v=wIgHdb2Rh4Q"
-    },
-    {
-      "video_id": "cVRetFpDt9g",
-      "channel_theme": "A new business partner or advisor brings financial celebration and change.",
-      "tone": "celebratory",
-      "url": "https://www.youtube.com/watch?v=cVRetFpDt9g"
+      "video_id": "2k_sQD7_5d4",
+      "channel_theme": "Beware: a promising opportunity or relationship may be built on deception.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=2k_sQD7_5d4"
     }
   ]
 }

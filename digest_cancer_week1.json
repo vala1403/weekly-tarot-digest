@@ -1,60 +1,60 @@
 {
   "sign": "Cancer",
-  "week_of": "2026-07-27",
+  "week_of": "2026-08-03",
   "categories": {
     "love": {
-      "summary": "Most readers see Cancer moving through emotional healing toward a new romantic possibility — releasing past pain and staying open to connection appears to be the week's clearest shared message.",
+      "summary": "Most readers sense a week of emotional clarity for Cancer \u2014 trust your instincts about who belongs in your life, and let connections grow honestly rather than forcing outcomes.",
       "reader_count": 5,
-      "disagreement": "Some readers focused on an active new romantic opportunity arriving now, while others emphasized healing from a specific past wound or separation as the necessary first step."
+      "disagreement": "Some readers saw a potential reunion or returning connection, while others suggested pulling back from shallow bonds or bracing for friction as relationships are reality-tested."
     },
     "finance": {
-      "summary": "Most readers agree that steady, consistent effort is the key to Cancer's financial growth this week — with the right mindset and persistence, meaningful progress and material stability are well within reach.",
+      "summary": "Most readers sense financial relief on the horizon this week \u2014 accepting help, opportunities, or support rather than clinging to scarcity thinking could be the key to unlocking greater stability and confidence.",
       "reader_count": 4,
-      "disagreement": "Some readers emphasized taking bold action to seize new opportunities, while others focused on gradual, patient effort as the path to financial success."
+      "disagreement": "Some readers emphasized receiving offers or support to ease burdens, while others pointed to material abundance already present, cautioning against complacency or inaction."
     },
     "career": {
-      "summary": "Most readers see this as a pivotal week for Cancer's career — bold action, focused effort, and persistence are key, as meaningful progress or a significant opportunity is within reach.",
+      "summary": "Most readers this week see Cancer navigating professional opportunity and reward \u2014 the common thread is to stay consistent and patient, letting outcomes develop naturally rather than forcing them.",
       "reader_count": 4,
-      "disagreement": "Some readers highlighted zeroing in on one goal to reach completion, while others encouraged branching out into new directions entirely."
+      "disagreement": "Some readers encouraged steady, diligent effort toward recognition and reward, while others advised easing off pressure and allowing things to unfold without pushing."
     },
     "family": {
-      "summary": "Only a couple of readers touched on family this week — those who did suggested Cancer may be juggling too many responsibilities and would benefit from leaning on others while being more intentional about who truly belongs in their circle going forward.",
+      "summary": "Only two readers touched on family this week \u2014 one suggested that emotional friction in close relationships calls for patience and space, while the other highlighted a warm, supportive circle ready to celebrate and uplift you through change.",
       "reader_count": 2,
-      "disagreement": "One reading focused on managing overextension through delegation, while the other emphasized consciously choosing who deserves a place in Cancer's next chapter."
+      "disagreement": "One reading advised stepping back from conflict to preserve harmony; the other emphasized leaning into supportive connections. The tones \u2014 cautious distance vs. warm togetherness \u2014 point in opposite directions."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "A steady current of optimism carries Cancer through the week's changes.",
+  "overall_tone": "cautious",
+  "overall_tone_summary": "Pause before acting \u2014 this week rewards careful steps over bold leaps.",
   "readers": [
     {
-      "video_id": "ggZm0eqjmxo",
-      "channel_theme": "Bold action is required now or financial and career opportunities will slip away.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=ggZm0eqjmxo"
+      "video_id": "uLaT-4ATt9g",
+      "channel_theme": "A concrete offer or opportunity is coming and accepting imperfection will unlock progress.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=uLaT-4ATt9g"
     },
     {
-      "video_id": "zhFHDPlUfyQ",
-      "channel_theme": "Reviving past passions could unlock a path to financial independence and abundance.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=zhFHDPlUfyQ"
-    },
-    {
-      "video_id": "Y3Dpni54IY4",
-      "channel_theme": "Cancer must honestly decide whether reconnecting with an ex would truly bring happiness.",
+      "video_id": "E4J66EyvrSA",
+      "channel_theme": "Avoid forcing outcomes; patience and restraint are this week's most important tools.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=Y3Dpni54IY4"
+      "url": "https://www.youtube.com/watch?v=E4J66EyvrSA"
     },
     {
-      "video_id": "1nKIl9T1bw0",
-      "channel_theme": "Finishing one focused project could lead to a tangible win, especially by August.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=1nKIl9T1bw0"
+      "video_id": "88LGUs47orQ",
+      "channel_theme": "Releasing a scarcity mindset opens the door to abundance and celebration.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=88LGUs47orQ"
     },
     {
-      "video_id": "Z8J05MeCz2Y",
-      "channel_theme": "Cancer is urged to delegate family duties before juggling responsibilities becomes overwhelming.",
+      "video_id": "ko4V4dvQnY0",
+      "channel_theme": "Cancer is building real financial independence and self-sufficiency this week.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=Z8J05MeCz2Y"
+      "url": "https://www.youtube.com/watch?v=ko4V4dvQnY0"
+    },
+    {
+      "video_id": "dvIS1AHnl-s",
+      "channel_theme": "A Mercury retrograde departure may be returning to offer reconciliation and stability.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=dvIS1AHnl-s"
     }
   ]
 }

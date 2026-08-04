@@ -146,17 +146,35 @@ Set reader_count based on how many of the 5 readers touched on the theme describ
 
 def aggregate_tone(client: anthropic.Anthropic, sign: str, readings: list, history: list) -> dict:
     tones = ", ".join(f"{r['video_id']}: {r['tags']['overall_tone']}" for r in readings)
-    vocab_list = ", ".join(THEME_VOCABULARY)
+
+    excluded = {h["theme"] for h in history}
+    allowed = [t for t in THEME_VOCABULARY if t not in excluded]
+    if not allowed:
+        raise RuntimeError(
+            f"All theme vocabulary words are excluded for {sign} by its last "
+            f"{len(history)} week(s) of history ({sorted(excluded)}). "
+            f"Refusing to silently pick one — expand THEME_VOCABULARY or "
+            f"shorten the lookback window."
+        )
+    vocab_list = ", ".join(allowed)
+    tone_schema = {
+        "type": "object",
+        "properties": {
+            "theme": {"type": "string", "enum": allowed},
+            "note": {"type": "string"},
+        },
+        "required": ["theme", "note"],
+        "additionalProperties": False,
+    }
 
     if history:
         history_lines = "\n".join(f"  {h['week']}: {h['theme']}" for h in history)
-        last_theme = history[0]["theme"]
         history_block = f"""
 
 This sign's theme history for the last {len(history)} week(s) (most recent first):
 {history_lines}
 
-The most recent week used "{last_theme}". If "{last_theme}" still fits, prefer a different word from the vocabulary instead — unless this week's readings truly repeat that exact energy, in which case it's fine to reuse it."""
+Every one of those themes is excluded from the choices below — none of them may be reused within this lookback window, not just the most recent one."""
     else:
         history_block = ""
 
@@ -165,14 +183,14 @@ The most recent week used "{last_theme}". If "{last_theme}" still fits, prefer a
 {tones}
 {history_block}
 
-Pick exactly ONE dominant theme word from this fixed vocabulary — do not use any word outside this list:
+Pick exactly ONE dominant theme word from this vocabulary — do not use any word outside this list:
 {vocab_list}
 
 If the 5 readings genuinely lean toward two different themes, choose the stronger or more specific one as dominant. Do not blend two theme words together into one phrase (e.g. never "transformative and hopeful" or "hopeful and empowering") — pick one.
 
 Then write ONE short, natural sentence (under 14 words) capturing the week's mood around that single theme. Vary your sentence structure and word choice — don't default to a template like "Mostly [theme] with a note of caution" every time. Write it as if describing this specific week's energy, not filling in a fixed pattern."""
 
-    return call_json(client, prompt, TONE_SCHEMA)
+    return call_json(client, prompt, tone_schema)
 
 
 def summarize_readers(client: anthropic.Anthropic, sign: str, readings: list) -> dict:

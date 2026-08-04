@@ -1,60 +1,60 @@
 {
   "sign": "Virgo",
-  "week_of": "2026-07-27",
+  "week_of": "2026-08-03",
   "categories": {
     "love": {
-      "summary": "Most readers this week sense a pivotal shift in Virgo's love life — releasing what no longer serves you, whether through a difficult decision or a natural departure, creates the space needed for something more genuine and fulfilling to arrive.",
+      "summary": "Most readers sense a shift toward clarity and deeper commitment in Virgo's love life this week \u2014 trust your intuition to guide you away from what no longer serves and toward connections built on genuine emotional foundation.",
       "reader_count": 4,
-      "disagreement": "Some readers saw an ending or release as necessary and empowering. Others suggested a reconciliation or second chance may be on the horizon instead."
+      "disagreement": "Some readers saw Virgo walking away from a deceptive partner entirely, while others suggested new or existing relationships are moving toward deeper commitment and tenderness."
     },
     "finance": {
-      "summary": "Three readers point to a promising week for Virgo's finances, with opportunities and abundance on the horizon — the key is to act on concrete plans while staying grounded and avoiding being swayed by overly persuasive offers or fixations on material gain.",
-      "reader_count": 3,
-      "disagreement": "Some readers emphasized cautious discernment around financial pitches, while others focused purely on optimism and taking action — one leaned more toward vigilance, the others toward confidence."
+      "summary": "Most readers sense a quiet financial stability for Virgo this week, with hints of an emerging breakthrough just around the corner \u2014 so invest energy wisely and avoid spending on what doesn't truly serve your growth.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw Virgo as already secure and grounded, while others suggested a key piece is still missing or a breakthrough is still pending."
     },
     "career": {
-      "summary": "Most readers sense a busy, purposeful week ahead for Virgo at work — leaning into collaboration, delegating where possible, and avoiding the trap of overextending will help maintain momentum without burning out.",
-      "reader_count": 4,
-      "disagreement": "Some readers saw potential dissatisfaction or a crossroads requiring a careful decision to stay or leave, while others pointed to new openings and a clear call toward leadership."
+      "summary": "Most readers see Virgo on the verge of a meaningful professional breakthrough this week \u2014 the clearest shared advice is to take decisive, committed action rather than hesitating, so that hard work can finally translate into real recognition or advancement.",
+      "reader_count": 5,
+      "disagreement": "Some readers urged bold, immediate action toward a long-held goal, while others cautioned against impulsiveness and stressed careful, strategic movement instead."
     },
     "family": {
-      "summary": "Only a few readers touched on family this week — those who did pointed to positive shifts in trust and connection, with one noting that personal growth tends to benefit loved ones too.",
-      "reader_count": 2,
-      "disagreement": "One reading urged Virgos to leave unhealthy family or co-parenting situations rather than staying for security, while others saw family bonds strengthening and blessings emerging."
+      "summary": "Three readers touched on family this week, with themes of warmth, caregiving, and deepening bonds at the fore \u2014 Virgos are encouraged to lean into these connections, whether nurturing existing ties or navigating more complex family dynamics toward resolution.",
+      "reader_count": 3,
+      "disagreement": "Some readers saw gentle, nurturing family warmth, while one described a tenser situation where something feels unjustly at stake before resolution arrives."
     }
   },
-  "overall_tone": "transformative",
-  "overall_tone_summary": "Deep shifts are underway, urging Virgo to embrace meaningful change this week.",
+  "overall_tone": "liberating",
+  "overall_tone_summary": "Old constraints finally loosen, making room for a freer path forward.",
   "readers": [
     {
-      "video_id": "LAFfYvucQjQ",
-      "channel_theme": "Be skeptical of smooth talkers; judge actions over words in love and finance.",
+      "video_id": "MDrl4niemIc",
+      "channel_theme": "Stop stalling and start sacrificing to finally bring your long-held vision to life.",
+      "tone": "motivational",
+      "url": "https://www.youtube.com/watch?v=MDrl4niemIc"
+    },
+    {
+      "video_id": "sdVeKliT48g",
+      "channel_theme": "A moment of clarity will liberate Virgo from a deceptive, emotionally unavailable partner.",
+      "tone": "liberating",
+      "url": "https://www.youtube.com/watch?v=sdVeKliT48g"
+    },
+    {
+      "video_id": "Ko1Q_fiRptI",
+      "channel_theme": "Avoid impulsive moves; nearly everything is in place but one key piece is missing.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=LAFfYvucQjQ"
+      "url": "https://www.youtube.com/watch?v=Ko1Q_fiRptI"
     },
     {
-      "video_id": "TRutcrWWPW0",
-      "channel_theme": "Virgo faces a decisive fork: forgive and stay, or walk away for good.",
+      "video_id": "Itz-fHB-eOA",
+      "channel_theme": "Completing an unfinished project this week could bring notable public recognition and victory.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=TRutcrWWPW0"
+      "url": "https://www.youtube.com/watch?v=Itz-fHB-eOA"
     },
     {
-      "video_id": "cpbwA4hwetQ",
-      "channel_theme": "A departure clears the path for fresh beginnings and bold new plans.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=cpbwA4hwetQ"
-    },
-    {
-      "video_id": "N7O8GYFC3hE",
-      "channel_theme": "Release fear-based attachments; self-worth matters more than clinging to security.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=N7O8GYFC3hE"
-    },
-    {
-      "video_id": "yrJoYk6wQdc",
-      "channel_theme": "An unexpected reconciliation is near, bringing emotional healing and renewed connection.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=yrJoYk6wQdc"
+      "video_id": "_EvBrf2Iwtg",
+      "channel_theme": "Intuitive clarity will guide Virgo toward a meaningful romantic commitment after past turmoil.",
+      "tone": "cautiously hopeful",
+      "url": "https://www.youtube.com/watch?v=_EvBrf2Iwtg"
     }
   ]
 }

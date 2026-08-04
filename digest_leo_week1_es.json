@@ -1,59 +1,59 @@
 {
   "sign": "Leo",
-  "week_of": "2026-07-27",
+  "week_of": "2026-08-03",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores perciben que una conexión significativa, aunque emocionalmente compleja, está atravesando una transformación: soltando lo que ya no encaja y abriendo la puerta a un amor más sano y pleno en el horizonte.",
-      "reader_count": 4,
-      "disagreement": "Algunos lectores se centraron en la sanación y en dejar atrás heridas del pasado, mientras que otros destacaron nuevos comienzos emocionales y oportunidades de amor que se aproximan."
+      "summary": "Varios lectores perciben tensión en torno a una conexión personal que aleja a Leo de su propio camino — la pregunta clave de esta semana podría ser si es momento de alejarse o de abrir el corazón con claridad y honestidad.",
+      "reader_count": 3,
+      "disagreement": "Algunos lectores vieron la necesidad de distanciarse de una conexión que agota, mientras que otros sugirieron que abrir el corazón podría llevar a Leo hacia una felicidad genuina o un nuevo despertar romántico."
     },
     "finance": {
-      "summary": "La mayoría de los lectores perciben tensión económica e inestabilidad potencial para Leo esta semana; el consejo más compartido es revisar los hábitos financieros y dar pasos concretos hacia una mayor independencia o abundancia económica.",
-      "reader_count": 4,
-      "disagreement": "Algunos lectores hicieron hincapié en la precaución y el manejo del presupuesto ante una posible inestabilidad, mientras que otros apuntaron hacia cambios positivos, crecimiento emprendedor y abundancia que se acerca."
+      "summary": "La mayoría de los lectores percibe que un período de estabilidad financiera se aproxima para Leo, con esfuerzos pasados que comienzan a dar frutos reales — mantente abierto a las oportunidades que llegan en lugar de acomodarte demasiado o quedarte atrapado en la preocupación.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores destacaron las recompensas que se avecinan y la estabilidad como un cambio positivo, mientras que uno hizo hincapié en la ansiedad y la desconexión de esa estabilidad, y otro advirtió contra la complacencia que podría frenar el crecimiento."
     },
     "career": {
-      "summary": "La mayoría de los lectores ven a Leo al borde de un cambio profesional importante esta semana; el consejo clave es avanzar con determinación a pesar de las dudas internas, en lugar de esperar el momento perfecto o un empujón externo.",
+      "summary": "La mayoría de los lectores percibe un momento decisivo en la carrera de Leo esta semana — mantén el foco en los objetivos a largo plazo, equilibra los impulsos audaces con una estrategia cuidadosa y permanece abierto a las nuevas oportunidades que se presenten en tu camino.",
       "reader_count": 5,
-      "disagreement": "Algunos lectores se enfocaron en la autocrítica y la inseguridad como el principal obstáculo a superar, mientras que otros señalaron dinámicas externas —como tensiones con compañeros o la necesidad de alejarse de entornos conocidos— como el desafío central."
+      "disagreement": "Algunos lectores sugieren que Leo ya se ha desconectado de sus ambiciones y necesita reconectarse, mientras que otros ven un nuevo impulso y el éxito asomándose en el horizonte."
     },
     "family": {
-      "summary": "La mayoría de los lectores destacan una energía cálida y acogedora en la vida familiar de Leo esta semana, con figuras de apoyo que ofrecen estabilidad y un mayor sentido de pertenencia; aunque una lectura señala que pueden surgir tensiones en el hogar, y Leo no tiene por qué cargar con cada conflicto como si fuera suyo.",
-      "reader_count": 3,
-      "disagreement": "Algunos lectores vieron a la familia como fuente de apoyo incondicional y conexión genuina. Uno sugirió que, en cambio, podrían estar presentes fricciones o disrupciones en el entorno doméstico."
+      "summary": "Solo unos pocos lectores abordaron el tema familiar esta semana — quienes lo hicieron señalaron tensiones en torno a los límites y los roles de cuidado, con un suave recordatorio de no absorber el estrés o las cargas que le pertenecen a otros.",
+      "reader_count": 2,
+      "disagreement": "Una lectura se centró en el establecimiento de límites internos con la energía familiar, mientras que otra destacó fricciones externas con una figura de autoridad o materna relacionadas con el control."
     }
   },
-  "overall_tone_summary": "Se están gestando cambios profundos que traen consigo una promesa genuina de lo que está por venir.",
+  "overall_tone_summary": "Una corriente luminosa de optimismo recorre la semana de Leo, invitando a dar pasos valientes hacia adelante.",
   "readers": [
     {
-      "video_id": "k3bdhsspnRE",
-      "channel_theme": "Una conexión del pasado dejó a Leo más sabio, aunque aún con interrogantes sobre las lecciones que trajo consigo.",
+      "video_id": "APHs9uvD18g",
+      "channel_theme": "Una relación cercana está saboteando activamente tus metas y dejándote con la sensación de estar estancado.",
       "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=k3bdhsspnRE"
+      "url": "https://www.youtube.com/watch?v=APHs9uvD18g"
     },
     {
-      "video_id": "VQujPf7FOdU",
-      "channel_theme": "Leo podría descubrir su vocación en el acompañamiento y la orientación a otros, encontrando fortaleza en las dificultades que ha vivido.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=VQujPf7FOdU"
-    },
-    {
-      "video_id": "E6Xxmn35Z7s",
-      "channel_theme": "Leo necesita alejarse de las relaciones que lo agotan y recuperar su libertad emocional.",
-      "tone": "celebratorio",
-      "url": "https://www.youtube.com/watch?v=E6Xxmn35Z7s"
-    },
-    {
-      "video_id": "RE8vSX8LHWk",
-      "channel_theme": "Leo avanza hacia la independencia emprendedora tras atravesar una etapa de pérdida.",
+      "video_id": "uKiFZXztpi4",
+      "channel_theme": "Deja de cargar con los problemas que le corresponden a otros y recupera tu propia energía.",
       "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=RE8vSX8LHWk"
+      "url": "https://www.youtube.com/watch?v=uKiFZXztpi4"
     },
     {
-      "video_id": "Tt0UCx05Jp4",
-      "channel_theme": "Un nuevo amor y una mayor apertura emocional están llegando después de una etapa marcada por la inseguridad.",
+      "video_id": "UbN25uej9Cc",
+      "channel_theme": "Alguien podría aprovecharse de tu miedo a perder para arrastrarte de vuelta a situaciones del pasado.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=Tt0UCx05Jp4"
+      "url": "https://www.youtube.com/watch?v=UbN25uej9Cc"
+    },
+    {
+      "video_id": "Fug2DU-YQas",
+      "channel_theme": "Una figura materna o de autoridad podría estar generando fricciones en torno al control y los límites personales.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=Fug2DU-YQas"
+    },
+    {
+      "video_id": "8jRf3WNhEjc",
+      "channel_theme": "Un despertar romántico vinculado a la energía acuariana podría estar acercándose para Leo.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=8jRf3WNhEjc"
     }
   ]
 }

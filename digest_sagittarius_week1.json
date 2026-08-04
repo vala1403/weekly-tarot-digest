@@ -1,60 +1,60 @@
 {
   "sign": "Sagittarius",
-  "week_of": "2026-07-27",
+  "week_of": "2026-08-03",
   "categories": {
     "love": {
-      "summary": "Three readers this week sense meaningful relational shifts for Sagittarius — whether reconnecting with someone, deepening a bond, or reopening a closed door, the shared advice is to stay open but move thoughtfully before fully investing your heart.",
-      "reader_count": 3,
-      "disagreement": "Some readers saw Sagittarius becoming more selective and guarded in love, while others suggested opening up and giving someone a second chance."
+      "summary": "Love looks promising for Sagittarius this week, with most readers sensing new or renewed romantic possibilities on the way \u2014 open your heart, heal from the past, and be willing to put yourself out there.",
+      "reader_count": 5,
+      "disagreement": "Some readers pointed to a fresh romantic arrival or deepening love, while others suggested reconnecting with someone from the past rather than pursuing someone new."
     },
     "finance": {
-      "summary": "Most readers see Sagittarius moving toward greater financial stability this week — take time to honestly evaluate your situation, release what undervalues you, and invest disciplined effort in building lasting security.",
-      "reader_count": 5,
-      "disagreement": "One reading warned of a potential disruptive financial shock, while others focused on steady, gradual improvement and growing clarity."
+      "summary": "Sagittarius is encouraged to take a more grounded, disciplined approach to finances this week \u2014 letting go of excess or impulsive spending in favor of steady, mindful money management that builds long-term stability.",
+      "reader_count": 3,
+      "disagreement": "One reader advised caution and preservation of current resources, while another saw signs of financial improvement already emerging through better money habits."
     },
     "career": {
-      "summary": "Career shifts and transitions are prominent this week for Sagittarius — whether that means stepping into leadership, recognizing hard-earned progress, or preparing for a bold new chapter, a meaningful professional change appears to be unfolding.",
-      "reader_count": 5,
-      "disagreement": "Some readers saw positive growth through new authority figures, leadership, or earned recognition. Others suggested disillusionment at work or an impending leap into unfamiliar territory, implying less stability ahead."
+      "summary": "Most readers see this as a bold, action-oriented turning point for Sagittarius at work \u2014 channeling your genuine strengths and excitement into purposeful efforts now can set the stage for meaningful, lasting results.",
+      "reader_count": 3,
+      "disagreement": "One reading pointed toward healing or spiritual vocations as a calling, while another highlighted disengagement from a half-hearted collaboration \u2014 two contrasting directions of career energy."
     },
     "family": {
-      "summary": "Most readers see this week bringing a meaningful shift in your sense of home and belonging — whether through healing old rifts, joyful reconnection, or moving toward people who truly embrace who you are.",
-      "reader_count": 4,
-      "disagreement": "Some readers emphasized joyful reunions and togetherness within existing relationships, while others focused on stepping away from unsupportive people toward a new, more accepting community."
+      "summary": "Only 2 of the 5 readers touched on family this week \u2014 one pointed to important decisions that could reshape caregiving or extended family dynamics, while the other saw a deeply fulfilling vision of love and harmony beginning to take root in real life.",
+      "reader_count": 2,
+      "disagreement": "One reading focused on practical, potentially complex family arrangements, while the other envisioned joyful domestic harmony \u2014 notably different emotional tones for the same week."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "A bright, forward-looking energy carries Sagittarius through the week with quiet confidence.",
+  "overall_tone": "reflective",
+  "overall_tone_summary": "A quieter week invites Sagittarius to look inward before leaping forward.",
   "readers": [
     {
-      "video_id": "OahgHAOdq-I",
-      "channel_theme": "A new authority figure may soon lighten your professional load significantly.",
+      "video_id": "P2F3QkbzEXA",
+      "channel_theme": "A past romantic partner may be returning, requiring careful reflection before reconciling.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=OahgHAOdq-I"
+      "url": "https://www.youtube.com/watch?v=P2F3QkbzEXA"
     },
     {
-      "video_id": "Kd26o9zT5LI",
-      "channel_theme": "You are done tolerating disrespect and are actively preparing to walk away.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=Kd26o9zT5LI"
+      "video_id": "_5j4_gBY0JQ",
+      "channel_theme": "A soulmate joins Sagittarius as hardship gives way to lasting happiness.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=_5j4_gBY0JQ"
     },
     {
-      "video_id": "iT5A6tisiSg",
-      "channel_theme": "A painful relational break may finally be healing, opening the door to reconciliation.",
+      "video_id": "Jq2SEz3sx30",
+      "channel_theme": "A third significant relationship offers healing and lasting love after past heartbreak.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=iT5A6tisiSg"
+      "url": "https://www.youtube.com/watch?v=Jq2SEz3sx30"
     },
     {
-      "video_id": "6nHacQsXMYE",
-      "channel_theme": "You are moving toward a chosen community that truly celebrates who you are.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=6nHacQsXMYE"
+      "video_id": "lMZegINLOgY",
+      "channel_theme": "A professional collaboration was abandoned before it ever fully took shape.",
+      "tone": "introspective",
+      "url": "https://www.youtube.com/watch?v=lMZegINLOgY"
     },
     {
-      "video_id": "IlH65Y_ILD4",
-      "channel_theme": "A major career leap looms, demanding one careful decision before you jump.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=IlH65Y_ILD4"
+      "video_id": "aubpueiKvyk",
+      "channel_theme": "Bold creative action now will build meaningful, long-term career rewards.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=aubpueiKvyk"
     }
   ]
 }

@@ -1,60 +1,60 @@
 {
   "sign": "Aquarius",
-  "week_of": "2026-07-27",
+  "week_of": "2026-08-03",
   "categories": {
     "love": {
-      "summary": "Around half the readers this week touched on love for Aquarius, pointing to a moment of openness and renewal — whether that means welcoming a fresh connection or releasing old wounds to deepen an existing bond.",
-      "reader_count": 3,
-      "disagreement": "Some readers focused on a brand-new romantic beginning, while others emphasized healing and recommitting to an existing relationship."
+      "summary": "Most readers this week sense romantic potential stirring for Aquarius \u2014 whether through a new connection, a soulmate alignment, or rekindled longing \u2014 and the shared advice leans toward embracing what's unfolding with openness rather than overthinking or anxiety.",
+      "reader_count": 5,
+      "disagreement": "Some readers highlighted promising new or deepening connections ahead, while one noted potential friction from a partner being emotionally or physically unavailable this week."
     },
     "finance": {
-      "summary": "Most readers see this as a promising financial period for Aquarius, with new opportunities likely to emerge — the key advice is to focus on your own monetary growth and let steady, intentional effort build lasting abundance.",
-      "reader_count": 4,
-      "disagreement": "Some readers emphasized gradual, consistent progress toward financial stability, while others pointed to sudden or unexpected opportunities arriving this week."
+      "summary": "All five readers point to meaningful financial opportunity arriving for Aquarius \u2014 whether unexpected, unconventional, or fated \u2014 so the key advice is to stay open and disciplined enough to seize it rather than letting overwhelm or temptation cause you to walk away.",
+      "reader_count": 5,
+      "disagreement": "One reading cautioned against temptation and protecting financial discipline, while another emphasized leaning into unconventional paths rather than playing it safe."
     },
     "career": {
-      "summary": "Most readers agree that Aquarius is at a meaningful career turning point — past efforts are paying off, and now is the time to commit boldly to your path and channel energy into goals that truly matter.",
-      "reader_count": 5,
-      "disagreement": "Some readers focused on bold, large-scale long-term ambition, while others emphasized simply redirecting daily energy more purposefully. One noted an outside figure may help stabilize the journey."
+      "summary": "Most readers sense that long-awaited career opportunities are finally arriving for Aquarius \u2014 stay bold, trust your ethics over easy money, and know that your professional goals are closer than they appear.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw Aquarius actively seizing new opportunities and growth, while one suggested they may be quietly stepping back, waiting before making a private professional exit."
     },
     "family": {
-      "summary": "Only two readers touched on family this week — one pointed to the possibility of domestic harmony returning after hardship, while the other highlighted major life milestones like marriage or starting a family as potential outcomes of taking bold steps forward.",
-      "reader_count": 2,
-      "disagreement": "One reading focused on rebuilding everyday home life and inner contentment, while the other emphasized formal commitments and major life decisions — slightly different scales of domestic change."
+      "summary": "Only a few readers touched on family this week \u2014 those who did highlighted a mix of healing through playfulness, a reliable figure offering practical support, and a warning about someone close pushing their own agenda.",
+      "reader_count": 3,
+      "disagreement": "One reading pointed to warmth and healing in personal connections, while another cautioned that someone close may be manipulative rather than supportive."
     }
   },
-  "overall_tone": "empowering",
-  "overall_tone_summary": "Aquarius steps boldly into its own strength this week.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "A quietly optimistic current runs through this week's energy for Aquarius.",
   "readers": [
     {
-      "video_id": "6pm85X1DIBg",
-      "channel_theme": "A nearly two-decade window of professional authority is now opening for Aquarius.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=6pm85X1DIBg"
-    },
-    {
-      "video_id": "RMqsN7ZxUk8",
-      "channel_theme": "Major milestones like marriage, proposals, or starting a family are highlighted this week.",
+      "video_id": "9Mv1U-HhsZk",
+      "channel_theme": "Unexpected financial gains may arrive soon, possibly linked to full moon energy.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=RMqsN7ZxUk8"
+      "url": "https://www.youtube.com/watch?v=9Mv1U-HhsZk"
     },
     {
-      "video_id": "J4a9O_sQhHw",
-      "channel_theme": "Step into leadership now — you already have the wisdom needed.",
+      "video_id": "6BB7WSR6ZMM",
+      "channel_theme": "An unconventional approach to career and finances will outperform traditional paths.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=J4a9O_sQhHw"
+      "url": "https://www.youtube.com/watch?v=6BB7WSR6ZMM"
     },
     {
-      "video_id": "_xennl8il7o",
-      "channel_theme": "A Sagittarius connection may spark new romance after a difficult period.",
+      "video_id": "JralR9PqWRo",
+      "channel_theme": "A soulmate connection with deeply shared values appears to be approaching.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=_xennl8il7o"
+      "url": "https://www.youtube.com/watch?v=JralR9PqWRo"
     },
     {
-      "video_id": "S_zA1Kg-JFA",
-      "channel_theme": "Stop enabling financial drains and prioritize your own emerging prosperity.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=S_zA1Kg-JFA"
+      "video_id": "Q_gsk3T1B4g",
+      "channel_theme": "Beware of lucrative opportunities that could compromise your personal ethics.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=Q_gsk3T1B4g"
+    },
+    {
+      "video_id": "QGowyTr5yGU",
+      "channel_theme": "A fated, abundant opportunity nears, but feeling overwhelmed may cause you to miss it.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=QGowyTr5yGU"
     }
   ]
 }

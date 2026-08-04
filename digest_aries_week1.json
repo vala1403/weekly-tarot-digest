@@ -1,60 +1,60 @@
 {
   "sign": "Aries",
-  "week_of": "2026-07-27",
+  "week_of": "2026-08-03",
   "categories": {
     "love": {
-      "summary": "Most readers this week sense a meaningful shift in Aries' love life — whether through releasing what no longer serves you or summoning the courage to open your heart, change is the path forward to something more authentic.",
+      "summary": "Most readers sense emotional complexity in Aries' love life this week \u2014 whether through nostalgia, healing from past wounds, or unexpected new connections, the heart appears to be moving toward something more authentic and fulfilling.",
       "reader_count": 4,
-      "disagreement": "Some readers pointed to an ending or deliberate exit from a relationship, while others emphasized an incoming connection or emotional breakthrough after loss."
+      "disagreement": "Some readers focused on fresh starts and healing, while others pointed to ongoing emotional obstacles or manipulative influences still present in the picture."
     },
     "finance": {
-      "summary": "A few readers sense financial rebuilding is on the horizon for Aries — past setbacks or missed steps may have created instability, but a meaningful opportunity appears to be approaching, so avoid rushing the foundation-building process.",
-      "reader_count": 3,
-      "disagreement": "Some readers focused on an exciting returning opportunity driving future prosperity, while others emphasized healing from past financial wounds before real stability can be achieved."
+      "summary": "Most readers this week see financial opportunities and growing prosperity on the horizon for Aries \u2014 acting on new income possibilities promptly and pursuing your goals with confidence are key to making the most of this energy.",
+      "reader_count": 4,
+      "disagreement": "Some readers emphasized urgency in seizing new opportunities before they fade, while others suggested a steadier build toward prosperity through skill and hard work over time."
     },
     "career": {
-      "summary": "Most readers sense a significant professional shift on the horizon for Aries this week — whether through a returning opportunity, a bold new direction, or post-disruption clarity, the advice is to move forward thoughtfully rather than reactively when the moment arrives.",
+      "summary": "A significant new professional chapter appears to be unfolding for Aries this week \u2014 most readers encourage trusting your existing skills and boldly stepping toward the opportunities and collaborations now coming into view.",
       "reader_count": 5,
-      "disagreement": "Some readers saw an external challenge forcing Aries' hand professionally, while others suggested Aries is actively choosing to pursue change on their own terms."
+      "disagreement": "Some readers saw exciting offers and momentum already building, while others noted inner doubt and hesitation as a real obstacle standing between Aries and that next career move."
     },
     "family": {
-      "summary": "Three readers see positive shifts in Aries' home and family life this week — whether through healing old wounds, reconnecting with loved ones, or moving closer to a supportive circle, leaning into forgiveness and openness seems to be the way forward.",
-      "reader_count": 3,
-      "disagreement": "Some readers focused on repairing broken family ties through forgiveness, while others suggested a broader move toward community and support rather than any specific relationship reconciliation."
+      "summary": "Few readers touched on family this week; those who did pointed to an authority figure possibly shaping your sense of direction, or fertile energies stirring thoughts of expanding your family unit.",
+      "reader_count": 2,
+      "disagreement": "One reading focused on external authority influencing independence; another emphasized internal nurturing energy and new family beginnings \u2014 different sources and directions of family influence."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "Transformation has settled, leaving space for optimism and fresh possibility.",
+  "overall_tone": "liberating",
+  "overall_tone_summary": "A constricting tie finally breaks, freeing Aries for a new chapter.",
   "readers": [
     {
-      "video_id": "1UlEKz9aOJk",
-      "channel_theme": "Release idealized love to welcome a promising new romantic connection approaching soon.",
+      "video_id": "D1QAGhT6Vqg",
+      "channel_theme": "Authentic connections emerge after leaving misaligned relationships or work behind.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=D1QAGhT6Vqg"
+    },
+    {
+      "video_id": "iDvADk1j_sw",
+      "channel_theme": "A manipulative figure is blocking your emotional and professional progress.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=iDvADk1j_sw"
+    },
+    {
+      "video_id": "DtLT7x8P88M",
+      "channel_theme": "Act fast\u2014multiple career and financial doors are briefly opening now.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=1UlEKz9aOJk"
+      "url": "https://www.youtube.com/watch?v=DtLT7x8P88M"
     },
     {
-      "video_id": "CBLYUtKERE4",
-      "channel_theme": "A past job offer or employer could return with a life-changing opportunity.",
+      "video_id": "TmgtR9F1jpQ",
+      "channel_theme": "Betrayal fades as healing, prosperity, and possible family expansion begin.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=CBLYUtKERE4"
+      "url": "https://www.youtube.com/watch?v=TmgtR9F1jpQ"
     },
     {
-      "video_id": "YaNcaZXK7Go",
-      "channel_theme": "A major career change is coming—move strategically, not impulsively.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=YaNcaZXK7Go"
-    },
-    {
-      "video_id": "Sd9j2jQJpyU",
-      "channel_theme": "Strong mutual feelings persist despite Aries feeling temporarily emotionally detached.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=Sd9j2jQJpyU"
-    },
-    {
-      "video_id": "f9ty929E-zA",
-      "channel_theme": "Post-heartbreak, a breakthrough in love demands courage to open up again.",
+      "video_id": "6BstPEn-lOs",
+      "channel_theme": "You already have everything needed to boldly launch your new path.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=f9ty929E-zA"
+      "url": "https://www.youtube.com/watch?v=6BstPEn-lOs"
     }
   ]
 }

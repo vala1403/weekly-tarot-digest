@@ -1,60 +1,60 @@
 {
   "sign": "Gemini",
-  "week_of": "2026-07-27",
+  "week_of": "2026-08-03",
   "categories": {
     "love": {
-      "summary": "Most readers sense a significant romantic arrival or return this week — if love has been kept at a distance, now is a favorable time to open your heart and let it guide you forward.",
-      "reader_count": 5,
-      "disagreement": "Some readers urged openness to new or returning love, while others cautioned Gemini to guard their heart and stay with stable ground rather than revisiting the past."
+      "summary": "Most readers agree that new romantic connection or a deeply fulfilling love is on the horizon for Gemini this week, suggesting openness to what's arriving could bring lasting, genuine satisfaction.",
+      "reader_count": 4,
+      "disagreement": "One reading emphasized a relationship ending before new love arrives, while others focused purely on incoming romantic opportunity without mention of prior loss or closure."
     },
     "finance": {
-      "summary": "New financial opportunities are emerging for Gemini this week, but growth will take patience and consistent effort — nurture what's beginning now rather than expecting instant results.",
-      "reader_count": 2,
-      "disagreement": "One reader suggested Gemini may be resisting new opportunities out of fear of losing stability, while others saw Gemini as openly moving toward promising new beginnings."
+      "summary": "Most readers see positive financial momentum building this week \u2014 whether through unexpected rewards or new opportunities, the key is to stay proactive, trust your own judgment, and be ready to act decisively rather than holding back.",
+      "reader_count": 5,
+      "disagreement": "Some readers encouraged openness to outside help, like a financial advisor or partner. One reading cautioned against relying on authority figures for money decisions."
     },
     "career": {
-      "summary": "Most readers see a significant professional opportunity on the horizon for Gemini this week — commit fully, step into visibility, and trust your abilities even without a complete roadmap, as bold action leads to major breakthroughs.",
-      "reader_count": 4,
-      "disagreement": "Some readers highlighted internal conflict and hesitation around revisiting past paths, while others emphasized confidently seizing new emerging opportunities with full commitment."
+      "summary": "Several readers sense a career turning point for Gemini \u2014 whether that means a fresh opportunity arriving or a long-held role being released, the advice is to trust the direction things are moving and be willing to let go in order to grow.",
+      "reader_count": 5,
+      "disagreement": "Some readers described the week as flowing and obstacle-free, while others emphasized tension around financial fears and the difficulty of leaving behind what's familiar."
     },
     "family": {
-      "summary": "About half the readers touched on family this week, pointing to shifts in the home environment — whether that means physical changes, emotional distance, or firmer boundaries — as a path toward greater personal happiness.",
-      "reader_count": 3,
-      "disagreement": "Some readers focused on setting limits with draining people, while others suggested reconnecting with supportive figures from the past."
+      "summary": "Most readers see family and close relationships as a source of warmth and fulfillment this week \u2014 showing up genuinely for loved ones and embracing the care they offer in return will deepen those bonds meaningfully.",
+      "reader_count": 4,
+      "disagreement": "Some readers emphasized harmony and joy within close circles, while one warned that group dynamics can become complicated when too many conflicting opinions enter the mix."
     }
   },
-  "overall_tone": "empowering",
-  "overall_tone_summary": "This week hands Gemini the confidence to reclaim their own narrative.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Shifts this week run deep, reshaping how you see yourself.",
   "readers": [
     {
-      "video_id": "0GK6AOsPpGc",
-      "channel_theme": "Warns Gemini against rekindling a past romance and to value current stability.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=0GK6AOsPpGc"
-    },
-    {
-      "video_id": "NQWM-vEVl2o",
-      "channel_theme": "Highlights Gemini's self-protective resistance to new offers across love, work, and family.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=NQWM-vEVl2o"
-    },
-    {
-      "video_id": "NbUlFUxOX80",
-      "channel_theme": "Promises a transformative past-life soul connection arriving soon for Gemini.",
+      "video_id": "yNimKC4H8EA",
+      "channel_theme": "Endings and beginnings intertwine, with closure making space for transformation.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=NbUlFUxOX80"
+      "url": "https://www.youtube.com/watch?v=yNimKC4H8EA"
     },
     {
-      "video_id": "idjQbJ2KDUk",
-      "channel_theme": "Urges Gemini to boldly seize opportunities in love and career without hesitation.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=idjQbJ2KDUk"
-    },
-    {
-      "video_id": "Bnx5CDJOlF0",
-      "channel_theme": "Reminds Gemini to balance rest and play alongside ambition and work.",
+      "video_id": "icygANiTWXY",
+      "channel_theme": "A Libra figure may unlock meaningful new financial or romantic opportunities.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=Bnx5CDJOlF0"
+      "url": "https://www.youtube.com/watch?v=icygANiTWXY"
+    },
+    {
+      "video_id": "Ddm6UWJ9TKI",
+      "channel_theme": "Too many voices in group dynamics risk complicating otherwise manageable situations.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=Ddm6UWJ9TKI"
+    },
+    {
+      "video_id": "2RLeDheA-oI",
+      "channel_theme": "Progress feels effortless now, with clear signs you're on the right path.",
+      "tone": "celebratory",
+      "url": "https://www.youtube.com/watch?v=2RLeDheA-oI"
+    },
+    {
+      "video_id": "rW5V3ogAGcg",
+      "channel_theme": "A long-held job may no longer serve you, despite financial fears holding you back.",
+      "tone": "decisive",
+      "url": "https://www.youtube.com/watch?v=rW5V3ogAGcg"
     }
   ]
 }

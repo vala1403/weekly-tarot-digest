@@ -1,60 +1,60 @@
 {
   "sign": "Pisces",
-  "week_of": "2026-07-27",
+  "week_of": "2026-08-03",
   "categories": {
     "love": {
-      "summary": "Most readers this week sense a meaningful romantic opportunity approaching for Pisces — the shared advice is to carefully consider whether and how to open your heart, rather than acting impulsively or staying emotionally guarded.",
-      "reader_count": 5,
-      "disagreement": "Some readers encouraged strategic patience and discernment before engaging. Others emphasized releasing past wounds and reopening the heart more freely to incoming energy."
+      "summary": "Several readers sense themes of emotional endings and unfulfillment in love this week, with the clearest advice being to open your heart \u2014 releasing what no longer serves you creates space for something more aligned with your true desires.",
+      "reader_count": 4,
+      "disagreement": "Some readers focused on walking away from unsatisfying connections, while one suggested a struggling relationship may still be salvageable through accountability and renewed effort."
     },
     "finance": {
-      "summary": "A stable financial opportunity that has been developing over time seems poised to arrive — most readers suggest patience and avoiding impulsive decisions will be key to making the most of it.",
-      "reader_count": 3,
-      "disagreement": "One reading warned of a tempting offer with hidden conditions or compromises, while others focused on steady progress and favorable outcomes through restraint."
+      "summary": "Several readers see financial opportunities and potential gains drawing closer for Pisces this week \u2014 putting consistent effort into your work and keeping spending grounded could help you make the most of what's coming.",
+      "reader_count": 4,
+      "disagreement": "Some readers suggest abundance will arrive naturally with little effort, while others emphasize that sustained dedication and careful budgeting are necessary to achieve financial growth."
     },
     "career": {
-      "summary": "Only two readers addressed career this week — one highlighted collaborative energy and new beginnings alongside a potential tension between income and passion, while the other urged quiet, strategic preparation before making any bold professional moves.",
-      "reader_count": 2,
-      "disagreement": "One reading emphasized active partnership and new starts; the other suggested holding back and planning carefully before acting — contrasting approaches to timing and boldness."
+      "summary": "Most readers sense a meaningful career shift approaching for Pisces this week \u2014 whether through a new opportunity, collaborative recognition, or workplace rebalancing \u2014 so channel your talents with patience rather than forcing outcomes.",
+      "reader_count": 5,
+      "disagreement": "Some readers emphasized exciting new beginnings requiring careful timing, while one cautioned against overexertion, and another focused on resolving an existing workplace imbalance rather than pursuing something new."
     },
     "family": {
-      "summary": "Few readers touched on family this week; the one who did suggested that collaborating with those at home on shared goals or household improvements could be especially productive.",
-      "reader_count": 1,
-      "disagreement": null
+      "summary": "Few readers touched on family this week; the two who did highlighted both potential friction with a paternal figure and the value of cooperative, protective energy within the family unit.",
+      "reader_count": 2,
+      "disagreement": "One reader pointed to conflict and legacy planning, while another emphasized teamwork and mutual support as sources of family abundance."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "Optimism lights the way forward, even through uncertainty this week.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Deep shifts are reshaping how Pisces sees themselves and their path.",
   "readers": [
     {
-      "video_id": "TmvoMgCMGgI",
-      "channel_theme": "Healing past wounds opens the door to a bold new romantic beginning.",
+      "video_id": "F4cQ6ECF3h4",
+      "channel_theme": "A major life chapter must close before love and new ventures can truly begin.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=TmvoMgCMGgI"
+      "url": "https://www.youtube.com/watch?v=F4cQ6ECF3h4"
     },
     {
-      "video_id": "lP87pkUb3_8",
-      "channel_theme": "Long-awaited financial stability is finally arriving at just the right moment.",
+      "video_id": "FQDwg-TCcqA",
+      "channel_theme": "A career breakthrough may involve relocation or rapid advancement through existing talents.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=FQDwg-TCcqA"
+    },
+    {
+      "video_id": "yA4nQbay9C4",
+      "channel_theme": "Abundance arrives effortlessly, drawn magnetically without active pursuit.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=yA4nQbay9C4"
+    },
+    {
+      "video_id": "5eVOyIieBno",
+      "channel_theme": "Emotional healing and heart-opening are central themes this week.",
       "tone": "introspective",
-      "url": "https://www.youtube.com/watch?v=lP87pkUb3_8"
+      "url": "https://www.youtube.com/watch?v=5eVOyIieBno"
     },
     {
-      "video_id": "MleqKmY06pc",
-      "channel_theme": "A tempting offer may force a hard choice between money and fulfillment.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=MleqKmY06pc"
-    },
-    {
-      "video_id": "kXgZ-UdPf3I",
-      "channel_theme": "Use discernment to decide whether an incoming romantic offer is truly right.",
+      "video_id": "PcgKyHZVqmg",
+      "channel_theme": "An authority figure acknowledges wrongdoing and actively seeks to make amends.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=kXgZ-UdPf3I"
-    },
-    {
-      "video_id": "_5CQeyE6DVw",
-      "channel_theme": "Play it cool strategically — don't reveal your hand too soon in love.",
-      "tone": "strategic",
-      "url": "https://www.youtube.com/watch?v=_5CQeyE6DVw"
+      "url": "https://www.youtube.com/watch?v=PcgKyHZVqmg"
     }
   ]
 }

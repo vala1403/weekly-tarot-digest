@@ -104,5 +104,58 @@
         "note": "Optimism lights the way forward, even through uncertainty this week."
       }
     }
+  },
+  {
+    "week": "2026-08-03",
+    "signs": {
+      "aries": {
+        "theme": "liberating",
+        "note": "A constricting tie finally breaks, freeing Aries for a new chapter."
+      },
+      "gemini": {
+        "theme": "transformative",
+        "note": "Shifts this week run deep, reshaping how you see yourself."
+      },
+      "cancer": {
+        "theme": "cautious",
+        "note": "Pause before acting \u2014 this week rewards careful steps over bold leaps."
+      },
+      "leo": {
+        "theme": "hopeful",
+        "note": "A bright current of optimism runs through Leo's week, inviting bold steps forward."
+      },
+      "virgo": {
+        "theme": "liberating",
+        "note": "Old constraints finally loosen, making room for a freer path forward."
+      },
+      "taurus": {
+        "theme": "hopeful",
+        "note": "A quiet optimism steadily builds, inviting Taurus to trust what's coming."
+      },
+      "libra": {
+        "theme": "transformative",
+        "note": "Shifts this week invite Libra to release old patterns and embrace renewal."
+      },
+      "scorpio": {
+        "theme": "hopeful",
+        "note": "A quiet optimism invites Scorpio to trust what's quietly unfolding."
+      },
+      "sagittarius": {
+        "theme": "reflective",
+        "note": "A quieter week invites Sagittarius to look inward before leaping forward."
+      },
+      "capricorn": {
+        "theme": "empowering",
+        "note": "Capricorn steps into its strength with quiet, unmistakable confidence this week."
+      },
+      "aquarius": {
+        "theme": "hopeful",
+        "note": "A quietly optimistic current runs through this week's energy for Aquarius."
+      },
+      "pisces": {
+        "theme": "transformative",
+        "note": "Deep shifts are reshaping how Pisces sees themselves and their path."
+      }
+    }
   }
 ]
