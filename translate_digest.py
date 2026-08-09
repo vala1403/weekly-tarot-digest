@@ -21,6 +21,44 @@ import anthropic
 MODEL = "claude-sonnet-4-6"
 CATEGORIES = ["love", "finance", "career", "family"]
 
+EM_DASH = "—"
+NO_EM_DASH_INSTRUCTION = (
+    "Do not use em dashes (—) anywhere in your response. Use commas, "
+    "colons, or separate sentences instead."
+)
+
+
+def strip_em_dashes(text):
+    """Replace em dashes with a comma so style stays consistent even if the
+    model ignores the no-em-dash instruction. Best-effort, not grammar-aware."""
+    if not isinstance(text, str) or EM_DASH not in text:
+        return text
+    cleaned = text.replace(f" {EM_DASH} ", ", ").replace(EM_DASH, ", ")
+    return " ".join(cleaned.split())
+
+
+def strip_em_dashes_deep(obj):
+    if isinstance(obj, dict):
+        return {k: strip_em_dashes_deep(v) for k, v in obj.items()}
+    if isinstance(obj, list):
+        return [strip_em_dashes_deep(v) for v in obj]
+    return strip_em_dashes(obj)
+
+
+def find_em_dashes(obj, path="digest"):
+    """Post-generation check: return a list of 'path: text' for any string
+    that still contains an em dash after stripping. Should normally be empty."""
+    hits = []
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            hits.extend(find_em_dashes(v, f"{path}.{k}"))
+    elif isinstance(obj, list):
+        for i, v in enumerate(obj):
+            hits.extend(find_em_dashes(v, f"{path}[{i}]"))
+    elif isinstance(obj, str) and EM_DASH in obj:
+        hits.append(f"{path}: {obj!r}")
+    return hits
+
 ZODIAC_ES = {
     "aries": "Aries",
     "taurus": "Tauro",
@@ -113,18 +151,19 @@ def build_prompt(digest: dict) -> str:
         lines.append("")
     content_block = "\n".join(lines)
 
-    return f"""Translate the following tarot-reading digest content from English to natural, idiomatic Spanish. This is for a Spanish-speaking audience reading a weekly astrology/tarot digest — the tone should read as if originally written in Spanish, not as a literal word-for-word translation.
+    return f"""Translate the following tarot-reading digest content from English to natural, idiomatic Spanish. This is for a Spanish-speaking audience reading a weekly astrology/tarot digest: the tone should read as if originally written in Spanish, not as a literal word-for-word translation.
 
 {content_block}
 
 Instructions:
-- Translate every text field (each category's combined summary, disagreement text, the overall mood summary, and each reader's channel_theme) into natural, idiomatic Spanish. Paraphrase as needed to sound native — do not translate word-for-word.
-- The "summary" field blends a theme with advice into one cohesive takeaway — keep that same merged, single-paragraph structure in the Spanish translation. Do not split it back into two separate statements.
+- Translate every text field (each category's combined summary, disagreement text, the overall mood summary, and each reader's channel_theme) into natural, idiomatic Spanish. Paraphrase as needed to sound native, do not translate word-for-word.
+- The "summary" field blends a theme with advice into one cohesive takeaway, keep that same merged, single-paragraph structure in the Spanish translation. Do not split it back into two separate statements.
 - Translate tone words into their natural Spanish equivalents (e.g. "hopeful" -> "esperanzador", "cautionary" -> "cauteloso", "liberating" -> "liberador", "transformative" -> "transformador"). Use single-word adjectives matching the grammatical gender/form of the originals where natural.
 - If a "disagreement" value is null, keep it null. If it says there's no notable disagreement, translate that statement naturally too (don't invent content).
-- Do NOT translate the video_id values — copy them through exactly as given, used only to match entries.
+- Do NOT translate the video_id values, copy them through exactly as given, used only to match entries.
 - Keep the same number of readers, in the same video_id order, one output entry per reader.
-- Return only the translated fields per the schema — do not add commentary."""
+- Return only the translated fields per the schema, do not add commentary.
+- {NO_EM_DASH_INSTRUCTION}"""
 
 
 def call_translation(client: anthropic.Anthropic, digest: dict) -> dict:
@@ -196,6 +235,13 @@ def main():
             for r in digest["readers"]
         ],
     }
+
+    digest_es = strip_em_dashes_deep(digest_es)
+    remaining = find_em_dashes(digest_es)
+    if remaining:
+        print("\nWARNING: em dash(es) survived stripping, flagging for manual review:")
+        for hit in remaining:
+            print(f"  {hit}")
 
     output_path.write_text(json.dumps(digest_es, indent=2, ensure_ascii=False), encoding="utf-8")
 

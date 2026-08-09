@@ -1,59 +1,59 @@
 {
   "sign": "Sagitario",
-  "week_of": "2026-08-03",
+  "week_of": "2026-08-10",
   "categories": {
     "love": {
-      "summary": "El amor se presenta prometedor para Sagitario esta semana, con la mayoría de los lectores percibiendo nuevas posibilidades románticas —o el renacer de las ya existentes— en camino. Abre tu corazón, sana las heridas del pasado y anímate a dar el primer paso.",
-      "reader_count": 5,
-      "disagreement": "Algunos lectores vislumbraron la llegada de un nuevo amor o el florecimiento de uno ya existente, mientras que otros sugirieron reconectar con alguien del pasado en lugar de buscar algo nuevo."
+      "summary": "La mayoría de los lectores perciben una energía romántica significativa llegando para Sagitario esta semana, así que abre tu corazón con confianza y enfócate en conexiones que realmente estén a tu nivel, no en las que te agoten.",
+      "reader_count": 4,
+      "disagreement": "Una lectura sugirió que Sagitario podría necesitar rechazar a alguien en el plano romántico, mientras que las demás apuntaron hacia la bienvenida de un nuevo amor."
     },
     "finance": {
-      "summary": "Esta semana, Sagitario está llamado a adoptar un enfoque más sereno y disciplinado con el dinero. Soltar los gastos impulsivos o innecesarios en favor de una gestión financiera consciente y constante es el camino hacia una estabilidad duradera.",
-      "reader_count": 3,
-      "disagreement": "Un lector aconsejó prudencia y cuidar los recursos actuales, mientras que otro percibió señales de mejoría económica que ya comienzan a asomar gracias a hábitos financieros más sanos."
+      "summary": "La mayoría de los lectores esta semana vaticinan una entrada de dinero o un impulso económico importante para Sagitario, así que cuando llegue, resiste el impulso de gastar sin control y mejor ahórralo o inviértelo con intención.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores se centraron en una recompensa o bendición que llega sin mayores condiciones, mientras que otros enfatizaron que Sagitario debe tomar decisiones deliberadas o perseguir proyectos específicos para aprovecharla al máximo."
     },
     "career": {
-      "summary": "La mayoría de los lectores ven este momento como un punto de inflexión decisivo para Sagitario en el ámbito profesional. Canalizar tus fortalezas genuinas y tu entusiasmo en acciones con propósito ahora puede sentar las bases de logros significativos y duraderos.",
-      "reader_count": 3,
-      "disagreement": "Una lectura apuntó hacia vocaciones de sanación o espiritualidad como llamado auténtico, mientras que otra destacó el alejamiento de una colaboración que nunca llegó a cuajar — dos direcciones de energía profesional notablemente distintas."
+      "summary": "La mayoría de los lectores ven un cambio importante en el estatus profesional de Sagitario en el horizonte, así que hazte notar, toma la iniciativa y mantente abierto a nuevas direcciones si los esfuerzos anteriores han perdido impulso.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores se enfocaron en un cambio de estatus o ascenso que ya está tomando forma, mientras que uno sugirió que el mejor camino puede requerir dejar atrás lo anterior y comenzar de cero en otro lugar."
     },
     "family": {
-      "summary": "Solo 2 de los 5 lectores abordaron el tema familiar esta semana: uno señaló decisiones importantes que podrían redefinir las dinámicas del cuidado familiar o de la familia extendida, mientras que el otro vislumbró una visión profundamente satisfactoria de amor y armonía comenzando a hacerse realidad.",
-      "reader_count": 2,
-      "disagreement": "Una lectura se centró en arreglos familiares prácticos y potencialmente complejos, mientras que la otra imaginó una armonía doméstica llena de alegría — tonos emocionales notablemente distintos para una misma semana."
+      "summary": "La mayoría de los lectores ven a Sagitario avanzando hacia una mayor estabilidad en el hogar y la vida familiar esta semana, así que nutre los vínculos que de verdad te sostienen y planifica con cuidado para asegurar tu bienestar a largo plazo.",
+      "reader_count": 4,
+      "disagreement": "Un lector sugirió alejarse de las conexiones que no encajan y acercarse a las que sí lo hacen, mientras que otro se centró en establecer límites firmes con los familiares que drenan tu energía en lugar de buscar nuevos lazos."
     }
   },
-  "overall_tone_summary": "Una semana más tranquila invita a Sagitario a mirar hacia adentro antes de lanzarse hacia adelante.",
+  "overall_tone_summary": "Un cambio está en marcha, transformando lo que Sagitario alguna vez dio por sentado.",
   "readers": [
     {
-      "video_id": "P2F3QkbzEXA",
-      "channel_theme": "Una pareja del pasado podría estar regresando, lo que exige una reflexión profunda antes de considerar una reconciliación.",
+      "video_id": "AVjBxjBtLhQ",
+      "channel_theme": "Proyectarte con seguridad bajo la energía del eclipse en Leo puede darte mayor visibilidad profesional ahora mismo.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=P2F3QkbzEXA"
+      "url": "https://www.youtube.com/watch?v=AVjBxjBtLhQ"
     },
     {
-      "video_id": "_5j4_gBY0JQ",
-      "channel_theme": "Un alma gemela se une a Sagitario mientras las dificultades dan paso a una felicidad duradera.",
+      "video_id": "uBwakE6cUm4",
+      "channel_theme": "Soltar las heridas emocionales del pasado abre la puerta a la llegada de una conexión de almas.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=uBwakE6cUm4"
+    },
+    {
+      "video_id": "y6EGdCJKk9c",
+      "channel_theme": "Rechazar a alguien que te interesa románticamente está bien si con eso honras tus propias necesidades.",
+      "tone": "triunfante",
+      "url": "https://www.youtube.com/watch?v=y6EGdCJKk9c"
+    },
+    {
+      "video_id": "HgXZa0w5E5c",
+      "channel_theme": "Se acerca una entrada de dinero inesperada, así que inviértela con sabiduría.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=_5j4_gBY0JQ"
+      "url": "https://www.youtube.com/watch?v=HgXZa0w5E5c"
     },
     {
-      "video_id": "Jq2SEz3sx30",
-      "channel_theme": "Una tercera relación significativa trae sanación y un amor duradero tras el dolor del pasado.",
+      "video_id": "wSBwiR0_8fM",
+      "channel_theme": "Enseñar o vender en línea podría ser especialmente rentable durante este período de expansión.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=Jq2SEz3sx30"
-    },
-    {
-      "video_id": "lMZegINLOgY",
-      "channel_theme": "Una colaboración profesional fue abandonada antes de que pudiera tomar forma por completo.",
-      "tone": "introspectivo",
-      "url": "https://www.youtube.com/watch?v=lMZegINLOgY"
-    },
-    {
-      "video_id": "aubpueiKvyk",
-      "channel_theme": "Actuar con valentía y creatividad ahora construirá recompensas profesionales profundas y duraderas.",
-      "tone": "empoderador",
-      "url": "https://www.youtube.com/watch?v=aubpueiKvyk"
+      "url": "https://www.youtube.com/watch?v=wSBwiR0_8fM"
     }
   ]
 }

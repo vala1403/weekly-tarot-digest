@@ -157,5 +157,58 @@
         "note": "Deep shifts are reshaping how Pisces sees themselves and their path."
       }
     }
+  },
+  {
+    "week": "2026-08-10",
+    "signs": {
+      "aries": {
+        "theme": "cautious",
+        "note": "Pause before leaping \u2014 this week rewards careful steps over bold ones."
+      },
+      "taurus": {
+        "theme": "empowering",
+        "note": "This week, Taurus steps into its own strength with quiet confidence."
+      },
+      "gemini": {
+        "theme": "reflective",
+        "note": "Pausing to examine what truly matters brings unexpected clarity this week."
+      },
+      "cancer": {
+        "theme": "turbulent",
+        "note": "Caution rides heavy this week as shifting currents keep you off balance."
+      },
+      "leo": {
+        "theme": "cautious",
+        "note": "The week asks Leo to pause and weigh each step carefully before moving."
+      },
+      "virgo": {
+        "theme": "empowering",
+        "note": "This week hands Virgo the tools to finally take confident charge."
+      },
+      "libra": {
+        "theme": "cautious",
+        "note": "Slow your pace this week and weigh each decision carefully before committing."
+      },
+      "scorpio": {
+        "theme": "empowering",
+        "note": "Scorpio's week pulses with quiet confidence and the strength to move forward."
+      },
+      "sagittarius": {
+        "theme": "transformative",
+        "note": "A shift is underway, reshaping what Sagittarius once took for granted."
+      },
+      "capricorn": {
+        "theme": "reflective",
+        "note": "Quiet introspection shapes the week, inviting Capricorn to look inward."
+      },
+      "aquarius": {
+        "theme": "turbulent",
+        "note": "Shifting currents this week keep Aquarius off balance and searching for steady ground."
+      },
+      "pisces": {
+        "theme": "cautious",
+        "note": "Pause before acting, Pisces, the waters ahead are deceptively still."
+      }
+    }
   }
 ]

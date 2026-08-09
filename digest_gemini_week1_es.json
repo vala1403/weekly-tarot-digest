@@ -1,59 +1,59 @@
 {
   "sign": "Géminis",
-  "week_of": "2026-08-03",
+  "week_of": "2026-08-10",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores coinciden en que una nueva conexión romántica o un amor verdaderamente pleno se acerca para Géminis esta semana. Abrirte a lo que está llegando podría traerte una satisfacción genuina y duradera.",
-      "reader_count": 4,
-      "disagreement": "Una lectura puso el énfasis en que una relación debe cerrarse antes de que llegue el nuevo amor, mientras que las demás se centraron únicamente en la oportunidad romántica que se avecina, sin mencionar pérdidas previas ni cierres necesarios."
+      "summary": "Varios lectores perciben una energía romántica que va tomando fuerza esta semana, ya sea a través de una nueva conexión o de una que regresa, por lo que se anima a Géminis a soltar viejos patrones y abrir espacio de forma consciente para que el amor pueda florecer.",
+      "reader_count": 3,
+      "disagreement": "Algunos lectores vieron emerger abiertamente un romance nuevo o reavivado, mientras que uno sugirió que los sentimientos románticos están siendo activamente reprimidos y guardados en secreto en lugar de expresarse."
     },
     "finance": {
-      "summary": "La mayoría de los lectores perciben un impulso financiero positivo tomando forma esta semana. Ya sea a través de recompensas inesperadas o nuevas oportunidades, la clave está en mantenerte activo, confiar en tu propio criterio y estar dispuesto a actuar con decisión en lugar de quedarte esperando.",
-      "reader_count": 5,
-      "disagreement": "Algunos lectores animaron a estar abiertos a buscar ayuda externa, como la de un asesor financiero o un socio de confianza. Sin embargo, una lectura advirtió sobre el riesgo de depender demasiado de figuras de autoridad a la hora de tomar decisiones económicas."
+      "summary": "La mayoría de los lectores consideran que esta es una semana financieramente favorable para Géminis, con oportunidades para tomar decisiones audaces, firmar acuerdos y consolidar recursos, así que actúa con confianza y deja que la abundancia fluya de forma natural sin forzarla.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores se enfocaron en construir y asegurar recursos de manera activa, mientras que uno destacó la importancia de soltar cargas y situaciones estancadas antes de que la abundancia pueda llegar."
     },
     "career": {
-      "summary": "Varios lectores perciben un punto de inflexión profesional para Géminis: ya sea que llegue una nueva oportunidad o que toque soltar un rol que llevas mucho tiempo ocupando. El consejo es confiar en la dirección que están tomando las cosas y estar dispuesto a dejar ir para poder crecer.",
+      "summary": "Los cinco lectores señalan una oportunidad profesional importante esta semana, así que confía en ti mismo, preséntate con seguridad y ve tras el trabajo que de verdad te apasiona en lugar de conformarte con menos.",
       "reader_count": 5,
-      "disagreement": "Algunos lectores describieron la semana como fluida y sin obstáculos, mientras que otros señalaron tensiones relacionadas con el miedo a lo económico y la dificultad de abandonar lo que resulta familiar."
+      "disagreement": "Algunos lectores se centraron en avanzar superando decepciones del pasado, mientras que otros hicieron hincapié en aprovechar activamente las nuevas oportunidades desde un lugar de fortaleza y entusiasmo."
     },
     "family": {
-      "summary": "La mayoría de los lectores ven a la familia y los vínculos cercanos como una fuente de calidez y plenitud esta semana. Estar genuinamente presente para tus seres queridos y recibir con gratitud el cariño que ellos te ofrecen fortalecerá esos lazos de manera significativa.",
+      "summary": "El tema familiar estuvo presente en varias lecturas esta semana, apuntando a un momento de sanación y limpieza, ya sea rompiendo ciclos generacionales o resolviendo tensiones pendientes, el consejo compartido es soltar lo que ya no sirve y avanzar hacia vínculos más sanos y nutritivos.",
       "reader_count": 4,
-      "disagreement": "Algunos lectores destacaron la armonía y la alegría dentro del círculo íntimo, mientras que uno advirtió que las dinámicas grupales pueden complicarse cuando entran en juego demasiadas opiniones encontradas."
+      "disagreement": "Algunos lectores se enfocaron en la sanación y el reencuentro dentro de la familia, mientras que otros apuntaron a la necesidad de alejarse de relaciones que agotan y de romper ciclos heredados, lo que sugiere distintos puntos de entrada hacia un mismo cambio más amplio."
     }
   },
-  "overall_tone_summary": "Los cambios de esta semana son profundos y transforman la manera en que te ves a ti mismo.",
+  "overall_tone_summary": "Detenerse a reflexionar sobre lo que realmente importa trae una claridad inesperada esta semana.",
   "readers": [
     {
-      "video_id": "yNimKC4H8EA",
-      "channel_theme": "Los finales y los comienzos se entrelazan, y el cierre de ciclos abre paso a la transformación.",
+      "video_id": "q9pQZjIBeGQ",
+      "channel_theme": "Romper los ciclos familiares ancestrales para transformar el futuro de las generaciones que vienen.",
       "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=yNimKC4H8EA"
+      "url": "https://www.youtube.com/watch?v=q9pQZjIBeGQ"
     },
     {
-      "video_id": "icygANiTWXY",
-      "channel_theme": "Una figura de Libra podría desbloquear oportunidades significativas en el plano financiero o romántico.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=icygANiTWXY"
+      "video_id": "6vH6auBMIik",
+      "channel_theme": "Una conexión romántica del pasado, de hace ya varios años, podría reaparecer y florecer por fin.",
+      "tone": "empoderador",
+      "url": "https://www.youtube.com/watch?v=6vH6auBMIik"
     },
     {
-      "video_id": "Ddm6UWJ9TKI",
-      "channel_theme": "Demasiadas voces en una dinámica grupal pueden complicar situaciones que de otro modo serían manejables.",
-      "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=Ddm6UWJ9TKI"
+      "video_id": "km_xuZ7nNq4",
+      "channel_theme": "Soltar cargas financieras ligadas a asuntos legales o de pareja abre el camino hacia la abundancia y la estabilidad.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=km_xuZ7nNq4"
     },
     {
-      "video_id": "2RLeDheA-oI",
-      "channel_theme": "El progreso se siente natural y sin esfuerzo, con señales claras de que vas por el camino correcto.",
-      "tone": "celebratorio",
-      "url": "https://www.youtube.com/watch?v=2RLeDheA-oI"
+      "video_id": "b1hMB5bNtK4",
+      "channel_theme": "Una chispa romántica secreta se siente con mucha intensidad pero se mantiene deliberadamente oculta.",
+      "tone": "conflictivo",
+      "url": "https://www.youtube.com/watch?v=b1hMB5bNtK4"
     },
     {
-      "video_id": "rW5V3ogAGcg",
-      "channel_theme": "Es posible que un trabajo que llevas mucho tiempo haciendo ya no te esté sirviendo, aunque el miedo a lo económico te frene.",
-      "tone": "resolutivo",
-      "url": "https://www.youtube.com/watch?v=rW5V3ogAGcg"
+      "video_id": "RJS3ygyaO84",
+      "channel_theme": "Los reencuentros familiares y la sanación traen resolución a tensiones que llevan mucho tiempo sin resolverse.",
+      "tone": "optimista",
+      "url": "https://www.youtube.com/watch?v=RJS3ygyaO84"
     }
   ]
 }

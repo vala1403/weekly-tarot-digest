@@ -1,60 +1,60 @@
 {
   "sign": "Pisces",
-  "week_of": "2026-08-03",
+  "week_of": "2026-08-10",
   "categories": {
     "love": {
-      "summary": "Several readers sense themes of emotional endings and unfulfillment in love this week, with the clearest advice being to open your heart \u2014 releasing what no longer serves you creates space for something more aligned with your true desires.",
-      "reader_count": 4,
-      "disagreement": "Some readers focused on walking away from unsatisfying connections, while one suggested a struggling relationship may still be salvageable through accountability and renewed effort."
+      "summary": "Most readers sense a period of significant romantic change for Pisces this week, whether through new connections forming or existing relationships reaching a turning point, so lead with your heart while staying grounded in clear, mindful choices.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw new love and promising beginnings ahead, while others pointed to conflict, jealousy, or relationship endings as the more immediate reality."
     },
     "finance": {
-      "summary": "Several readers see financial opportunities and potential gains drawing closer for Pisces this week \u2014 putting consistent effort into your work and keeping spending grounded could help you make the most of what's coming.",
-      "reader_count": 4,
-      "disagreement": "Some readers suggest abundance will arrive naturally with little effort, while others emphasize that sustained dedication and careful budgeting are necessary to achieve financial growth."
+      "summary": "Most readers see financial opportunity and growth on the horizon this week, so take decisive action, reassess what is no longer serving you, and stay open to unexpected gains.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on proactive strategy and bold moves, while one reading warned that outside interference could block an opportunity, though fate may still deliver what is yours."
     },
     "career": {
-      "summary": "Most readers sense a meaningful career shift approaching for Pisces this week \u2014 whether through a new opportunity, collaborative recognition, or workplace rebalancing \u2014 so channel your talents with patience rather than forcing outcomes.",
+      "summary": "Most readers see professional recognition or a meaningful career shift on the horizon for Pisces this week, so staying focused and avoiding workplace distractions will help turn hard work into lasting reward.",
       "reader_count": 5,
-      "disagreement": "Some readers emphasized exciting new beginnings requiring careful timing, while one cautioned against overexertion, and another focused on resolving an existing workplace imbalance rather than pursuing something new."
+      "disagreement": "Some readers saw a career breakthrough or promotion coming, while one suggested a long-standing path may be ending entirely, calling for a completely different direction."
     },
     "family": {
-      "summary": "Few readers touched on family this week; the two who did highlighted both potential friction with a paternal figure and the value of cooperative, protective energy within the family unit.",
+      "summary": "Only a couple of readers touched on family this week. One pointed to a life transition such as leaving a long-held home or retiring to spend more time with loved ones, while another noted rising friction with close figures as personal values begin to shift.",
       "reader_count": 2,
-      "disagreement": "One reader pointed to conflict and legacy planning, while another emphasized teamwork and mutual support as sources of family abundance."
+      "disagreement": "Some readers saw family themes around warm transition and togetherness. Others suggested tension and misalignment with those closest to you."
     }
   },
-  "overall_tone": "transformative",
-  "overall_tone_summary": "Deep shifts are reshaping how Pisces sees themselves and their path.",
+  "overall_tone": "cautious",
+  "overall_tone_summary": "Pause before acting, Pisces, the waters ahead are deceptively still.",
   "readers": [
     {
-      "video_id": "F4cQ6ECF3h4",
-      "channel_theme": "A major life chapter must close before love and new ventures can truly begin.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=F4cQ6ECF3h4"
-    },
-    {
-      "video_id": "FQDwg-TCcqA",
-      "channel_theme": "A career breakthrough may involve relocation or rapid advancement through existing talents.",
+      "video_id": "PSbN5_ztgak",
+      "channel_theme": "Major life milestones like marriage or retirement are likely this week.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=FQDwg-TCcqA"
+      "url": "https://www.youtube.com/watch?v=PSbN5_ztgak"
     },
     {
-      "video_id": "yA4nQbay9C4",
-      "channel_theme": "Abundance arrives effortlessly, drawn magnetically without active pursuit.",
+      "video_id": "YLCUHUc_LyQ",
+      "channel_theme": "Someone close may be secretly jealous and could sabotage your progress.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=YLCUHUc_LyQ"
+    },
+    {
+      "video_id": "A9qgRRAZDbM",
+      "channel_theme": "A bold new romantic connection is forming during a favorable period.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=yA4nQbay9C4"
+      "url": "https://www.youtube.com/watch?v=A9qgRRAZDbM"
     },
     {
-      "video_id": "5eVOyIieBno",
-      "channel_theme": "Emotional healing and heart-opening are central themes this week.",
-      "tone": "introspective",
-      "url": "https://www.youtube.com/watch?v=5eVOyIieBno"
-    },
-    {
-      "video_id": "PcgKyHZVqmg",
-      "channel_theme": "An authority figure acknowledges wrongdoing and actively seeks to make amends.",
+      "video_id": "jLIJKtq8yYo",
+      "channel_theme": "Calculated financial risks could bring unexpected monetary gains this week.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=PcgKyHZVqmg"
+      "url": "https://www.youtube.com/watch?v=jLIJKtq8yYo"
+    },
+    {
+      "video_id": "FbEdfnIIdj4",
+      "channel_theme": "A painful situation is ending, making way for a fresh start.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=FbEdfnIIdj4"
     }
   ]
 }

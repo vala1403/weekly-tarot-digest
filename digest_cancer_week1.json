@@ -1,60 +1,60 @@
 {
   "sign": "Cancer",
-  "week_of": "2026-08-03",
+  "week_of": "2026-08-10",
   "categories": {
     "love": {
-      "summary": "Most readers sense a week of emotional clarity for Cancer \u2014 trust your instincts about who belongs in your life, and let connections grow honestly rather than forcing outcomes.",
-      "reader_count": 5,
-      "disagreement": "Some readers saw a potential reunion or returning connection, while others suggested pulling back from shallow bonds or bracing for friction as relationships are reality-tested."
+      "summary": "Several readers sense a promising romantic opportunity on the horizon for Cancer, so while it may be tempting to dive in quickly, taking a measured and open-hearted approach seems to be the shared advice this week.",
+      "reader_count": 3,
+      "disagreement": "One reading described a current relationship where Cancer feels emotionally unseen and drained. Others focused on new romantic possibilities and encouraged putting themselves out there."
     },
     "finance": {
-      "summary": "Most readers sense financial relief on the horizon this week \u2014 accepting help, opportunities, or support rather than clinging to scarcity thinking could be the key to unlocking greater stability and confidence.",
-      "reader_count": 4,
-      "disagreement": "Some readers emphasized receiving offers or support to ease burdens, while others pointed to material abundance already present, cautioning against complacency or inaction."
+      "summary": "Most readers see significant financial abundance on Cancer's horizon this week, so take confident action on opportunities already in front of you rather than letting self-doubt hold you back.",
+      "reader_count": 5,
+      "disagreement": "Some readers emphasized bold action toward imminent breakthroughs, while one advised careful, measured decision-making before committing to any new financial opportunity."
     },
     "career": {
-      "summary": "Most readers this week see Cancer navigating professional opportunity and reward \u2014 the common thread is to stay consistent and patient, letting outcomes develop naturally rather than forcing them.",
+      "summary": "Most readers this week point to a meaningful career opportunity or breakthrough for Cancer, so be ready to step outside your comfort zone and take action when that pivotal moment arrives.",
       "reader_count": 4,
-      "disagreement": "Some readers encouraged steady, diligent effort toward recognition and reward, while others advised easing off pressure and allowing things to unfold without pushing."
+      "disagreement": "Some readers saw Cancer already achieving success, while others suggested hesitation and internal blocks are still holding them back from committing to the next step."
     },
     "family": {
-      "summary": "Only two readers touched on family this week \u2014 one suggested that emotional friction in close relationships calls for patience and space, while the other highlighted a warm, supportive circle ready to celebrate and uplift you through change.",
-      "reader_count": 2,
-      "disagreement": "One reading advised stepping back from conflict to preserve harmony; the other emphasized leaning into supportive connections. The tones \u2014 cautious distance vs. warm togetherness \u2014 point in opposite directions."
+      "summary": "Family emerges as a meaningful backdrop this week for Cancer, with loved ones offering quiet support and connection, even if personal stress makes it harder to fully receive it.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw family as a comforting presence Cancer can lean on. Others suggested family relationships may be a source of stress or upheaval driving current life changes."
     }
   },
-  "overall_tone": "cautious",
-  "overall_tone_summary": "Pause before acting \u2014 this week rewards careful steps over bold leaps.",
+  "overall_tone": "turbulent",
+  "overall_tone_summary": "Caution rides heavy this week as shifting currents keep you off balance.",
   "readers": [
     {
-      "video_id": "uLaT-4ATt9g",
-      "channel_theme": "A concrete offer or opportunity is coming and accepting imperfection will unlock progress.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=uLaT-4ATt9g"
+      "video_id": "SOH7DT9_1h0",
+      "channel_theme": "Cancer's hard work is culminating in triumphant, next-level success across all fronts.",
+      "tone": "triumphant",
+      "url": "https://www.youtube.com/watch?v=SOH7DT9_1h0"
     },
     {
-      "video_id": "E4J66EyvrSA",
-      "channel_theme": "Avoid forcing outcomes; patience and restraint are this week's most important tools.",
+      "video_id": "5YVCM0um_r4",
+      "channel_theme": "Family quietly supports Cancer as they weigh a bold leap of faith.",
+      "tone": "encouraging",
+      "url": "https://www.youtube.com/watch?v=5YVCM0um_r4"
+    },
+    {
+      "video_id": "7dReLdXNHRY",
+      "channel_theme": "Self-doubt and fear are the main obstacles blocking Cancer's major life shift.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=E4J66EyvrSA"
+      "url": "https://www.youtube.com/watch?v=7dReLdXNHRY"
     },
     {
-      "video_id": "88LGUs47orQ",
-      "channel_theme": "Releasing a scarcity mindset opens the door to abundance and celebration.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=88LGUs47orQ"
+      "video_id": "vcNWlrGm18Y",
+      "channel_theme": "Influential older women in the family take center stage this week.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=vcNWlrGm18Y"
     },
     {
-      "video_id": "ko4V4dvQnY0",
-      "channel_theme": "Cancer is building real financial independence and self-sufficiency this week.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=ko4V4dvQnY0"
-    },
-    {
-      "video_id": "dvIS1AHnl-s",
-      "channel_theme": "A Mercury retrograde departure may be returning to offer reconciliation and stability.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=dvIS1AHnl-s"
+      "video_id": "3ngsOvcoD2c",
+      "channel_theme": "Cancer's emotionally draining relationship leaves them too distracted to connect with loved ones.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=3ngsOvcoD2c"
     }
   ]
 }

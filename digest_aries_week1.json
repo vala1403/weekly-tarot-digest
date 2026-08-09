@@ -1,60 +1,60 @@
 {
   "sign": "Aries",
-  "week_of": "2026-08-03",
+  "week_of": "2026-08-10",
   "categories": {
     "love": {
-      "summary": "Most readers sense emotional complexity in Aries' love life this week \u2014 whether through nostalgia, healing from past wounds, or unexpected new connections, the heart appears to be moving toward something more authentic and fulfilling.",
+      "summary": "Most readers see this as a turning point in love for Aries \u2014 letting go of what no longer feels real seems to be paving the way for a more authentic or exciting new connection.",
       "reader_count": 4,
-      "disagreement": "Some readers focused on fresh starts and healing, while others pointed to ongoing emotional obstacles or manipulative influences still present in the picture."
+      "disagreement": "Some readers described a hopeful fresh start ahead, while one highlighted ongoing dissatisfaction within a current relationship still in progress rather than something already released."
     },
     "finance": {
-      "summary": "Most readers this week see financial opportunities and growing prosperity on the horizon for Aries \u2014 acting on new income possibilities promptly and pursuing your goals with confidence are key to making the most of this energy.",
+      "summary": "Most readers this week foresee meaningful financial growth for Aries, with new income streams and opportunities on the horizon \u2014 the key is to plan deliberately and align those gains with long-term abundance goals.",
       "reader_count": 4,
-      "disagreement": "Some readers emphasized urgency in seizing new opportunities before they fade, while others suggested a steadier build toward prosperity through skill and hard work over time."
+      "disagreement": "No notable disagreement. Most readers aligned on growth and opportunity, though one leaned more toward reflection and goal-setting than active new income."
     },
     "career": {
-      "summary": "A significant new professional chapter appears to be unfolding for Aries this week \u2014 most readers encourage trusting your existing skills and boldly stepping toward the opportunities and collaborations now coming into view.",
-      "reader_count": 5,
-      "disagreement": "Some readers saw exciting offers and momentum already building, while others noted inner doubt and hesitation as a real obstacle standing between Aries and that next career move."
+      "summary": "Most readers this week see a draining work situation coming to a close for Aries, with a more aligned and energizing opportunity emerging \u2014 trust the transition and move toward what genuinely supports your growth.",
+      "reader_count": 4,
+      "disagreement": "One reading focused on interpersonal conflict or tension at work as part of the shift, while another emphasized seeking outside collaboration or trusted input before making a major professional move."
     },
     "family": {
-      "summary": "Few readers touched on family this week; those who did pointed to an authority figure possibly shaping your sense of direction, or fertile energies stirring thoughts of expanding your family unit.",
-      "reader_count": 2,
-      "disagreement": "One reading focused on external authority influencing independence; another emphasized internal nurturing energy and new family beginnings \u2014 different sources and directions of family influence."
+      "summary": "Home and family matters are coming to a head for Aries this week \u2014 whether through shifting dynamics, unresolved tensions, or realigning priorities, addressing what's been simmering beneath the surface seems unavoidable.",
+      "reader_count": 4,
+      "disagreement": "Some readers pointed to resolution and relief arriving soon, while others suggested the work of confronting these issues is only just beginning."
     }
   },
-  "overall_tone": "liberating",
-  "overall_tone_summary": "A constricting tie finally breaks, freeing Aries for a new chapter.",
+  "overall_tone": "cautious",
+  "overall_tone_summary": "Pause before leaping \u2014 this week rewards careful steps over bold ones.",
   "readers": [
     {
-      "video_id": "D1QAGhT6Vqg",
-      "channel_theme": "Authentic connections emerge after leaving misaligned relationships or work behind.",
+      "video_id": "Dp8zFHQhenI",
+      "channel_theme": "Hidden truths may fracture a close relationship before renewal becomes possible.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=D1QAGhT6Vqg"
+      "url": "https://www.youtube.com/watch?v=Dp8zFHQhenI"
     },
     {
-      "video_id": "iDvADk1j_sw",
-      "channel_theme": "A manipulative figure is blocking your emotional and professional progress.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=iDvADk1j_sw"
-    },
-    {
-      "video_id": "DtLT7x8P88M",
-      "channel_theme": "Act fast\u2014multiple career and financial doors are briefly opening now.",
+      "video_id": "-Cmt5XCg4Nk",
+      "channel_theme": "A side income stream will specifically shift Aries toward an abundance mindset.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=DtLT7x8P88M"
+      "url": "https://www.youtube.com/watch?v=-Cmt5XCg4Nk"
     },
     {
-      "video_id": "TmgtR9F1jpQ",
-      "channel_theme": "Betrayal fades as healing, prosperity, and possible family expansion begin.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=TmgtR9F1jpQ"
-    },
-    {
-      "video_id": "6BstPEn-lOs",
-      "channel_theme": "You already have everything needed to boldly launch your new path.",
+      "video_id": "vUVQjmqRQsc",
+      "channel_theme": "A surface-level happy relationship is quietly hiding deeper conflict and exhaustion.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=6BstPEn-lOs"
+      "url": "https://www.youtube.com/watch?v=vUVQjmqRQsc"
+    },
+    {
+      "video_id": "UObeyJ1usMI",
+      "channel_theme": "No guidance offered this week across any life area.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=UObeyJ1usMI"
+    },
+    {
+      "video_id": "8jfmq2Qtdr8",
+      "channel_theme": "A trusted person may offer collaboration on a major professional change.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=8jfmq2Qtdr8"
     }
   ]
 }

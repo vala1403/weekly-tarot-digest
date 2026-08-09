@@ -1,60 +1,60 @@
 {
   "sign": "Sagittarius",
-  "week_of": "2026-08-03",
+  "week_of": "2026-08-10",
   "categories": {
     "love": {
-      "summary": "Love looks promising for Sagittarius this week, with most readers sensing new or renewed romantic possibilities on the way \u2014 open your heart, heal from the past, and be willing to put yourself out there.",
-      "reader_count": 5,
-      "disagreement": "Some readers pointed to a fresh romantic arrival or deepening love, while others suggested reconnecting with someone from the past rather than pursuing someone new."
+      "summary": "Most readers sense meaningful romantic energy arriving for Sagittarius this week, so open your heart with confidence and focus on connections that genuinely match your energy rather than drain it.",
+      "reader_count": 4,
+      "disagreement": "One reading suggested Sagittarius may need to turn someone away romantically, while others pointed toward welcoming new love in."
     },
     "finance": {
-      "summary": "Sagittarius is encouraged to take a more grounded, disciplined approach to finances this week \u2014 letting go of excess or impulsive spending in favor of steady, mindful money management that builds long-term stability.",
-      "reader_count": 3,
-      "disagreement": "One reader advised caution and preservation of current resources, while another saw signs of financial improvement already emerging through better money habits."
+      "summary": "Most readers this week foresee a meaningful financial windfall or boost coming Sagittarius's way, so when it arrives, resist the urge to spend freely and instead save or invest it with intention.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on an incoming reward or blessing with little condition, while others emphasized that Sagittarius must make deliberate choices or pursue specific ventures to fully benefit."
     },
     "career": {
-      "summary": "Most readers see this as a bold, action-oriented turning point for Sagittarius at work \u2014 channeling your genuine strengths and excitement into purposeful efforts now can set the stage for meaningful, lasting results.",
-      "reader_count": 3,
-      "disagreement": "One reading pointed toward healing or spiritual vocations as a calling, while another highlighted disengagement from a half-hearted collaboration \u2014 two contrasting directions of career energy."
+      "summary": "Most readers see a meaningful shift in professional status on the horizon for Sagittarius, so make yourself visible, take initiative, and be open to new directions if old efforts have stalled.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on an imminent status shift or promotion already unfolding, while one suggested the better path may require abandoning prior efforts and starting fresh elsewhere."
     },
     "family": {
-      "summary": "Only 2 of the 5 readers touched on family this week \u2014 one pointed to important decisions that could reshape caregiving or extended family dynamics, while the other saw a deeply fulfilling vision of love and harmony beginning to take root in real life.",
-      "reader_count": 2,
-      "disagreement": "One reading focused on practical, potentially complex family arrangements, while the other envisioned joyful domestic harmony \u2014 notably different emotional tones for the same week."
+      "summary": "Most readers see Sagittarius building toward greater stability in home and family life this week, so focus on nurturing the connections that truly support you while planning thoughtfully for long-term security.",
+      "reader_count": 4,
+      "disagreement": "One reader suggested distancing from misaligned connections and moving toward better-fitting ones, while another focused on setting firm boundaries with draining relatives rather than seeking new bonds."
     }
   },
-  "overall_tone": "reflective",
-  "overall_tone_summary": "A quieter week invites Sagittarius to look inward before leaping forward.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "A shift is underway, reshaping what Sagittarius once took for granted.",
   "readers": [
     {
-      "video_id": "P2F3QkbzEXA",
-      "channel_theme": "A past romantic partner may be returning, requiring careful reflection before reconciling.",
+      "video_id": "AVjBxjBtLhQ",
+      "channel_theme": "Bold self-promotion under Leo eclipse energy can boost your career visibility now.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=P2F3QkbzEXA"
+      "url": "https://www.youtube.com/watch?v=AVjBxjBtLhQ"
     },
     {
-      "video_id": "_5j4_gBY0JQ",
-      "channel_theme": "A soulmate joins Sagittarius as hardship gives way to lasting happiness.",
+      "video_id": "uBwakE6cUm4",
+      "channel_theme": "Releasing past emotional wounds opens the door to a soulmate connection.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=uBwakE6cUm4"
+    },
+    {
+      "video_id": "y6EGdCJKk9c",
+      "channel_theme": "Turning down a romantic interest is okay if it honors your own needs.",
+      "tone": "triumphant",
+      "url": "https://www.youtube.com/watch?v=y6EGdCJKk9c"
+    },
+    {
+      "video_id": "HgXZa0w5E5c",
+      "channel_theme": "An unexpected financial windfall is coming, so invest it wisely.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=_5j4_gBY0JQ"
+      "url": "https://www.youtube.com/watch?v=HgXZa0w5E5c"
     },
     {
-      "video_id": "Jq2SEz3sx30",
-      "channel_theme": "A third significant relationship offers healing and lasting love after past heartbreak.",
+      "video_id": "wSBwiR0_8fM",
+      "channel_theme": "Teaching or online sales could be especially lucrative during this expansive period.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=Jq2SEz3sx30"
-    },
-    {
-      "video_id": "lMZegINLOgY",
-      "channel_theme": "A professional collaboration was abandoned before it ever fully took shape.",
-      "tone": "introspective",
-      "url": "https://www.youtube.com/watch?v=lMZegINLOgY"
-    },
-    {
-      "video_id": "aubpueiKvyk",
-      "channel_theme": "Bold creative action now will build meaningful, long-term career rewards.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=aubpueiKvyk"
+      "url": "https://www.youtube.com/watch?v=wSBwiR0_8fM"
     }
   ]
 }

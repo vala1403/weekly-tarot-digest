@@ -1,59 +1,59 @@
 {
   "sign": "Aries",
-  "week_of": "2026-08-03",
+  "week_of": "2026-08-10",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores perciben una semana emocionalmente intensa para Aries en el amor — ya sea por nostalgia, por la sanación de heridas del pasado o por conexiones inesperadas que surgen de pronto, el corazón parece encaminarse hacia algo más auténtico y pleno.",
+      "summary": "La mayoría de los lectores coinciden en que esta semana marca un punto de inflexión en el amor para Aries. Soltar lo que ya no se siente genuino parece estar abriendo el camino hacia una conexión más auténtica y emocionante.",
       "reader_count": 4,
-      "disagreement": "Algunos lectores se enfocaron en nuevos comienzos y en el proceso de sanación, mientras que otros señalaron obstáculos emocionales persistentes o influencias manipuladoras que aún siguen presentes."
+      "disagreement": "Algunos lectores describieron un comienzo esperanzador a la vuelta de la esquina, mientras que uno destacó una insatisfacción persistente dentro de una relación actual que aún no ha llegado a su fin, más que algo que ya se haya dejado atrás."
     },
     "finance": {
-      "summary": "La mayoría de los lectores ven esta semana un horizonte financiero prometedor para Aries, con oportunidades de crecimiento y prosperidad a la vista — aprovechar con decisión las nuevas posibilidades de ingresos y avanzar con confianza hacia tus metas será clave para sacarle el máximo partido a esta energía.",
+      "summary": "La mayoría de los lectores prevén un crecimiento económico significativo para Aries esta semana, con nuevas fuentes de ingresos y oportunidades en el horizonte. La clave está en planificar con intención y alinear esas ganancias con metas de abundancia a largo plazo.",
       "reader_count": 4,
-      "disagreement": "Algunos lectores destacaron la importancia de actuar rápido antes de que las oportunidades se escapen, mientras que otros sugirieron un camino más gradual hacia la prosperidad, construido con esfuerzo y dedicación con el paso del tiempo."
+      "disagreement": null
     },
     "career": {
-      "summary": "Se avecina un capítulo profesional importante para Aries esta semana — la mayoría de los lectores coinciden en que es momento de confiar en tus propias capacidades y dar pasos firmes hacia las oportunidades y colaboraciones que ahora empiezan a aparecer en tu camino.",
-      "reader_count": 5,
-      "disagreement": "Algunos lectores vieron ofertas emocionantes y un impulso que ya está tomando forma, mientras que otros señalaron que la duda interna y la vacilación son obstáculos reales que Aries debe superar para avanzar en su carrera."
+      "summary": "La mayoría de los lectores ven cómo una situación laboral agotadora llega a su fin para Aries, mientras surge una oportunidad más alineada y estimulante. Confía en esta transición y avanza hacia lo que realmente impulsa tu crecimiento.",
+      "reader_count": 4,
+      "disagreement": "Una lectura se centró en conflictos o tensiones interpersonales en el trabajo como parte de este cambio, mientras que otra destacó la importancia de buscar colaboración externa o consejos de confianza antes de dar un paso profesional importante."
     },
     "family": {
-      "summary": "Pocos lectores abordaron el ámbito familiar esta semana; quienes lo hicieron apuntaron a una figura de autoridad que podría estar marcando tu sentido de dirección, o a energías fértiles que despiertan el deseo de ampliar tu núcleo familiar.",
-      "reader_count": 2,
-      "disagreement": "Una lectura se centró en cómo la autoridad externa influye sobre tu independencia; otra puso el foco en una energía interna de cuidado y en nuevos comienzos familiares — fuentes y direcciones distintas de la influencia familiar."
+      "summary": "Los asuntos del hogar y la familia llegan a un punto crítico para Aries esta semana. Ya sea por dinámicas cambiantes, tensiones sin resolver o prioridades que necesitan reajustarse, parece inevitable enfrentar lo que ha estado gestándose bajo la superficie.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores señalaron que la resolución y el alivio están próximos, mientras que otros sugirieron que el trabajo de afrontar estos asuntos apenas está comenzando."
     }
   },
-  "overall_tone_summary": "Un vínculo que aprisionaba a Aries se rompe al fin, abriéndole las puertas a un nuevo capítulo de vida.",
+  "overall_tone_summary": "Detente antes de lanzarte: esta semana premia los pasos cautelosos por encima de los audaces.",
   "readers": [
     {
-      "video_id": "D1QAGhT6Vqg",
-      "channel_theme": "Conexiones auténticas emergen cuando dejas atrás relaciones o trabajos que ya no están alineados contigo.",
+      "video_id": "Dp8zFHQhenI",
+      "channel_theme": "Verdades ocultas podrían fracturar una relación cercana antes de que sea posible una renovación.",
       "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=D1QAGhT6Vqg"
+      "url": "https://www.youtube.com/watch?v=Dp8zFHQhenI"
     },
     {
-      "video_id": "iDvADk1j_sw",
-      "channel_theme": "Una persona manipuladora está bloqueando tu avance emocional y profesional.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=iDvADk1j_sw"
-    },
-    {
-      "video_id": "DtLT7x8P88M",
-      "channel_theme": "Actúa ya — varias puertas en lo profesional y financiero se están abriendo por poco tiempo.",
+      "video_id": "-Cmt5XCg4Nk",
+      "channel_theme": "Una fuente de ingresos adicional llevará a Aries a adoptar una mentalidad de abundancia.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=DtLT7x8P88M"
+      "url": "https://www.youtube.com/watch?v=-Cmt5XCg4Nk"
     },
     {
-      "video_id": "TmgtR9F1jpQ",
-      "channel_theme": "La traición queda atrás mientras comienzan la sanación, la prosperidad y la posibilidad de ampliar la familia.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=TmgtR9F1jpQ"
-    },
-    {
-      "video_id": "6BstPEn-lOs",
-      "channel_theme": "Ya tienes todo lo que necesitas para lanzarte con valentía a tu nuevo camino.",
+      "video_id": "vUVQjmqRQsc",
+      "channel_theme": "Una relación que parece feliz en la superficie esconde en silencio un conflicto más profundo y agotamiento.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=6BstPEn-lOs"
+      "url": "https://www.youtube.com/watch?v=vUVQjmqRQsc"
+    },
+    {
+      "video_id": "UObeyJ1usMI",
+      "channel_theme": "No se ofrece orientación esta semana en ningún área de la vida.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=UObeyJ1usMI"
+    },
+    {
+      "video_id": "8jfmq2Qtdr8",
+      "channel_theme": "Una persona de confianza podría proponer una colaboración en torno a un cambio profesional importante.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=8jfmq2Qtdr8"
     }
   ]
 }

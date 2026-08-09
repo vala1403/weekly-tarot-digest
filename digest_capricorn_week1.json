@@ -1,60 +1,60 @@
 {
   "sign": "Capricorn",
-  "week_of": "2026-08-03",
+  "week_of": "2026-08-10",
   "categories": {
     "love": {
-      "summary": "Three readers see meaningful romantic potential ahead for Capricorn \u2014 whether through a past reconnection, a new pursuit, or a deeper soulmate bond, the shared advice is to release what no longer serves you and remain open to something more fulfilling.",
-      "reader_count": 3,
-      "disagreement": "Some readers focused on pursuing someone new or reconnecting with the past, while one emphasized walking away from unfulfilling relationships entirely to wait for a lasting, committed partnership."
+      "summary": "Most readers sense a significant romantic shift ahead for Capricorn, whether through a promising new connection or meaningful emotional growth, so open your heart and allow past wounds to heal rather than hold you back.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on an exciting new romantic arrival, while others pointed to emotional strain or disconnection within an existing bond."
     },
     "finance": {
-      "summary": "Most readers see financial strength and accumulation as a real possibility this week, but the recurring advice is to be strategic \u2014 invest energy into what genuinely gives back and manage resources with patience and care.",
+      "summary": "A major financial turning point appears to be on the horizon for Capricorn, so take time to weigh your options carefully before committing, as thoughtful preparation now is likely to lead to a rewarding outcome.",
       "reader_count": 5,
-      "disagreement": "One reading pointed to exceptional, near-certain wealth ahead, while others urged caution, protection, and careful management rather than confident expectation of success."
+      "disagreement": "Some readers saw hardship ending and abundance arriving, while others suggested Capricorn is still in early stages of planning or exploring a new opportunity, not yet at a resolution."
     },
     "career": {
-      "summary": "Most readers see a pivotal career shift unfolding for Capricorn this week \u2014 whether a change is imminent or still building, the consistent advice is to trust your strengths and be ready to move boldly when the moment arrives.",
+      "summary": "All five readers point to a promising new professional opportunity taking shape this week, so lean into the momentum by staying organized, solution-focused, and open to things moving faster than expected.",
       "reader_count": 5,
-      "disagreement": "Some readers described an ending or departure that has already happened, while others suggested the shift is still pending, with the right moment yet to come."
+      "disagreement": "Some readers saw the opportunity arriving quickly and almost immediately, while others suggested it is still in early negotiation or preparation stages before a favorable outcome lands."
     },
     "family": {
-      "summary": "A few readers touched on family this week, with the shared sense that warmth and emotional connection are on the horizon \u2014 whether through reunions, a nurturing home life, or simply choosing positivity over negativity in close relationships.",
+      "summary": "Only a few readers touched on family this week, but those who did pointed to gatherings, reunions, and a supportive network of loved ones as sources of meaningful connection and joy for Capricorn.",
       "reader_count": 3,
-      "disagreement": "Some readers focused on joyful reunions and nostalgic bonds, while one emphasized navigating emotional disruption at home rather than celebrating connection."
+      "disagreement": "No notable disagreement among readers who discussed this theme."
     }
   },
-  "overall_tone": "empowering",
-  "overall_tone_summary": "Capricorn steps into its strength with quiet, unmistakable confidence this week.",
+  "overall_tone": "reflective",
+  "overall_tone_summary": "Quiet introspection shapes the week, inviting Capricorn to look inward.",
   "readers": [
     {
-      "video_id": "a1UxiVAQdJ8",
-      "channel_theme": "Stop doubting yourself and boldly pursue your goals using your unique strengths.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=a1UxiVAQdJ8"
-    },
-    {
-      "video_id": "zLFKxx_vFzY",
-      "channel_theme": "A new opportunity may require leaving behind an unrecognized, unrewarding situation.",
+      "video_id": "d8bcqfZtKac",
+      "channel_theme": "A career opportunity could arrive and immediately convert into a job offer.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=zLFKxx_vFzY"
+      "url": "https://www.youtube.com/watch?v=d8bcqfZtKac"
     },
     {
-      "video_id": "D-wcye9MAn8",
-      "channel_theme": "Major wealth and a destined soulmate marriage are firmly on the horizon.",
-      "tone": "triumphant",
-      "url": "https://www.youtube.com/watch?v=D-wcye9MAn8"
+      "video_id": "URNoF6S11w4",
+      "channel_theme": "A strong emotional bond is strained, with neither party fully letting go.",
+      "tone": "reflective",
+      "url": "https://www.youtube.com/watch?v=URNoF6S11w4"
     },
     {
-      "video_id": "YH-CvOiyNWo",
-      "channel_theme": "A past love may return, feeling fated and sparking a romantic awakening.",
-      "tone": "nostalgic",
-      "url": "https://www.youtube.com/watch?v=YH-CvOiyNWo"
+      "video_id": "Y5BUuH9fDgk",
+      "channel_theme": "Old emotional walls are falling, opening your heart to love again.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=Y5BUuH9fDgk"
     },
     {
-      "video_id": "cTeudGpTLCU",
-      "channel_theme": "Patient waiting and trust will eventually unlock career breakthroughs and home harmony.",
+      "video_id": "nha8sJou_6g",
+      "channel_theme": "Family celebrations and reunions bring deep joy and connection this week.",
+      "tone": "celebratory",
+      "url": "https://www.youtube.com/watch?v=nha8sJou_6g"
+    },
+    {
+      "video_id": "Tu7fmyNR-0Q",
+      "channel_theme": "A water sign may extend an unexpected apology, sparking a meaningful reunion.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=cTeudGpTLCU"
+      "url": "https://www.youtube.com/watch?v=Tu7fmyNR-0Q"
     }
   ]
 }

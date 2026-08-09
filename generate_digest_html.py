@@ -31,6 +31,26 @@ SPARKLE_SVG = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c.6 4.
 
 CATEGORY_ORDER = ["love", "finance", "career", "family"]
 
+EM_DASH = "—"
+
+
+def strip_em_dashes(text):
+    """Replace em dashes with a comma so style stays consistent, including in
+    digests generated before this style rule existed. Best-effort, not
+    grammar-aware."""
+    if not isinstance(text, str) or EM_DASH not in text:
+        return text
+    cleaned = text.replace(f" {EM_DASH} ", ", ").replace(EM_DASH, ", ")
+    return " ".join(cleaned.split())
+
+
+def strip_em_dashes_deep(obj):
+    if isinstance(obj, dict):
+        return {k: strip_em_dashes_deep(v) for k, v in obj.items()}
+    if isinstance(obj, list):
+        return [strip_em_dashes_deep(v) for v in obj]
+    return strip_em_dashes(obj)
+
 CATEGORY_LABELS = {
     "en": {"love": "Love", "finance": "Finance", "career": "Career", "family": "Family"},
     "es": {"love": "Amor", "finance": "Finanzas", "career": "Carrera", "family": "Familia"},
@@ -125,7 +145,7 @@ def build_html(digest: dict, week_of_display: str, cards_html: str, rows_html: s
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{esc(digest['sign'])} — {strings['week_of_prefix']} {esc(week_of_display)}</title>
+<title>{esc(digest['sign'])}: {strings['week_of_prefix']} {esc(week_of_display)}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Macondo+Swash+Caps&family=Antic&display=swap" rel="stylesheet">
@@ -513,6 +533,7 @@ def main():
         return 1
 
     digest = json.loads(digest_path.read_text(encoding="utf-8"))
+    digest = strip_em_dashes_deep(digest)
 
     week_of_display = format_week_of(digest["week_of"], lang)
     cards_html = "".join(
@@ -524,6 +545,11 @@ def main():
     )
 
     html_out = build_html(digest, week_of_display, cards_html, rows_html, lang)
+
+    if EM_DASH in html_out:
+        count = html_out.count(EM_DASH)
+        print(f"WARNING: {count} em dash(es) slipped through into {output_path.name}, flagging for manual review.")
+
     output_path.write_text(html_out, encoding="utf-8")
     print(f"Wrote {output_path}")
     return 0

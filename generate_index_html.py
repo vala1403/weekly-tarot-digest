@@ -16,6 +16,19 @@ import json
 import sys
 from pathlib import Path
 
+EM_DASH = "—"
+
+
+def strip_em_dashes(text):
+    """Replace em dashes with a comma so style stays consistent, including in
+    digests generated before this style rule existed. Best-effort, not
+    grammar-aware."""
+    if not isinstance(text, str) or EM_DASH not in text:
+        return text
+    cleaned = text.replace(f" {EM_DASH} ", ", ").replace(EM_DASH, ", ")
+    return " ".join(cleaned.split())
+
+
 ZODIAC_ORDER = [
     "aries", "taurus", "gemini", "cancer", "leo", "virgo",
     "libra", "scorpio", "sagittarius", "capricorn", "aquarius", "pisces",
@@ -94,7 +107,7 @@ def load_sign_card(sign_slug: str, lang: str) -> dict:
         "available": True,
         "name": digest["sign"],
         "href": html_href,
-        "teaser": digest["overall_tone_summary"],
+        "teaser": strip_em_dashes(digest["overall_tone_summary"]),
     }
 
 
@@ -395,6 +408,11 @@ def main():
             for i, sign_slug in enumerate(ZODIAC_ORDER)
         )
         html_out = build_html(cards_html, strings)
+
+        if EM_DASH in html_out:
+            count = html_out.count(EM_DASH)
+            print(f"WARNING: {count} em dash(es) slipped through into {strings['output_path'].name}, flagging for manual review.")
+
         strings["output_path"].write_text(html_out, encoding="utf-8")
         available = sum(1 for s in ZODIAC_ORDER if load_sign_card(s, lang)["available"])
         print(f"Wrote {strings['output_path']}  ({available}/12 signs available)")

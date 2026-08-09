@@ -1,59 +1,59 @@
 {
   "sign": "Piscis",
-  "week_of": "2026-08-03",
+  "week_of": "2026-08-10",
   "categories": {
     "love": {
-      "summary": "Varios lectores perciben temas de cierres emocionales e insatisfacción en el amor esta semana. El consejo más claro es abrir el corazón: soltar lo que ya no te nutre crea espacio para algo que sí resuene con tus verdaderos deseos.",
-      "reader_count": 4,
-      "disagreement": "Algunos lectores se enfocaron en alejarse de vínculos que no llenan, mientras que uno sugirió que una relación en dificultades aún podría rescatarse con responsabilidad y esfuerzo renovado."
+      "summary": "La mayoría de los lectores perciben una etapa de cambios importantes en el plano romántico para Piscis esta semana, ya sea a través de nuevas conexiones que comienzan a florecer o de relaciones existentes que llegan a un punto decisivo. Déjate guiar por el corazón, pero sin perder de vista la claridad y la consciencia en tus decisiones.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores vieron nuevos amores y comienzos prometedores en el horizonte, mientras que otros señalaron conflictos, celos o el fin de una relación como la realidad más inmediata."
     },
     "finance": {
-      "summary": "Varios lectores ven oportunidades económicas y posibles ganancias acercándose para Piscis esta semana. Mantener un esfuerzo constante en tu trabajo y llevar un gasto consciente podría ayudarte a aprovechar al máximo lo que está por llegar.",
-      "reader_count": 4,
-      "disagreement": "Algunos lectores sugieren que la abundancia llegará de forma natural sin mayor esfuerzo, mientras que otros señalan que la dedicación sostenida y un presupuesto cuidadoso son necesarios para lograr un crecimiento financiero real."
+      "summary": "La mayoría de los lectores ven oportunidades financieras y crecimiento económico a la vuelta de la esquina esta semana. Es momento de actuar con determinación, evaluar lo que ya no te aporta y mantenerte abierto a ganancias inesperadas.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores se enfocaron en la estrategia proactiva y las decisiones audaces, mientras que una lectura advirtió que interferencias externas podrían bloquear una oportunidad, aunque el destino quizás igual te entregue lo que te corresponde."
     },
     "career": {
-      "summary": "La mayoría de los lectores percibe un cambio profesional significativo en camino para Piscis esta semana, ya sea a través de una nueva oportunidad, un reconocimiento colectivo o un reequilibrio en el entorno laboral. Canaliza tus talentos con paciencia en lugar de forzar los resultados.",
+      "summary": "La mayoría de los lectores perciben un reconocimiento profesional o un giro significativo en la carrera de Piscis esta semana. Mantenerte enfocado y alejado de las distracciones en el trabajo será clave para convertir tu esfuerzo en recompensas duraderas.",
       "reader_count": 5,
-      "disagreement": "Algunos lectores destacaron nuevos comienzos emocionantes que requieren elegir el momento adecuado, mientras que uno advirtió sobre el riesgo de agotarse por exceso de esfuerzo, y otro se centró en resolver un desequilibrio ya existente en el trabajo en lugar de buscar algo nuevo."
+      "disagreement": "Algunos lectores vislumbraron un gran avance profesional o un ascenso próximo, mientras que uno sugirió que un camino recorrido durante mucho tiempo podría estar llegando a su fin, lo que exigiría tomar un rumbo completamente diferente."
     },
     "family": {
-      "summary": "Pocos lectores abordaron el tema familiar esta semana; los dos que lo hicieron señalaron tanto una posible tensión con una figura paterna como el valor de la energía cooperativa y protectora dentro del núcleo familiar.",
+      "summary": "Solo un par de lectores abordaron el tema familiar esta semana. Uno señaló una transición importante en la vida, como dejar un hogar de mucho tiempo o retirarse para estar más cerca de los seres queridos, mientras que otro mencionó una fricción creciente con personas cercanas a medida que los valores personales comienzan a cambiar.",
       "reader_count": 2,
-      "disagreement": "Un lector apuntó hacia conflictos y la planificación de un legado, mientras que otro destacó el trabajo en equipo y el apoyo mutuo como fuentes de abundancia familiar."
+      "disagreement": "Algunos lectores vieron temas familiares ligados a transiciones cálidas y momentos de unión. Otros apuntaron a tensiones y desacuerdos con quienes están más cerca de ti."
     }
   },
-  "overall_tone_summary": "Cambios profundos están transformando la manera en que Piscis se ve a sí mismo y el rumbo que quiere tomar en su vida.",
+  "overall_tone_summary": "Detente antes de actuar, Piscis, las aguas que tienes por delante son engañosamente tranquilas.",
   "readers": [
     {
-      "video_id": "F4cQ6ECF3h4",
-      "channel_theme": "Un capítulo importante de la vida debe cerrarse antes de que el amor y los nuevos proyectos puedan florecer de verdad.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=F4cQ6ECF3h4"
-    },
-    {
-      "video_id": "FQDwg-TCcqA",
-      "channel_theme": "Un gran avance profesional podría implicar un cambio de ciudad o un ascenso acelerado gracias a los talentos que ya posees.",
+      "video_id": "PSbN5_ztgak",
+      "channel_theme": "Esta semana podrían concretarse grandes hitos vitales, como el matrimonio o la jubilación.",
       "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=FQDwg-TCcqA"
+      "url": "https://www.youtube.com/watch?v=PSbN5_ztgak"
     },
     {
-      "video_id": "yA4nQbay9C4",
-      "channel_theme": "La abundancia llega sin esfuerzo, atraída de forma magnética sin necesidad de perseguirla activamente.",
+      "video_id": "YLCUHUc_LyQ",
+      "channel_theme": "Alguien cercano podría estar sintiendo envidia en secreto y tratar de sabotear tu progreso.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=YLCUHUc_LyQ"
+    },
+    {
+      "video_id": "A9qgRRAZDbM",
+      "channel_theme": "Una nueva y atrevida conexión romántica está tomando forma en un período muy favorable.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=yA4nQbay9C4"
+      "url": "https://www.youtube.com/watch?v=A9qgRRAZDbM"
     },
     {
-      "video_id": "5eVOyIieBno",
-      "channel_theme": "La sanación emocional y la apertura del corazón son los temas centrales de esta semana.",
-      "tone": "introspectivo",
-      "url": "https://www.youtube.com/watch?v=5eVOyIieBno"
-    },
-    {
-      "video_id": "PcgKyHZVqmg",
-      "channel_theme": "Una figura de autoridad reconoce haber actuado mal y busca activamente reparar el daño causado.",
+      "video_id": "jLIJKtq8yYo",
+      "channel_theme": "Arriesgarte de forma calculada en lo económico podría traerte ganancias inesperadas esta semana.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=PcgKyHZVqmg"
+      "url": "https://www.youtube.com/watch?v=jLIJKtq8yYo"
+    },
+    {
+      "video_id": "FbEdfnIIdj4",
+      "channel_theme": "Una situación dolorosa está llegando a su fin, abriendo paso a un nuevo comienzo.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=FbEdfnIIdj4"
     }
   ]
 }
