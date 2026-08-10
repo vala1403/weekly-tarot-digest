@@ -505,6 +505,7 @@ def build_html(digest: dict, week_of_display: str, cards_html: str, rows_html: s
       {strings['footer'](esc(digest['sign']), esc(week_of_display))}
     </footer>
   </div>
+  <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
 """

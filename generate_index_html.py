@@ -396,6 +396,7 @@ def build_html(cards_html: str, strings: dict) -> str:
       }});
     }})();
   </script>
+  <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
 """
