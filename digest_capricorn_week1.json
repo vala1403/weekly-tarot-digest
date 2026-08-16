@@ -1,60 +1,60 @@
 {
   "sign": "Capricorn",
-  "week_of": "2026-08-10",
+  "week_of": "2026-08-17",
   "categories": {
     "love": {
-      "summary": "Most readers sense a significant romantic shift ahead for Capricorn, whether through a promising new connection or meaningful emotional growth, so open your heart and allow past wounds to heal rather than hold you back.",
-      "reader_count": 5,
-      "disagreement": "Some readers focused on an exciting new romantic arrival, while others pointed to emotional strain or disconnection within an existing bond."
+      "summary": "Most readers this week sense hidden truths or unresolved tension surfacing in Capricorn's love life, so take an honest look at whether a current connection truly serves you and be willing to walk away from what no longer aligns with your values.",
+      "reader_count": 3,
+      "disagreement": "Some readers focused on betrayal and hurt caused by a dishonest partner, while others emphasized empowerment and choosing to move on toward healthier connections."
     },
     "finance": {
-      "summary": "A major financial turning point appears to be on the horizon for Capricorn, so take time to weigh your options carefully before committing, as thoughtful preparation now is likely to lead to a rewarding outcome.",
-      "reader_count": 5,
-      "disagreement": "Some readers saw hardship ending and abundance arriving, while others suggested Capricorn is still in early stages of planning or exploring a new opportunity, not yet at a resolution."
+      "summary": "Several readers sense financial imbalance this week, whether from unresolved grievances or careless habits, so Capricorn is encouraged to bring more mindfulness and discipline to money matters before things slip further out of balance.",
+      "reader_count": 4,
+      "disagreement": "Some readers focused on caution and loss, while one suggested an unexpected financial gain or returned funds may actually improve Capricorn's situation this week."
     },
     "career": {
-      "summary": "All five readers point to a promising new professional opportunity taking shape this week, so lean into the momentum by staying organized, solution-focused, and open to things moving faster than expected.",
-      "reader_count": 5,
-      "disagreement": "Some readers saw the opportunity arriving quickly and almost immediately, while others suggested it is still in early negotiation or preparation stages before a favorable outcome lands."
+      "summary": "Most readers see career momentum as something Capricorn must actively claim this week, whether by pushing past self-doubt, tuning out outside noise, or navigating workplace friction, with the shared advice being to trust your own direction and keep moving forward.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw disruption or conflict as the main challenge to navigate, while others suggested success comes simply from inner alignment and confidence, with little external friction implied."
     },
     "family": {
-      "summary": "Only a few readers touched on family this week, but those who did pointed to gatherings, reunions, and a supportive network of loved ones as sources of meaningful connection and joy for Capricorn.",
+      "summary": "Only a few readers touched on family this week, but those who did pointed to meaningful moments around trust, security, and guidance, suggesting Capricorn focus on strengthening the bonds that provide a stable foundation.",
       "reader_count": 3,
       "disagreement": "No notable disagreement among readers who discussed this theme."
     }
   },
-  "overall_tone": "reflective",
-  "overall_tone_summary": "Quiet introspection shapes the week, inviting Capricorn to look inward.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Powerful shifts are reshaping what Capricorn thought was already settled.",
   "readers": [
     {
-      "video_id": "d8bcqfZtKac",
-      "channel_theme": "A career opportunity could arrive and immediately convert into a job offer.",
+      "video_id": "UN00ZTrh2fg",
+      "channel_theme": "Warns of possible deception and betrayal in both love and the workplace.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=UN00ZTrh2fg"
+    },
+    {
+      "video_id": "8B-VUyciXmc",
+      "channel_theme": "Frames a workplace disruption as an exciting and liberating fresh start.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=d8bcqfZtKac"
+      "url": "https://www.youtube.com/watch?v=8B-VUyciXmc"
     },
     {
-      "video_id": "URNoF6S11w4",
-      "channel_theme": "A strong emotional bond is strained, with neither party fully letting go.",
-      "tone": "reflective",
-      "url": "https://www.youtube.com/watch?v=URNoF6S11w4"
+      "video_id": "Fsli2oIAIHU",
+      "channel_theme": "Hidden secrets are surfacing in a major long-term relationship or family bond.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=Fsli2oIAIHU"
     },
     {
-      "video_id": "Y5BUuH9fDgk",
-      "channel_theme": "Old emotional walls are falling, opening your heart to love again.",
+      "video_id": "ouSITrqUFEk",
+      "channel_theme": "Urges Capricorn to cut unfulfilling ties and align with personal values.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=ouSITrqUFEk"
+    },
+    {
+      "video_id": "NvCtrfep664",
+      "channel_theme": "A paternal figure in spirit is offering timely guidance and wisdom.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=Y5BUuH9fDgk"
-    },
-    {
-      "video_id": "nha8sJou_6g",
-      "channel_theme": "Family celebrations and reunions bring deep joy and connection this week.",
-      "tone": "celebratory",
-      "url": "https://www.youtube.com/watch?v=nha8sJou_6g"
-    },
-    {
-      "video_id": "Tu7fmyNR-0Q",
-      "channel_theme": "A water sign may extend an unexpected apology, sparking a meaningful reunion.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=Tu7fmyNR-0Q"
+      "url": "https://www.youtube.com/watch?v=NvCtrfep664"
     }
   ]
 }

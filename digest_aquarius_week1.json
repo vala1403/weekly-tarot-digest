@@ -1,60 +1,60 @@
 {
   "sign": "Aquarius",
-  "week_of": "2026-08-10",
+  "week_of": "2026-08-17",
   "categories": {
     "love": {
-      "summary": "Most readers see meaningful romantic connection on the horizon for Aquarius, so releasing past emotional weight and staying open to love, whether new or deepened, will be key to welcoming what is coming.",
-      "reader_count": 4,
-      "disagreement": "One reader noted some existing relationships may end during this period, while others focused on new or deepening soulmate-level bonds forming."
+      "summary": "Most readers sense a romantic turning point this week for Aquarius, whether through a new connection or a long-strained relationship finally shifting, so releasing past wounds and allowing things to unfold gradually will serve you best.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw fresh romantic beginnings and new love interests emerging, while others pointed to unresolved past relationships or difficult situations like divorce resurfacing as the central focus."
     },
     "finance": {
-      "summary": "Most readers see financial opportunity and reward emerging this week, so take decisive action on new offers or investments and trust that past efforts are finally ready to pay off.",
-      "reader_count": 4,
-      "disagreement": "Some readers focused on past efforts now yielding returns, while others pointed to new opportunities requiring proactive steps forward."
+      "summary": "Most readers sense a significant financial shift or turning point this week, so take your time reviewing any agreements or decisions carefully before committing to ensure the outcome truly serves you.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw financial struggles easing into stability and reward, while others cautioned that things may not be as promising as they appear on the surface."
     },
     "career": {
-      "summary": "Most readers agree this is a powerful week for Aquarius to step into leadership and pursue ambitious goals, so trust your instincts, put yourself forward, and seize the momentum that is already building in your favor.",
+      "summary": "Most readers sense professional recognition or a meaningful career breakthrough coming for Aquarius, so taking focused, disciplined action rather than staying stuck in hesitation is the clearest path forward this week.",
       "reader_count": 4,
-      "disagreement": "No notable disagreement among readers. One mentioned a Taurus figure playing a role in professional recognition, which others did not reference."
+      "disagreement": "Some readers highlighted positive recognition and advancement ahead, while one focused on workplace conflict around compensation or hours, suggesting a more confrontational or transitional shift may be needed first."
     },
     "family": {
-      "summary": "Only a few readers touched on family this week, but those who did suggest that whether you are navigating tension or anticipating a warm reunion, leaning into your supportive circle can help bring healing and celebration together.",
-      "reader_count": 3,
-      "disagreement": "Some readers saw potential heartache and the need for resolution, while others pointed to joyful reunions and celebratory community energy."
+      "summary": "Most readers see family connections as a source of warmth and renewal this week, so lean into those relationships by sharing good news, welcoming visits, or simply retreating into the comfort of home and loved ones.",
+      "reader_count": 4,
+      "disagreement": "One reader pointed to deeper family tensions around inheritance or estate matters, while others focused on joyful, uplifting connection with loved ones."
     }
   },
-  "overall_tone": "turbulent",
-  "overall_tone_summary": "Shifting currents this week keep Aquarius off balance and searching for steady ground.",
+  "overall_tone": "cautious",
+  "overall_tone_summary": "Two cautionary readings anchor a week that rewards careful, measured steps forward.",
   "readers": [
     {
-      "video_id": "3eK-p-s-gxU",
-      "channel_theme": "Eclipse energy triggers both new beginnings and natural endings in romance and career.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=3eK-p-s-gxU"
+      "video_id": "IMPnfa3l_Ww",
+      "channel_theme": "Conserve energy now and wait for a major opportunity approaching soon.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=IMPnfa3l_Ww"
     },
     {
-      "video_id": "dzIXtdcAG8I",
-      "channel_theme": "A joyful reunion with proud loved ones is uniquely highlighted this week.",
-      "tone": "triumphant",
-      "url": "https://www.youtube.com/watch?v=dzIXtdcAG8I"
-    },
-    {
-      "video_id": "7wHvMu-PHno",
-      "channel_theme": "Two people at different emotional frequencies still share a meaningful common goal.",
-      "tone": "turbulent",
-      "url": "https://www.youtube.com/watch?v=7wHvMu-PHno"
-    },
-    {
-      "video_id": "Lz8OEJJpHAg",
-      "channel_theme": "Healing from heartbreak opens the door to renewed love and connection.",
+      "video_id": "NS0a1YivN7w",
+      "channel_theme": "A career breakthrough or promotion appears imminent after recent struggles.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=Lz8OEJJpHAg"
+      "url": "https://www.youtube.com/watch?v=NS0a1YivN7w"
     },
     {
-      "video_id": "NWbwcIvlpNA",
-      "channel_theme": "A windfall or wise investment could significantly transform your financial situation now.",
+      "video_id": "aIZdLw8zncs",
+      "channel_theme": "Estate matters, wills, or inherited wealth are central to family tension.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=aIZdLw8zncs"
+    },
+    {
+      "video_id": "GPkRGak8u84",
+      "channel_theme": "Specific zodiac figures like Leo and Capricorn are shaping your week.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=NWbwcIvlpNA"
+      "url": "https://www.youtube.com/watch?v=GPkRGak8u84"
+    },
+    {
+      "video_id": "TAN9Ri2IRdo",
+      "channel_theme": "Long-endured hardships in love and finances are finally coming to an end.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=TAN9Ri2IRdo"
     }
   ]
 }

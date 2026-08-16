@@ -1,60 +1,60 @@
 {
   "sign": "Leo",
-  "week_of": "2026-08-10",
+  "week_of": "2026-08-17",
   "categories": {
     "love": {
-      "summary": "Love looks promising for Leo this week, with new connections, deepening bonds, and exciting romantic prospects all pointing toward meaningful possibilities, so stay open to what unfolds and embrace the people coming into your orbit.",
+      "summary": "Leo's love life this week calls for emotional openness and patience, with most readers advising that nurturing self-worth and maintaining a hopeful heart are the keys to attracting or deepening meaningful connection.",
       "reader_count": 5,
-      "disagreement": "Some readers focused on fresh romantic beginnings and new people entering Leo's life, while one reading centered on ongoing emotional struggle and the need for firmer boundaries in a difficult existing connection."
+      "disagreement": "Some readers saw an ending or one-sided pain in Leo's current romantic situation. Others suggested a resolution or fresh start is approaching through apology, new beginnings, or manifesting love."
     },
     "finance": {
-      "summary": "Most readers see financial opportunity on the horizon for Leo, whether through unexpected windfalls, career developments, or leveraging existing strengths, so this is a strong week to think strategically and position yourself for lasting abundance rather than short-term gains.",
-      "reader_count": 4,
-      "disagreement": "Some readers encouraged bold action and using existing skills to claim greater rewards, while others advised patience and careful, long-term thinking before making financial moves."
+      "summary": "Only a couple of readers touched on finances this week, but both pointed to unexpected windfalls or surprising material gains coming Leo's way, possibly linked to work or a fortunate turn of events.",
+      "reader_count": 2,
+      "disagreement": "No notable disagreement among the readers who discussed this theme."
     },
     "career": {
-      "summary": "Most readers this week see Leo as being in a position of professional strength, with the shared advice being to push forward boldly, invest in long-term growth, and step into a leadership role without hesitation.",
-      "reader_count": 4,
-      "disagreement": "One reader highlighted the potential for a new opportunity bringing added responsibility, while another focused on current burdens easing rather than expanding ambition."
+      "summary": "Most readers see Leo in a position of readiness and momentum this week, urging bold, confident action to build toward meaningful professional goals using the skills and resources already at hand.",
+      "reader_count": 3,
+      "disagreement": "One reader suggested delays and reassessment in Leo's career, while others emphasized forward momentum and decisive action."
     },
     "family": {
-      "summary": "Only two readers touched on family this week; one pointed to a coming celebration or milestone bringing loved ones together, while the other noted a lifting of burden for those carrying heavy responsibilities for others.",
+      "summary": "Only a couple of readers touched on family this week, but those who did suggested that a loved one or child may be connected to upcoming joyful or fortunate moments, possibly including a meaningful gathering or reunion.",
       "reader_count": 2,
-      "disagreement": "Some readers saw joyful gatherings ahead, while others focused on relief from caretaking pressures, reflecting different emotional tones for family life this week."
+      "disagreement": "No notable disagreement between readers."
     }
   },
-  "overall_tone": "cautious",
-  "overall_tone_summary": "The week asks Leo to pause and weigh each step carefully before moving.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "Two readings echo hope, and even the bittersweet notes carry quiet optimism forward.",
   "readers": [
     {
-      "video_id": "kWNeRXu87DI",
-      "channel_theme": "Focus on enforcing emotional boundaries in a difficult soul connection.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=kWNeRXu87DI"
+      "video_id": "lMedppfjaCI",
+      "channel_theme": "Leo's vulnerability is being exploited in a one-sided romantic connection.",
+      "tone": "bittersweet",
+      "url": "https://www.youtube.com/watch?v=lMedppfjaCI"
     },
     {
-      "video_id": "MlSNoalJAZg",
-      "channel_theme": "A financial bonus may be arriving to boost your business growth.",
+      "video_id": "iodgkMhbLCo",
+      "channel_theme": "Self-love must come first before Leo can build meaningful relationships.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=MlSNoalJAZg"
+      "url": "https://www.youtube.com/watch?v=iodgkMhbLCo"
     },
     {
-      "video_id": "7aaSrCLvxrs",
-      "channel_theme": "A joyful family milestone celebration may be drawing near.",
+      "video_id": "FRmrFDuaIus",
+      "channel_theme": "A partner's sincere apology is coming, and Leo will forgive them.",
+      "tone": "reconciliatory",
+      "url": "https://www.youtube.com/watch?v=FRmrFDuaIus"
+    },
+    {
+      "video_id": "is64rDFoXWk",
+      "channel_theme": "Unexpected financial luck may arrive, possibly tied to work opportunities.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=7aaSrCLvxrs"
+      "url": "https://www.youtube.com/watch?v=is64rDFoXWk"
     },
     {
-      "video_id": "26r4TTJSnXA",
-      "channel_theme": "Stop playing it safe and demand greater rewards for your existing skills.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=26r4TTJSnXA"
-    },
-    {
-      "video_id": "DEF_ybhKwKA",
-      "channel_theme": "Hidden financial details may finally surface, possibly through a Pisces connection.",
-      "tone": "revelatory",
-      "url": "https://www.youtube.com/watch?v=DEF_ybhKwKA"
+      "video_id": "s8FA1BPhT3g",
+      "channel_theme": "A joyful family reunion is strongly indicated in the near future.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=s8FA1BPhT3g"
     }
   ]
 }

@@ -1,59 +1,59 @@
 {
   "sign": "Tauro",
-  "week_of": "2026-08-10",
+  "week_of": "2026-08-17",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores perciben que una conexión romántica significativa está tomando forma o profundizándose esta semana, así que ábrete emocionalmente y recibe con los brazos abiertos el crecimiento que esta relación trae a tu vida.",
-      "reader_count": 4,
-      "disagreement": "Algunos lectores describieron un vínculo existente que se fortalece, mientras que otros señalaron la llegada de una energía romántica completamente nueva que invita a Tauro a recibirla de manera activa y consciente."
+      "summary": "La mayoría de los lectores perciben que el amor toca la puerta de Tauro esta semana, ya sea a través de una nueva conexión o de alguien que regresa. Vale la pena ser selectivo y preguntarse quién realmente merece tu energía emocional.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores destacaron inicios románticos frescos y afecto que llega de forma genuina, mientras que uno advirtió que un ex que regresa podría tener intenciones egoístas más que sentimientos verdaderos."
     },
     "finance": {
-      "summary": "La mayoría de los lectores perciben un punto de inflexión financiero esta semana, con asuntos pendientes que se resuelven favorablemente y un capítulo más próspero y sólido que comienza a tomar forma, así que enfoca tu energía en oportunidades que realmente te aporten algo valioso.",
+      "summary": "Los cinco lectores coinciden en que esta semana se presenta especialmente favorable para las finanzas de Tauro. Mantente con los pies en la tierra, sigue desarrollando tus habilidades y esfuerzos, y muéstrate receptivo a las oportunidades que puedan traer estabilidad real o buenos resultados.",
       "reader_count": 5,
-      "disagreement": "Un lector aconsejó alejarse de situaciones improductivas, mientras que otros apuntaron a avances y resoluciones inminentes, lo que sugiere una diferencia de opinión sobre si el cambio requiere acción o simplemente paciencia."
+      "disagreement": "Algunos lectores hicieron énfasis en tomar acción y atender responsabilidades de inmediato, mientras que otros sugirieron dejar que las oportunidades o la ayuda lleguen por sí solas sin forzar el proceso."
     },
     "career": {
-      "summary": "La mayoría de los lectores coinciden en que nuevas oportunidades y conexiones valiosas están llegando esta semana, así que mantente receptivo y toma la iniciativa cuando surjan posibilidades prometedoras en tu camino.",
-      "reader_count": 5,
-      "disagreement": "Una lectura sugirió que el ámbito laboral se sentirá fluido y sin mayores obstáculos, mientras que otra señaló que equilibrar un proyecto exigente requerirá esfuerzo constante y mucha paciencia."
+      "summary": "El panorama profesional luce positivo para Tauro esta semana. La mayoría de los lectores animan a mantener el enfoque en el camino elegido, sin cerrar la puerta a nuevas oportunidades o enfoques que puedan ampliar el alcance profesional.",
+      "reader_count": 4,
+      "disagreement": "Un lector señaló que un cierre profesional significativo está en marcha, mientras que los demás se centraron en el crecimiento y el avance, sin ninguna señal de finalización o transición."
     },
     "family": {
-      "summary": "Varios lectores ven a Tauro asumir un papel conciliador en la dinámica familiar esta semana, así que apostar por el diálogo abierto y la disposición al acuerdo puede ayudar a restaurar la armonía e incluso fortalecer tu estabilidad en general.",
-      "reader_count": 3,
-      "disagreement": "Un lector se enfocó en un reencuentro social con amigos del pasado en lugar de la resolución de conflictos familiares, lo que sugiere una dinámica más ligera y festiva."
+      "summary": "Varios lectores subrayan la importancia de cultivar vínculos leales y afectuosos esta semana. Permanece abierto al apoyo de tus seres queridos y presta atención a cómo las dinámicas familiares y las presiones externas pueden estar influyendo en silencio en tus decisiones más importantes.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores destacaron una energía cálida y de apoyo por parte de los seres queridos, mientras que otros señalaron secretos familiares, reencuentros con el pasado o presiones sociales que generan cierta fricción en torno a las decisiones personales."
     }
   },
-  "overall_tone_summary": "Esta semana, Tauro se adentra en su propia fortaleza con una confianza serena y segura.",
+  "overall_tone_summary": "Dos lecturas resuenan con esperanza, e incluso la transformación apunta hacia un horizonte más luminoso.",
   "readers": [
     {
-      "video_id": "IieAKqpZxUU",
-      "channel_theme": "Una carga pesada se levanta y abre la puerta al reconocimiento y a nuevas oportunidades.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=IieAKqpZxUU"
+      "video_id": "ZgiYM_f4yIM",
+      "channel_theme": "Tauro debería alejarse de las relaciones irrespetuosas y hacer frente a sus finanzas de forma directa esta semana.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=ZgiYM_f4yIM"
     },
     {
-      "video_id": "ao67iBv6uGM",
-      "channel_theme": "Una reconciliación familiar podría impulsar directamente la estabilidad financiera y personal esta semana.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=ao67iBv6uGM"
+      "video_id": "_EvTu2hKhOc",
+      "channel_theme": "Un secreto familiar oculto podría salir a la luz al mismo tiempo que comienzan nuevos lazos románticos marcados por el destino.",
+      "tone": "nostálgico",
+      "url": "https://www.youtube.com/watch?v=_EvTu2hKhOc"
     },
     {
-      "video_id": "HXQeeBGHeok",
-      "channel_theme": "Es probable que una solicitud financiera pendiente, como un préstamo, sea aprobada.",
+      "video_id": "3rNBUrv4kl4",
+      "channel_theme": "Personas queridas están tendiendo la mano para acompañar a Tauro en los momentos difíciles.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=HXQeeBGHeok"
+      "url": "https://www.youtube.com/watch?v=3rNBUrv4kl4"
     },
     {
-      "video_id": "WcudJE9N2gA",
-      "channel_theme": "Un reencuentro social trae alegría, pero conviene mantener la cautela en torno al alcohol y la seguridad personal.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=WcudJE9N2gA"
+      "video_id": "cdLcQiFbIDY",
+      "channel_theme": "Un ex que regresa tiene motivaciones egoístas y conviene acercarse a esa situación con mucha cautela.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=cdLcQiFbIDY"
     },
     {
-      "video_id": "vSEdqrAWOyo",
-      "channel_theme": "Tauro necesita abrirse emocionalmente para recibir la nueva conexión romántica que está por llegar.",
+      "video_id": "flMryAMpg38",
+      "channel_theme": "Las presiones sociales y familiares están moldeando en silencio las decisiones de vida y carrera de Tauro.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=vSEdqrAWOyo"
+      "url": "https://www.youtube.com/watch?v=flMryAMpg38"
     }
   ]
 }

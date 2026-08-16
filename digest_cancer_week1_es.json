@@ -1,59 +1,59 @@
 {
   "sign": "Cáncer",
-  "week_of": "2026-08-10",
+  "week_of": "2026-08-17",
   "categories": {
     "love": {
-      "summary": "Varios lectores perciben una prometedora oportunidad romántica en el horizonte de Cáncer, y aunque puede ser tentador lanzarse de lleno, el consejo compartido esta semana parece ser acercarse con calma y el corazón abierto.",
-      "reader_count": 3,
-      "disagreement": "Una lectura describió una relación actual en la que Cáncer se siente emocionalmente ignorado y agotado. Otros se centraron en nuevas posibilidades románticas y animaron a Cáncer a abrirse a ellas."
+      "summary": "Varios lectores perciben transformaciones emocionales significativas en el amor esta semana, así que reflexiona con honestidad sobre qué relaciones merecen tu energía y anímate a expresar tu verdad para abrir la puerta a una conexión más profunda.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores vieron vínculos cálidos que se fortalecen en el horizonte, mientras que uno señaló que hay cargas emocionales no resueltas de una relación pasada que, en silencio, están moldeando lo que viene."
     },
     "finance": {
-      "summary": "La mayoría de los lectores ven una abundancia financiera significativa en el horizonte de Cáncer esta semana, así que actúa con confianza ante las oportunidades que ya tienes delante en lugar de dejar que la duda te frene.",
-      "reader_count": 5,
-      "disagreement": "Algunos lectores hicieron hincapié en actuar con decisión ante avances inminentes, mientras que uno aconsejó tomarse el tiempo necesario para reflexionar bien antes de comprometerse con cualquier nueva oportunidad financiera."
+      "summary": "La mayoría de los lectores apuntan a una semana de consolidación económica, así que enfócate en cultivar lo que ya tienes en lugar de estirarte demasiado, y deja que la prosperidad crezca poco a poco desde una base sólida.",
+      "reader_count": 4,
+      "disagreement": "Un lector advirtió sobre hábitos de gasto perjudiciales que conviene atender, mientras que los demás se inclinaron por el optimismo y la estabilidad antes que por señalar conductas problemáticas."
     },
     "career": {
-      "summary": "La mayoría de los lectores esta semana señalan una oportunidad o un avance importante en la carrera de Cáncer, así que prepárate para salir de tu zona de confort y actuar cuando llegue ese momento clave.",
-      "reader_count": 4,
-      "disagreement": "Algunos lectores vieron a Cáncer ya cosechando éxitos, mientras que otros sugirieron que la duda y los bloqueos internos todavía le impiden dar el siguiente paso."
+      "summary": "Algunos lectores ven que el impulso profesional de Cáncer se fortalece esta semana, y animan a planificar con intención y a abrirse a la colaboración o a nuevos rumbos para que los objetivos laborales a largo plazo comiencen a tomar forma.",
+      "reader_count": 3,
+      "disagreement": "Un lector destacó que los esfuerzos individuales pueden ganar reconocimiento, mientras que otro subrayó que el trabajo en equipo y tener una visión clara son claves para avanzar."
     },
     "family": {
-      "summary": "La familia cobra protagonismo esta semana para Cáncer, con seres queridos que ofrecen apoyo silencioso y conexión genuina, aunque el estrés personal pueda dificultar recibirlo por completo.",
+      "summary": "Varios lectores captan esta semana patrones familiares profundos que piden atención, y sugieren que trabajar ahora en ciclos emocionales o relacionales de larga data puede ayudar a Cáncer a construir una vida hogareña más estable y arraigada.",
       "reader_count": 4,
-      "disagreement": "Algunos lectores vieron a la familia como una presencia reconfortante en la que Cáncer puede apoyarse. Otros sugirieron que las relaciones familiares podrían ser una fuente de tensión o agitación que impulsa los cambios actuales en su vida."
+      "disagreement": "Algunos lectores se centraron en la sanación generacional interna, mientras que uno señaló un conflicto concreto sin resolver con un familiar que quizás requiera una conversación directa."
     }
   },
-  "overall_tone_summary": "Esta semana la precaución pesa sobre todo, ya que las corrientes cambiantes no dejan de sacarte el equilibrio.",
+  "overall_tone_summary": "Una luminosa corriente de posibilidad acompaña a Cáncer a lo largo de los cambios que trae esta semana.",
   "readers": [
     {
-      "video_id": "SOH7DT9_1h0",
-      "channel_theme": "El esfuerzo y la dedicación de Cáncer están dando sus frutos con un éxito rotundo en todos los ámbitos.",
-      "tone": "triunfante",
-      "url": "https://www.youtube.com/watch?v=SOH7DT9_1h0"
+      "video_id": "1UavASn5_qA",
+      "channel_theme": "",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=1UavASn5_qA"
     },
     {
-      "video_id": "5YVCM0um_r4",
-      "channel_theme": "La familia acompaña en silencio a Cáncer mientras evalúa si dar un gran salto de fe.",
-      "tone": "alentador",
-      "url": "https://www.youtube.com/watch?v=5YVCM0um_r4"
-    },
-    {
-      "video_id": "7dReLdXNHRY",
-      "channel_theme": "La duda y el miedo son los principales obstáculos que bloquean un gran cambio en la vida de Cáncer.",
+      "video_id": "msqIrmDpisw",
+      "channel_theme": "Las cargas emocionales de un romance pasado que se fue apagando siguen acompañando a Cáncer hacia adelante.",
       "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=7dReLdXNHRY"
+      "url": "https://www.youtube.com/watch?v=msqIrmDpisw"
     },
     {
-      "video_id": "vcNWlrGm18Y",
-      "channel_theme": "Mujeres mayores e influyentes dentro de la familia ocupan un lugar central esta semana.",
-      "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=vcNWlrGm18Y"
+      "video_id": "CaBpYrDouog",
+      "channel_theme": "Cáncer siente la necesidad de enfrentarse a hábitos personales dañinos, como el gasto excesivo o el juego.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=CaBpYrDouog"
     },
     {
-      "video_id": "3ngsOvcoD2c",
-      "channel_theme": "La relación emocionalmente agotadora de Cáncer le impide conectar con sus seres queridos.",
-      "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=3ngsOvcoD2c"
+      "video_id": "ScXX-sizI0M",
+      "channel_theme": "Cáncer ya cuenta con los recursos suficientes y debería evitar gastar de más.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=ScXX-sizI0M"
+    },
+    {
+      "video_id": "x8rd1OumjmY",
+      "channel_theme": "La colaboración con otros es clave para que Cáncer alcance sus metas profesionales.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=x8rd1OumjmY"
     }
   ]
 }

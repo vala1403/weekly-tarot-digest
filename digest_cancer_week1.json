@@ -1,60 +1,60 @@
 {
   "sign": "Cancer",
-  "week_of": "2026-08-10",
+  "week_of": "2026-08-17",
   "categories": {
     "love": {
-      "summary": "Several readers sense a promising romantic opportunity on the horizon for Cancer, so while it may be tempting to dive in quickly, taking a measured and open-hearted approach seems to be the shared advice this week.",
-      "reader_count": 3,
-      "disagreement": "One reading described a current relationship where Cancer feels emotionally unseen and drained. Others focused on new romantic possibilities and encouraged putting themselves out there."
+      "summary": "Several readers sense meaningful emotional shifts in love this week, so reflect honestly on what relationships are worth nurturing and be willing to speak your truth to invite deeper connection.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw warm, deepening bonds ahead, while one highlighted unresolved emotional baggage from a past relationship quietly shaping what comes next."
     },
     "finance": {
-      "summary": "Most readers see significant financial abundance on Cancer's horizon this week, so take confident action on opportunities already in front of you rather than letting self-doubt hold you back.",
-      "reader_count": 5,
-      "disagreement": "Some readers emphasized bold action toward imminent breakthroughs, while one advised careful, measured decision-making before committing to any new financial opportunity."
+      "summary": "Most readers point to a week of building financial stability, so focus on cultivating what you already have rather than overextending, and let prosperity develop steadily from a grounded foundation.",
+      "reader_count": 4,
+      "disagreement": "One reader flagged destructive spending habits as a concern to address, while others leaned toward optimism and stability rather than warning of problem behaviors."
     },
     "career": {
-      "summary": "Most readers this week point to a meaningful career opportunity or breakthrough for Cancer, so be ready to step outside your comfort zone and take action when that pivotal moment arrives.",
-      "reader_count": 4,
-      "disagreement": "Some readers saw Cancer already achieving success, while others suggested hesitation and internal blocks are still holding them back from committing to the next step."
+      "summary": "A few readers see career momentum building for Cancer this week, encouraging deliberate planning and openness to collaboration or new directions to help long-term professional goals take shape.",
+      "reader_count": 3,
+      "disagreement": "One reader highlighted solo efforts gaining recognition, while another stressed that teamwork and clarity of vision are key to moving forward."
     },
     "family": {
-      "summary": "Family emerges as a meaningful backdrop this week for Cancer, with loved ones offering quiet support and connection, even if personal stress makes it harder to fully receive it.",
+      "summary": "Several readers this week pick up on deep family patterns calling for attention, suggesting that working through long-standing emotional or relational cycles now can help Cancer build a more grounded and stable home life.",
       "reader_count": 4,
-      "disagreement": "Some readers saw family as a comforting presence Cancer can lean on. Others suggested family relationships may be a source of stress or upheaval driving current life changes."
+      "disagreement": "Some readers focused on internal generational healing, while one pointed to a specific unresolved issue with a family member that may need direct confrontation."
     }
   },
-  "overall_tone": "turbulent",
-  "overall_tone_summary": "Caution rides heavy this week as shifting currents keep you off balance.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "A bright undercurrent of possibility lifts Cancer through this week's changes.",
   "readers": [
     {
-      "video_id": "SOH7DT9_1h0",
-      "channel_theme": "Cancer's hard work is culminating in triumphant, next-level success across all fronts.",
-      "tone": "triumphant",
-      "url": "https://www.youtube.com/watch?v=SOH7DT9_1h0"
+      "video_id": "1UavASn5_qA",
+      "channel_theme": "",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=1UavASn5_qA"
     },
     {
-      "video_id": "5YVCM0um_r4",
-      "channel_theme": "Family quietly supports Cancer as they weigh a bold leap of faith.",
-      "tone": "encouraging",
-      "url": "https://www.youtube.com/watch?v=5YVCM0um_r4"
-    },
-    {
-      "video_id": "7dReLdXNHRY",
-      "channel_theme": "Self-doubt and fear are the main obstacles blocking Cancer's major life shift.",
+      "video_id": "msqIrmDpisw",
+      "channel_theme": "Unresolved baggage from a faded past romance is following Cancer forward.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=7dReLdXNHRY"
+      "url": "https://www.youtube.com/watch?v=msqIrmDpisw"
     },
     {
-      "video_id": "vcNWlrGm18Y",
-      "channel_theme": "Influential older women in the family take center stage this week.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=vcNWlrGm18Y"
+      "video_id": "CaBpYrDouog",
+      "channel_theme": "Cancer feels urged to confront harmful personal habits like spending or gambling.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=CaBpYrDouog"
     },
     {
-      "video_id": "3ngsOvcoD2c",
-      "channel_theme": "Cancer's emotionally draining relationship leaves them too distracted to connect with loved ones.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=3ngsOvcoD2c"
+      "video_id": "ScXX-sizI0M",
+      "channel_theme": "Cancer already has enough resources and should avoid overspending.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=ScXX-sizI0M"
+    },
+    {
+      "video_id": "x8rd1OumjmY",
+      "channel_theme": "Collaboration with others is key to reaching Cancer's professional goals.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=x8rd1OumjmY"
     }
   ]
 }

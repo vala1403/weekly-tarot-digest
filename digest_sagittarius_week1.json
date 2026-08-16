@@ -1,60 +1,60 @@
 {
   "sign": "Sagittarius",
-  "week_of": "2026-08-10",
+  "week_of": "2026-08-17",
   "categories": {
     "love": {
-      "summary": "Most readers sense meaningful romantic energy arriving for Sagittarius this week, so open your heart with confidence and focus on connections that genuinely match your energy rather than drain it.",
-      "reader_count": 4,
-      "disagreement": "One reading suggested Sagittarius may need to turn someone away romantically, while others pointed toward welcoming new love in."
+      "summary": "Most readers see romantic energy building for Sagittarius this week, so stay open and trust the connection while being mindful of doubts, hidden motives, or outside interference that could get in the way.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw this as a hopeful, naturally unfolding romantic opportunity, while others cautioned that deception or self-doubt could undermine it."
     },
     "finance": {
-      "summary": "Most readers this week foresee a meaningful financial windfall or boost coming Sagittarius's way, so when it arrives, resist the urge to spend freely and instead save or invest it with intention.",
-      "reader_count": 5,
-      "disagreement": "Some readers focused on an incoming reward or blessing with little condition, while others emphasized that Sagittarius must make deliberate choices or pursue specific ventures to fully benefit."
+      "summary": "A few readers point to financial progress this week, suggesting that Sagittarius may be reaching a place where stability and abundance feel more attainable as a result of prior hard work and dedication.",
+      "reader_count": 2,
+      "disagreement": "Some readers saw financial growth and reward ahead, while one cautioned that hidden information or deception around shared finances or inheritance may mean Sagittarius does not yet have the full picture."
     },
     "career": {
-      "summary": "Most readers see a meaningful shift in professional status on the horizon for Sagittarius, so make yourself visible, take initiative, and be open to new directions if old efforts have stalled.",
-      "reader_count": 5,
-      "disagreement": "Some readers focused on an imminent status shift or promotion already unfolding, while one suggested the better path may require abandoning prior efforts and starting fresh elsewhere."
+      "summary": "Most readers sense career momentum building this week, whether through a promotion, new opportunity, or financial steadiness, so be ready to step forward and leave behind whatever no longer serves your growth.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw Sagittarius on the verge of exciting advancement, while one emphasized burnout and feeling trapped with little sign of forward movement."
     },
     "family": {
-      "summary": "Most readers see Sagittarius building toward greater stability in home and family life this week, so focus on nurturing the connections that truly support you while planning thoughtfully for long-term security.",
-      "reader_count": 4,
-      "disagreement": "One reader suggested distancing from misaligned connections and moving toward better-fitting ones, while another focused on setting firm boundaries with draining relatives rather than seeking new bonds."
+      "summary": "Only two readers touched on family this week, pointing to hidden information or unresolved emotions quietly shaping close relationships, so Sagittarius may benefit from approaching these dynamics with honesty before deeper issues take root.",
+      "reader_count": 2,
+      "disagreement": "One reader focused on grief blocking reconciliation, while another pointed to concealed family information like inheritance or long-term plans as the source of tension."
     }
   },
-  "overall_tone": "transformative",
-  "overall_tone_summary": "A shift is underway, reshaping what Sagittarius once took for granted.",
+  "overall_tone": "cautious",
+  "overall_tone_summary": "Two cautionary readings anchor a week that urges Sagittarius to tread carefully.",
   "readers": [
     {
-      "video_id": "AVjBxjBtLhQ",
-      "channel_theme": "Bold self-promotion under Leo eclipse energy can boost your career visibility now.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=AVjBxjBtLhQ"
+      "video_id": "wAe_I6lEyv0",
+      "channel_theme": "Financial independence is within reach, covering bills, savings, and fun simultaneously.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=wAe_I6lEyv0"
     },
     {
-      "video_id": "uBwakE6cUm4",
-      "channel_theme": "Releasing past emotional wounds opens the door to a soulmate connection.",
+      "video_id": "mVNT4jc7dC8",
+      "channel_theme": "Magnetic confidence attracts a fated love while rivals attempt to interfere.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=mVNT4jc7dC8"
+    },
+    {
+      "video_id": "eJn-c9gk_1U",
+      "channel_theme": "Hidden secrets and deception threaten love, finances, and family transparency.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=eJn-c9gk_1U"
+    },
+    {
+      "video_id": "1h9BUZ366To",
+      "channel_theme": "Both partners are slowly accepting each other despite exhausting romantic tension.",
+      "tone": "persevering",
+      "url": "https://www.youtube.com/watch?v=1h9BUZ366To"
+    },
+    {
+      "video_id": "dIIVLqaPx4s",
+      "channel_theme": "Self-sabotaging thoughts block Sagittarius from embracing meaningful reconnection.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=uBwakE6cUm4"
-    },
-    {
-      "video_id": "y6EGdCJKk9c",
-      "channel_theme": "Turning down a romantic interest is okay if it honors your own needs.",
-      "tone": "triumphant",
-      "url": "https://www.youtube.com/watch?v=y6EGdCJKk9c"
-    },
-    {
-      "video_id": "HgXZa0w5E5c",
-      "channel_theme": "An unexpected financial windfall is coming, so invest it wisely.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=HgXZa0w5E5c"
-    },
-    {
-      "video_id": "wSBwiR0_8fM",
-      "channel_theme": "Teaching or online sales could be especially lucrative during this expansive period.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=wSBwiR0_8fM"
+      "url": "https://www.youtube.com/watch?v=dIIVLqaPx4s"
     }
   ]
 }

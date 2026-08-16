@@ -1,60 +1,60 @@
 {
   "sign": "Pisces",
-  "week_of": "2026-08-10",
+  "week_of": "2026-08-17",
   "categories": {
     "love": {
-      "summary": "Most readers sense a period of significant romantic change for Pisces this week, whether through new connections forming or existing relationships reaching a turning point, so lead with your heart while staying grounded in clear, mindful choices.",
-      "reader_count": 5,
-      "disagreement": "Some readers saw new love and promising beginnings ahead, while others pointed to conflict, jealousy, or relationship endings as the more immediate reality."
+      "summary": "Several readers sense romantic energy from the past resurfacing this week, whether through a tempting reconnection or an exciting new opportunity, so approach any incoming romantic developments with both openness and careful discernment about what truly serves you.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw a painful relationship ending involving lost passion or infidelity, while others emphasized a hopeful new or returning romantic connection arriving with excitement."
     },
     "finance": {
-      "summary": "Most readers see financial opportunity and growth on the horizon this week, so take decisive action, reassess what is no longer serving you, and stay open to unexpected gains.",
-      "reader_count": 5,
-      "disagreement": "Some readers focused on proactive strategy and bold moves, while one reading warned that outside interference could block an opportunity, though fate may still deliver what is yours."
+      "summary": "Most readers this week flag financial caution as a key concern, particularly around risky or get-rich-quick ventures, so be mindful of impulsive decisions that could undermine the stability you have been building.",
+      "reader_count": 4,
+      "disagreement": "Some readers warned against financial risk-taking, while others pointed toward positive growth, new advisors, or growing independence and self-sufficiency."
     },
     "career": {
-      "summary": "Most readers see professional recognition or a meaningful career shift on the horizon for Pisces this week, so staying focused and avoiding workplace distractions will help turn hard work into lasting reward.",
-      "reader_count": 5,
-      "disagreement": "Some readers saw a career breakthrough or promotion coming, while one suggested a long-standing path may be ending entirely, calling for a completely different direction."
+      "summary": "Career shifts are prominent this week for Pisces, whether through leaving a stifling situation or stepping into new professional territory, so trust your readiness to move forward even if the path ahead feels uncertain.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw Pisces departing from a failed or limiting work situation, while others suggested recognition, advancement, or a bold new direction are on the horizon."
     },
     "family": {
-      "summary": "Only a couple of readers touched on family this week. One pointed to a life transition such as leaving a long-held home or retiring to spend more time with loved ones, while another noted rising friction with close figures as personal values begin to shift.",
-      "reader_count": 2,
-      "disagreement": "Some readers saw family themes around warm transition and togetherness. Others suggested tension and misalignment with those closest to you."
+      "summary": "A few readers highlight gatherings, reunions, and joyful news shared with loved ones this week, so embrace the warmth of connection while being mindful not to give more than you receive in family dynamics.",
+      "reader_count": 4,
+      "disagreement": "Some readers focused on joyful reunions and celebrations, while one pointed to imbalanced giving within family relationships, suggesting not all family energy this week feels equally reciprocal."
     }
   },
   "overall_tone": "cautious",
-  "overall_tone_summary": "Pause before acting, Pisces, the waters ahead are deceptively still.",
+  "overall_tone_summary": "Two cautionary voices lead the week, urging Pisces to tread carefully before leaping. Second week running.",
   "readers": [
     {
-      "video_id": "PSbN5_ztgak",
-      "channel_theme": "Major life milestones like marriage or retirement are likely this week.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=PSbN5_ztgak"
-    },
-    {
-      "video_id": "YLCUHUc_LyQ",
-      "channel_theme": "Someone close may be secretly jealous and could sabotage your progress.",
+      "video_id": "A7Ax8XpkuMk",
+      "channel_theme": "Past temptations threaten the stable foundations you have carefully built.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=YLCUHUc_LyQ"
+      "url": "https://www.youtube.com/watch?v=A7Ax8XpkuMk"
     },
     {
-      "video_id": "A9qgRRAZDbM",
-      "channel_theme": "A bold new romantic connection is forming during a favorable period.",
+      "video_id": "AJg9kPg0vjg",
+      "channel_theme": "Painful separations in love and career follow risks that did not pay off.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=AJg9kPg0vjg"
+    },
+    {
+      "video_id": "Hip59ggpfS0",
+      "channel_theme": "Unexpected promotions and joyful celebrations are coming your way soon.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=A9qgRRAZDbM"
+      "url": "https://www.youtube.com/watch?v=Hip59ggpfS0"
     },
     {
-      "video_id": "jLIJKtq8yYo",
-      "channel_theme": "Calculated financial risks could bring unexpected monetary gains this week.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=jLIJKtq8yYo"
+      "video_id": "RyUkE98iGu8",
+      "channel_theme": "A past soulmate resurfaces while you finally escape a stifling work situation.",
+      "tone": "liberating",
+      "url": "https://www.youtube.com/watch?v=RyUkE98iGu8"
     },
     {
-      "video_id": "FbEdfnIIdj4",
-      "channel_theme": "A painful situation is ending, making way for a fresh start.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=FbEdfnIIdj4"
+      "video_id": "qFPSjBmPYcs",
+      "channel_theme": "Pisces stands out as a top performer moving toward full financial independence.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=qFPSjBmPYcs"
     }
   ]
 }

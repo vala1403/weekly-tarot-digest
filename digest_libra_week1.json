@@ -1,60 +1,60 @@
 {
   "sign": "Libra",
-  "week_of": "2026-08-10",
+  "week_of": "2026-08-17",
   "categories": {
     "love": {
-      "summary": "Most readers sense meaningful romantic connections and emotional growth ahead for Libra, so keep your heart open and trust that the bonds forming or deepening now carry real potential.",
+      "summary": "Most readers see promising romantic energy for Libra this week, whether through new connections or deepening existing ones, so act on what you truly desire and let a partner's actions, not just words, guide your trust.",
       "reader_count": 4,
-      "disagreement": "One reading described stalled relationships blocked by pride and situationship confusion, while most others pointed to flourishing bonds and positive new connections."
+      "disagreement": "Some readers focused on fresh, exciting new connections with strong chemistry, while one emphasized healing from emotional pain and finding unexpected comfort and alignment with an existing partner."
     },
     "finance": {
-      "summary": "Most readers see solid financial growth on the horizon this week, with hard work paying off and new opportunities emerging, so lean into your skills and routines to make the most of what is coming your way.",
-      "reader_count": 3,
-      "disagreement": "No notable disagreement among readers who discussed this theme."
+      "summary": "Most readers point to financial movement and new opportunities arriving for Libra this week, so staying open and carefully weighing any offers or incoming prospects could help turn potential into real gain.",
+      "reader_count": 4,
+      "disagreement": "One reading focused on financial stagnation and delays leaving Libra feeling stuck, while others emphasized incoming opportunities and positive momentum."
     },
     "career": {
-      "summary": "Most readers sense a significant professional shift on the horizon for Libra this week, so it is worth confronting self-doubt and stepping forward boldly rather than letting fear or internal resistance hold you back from the opportunities ahead.",
-      "reader_count": 4,
-      "disagreement": "Some readers focused on Libra boldly asserting themselves now, while others suggested internal blocks and self-doubt are currently slowing progress rather than outside forces."
+      "summary": "Most readers sense that a meaningful new professional opportunity is on the horizon for Libra, so this is a good week to trust your existing skills and pursue work that genuinely aligns with your passions rather than playing it safe.",
+      "reader_count": 5,
+      "disagreement": "One reading focused on career momentum through social networking in a specific field like event planning, while others pointed to broader shifts away from draining environments or toward passion-driven entrepreneurship."
     },
     "family": {
-      "summary": "Only a few readers touched on family this week, but those who did highlighted the strength of close bonds and the possibility of meaningful shared milestones, like building a life or legacy together with someone you love.",
-      "reader_count": 3,
-      "disagreement": "One reader focused on lasting legacy and passing work to others, while another emphasized a more immediate life upgrade with a partner, such as moving homes together."
+      "summary": "Family connection is a meaningful theme this week, with several readers highlighting bonds with loved ones, whether through cherished memories, spiritual ties, or real-world gatherings and celebrations worth embracing.",
+      "reader_count": 4,
+      "disagreement": "Some readers focused on joyful, present-day family events like celebrations and quality time, while others pointed to grief, memory, and connection with those who have passed."
     }
   },
-  "overall_tone": "cautious",
-  "overall_tone_summary": "Slow your pace this week and weigh each decision carefully before committing.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "A luminous sense of possibility carries Libra through the week.",
   "readers": [
     {
-      "video_id": "ZwCQSyQVuWQ",
-      "channel_theme": "Libra should boldly step into the spotlight and stop fearing others' reactions.",
+      "video_id": "lYZcwlEkmX0",
+      "channel_theme": "Libra already has the skills needed to confidently pursue new ventures now.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=ZwCQSyQVuWQ"
+      "url": "https://www.youtube.com/watch?v=lYZcwlEkmX0"
     },
     {
-      "video_id": "96S-Xvq8j6M",
-      "channel_theme": "Hidden self-sabotage rooted in deep beliefs is quietly blocking your progress.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=96S-Xvq8j6M"
+      "video_id": "wLjq6RL0rKo",
+      "channel_theme": "A major life transition opens doors to remote work or entrepreneurship.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=wLjq6RL0rKo"
     },
     {
-      "video_id": "GhgIu0ZCLpo",
-      "channel_theme": "Past wounds could undermine your confidence in receiving incoming abundance.",
+      "video_id": "9Oxvn1HdCTU",
+      "channel_theme": "Libra must act on romantic desires before the opportunity passes.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=GhgIu0ZCLpo"
+      "url": "https://www.youtube.com/watch?v=9Oxvn1HdCTU"
     },
     {
-      "video_id": "TKlRkV-2QKU",
-      "channel_theme": "Your efforts may leave a lasting legacy for loved ones and future carriers of your work.",
+      "video_id": "q9Nqz3Q0Xa0",
+      "channel_theme": "A spiritual connection to deceased loved ones brings healing energy this week.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=q9Nqz3Q0Xa0"
+    },
+    {
+      "video_id": "NIVgIyd1ckc",
+      "channel_theme": "Social celebrations and gatherings spark promising career and romantic opportunities.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=TKlRkV-2QKU"
-    },
-    {
-      "video_id": "FILMresMx0E",
-      "channel_theme": "Ego and pride are stalling romantic connections, leaving Libra stuck in limbo.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=FILMresMx0E"
+      "url": "https://www.youtube.com/watch?v=NIVgIyd1ckc"
     }
   ]
 }
