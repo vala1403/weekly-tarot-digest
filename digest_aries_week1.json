@@ -1,60 +1,60 @@
 {
   "sign": "Aries",
-  "week_of": "2026-08-17",
+  "week_of": "2026-08-24",
   "categories": {
     "love": {
-      "summary": "Most readers sense fresh or unexpected romantic energy arriving for Aries this week, so stay open to new or surprising connections rather than letting fear or doubt close you off to what is unfolding.",
-      "reader_count": 4,
-      "disagreement": "Some readers focused on entirely new or unmet connections forming, while others emphasized reconciliation or deepening an existing bond."
+      "summary": "Only a couple of readers touched on love this week, but those who did suggest Aries may be at a romantic crossroads, whether facing a meaningful new connection or finally gaining the clarity to resolve an uncertain relationship.",
+      "reader_count": 2,
+      "disagreement": "One reader pointed to fresh romantic potential and soulmate reconnections, while another focused on the possibility of leaving or staying in a dissatisfying relationship."
     },
     "finance": {
-      "summary": "Most readers see financial growth and long-term abundance on the horizon for Aries this week, so consider building on your existing strengths or staying open to new opportunities that could bring meaningful material gain.",
-      "reader_count": 4,
-      "disagreement": "One reader suggested a need to pull back, reassess spending habits, and draw on savings, while others leaned toward actively pursuing new income or incoming opportunities."
+      "summary": "All five readers point to positive financial momentum this week, so take practical steps forward, whether that means reassessing your current efforts, laying careful groundwork, or staying open to new opportunities and partnerships that could bring meaningful growth.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on steady, methodical planning while others emphasized external breakthroughs like new partnerships or windfalls. One also noted a need to break free from settling for less."
     },
     "career": {
-      "summary": "This week brings strong career momentum for Aries, with new opportunities or advancement on the horizon, so stay committed to your goals and make your efforts visible to those who matter.",
+      "summary": "Most readers this week see a meaningful career opportunity or shift on the horizon for Aries, so trust your instincts, stay open to new directions, and be ready to step into a more confident and purposeful professional role.",
       "reader_count": 5,
-      "disagreement": "Some readers focused on an incoming opportunity or offer, while others emphasized overcoming challenges or competition to earn recognition. The tone shifts between receptive and effortful energy."
+      "disagreement": "Some readers focused on a specific offer or opportunity arriving externally, while others emphasized taking initiative and leading from within. The trigger differs, but the outcome points to growth."
     },
     "family": {
-      "summary": "Family themes are active for Aries this week, with readers pointing to a mix of support and challenge, so lean into nurturing connections and be mindful of those who may not have your best interests at heart.",
+      "summary": "Several readers suggest that leaning on your social circle and nurturing close relationships can bring emotional clarity and fulfillment this week, especially as old connections may resurface and loved ones take notice of your growth.",
       "reader_count": 4,
-      "disagreement": "Some readers highlighted loving support and growth through family or chosen community, while one cautioned that close people may actively try to undermine your happiness."
+      "disagreement": "Some readers focused on reconnecting with the past through reunions, while others emphasized the outward admiration Aries receives for personal transformation rather than the act of reconnecting itself."
     }
   },
-  "overall_tone": "empowering",
-  "overall_tone_summary": "Aries steps into confidence this week, ready to claim what is theirs.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Powerful shifts are reshaping what Aries thought was settled ground.",
   "readers": [
     {
-      "video_id": "p-GOTYExcvc",
-      "channel_theme": "Outside negativity may specifically try to undermine Aries romantic happiness this week.",
-      "tone": "celebratory",
-      "url": "https://www.youtube.com/watch?v=p-GOTYExcvc"
-    },
-    {
-      "video_id": "SpMKyw46m9o",
-      "channel_theme": "Aries is building a chosen family beyond their biological circle.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=SpMKyw46m9o"
-    },
-    {
-      "video_id": "O9gxiGbYslo",
-      "channel_theme": "Persistence through multiple competitive rounds could bring professional recognition soon.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=O9gxiGbYslo"
-    },
-    {
-      "video_id": "HCRKZhvLO5c",
-      "channel_theme": "An unexpected person may arrive with an apology and soulmate energy.",
-      "tone": "reassuring",
-      "url": "https://www.youtube.com/watch?v=HCRKZhvLO5c"
-    },
-    {
-      "video_id": "qhBYmPIBHhU",
-      "channel_theme": "Long-term family planning, including whether to have children, is a key focus.",
+      "video_id": "5knIhyDy9D8",
+      "channel_theme": "Breaking free from financial settling through a new sense of personal clarity.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=qhBYmPIBHhU"
+      "url": "https://www.youtube.com/watch?v=5knIhyDy9D8"
+    },
+    {
+      "video_id": "kgA4RMePs_8",
+      "channel_theme": "Emotional harmony in family life arrives after releasing old burdens.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=kgA4RMePs_8"
+    },
+    {
+      "video_id": "xhXoUNsP5I8",
+      "channel_theme": "A soulmate reconnection or meaningful romantic proposal could arrive soon.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=xhXoUNsP5I8"
+    },
+    {
+      "video_id": "xvoYRYujgE0",
+      "channel_theme": "Stepping into leadership while reassessing whether current efforts are truly worthwhile.",
+      "tone": "cautiously optimistic",
+      "url": "https://www.youtube.com/watch?v=xvoYRYujgE0"
+    },
+    {
+      "video_id": "VCgeHLU9O5U",
+      "channel_theme": "A dream home or deeply fulfilling job may arrive as a major blessing.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=VCgeHLU9O5U"
     }
   ]
 }

@@ -1,60 +1,60 @@
 {
   "sign": "Taurus",
-  "week_of": "2026-08-17",
+  "week_of": "2026-08-24",
   "categories": {
     "love": {
-      "summary": "Most readers sense romantic potential arriving for Taurus this week, whether through a new connection or a returning one, so stay discerning about who truly deserves your emotional investment.",
-      "reader_count": 5,
-      "disagreement": "Some readers highlighted fresh romantic beginnings and incoming affection, while one cautioned that a returning ex may have selfish intentions rather than genuine feelings."
+      "summary": "None of the five readers addressed love or relationships for Taurus this week, so there is no shared romantic theme or advice to draw from.",
+      "reader_count": 0,
+      "disagreement": null
     },
     "finance": {
-      "summary": "All five readers see this as a genuinely promising week for Taurus financially, so stay grounded, keep building on your skills and efforts, and be open to new opportunities that could bring real stability or returns.",
-      "reader_count": 5,
-      "disagreement": "Some readers focused on taking action and addressing responsibilities now, while others suggested waiting for incoming opportunities or assistance to materialize on their own."
+      "summary": "Most readers see positive financial momentum building for Taurus this week, so stay open to emerging opportunities and invest time and energy wisely to make the most of what could be a meaningful turning point.",
+      "reader_count": 4,
+      "disagreement": "No notable disagreement among readers. All who touched on finances pointed toward growth and opportunity, differing only in specifics like lucky breaks, new ventures, or wise investing."
     },
     "career": {
-      "summary": "Career prospects look positive for Taurus this week, with most readers encouraging them to stay focused on their path while remaining open to new opportunities or approaches that could broaden their professional reach.",
-      "reader_count": 4,
-      "disagreement": "One reader suggested a significant professional ending is underway, while others focused on growth and forward momentum without any sense of closure or transition."
+      "summary": "Most readers sense new professional opportunities and rewards from past efforts emerging this week, so Taurus should move forward with confidence and careful planning rather than rushing or overextending.",
+      "reader_count": 5,
+      "disagreement": "Some readers encouraged bold, assertive action to seize opportunities quickly. Others urged caution, boundary-setting, and avoiding the temptation to return to or rush into unfulfilling situations."
     },
     "family": {
-      "summary": "Several readers highlight the importance of nurturing, loyal bonds this week, so stay open to support from loved ones while being mindful of how family dynamics and outside pressures may be quietly shaping your bigger decisions.",
+      "summary": "Most readers this week point to family as a source of strength and joy for Taurus, suggesting that leaning into the support of loved ones will pave the way for celebration and renewed harmony at home.",
       "reader_count": 4,
-      "disagreement": "Some readers focused on warm, supportive energy from loved ones, while others pointed to family secrets, past reconnections, or social pressures creating friction around personal choices."
+      "disagreement": "One reader focused on drawing strength from a paternal bond during hardship, while others leaned toward collective family joy and upcoming shared celebrations."
     }
   },
   "overall_tone": "hopeful",
-  "overall_tone_summary": "Two readings echo hope, and even transformation bends toward a brighter horizon.",
+  "overall_tone_summary": "Optimism carries Taurus forward this week, with transformation quietly building beneath. Second week running.",
   "readers": [
     {
-      "video_id": "ZgiYM_f4yIM",
-      "channel_theme": "Taurus should leave disrespectful relationships and face finances directly this week.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=ZgiYM_f4yIM"
-    },
-    {
-      "video_id": "_EvTu2hKhOc",
-      "channel_theme": "A hidden family secret may surface alongside fated romantic beginnings.",
-      "tone": "nostalgic",
-      "url": "https://www.youtube.com/watch?v=_EvTu2hKhOc"
-    },
-    {
-      "video_id": "3rNBUrv4kl4",
-      "channel_theme": "Supportive loved ones are reaching out to comfort Taurus through struggles.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=3rNBUrv4kl4"
-    },
-    {
-      "video_id": "cdLcQiFbIDY",
-      "channel_theme": "A returning ex has selfish motives and should be approached with caution.",
+      "video_id": "Kr6n8dNPxF8",
+      "channel_theme": "Avoid returning to a toxic work environment, no matter how tempting.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=cdLcQiFbIDY"
+      "url": "https://www.youtube.com/watch?v=Kr6n8dNPxF8"
     },
     {
-      "video_id": "flMryAMpg38",
-      "channel_theme": "Social and family pressures are quietly shaping Taurus career and life choices.",
+      "video_id": "IrMc5v2OyR8",
+      "channel_theme": "Set firm boundaries at work to avoid burnout from overcommitment.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=IrMc5v2OyR8"
+    },
+    {
+      "video_id": "6U7NbJ-FFC4",
+      "channel_theme": "Past hard work is finally paying off, but avoid rushing new opportunities.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=flMryAMpg38"
+      "url": "https://www.youtube.com/watch?v=6U7NbJ-FFC4"
+    },
+    {
+      "video_id": "sm_3ah9buFo",
+      "channel_theme": "Bold action now can launch Taurus into a passionate leadership role.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=sm_3ah9buFo"
+    },
+    {
+      "video_id": "7RuDOK_6ztM",
+      "channel_theme": "Family harmony and joy are returning after a prolonged period of hardship.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=7RuDOK_6ztM"
     }
   ]
 }

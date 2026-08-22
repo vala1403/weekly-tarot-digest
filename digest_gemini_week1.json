@@ -1,60 +1,60 @@
 {
   "sign": "Gemini",
-  "week_of": "2026-08-17",
+  "week_of": "2026-08-24",
   "categories": {
     "love": {
-      "summary": "Most readers sense romantic activity stirring for Gemini this week, whether a new connection, a distant bond, or a tempting pull, so move with patience and keep your heart open rather than rushing or chasing risky situations.",
-      "reader_count": 4,
-      "disagreement": "Some readers saw fresh romantic beginnings and hopeful new connections ahead, while others pointed to unresolved issues, broken promises, or difficulty communicating within existing relationships."
+      "summary": "Most readers this week sense a fresh or renewed romantic connection coming for Gemini, so stay open to new encounters and be willing to let your heart lead the way.",
+      "reader_count": 3,
+      "disagreement": "Some readers focused on brand-new connections forming, while one suggested a past relationship could be rekindled instead."
     },
     "finance": {
-      "summary": "Several readers sense new financial opportunities emerging this week, so stay cautious and deliberate, ensuring any promising paths or partnerships are evaluated carefully before committing resources or energy.",
+      "summary": "Most readers sense financial relief and new opportunities arriving this week, so stay open to incoming offers, partnerships, or career shifts that could mark a meaningful turning point toward stability and independence.",
       "reader_count": 4,
-      "disagreement": "One reader focused on accepting a past financial loss and adjusting expectations, while others leaned toward actively pursuing fresh income paths and new opportunities."
+      "disagreement": "No notable disagreement among readers. All who discussed finances pointed toward improvement and incoming opportunities."
     },
     "career": {
-      "summary": "Most readers see this as a pivotal moment for Gemini to release what no longer serves them professionally and redirect their energy toward opportunities or skills that offer real, lasting rewards.",
+      "summary": "Most readers see a meaningful professional breakthrough unfolding for Gemini this week, so trust your abilities and step forward with confidence rather than holding yourself back with doubt or overthinking.",
       "reader_count": 5,
-      "disagreement": "Some readers highlighted an exciting new opportunity on the horizon, while others cautioned Gemini to push forward with determination despite outside doubts or hidden costs."
+      "disagreement": "Some readers focused on external recognition and new opportunities arriving naturally, while one emphasized that internal mindset shifts and releasing control are necessary before progress can happen."
     },
     "family": {
-      "summary": "Only 3 readers touched on family this week, and they were split, so the clearest takeaway is to stay aware of whether your close relationships are truly supportive or quietly draining your energy.",
-      "reader_count": 3,
-      "disagreement": "Some readers saw family and friends as a warm, stabilizing source of comfort. Others suggested that social and family ties may feel pressuring or dismissive of Gemini's needs."
+      "summary": "Several readers sense warmth and renewal within close relationships and home life this week, so pay attention to your immediate environment and the people in it, as positive energy and stability appear to be returning.",
+      "reader_count": 4,
+      "disagreement": "Most readers focused on emotional renewal and home comfort, but one highlighted joyful external news like an announcement as the source of positive energy rather than internal relationship repair."
     }
   },
-  "overall_tone": "empowering",
-  "overall_tone_summary": "This week hands Gemini the keys to their own transformation.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "Gemini rides a bright, optimistic current with real momentum this week.",
   "readers": [
     {
-      "video_id": "pBp8MaWGF5Q",
-      "channel_theme": "Gemini should recognize their worth and walk away from unrewarding situations.",
+      "video_id": "2lCgTG8hsFM",
+      "channel_theme": "A specific date around the 28th is flagged for a romantic development.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=2lCgTG8hsFM"
+    },
+    {
+      "video_id": "jaJbQcEypsU",
+      "channel_theme": "Your home environment is highlighted as key to personal growth this week.",
       "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=pBp8MaWGF5Q"
+      "url": "https://www.youtube.com/watch?v=jaJbQcEypsU"
     },
     {
-      "video_id": "Q54kuRJIcpg",
-      "channel_theme": "Focus on long-term wealth by diversifying and studying competitors.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=Q54kuRJIcpg"
+      "video_id": "aDex2jVwOIA",
+      "channel_theme": "Joyful news like a pregnancy or engagement may arrive from loved ones.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=aDex2jVwOIA"
     },
     {
-      "video_id": "BY5wGPPhRo0",
-      "channel_theme": "Gemini wrestles with reopening contact with a distant romantic figure.",
-      "tone": "reflective",
-      "url": "https://www.youtube.com/watch?v=BY5wGPPhRo0"
+      "video_id": "nTiUx1IM82g",
+      "channel_theme": "Releasing self-doubt and the need for control is the sole focus.",
+      "tone": "encouraging",
+      "url": "https://www.youtube.com/watch?v=nTiUx1IM82g"
     },
     {
-      "video_id": "ef-5L4rOUH8",
-      "channel_theme": "A manipulative coworker stirs drama while Gemini's leadership potential rises.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=ef-5L4rOUH8"
-    },
-    {
-      "video_id": "-quGEMM_ALk",
-      "channel_theme": "An exciting opportunity, romantic or career, may hide costly strings.",
-      "tone": "adventurous",
-      "url": "https://www.youtube.com/watch?v=-quGEMM_ALk"
+      "video_id": "rO67dqZYoB8",
+      "channel_theme": "Long-awaited breakthroughs finally arrive, aligning career with true purpose.",
+      "tone": "triumphant",
+      "url": "https://www.youtube.com/watch?v=rO67dqZYoB8"
     }
   ]
 }

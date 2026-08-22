@@ -1,60 +1,60 @@
 {
   "sign": "Cancer",
-  "week_of": "2026-08-17",
+  "week_of": "2026-08-24",
   "categories": {
     "love": {
-      "summary": "Several readers sense meaningful emotional shifts in love this week, so reflect honestly on what relationships are worth nurturing and be willing to speak your truth to invite deeper connection.",
+      "summary": "Most readers sense a significant turning point in Cancer's love life this week, whether through new commitment, a rekindled connection, or a crossroads choice, so reflect carefully before deciding whether to move forward or walk away.",
       "reader_count": 4,
-      "disagreement": "Some readers saw warm, deepening bonds ahead, while one highlighted unresolved emotional baggage from a past relationship quietly shaping what comes next."
+      "disagreement": "Some readers suggested a past relationship may redirect Cancer toward a better match, while others pointed to an ex returning or an on-and-off connection pulling Cancer back in."
     },
     "finance": {
-      "summary": "Most readers point to a week of building financial stability, so focus on cultivating what you already have rather than overextending, and let prosperity develop steadily from a grounded foundation.",
+      "summary": "Most readers this week sense financial rewards coming Cancer's way, whether from past efforts, inherited opportunities, or long-awaited ventures, so trust the groundwork already laid while staying open to where true fulfillment lies.",
       "reader_count": 4,
-      "disagreement": "One reader flagged destructive spending habits as a concern to address, while others leaned toward optimism and stability rather than warning of problem behaviors."
+      "disagreement": "Some readers pointed to incoming financial rewards and abundance. One reader cautioned that chasing money could cloud judgment and that long-term fulfillment may matter more than immediate income."
     },
     "career": {
-      "summary": "A few readers see career momentum building for Cancer this week, encouraging deliberate planning and openness to collaboration or new directions to help long-term professional goals take shape.",
-      "reader_count": 3,
-      "disagreement": "One reader highlighted solo efforts gaining recognition, while another stressed that teamwork and clarity of vision are key to moving forward."
+      "summary": "Most readers sense that Cancer is being nudged to push past hesitation and self-doubt this week, so taking confident action on a professional opportunity, whether a new role, a returning path, or a long-held goal, could lead to meaningful progress.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw Cancer as stagnant and awaiting an external opportunity, while others emphasized that the breakthrough comes from Cancer's own bold internal decision to act."
     },
     "family": {
-      "summary": "Several readers this week pick up on deep family patterns calling for attention, suggesting that working through long-standing emotional or relational cycles now can help Cancer build a more grounded and stable home life.",
+      "summary": "Family themes appear across several readings this week, with gatherings and supportive loved ones creating a warm backdrop for new connections and growth, though financial or material matters within the family unit are also worth paying attention to.",
       "reader_count": 4,
-      "disagreement": "Some readers focused on internal generational healing, while one pointed to a specific unresolved issue with a family member that may need direct confrontation."
+      "disagreement": "Some readers saw family as emotionally warm and celebratory, while one suggested a maternal figure may be more focused on material concerns than offering genuine emotional support."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "A bright undercurrent of possibility lifts Cancer through this week's changes.",
+  "overall_tone": "empowering",
+  "overall_tone_summary": "Cancer steps into their strength this week, ready to lead and grow.",
   "readers": [
     {
-      "video_id": "1UavASn5_qA",
-      "channel_theme": "",
+      "video_id": "Vrg6PZXsgO0",
+      "channel_theme": "Bold action and fearlessness will unlock the success you have been holding back.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=Vrg6PZXsgO0"
+    },
+    {
+      "video_id": "RKDAkTc__Ag",
+      "channel_theme": "A past idea or venture may finally bring significant inherited or earned wealth.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=1UavASn5_qA"
+      "url": "https://www.youtube.com/watch?v=RKDAkTc__Ag"
     },
     {
-      "video_id": "msqIrmDpisw",
-      "channel_theme": "Unresolved baggage from a faded past romance is following Cancer forward.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=msqIrmDpisw"
+      "video_id": "pqxPts1AKAI",
+      "channel_theme": "An unfinished project feels internally complete before resolving in the physical world.",
+      "tone": "introspective",
+      "url": "https://www.youtube.com/watch?v=pqxPts1AKAI"
     },
     {
-      "video_id": "CaBpYrDouog",
-      "channel_theme": "Cancer feels urged to confront harmful personal habits like spending or gambling.",
+      "video_id": "6ul2gb41y0Q",
+      "channel_theme": "A cold, money-focused figure offers Cancer little warmth or emotional support.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=CaBpYrDouog"
+      "url": "https://www.youtube.com/watch?v=6ul2gb41y0Q"
     },
     {
-      "video_id": "ScXX-sizI0M",
-      "channel_theme": "Cancer already has enough resources and should avoid overspending.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=ScXX-sizI0M"
-    },
-    {
-      "video_id": "x8rd1OumjmY",
-      "channel_theme": "Collaboration with others is key to reaching Cancer's professional goals.",
+      "video_id": "42y62dJBzEQ",
+      "channel_theme": "Cancer may meet a deeply committed romantic partner at a family gathering.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=x8rd1OumjmY"
+      "url": "https://www.youtube.com/watch?v=42y62dJBzEQ"
     }
   ]
 }

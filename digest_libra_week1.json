@@ -1,60 +1,60 @@
 {
   "sign": "Libra",
-  "week_of": "2026-08-17",
+  "week_of": "2026-08-24",
   "categories": {
     "love": {
-      "summary": "Most readers see promising romantic energy for Libra this week, whether through new connections or deepening existing ones, so act on what you truly desire and let a partner's actions, not just words, guide your trust.",
-      "reader_count": 4,
-      "disagreement": "Some readers focused on fresh, exciting new connections with strong chemistry, while one emphasized healing from emotional pain and finding unexpected comfort and alignment with an existing partner."
+      "summary": "Most readers sense new or rekindling romantic energy this week, with deepening feelings and potential long-term commitment on the horizon, so stay open to what resurfaces while being mindful not to sacrifice your existing priorities for it.",
+      "reader_count": 5,
+      "disagreement": "Some readers emphasized an exciting new love interest arriving, while others focused on a complicated or returning connection resurfacing. One reader cautioned against compromising yourself for any new offer."
     },
     "finance": {
-      "summary": "Most readers point to financial movement and new opportunities arriving for Libra this week, so staying open and carefully weighing any offers or incoming prospects could help turn potential into real gain.",
-      "reader_count": 4,
-      "disagreement": "One reading focused on financial stagnation and delays leaving Libra feeling stuck, while others emphasized incoming opportunities and positive momentum."
+      "summary": "Most readers see financial rewards and new opportunities on the horizon this week, whether through a promotion, a recognized skill, or an emerging partnership, so stay open to offers and put your talents forward.",
+      "reader_count": 3,
+      "disagreement": "No notable disagreement among readers who discussed this theme."
     },
     "career": {
-      "summary": "Most readers sense that a meaningful new professional opportunity is on the horizon for Libra, so this is a good week to trust your existing skills and pursue work that genuinely aligns with your passions rather than playing it safe.",
-      "reader_count": 5,
-      "disagreement": "One reading focused on career momentum through social networking in a specific field like event planning, while others pointed to broader shifts away from draining environments or toward passion-driven entrepreneurship."
+      "summary": "New professional opportunities appear to be emerging for Libra this week, whether through decisive personal action, the recognition of others, or the completion of existing work, so stay open to where these openings arrive from.",
+      "reader_count": 4,
+      "disagreement": "Some readers highlighted receiving opportunities passively through others' choices, while another emphasized actively pursuing a fulfilling new role based on personal well-being."
     },
     "family": {
-      "summary": "Family connection is a meaningful theme this week, with several readers highlighting bonds with loved ones, whether through cherished memories, spiritual ties, or real-world gatherings and celebrations worth embracing.",
+      "summary": "Family themes this week range from joyful milestones and deepening bonds to more strained or one-sided connections, so focus on the relationships that genuinely nurture you while releasing what pulls you backward.",
       "reader_count": 4,
-      "disagreement": "Some readers focused on joyful, present-day family events like celebrations and quality time, while others pointed to grief, memory, and connection with those who have passed."
+      "disagreement": "Some readers highlighted warmth and growth in family bonds, while one pointed to frustrating, shallow communication with younger relatives."
     }
   },
   "overall_tone": "hopeful",
-  "overall_tone_summary": "A luminous sense of possibility carries Libra through the week.",
+  "overall_tone_summary": "A bright, optimistic current runs through Libra's week, with gentle caution threading beneath. Second week running.",
   "readers": [
     {
-      "video_id": "lYZcwlEkmX0",
-      "channel_theme": "Libra already has the skills needed to confidently pursue new ventures now.",
+      "video_id": "6WO2VMN3U9c",
+      "channel_theme": "An Aquarius energy may spark exciting new romantic possibilities for Libra.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=lYZcwlEkmX0"
+      "url": "https://www.youtube.com/watch?v=6WO2VMN3U9c"
     },
     {
-      "video_id": "wLjq6RL0rKo",
-      "channel_theme": "A major life transition opens doors to remote work or entrepreneurship.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=wLjq6RL0rKo"
+      "video_id": "8y-dttK0_DI",
+      "channel_theme": "Libra is warned not to sacrifice existing priorities for a new offer.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=8y-dttK0_DI"
     },
     {
-      "video_id": "9Oxvn1HdCTU",
-      "channel_theme": "Libra must act on romantic desires before the opportunity passes.",
+      "video_id": "d9tfP26cflk",
+      "channel_theme": "A nurturing authority figure is likely to reward Libra financially this week.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=9Oxvn1HdCTU"
+      "url": "https://www.youtube.com/watch?v=d9tfP26cflk"
     },
     {
-      "video_id": "q9Nqz3Q0Xa0",
-      "channel_theme": "A spiritual connection to deceased loved ones brings healing energy this week.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=q9Nqz3Q0Xa0"
+      "video_id": "UZwkDrM7tl4",
+      "channel_theme": "A complicated romantic history resurfaces, making it hard to move forward clearly.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=UZwkDrM7tl4"
     },
     {
-      "video_id": "NIVgIyd1ckc",
-      "channel_theme": "Social celebrations and gatherings spark promising career and romantic opportunities.",
+      "video_id": "g9IdbAvS8Ok",
+      "channel_theme": "Libra may monetize a spiritual talent and reap smart investment rewards.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=NIVgIyd1ckc"
+      "url": "https://www.youtube.com/watch?v=g9IdbAvS8Ok"
     }
   ]
 }

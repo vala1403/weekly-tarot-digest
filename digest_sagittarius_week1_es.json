@@ -1,59 +1,59 @@
 {
   "sign": "Sagitario",
-  "week_of": "2026-08-17",
+  "week_of": "2026-08-24",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores perciben que la energía romántica está tomando fuerza para Sagitario esta semana, así que mantente abierto y confía en la conexión, sin perder de vista las dudas, las intenciones ocultas o las interferencias externas que podrían interponerse en el camino.",
-      "reader_count": 5,
-      "disagreement": "Algunos lectores vieron esto como una oportunidad romántica esperanzadora que se desarrolla de forma natural, mientras que otros advirtieron que el engaño o la falta de confianza en uno mismo podrían echarla a perder."
+      "summary": "Varios lectores esta semana perciben nuevas y profundas conexiones románticas en el horizonte para Sagitario, así que alinea tu energía con lo que verdaderamente deseas y mantente abierto a que los lazos significativos surjan de forma natural.",
+      "reader_count": 3,
+      "disagreement": null
     },
     "finance": {
-      "summary": "Algunos lectores señalan avances económicos esta semana y sugieren que Sagitario podría estar acercándose a un momento de mayor estabilidad y abundancia, fruto del esfuerzo y la dedicación puestos en el camino recorrido hasta ahora.",
-      "reader_count": 2,
-      "disagreement": "Algunos lectores vieron crecimiento financiero y recompensas en el horizonte, mientras que uno advirtió que información oculta o engaños en torno a finanzas compartidas o herencias podrían indicar que Sagitario aún no tiene el panorama completo."
+      "summary": "La mayoría de los lectores apunta a ganancias financieras importantes llegando esta semana, ya sea a través de nuevas oportunidades, contratos o golpes de suerte inesperados, así que mantente receptivo y sigue adelante con constancia para convertir ese potencial en abundancia real.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores vieron un crecimiento gradual que requiere esfuerzo, mientras que otros sugirieron que llegadas repentinas de dinero, como bonos o herencias, podrían manifestarse de forma más inmediata."
     },
     "career": {
-      "summary": "La mayoría de los lectores perciben que el impulso profesional está en aumento esta semana, ya sea a través de un ascenso, una nueva oportunidad o mayor estabilidad económica. Es momento de dar un paso al frente y soltar todo aquello que ya no contribuye a tu crecimiento.",
+      "summary": "La mayoría de los lectores señala un cambio profesional significativo esta semana, y sugiere que alejarse de situaciones que agotan la energía y abrirse con valentía a nuevas oportunidades, ya sea un nuevo puesto, proyecto propio o sociedad, es el movimiento clave para Sagitario.",
       "reader_count": 4,
-      "disagreement": "Algunos lectores vieron a Sagitario a punto de lograr avances emocionantes, mientras que uno hizo hincapié en el agotamiento y la sensación de estar atrapado, con pocas señales de progreso real."
+      "disagreement": "Algunos lectores se enfocaron en salir de entornos tóxicos y comenzar de cero, mientras que uno destacó la importancia de asumir un liderazgo seguro y recoger los frutos del esfuerzo acumulado."
     },
     "family": {
-      "summary": "Solo dos lectores abordaron el tema familiar esta semana, señalando información oculta o emociones sin resolver que están influyendo en silencio sobre las relaciones cercanas. Sagitario podría beneficiarse de abordar estas dinámicas con honestidad antes de que los problemas echen raíces más profundas.",
+      "summary": "Solo un par de lectores abordaron el tema familiar esta semana, pero quienes lo hicieron resaltaron el apoyo mutuo y la estabilidad compartida, sugiriendo que apoyarse en los seres queridos o recibir con apertura la contribución económica de un familiar puede elevar el bienestar de todos.",
       "reader_count": 2,
-      "disagreement": "Un lector se centró en el duelo como obstáculo para la reconciliación, mientras que otro apuntó a información familiar encubierta, como herencias o planes a largo plazo, como fuente de tensión."
+      "disagreement": null
     }
   },
-  "overall_tone_summary": "Dos lecturas de advertencia marcan el tono de una semana que invita a Sagitario a actuar con cautela y paso firme.",
+  "overall_tone_summary": "Una corriente de optimismo ilumina la semana de Sagitario, llevándolo adelante con impulso constante y energía renovada.",
   "readers": [
     {
-      "video_id": "wAe_I6lEyv0",
-      "channel_theme": "La independencia financiera está al alcance de la mano, con capacidad para cubrir facturas, ahorrar y disfrutar al mismo tiempo.",
-      "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=wAe_I6lEyv0"
+      "video_id": "TrHdd5h5SGY",
+      "channel_theme": "Las oportunidades de liderazgo se acercan y el trabajo duro está a punto de dar sus frutos de manera significativa.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=TrHdd5h5SGY"
     },
     {
-      "video_id": "mVNT4jc7dC8",
-      "channel_theme": "Una confianza magnética atrae un amor del destino mientras los rivales intentan interferir.",
-      "tone": "empoderador",
-      "url": "https://www.youtube.com/watch?v=mVNT4jc7dC8"
-    },
-    {
-      "video_id": "eJn-c9gk_1U",
-      "channel_theme": "Secretos ocultos y engaños amenazan la transparencia en el amor, las finanzas y la familia.",
-      "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=eJn-c9gk_1U"
-    },
-    {
-      "video_id": "1h9BUZ366To",
-      "channel_theme": "Ambas personas se van aceptando mutuamente poco a poco, a pesar de la agotadora tensión romántica.",
-      "tone": "perseverante",
-      "url": "https://www.youtube.com/watch?v=1h9BUZ366To"
-    },
-    {
-      "video_id": "dIIVLqaPx4s",
-      "channel_theme": "Los pensamientos autodestructivos le impiden a Sagitario abrirse a una reconexión verdaderamente significativa.",
+      "video_id": "-0LTyWDR5HM",
+      "channel_theme": "Contratos o documentos importantes podrían traerte pronto ganancias económicas concretas.",
       "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=dIIVLqaPx4s"
+      "url": "https://www.youtube.com/watch?v=-0LTyWDR5HM"
+    },
+    {
+      "video_id": "r0tNUQ4IGkE",
+      "channel_theme": "Salir de una situación tóxica, quizás lanzando un negocio familiar, abre el camino hacia la estabilidad.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=r0tNUQ4IGkE"
+    },
+    {
+      "video_id": "JMgL9S75lkk",
+      "channel_theme": "Un interés romántico Virgo y un contacto profesional Cáncer destacan de manera particular esta semana.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=JMgL9S75lkk"
+    },
+    {
+      "video_id": "zjeupLvFSe8",
+      "channel_theme": "Una conversación casual esta semana podría encender una oportunidad emprendedora muy prometedora.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=zjeupLvFSe8"
     }
   ]
 }

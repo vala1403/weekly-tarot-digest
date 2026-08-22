@@ -3730,6 +3730,750 @@
           "reader_tone": "empowering"
         }
       ]
+    },
+    {
+      "week_of": "2026-08-24",
+      "sign": "aries",
+      "theme": "transformative",
+      "theme_rule": "repeats-allowed",
+      "repeat_streak": 1,
+      "overall_tone_summary": "Powerful shifts are reshaping what Aries thought was settled ground.",
+      "categories": {
+        "love": {
+          "summary": "Only a couple of readers touched on love this week, but those who did suggest Aries may be at a romantic crossroads, whether facing a meaningful new connection or finally gaining the clarity to resolve an uncertain relationship.",
+          "agreement": 2,
+          "divergence": "One reader pointed to fresh romantic potential and soulmate reconnections, while another focused on the possibility of leaving or staying in a dissatisfying relationship."
+        },
+        "finance": {
+          "summary": "All five readers point to positive financial momentum this week, so take practical steps forward, whether that means reassessing your current efforts, laying careful groundwork, or staying open to new opportunities and partnerships that could bring meaningful growth.",
+          "agreement": 5,
+          "divergence": "Some readers focused on steady, methodical planning while others emphasized external breakthroughs like new partnerships or windfalls. One also noted a need to break free from settling for less."
+        },
+        "career": {
+          "summary": "Most readers this week see a meaningful career opportunity or shift on the horizon for Aries, so trust your instincts, stay open to new directions, and be ready to step into a more confident and purposeful professional role.",
+          "agreement": 5,
+          "divergence": "Some readers focused on a specific offer or opportunity arriving externally, while others emphasized taking initiative and leading from within. The trigger differs, but the outcome points to growth."
+        },
+        "family": {
+          "summary": "Several readers suggest that leaning on your social circle and nurturing close relationships can bring emotional clarity and fulfillment this week, especially as old connections may resurface and loved ones take notice of your growth.",
+          "agreement": 4,
+          "divergence": "Some readers focused on reconnecting with the past through reunions, while others emphasized the outward admiration Aries receives for personal transformation rather than the act of reconnecting itself."
+        }
+      },
+      "readers": [
+        {
+          "video_id": "5knIhyDy9D8",
+          "url": "https://www.youtube.com/watch?v=5knIhyDy9D8",
+          "distinctive_point": "Breaking free from financial settling through a new sense of personal clarity.",
+          "reader_tone": "transformative"
+        },
+        {
+          "video_id": "kgA4RMePs_8",
+          "url": "https://www.youtube.com/watch?v=kgA4RMePs_8",
+          "distinctive_point": "Emotional harmony in family life arrives after releasing old burdens.",
+          "reader_tone": "transformative"
+        },
+        {
+          "video_id": "xhXoUNsP5I8",
+          "url": "https://www.youtube.com/watch?v=xhXoUNsP5I8",
+          "distinctive_point": "A soulmate reconnection or meaningful romantic proposal could arrive soon.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "xvoYRYujgE0",
+          "url": "https://www.youtube.com/watch?v=xvoYRYujgE0",
+          "distinctive_point": "Stepping into leadership while reassessing whether current efforts are truly worthwhile.",
+          "reader_tone": "cautiously optimistic"
+        },
+        {
+          "video_id": "VCgeHLU9O5U",
+          "url": "https://www.youtube.com/watch?v=VCgeHLU9O5U",
+          "distinctive_point": "A dream home or deeply fulfilling job may arrive as a major blessing.",
+          "reader_tone": "hopeful"
+        }
+      ]
+    },
+    {
+      "week_of": "2026-08-24",
+      "sign": "taurus",
+      "theme": "hopeful",
+      "theme_rule": "repeats-allowed",
+      "repeat_streak": 2,
+      "overall_tone_summary": "Optimism carries Taurus forward this week, with transformation quietly building beneath. Second week running.",
+      "categories": {
+        "love": {
+          "summary": "None of the five readers addressed love or relationships for Taurus this week, so there is no shared romantic theme or advice to draw from.",
+          "agreement": 0,
+          "divergence": null
+        },
+        "finance": {
+          "summary": "Most readers see positive financial momentum building for Taurus this week, so stay open to emerging opportunities and invest time and energy wisely to make the most of what could be a meaningful turning point.",
+          "agreement": 4,
+          "divergence": null
+        },
+        "career": {
+          "summary": "Most readers sense new professional opportunities and rewards from past efforts emerging this week, so Taurus should move forward with confidence and careful planning rather than rushing or overextending.",
+          "agreement": 5,
+          "divergence": "Some readers encouraged bold, assertive action to seize opportunities quickly. Others urged caution, boundary-setting, and avoiding the temptation to return to or rush into unfulfilling situations."
+        },
+        "family": {
+          "summary": "Most readers this week point to family as a source of strength and joy for Taurus, suggesting that leaning into the support of loved ones will pave the way for celebration and renewed harmony at home.",
+          "agreement": 4,
+          "divergence": "One reader focused on drawing strength from a paternal bond during hardship, while others leaned toward collective family joy and upcoming shared celebrations."
+        }
+      },
+      "readers": [
+        {
+          "video_id": "Kr6n8dNPxF8",
+          "url": "https://www.youtube.com/watch?v=Kr6n8dNPxF8",
+          "distinctive_point": "Avoid returning to a toxic work environment, no matter how tempting.",
+          "reader_tone": "cautionary"
+        },
+        {
+          "video_id": "IrMc5v2OyR8",
+          "url": "https://www.youtube.com/watch?v=IrMc5v2OyR8",
+          "distinctive_point": "Set firm boundaries at work to avoid burnout from overcommitment.",
+          "reader_tone": "transformative"
+        },
+        {
+          "video_id": "6U7NbJ-FFC4",
+          "url": "https://www.youtube.com/watch?v=6U7NbJ-FFC4",
+          "distinctive_point": "Past hard work is finally paying off, but avoid rushing new opportunities.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "sm_3ah9buFo",
+          "url": "https://www.youtube.com/watch?v=sm_3ah9buFo",
+          "distinctive_point": "Bold action now can launch Taurus into a passionate leadership role.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "7RuDOK_6ztM",
+          "url": "https://www.youtube.com/watch?v=7RuDOK_6ztM",
+          "distinctive_point": "Family harmony and joy are returning after a prolonged period of hardship.",
+          "reader_tone": "hopeful"
+        }
+      ]
+    },
+    {
+      "week_of": "2026-08-24",
+      "sign": "gemini",
+      "theme": "hopeful",
+      "theme_rule": "repeats-allowed",
+      "repeat_streak": 1,
+      "overall_tone_summary": "Gemini rides a bright, optimistic current with real momentum this week.",
+      "categories": {
+        "love": {
+          "summary": "Most readers this week sense a fresh or renewed romantic connection coming for Gemini, so stay open to new encounters and be willing to let your heart lead the way.",
+          "agreement": 3,
+          "divergence": "Some readers focused on brand-new connections forming, while one suggested a past relationship could be rekindled instead."
+        },
+        "finance": {
+          "summary": "Most readers sense financial relief and new opportunities arriving this week, so stay open to incoming offers, partnerships, or career shifts that could mark a meaningful turning point toward stability and independence.",
+          "agreement": 4,
+          "divergence": null
+        },
+        "career": {
+          "summary": "Most readers see a meaningful professional breakthrough unfolding for Gemini this week, so trust your abilities and step forward with confidence rather than holding yourself back with doubt or overthinking.",
+          "agreement": 5,
+          "divergence": "Some readers focused on external recognition and new opportunities arriving naturally, while one emphasized that internal mindset shifts and releasing control are necessary before progress can happen."
+        },
+        "family": {
+          "summary": "Several readers sense warmth and renewal within close relationships and home life this week, so pay attention to your immediate environment and the people in it, as positive energy and stability appear to be returning.",
+          "agreement": 4,
+          "divergence": "Most readers focused on emotional renewal and home comfort, but one highlighted joyful external news like an announcement as the source of positive energy rather than internal relationship repair."
+        }
+      },
+      "readers": [
+        {
+          "video_id": "2lCgTG8hsFM",
+          "url": "https://www.youtube.com/watch?v=2lCgTG8hsFM",
+          "distinctive_point": "A specific date around the 28th is flagged for a romantic development.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "jaJbQcEypsU",
+          "url": "https://www.youtube.com/watch?v=jaJbQcEypsU",
+          "distinctive_point": "Your home environment is highlighted as key to personal growth this week.",
+          "reader_tone": "empowering"
+        },
+        {
+          "video_id": "aDex2jVwOIA",
+          "url": "https://www.youtube.com/watch?v=aDex2jVwOIA",
+          "distinctive_point": "Joyful news like a pregnancy or engagement may arrive from loved ones.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "nTiUx1IM82g",
+          "url": "https://www.youtube.com/watch?v=nTiUx1IM82g",
+          "distinctive_point": "Releasing self-doubt and the need for control is the sole focus.",
+          "reader_tone": "encouraging"
+        },
+        {
+          "video_id": "rO67dqZYoB8",
+          "url": "https://www.youtube.com/watch?v=rO67dqZYoB8",
+          "distinctive_point": "Long-awaited breakthroughs finally arrive, aligning career with true purpose.",
+          "reader_tone": "triumphant"
+        }
+      ]
+    },
+    {
+      "week_of": "2026-08-24",
+      "sign": "cancer",
+      "theme": "empowering",
+      "theme_rule": "repeats-allowed",
+      "repeat_streak": 1,
+      "overall_tone_summary": "Cancer steps into their strength this week, ready to lead and grow.",
+      "categories": {
+        "love": {
+          "summary": "Most readers sense a significant turning point in Cancer's love life this week, whether through new commitment, a rekindled connection, or a crossroads choice, so reflect carefully before deciding whether to move forward or walk away.",
+          "agreement": 4,
+          "divergence": "Some readers suggested a past relationship may redirect Cancer toward a better match, while others pointed to an ex returning or an on-and-off connection pulling Cancer back in."
+        },
+        "finance": {
+          "summary": "Most readers this week sense financial rewards coming Cancer's way, whether from past efforts, inherited opportunities, or long-awaited ventures, so trust the groundwork already laid while staying open to where true fulfillment lies.",
+          "agreement": 4,
+          "divergence": "Some readers pointed to incoming financial rewards and abundance. One reader cautioned that chasing money could cloud judgment and that long-term fulfillment may matter more than immediate income."
+        },
+        "career": {
+          "summary": "Most readers sense that Cancer is being nudged to push past hesitation and self-doubt this week, so taking confident action on a professional opportunity, whether a new role, a returning path, or a long-held goal, could lead to meaningful progress.",
+          "agreement": 5,
+          "divergence": "Some readers saw Cancer as stagnant and awaiting an external opportunity, while others emphasized that the breakthrough comes from Cancer's own bold internal decision to act."
+        },
+        "family": {
+          "summary": "Family themes appear across several readings this week, with gatherings and supportive loved ones creating a warm backdrop for new connections and growth, though financial or material matters within the family unit are also worth paying attention to.",
+          "agreement": 4,
+          "divergence": "Some readers saw family as emotionally warm and celebratory, while one suggested a maternal figure may be more focused on material concerns than offering genuine emotional support."
+        }
+      },
+      "readers": [
+        {
+          "video_id": "Vrg6PZXsgO0",
+          "url": "https://www.youtube.com/watch?v=Vrg6PZXsgO0",
+          "distinctive_point": "Bold action and fearlessness will unlock the success you have been holding back.",
+          "reader_tone": "empowering"
+        },
+        {
+          "video_id": "RKDAkTc__Ag",
+          "url": "https://www.youtube.com/watch?v=RKDAkTc__Ag",
+          "distinctive_point": "A past idea or venture may finally bring significant inherited or earned wealth.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "pqxPts1AKAI",
+          "url": "https://www.youtube.com/watch?v=pqxPts1AKAI",
+          "distinctive_point": "An unfinished project feels internally complete before resolving in the physical world.",
+          "reader_tone": "introspective"
+        },
+        {
+          "video_id": "6ul2gb41y0Q",
+          "url": "https://www.youtube.com/watch?v=6ul2gb41y0Q",
+          "distinctive_point": "A cold, money-focused figure offers Cancer little warmth or emotional support.",
+          "reader_tone": "transformative"
+        },
+        {
+          "video_id": "42y62dJBzEQ",
+          "url": "https://www.youtube.com/watch?v=42y62dJBzEQ",
+          "distinctive_point": "Cancer may meet a deeply committed romantic partner at a family gathering.",
+          "reader_tone": "hopeful"
+        }
+      ]
+    },
+    {
+      "week_of": "2026-08-24",
+      "sign": "leo",
+      "theme": "hopeful",
+      "theme_rule": "repeats-allowed",
+      "repeat_streak": 2,
+      "overall_tone_summary": "Bright possibilities keep surfacing, nudging Leo toward optimism this week. Second week running.",
+      "categories": {
+        "love": {
+          "summary": "Most readers this week encourage Leo to honestly evaluate whether current or potential relationships are truly fulfilling, recognizing their own worth and releasing fear or habit as reasons to stay, in order to attract or nurture a genuinely aligned connection.",
+          "agreement": 4,
+          "divergence": "Some readers saw optimism, pointing to joyful new meetings or a wealthy admirer pursuing serious commitment. Others suggested the current relationship may be stagnant and worth reconsidering entirely."
+        },
+        "finance": {
+          "summary": "Most readers see financial improvement on the horizon for Leo this week, whether through a raise, approval, or a broader shift away from hardship, so trust the process, work quietly toward your goals, and allow results to unfold with patience.",
+          "agreement": 4,
+          "divergence": "Some readers pointed to immediate or imminent financial gains, while others suggested stability is still a work in progress requiring time and practical adjustments before results fully materialize."
+        },
+        "career": {
+          "summary": "All five readers agree that a meaningful career shift is on the horizon for Leo this week, so approach any incoming opportunity or exit with confidence and a willingness to take a decisive leap forward.",
+          "agreement": 5,
+          "divergence": "Some readers saw Leo initiating a departure from an overwhelming situation, while others suggested an unexpected external offer is arriving that requires Leo to respond and choose."
+        },
+        "family": {
+          "summary": "Only a few readers touched on family this week; those who did highlighted themes of love, celebration, and personal values, suggesting that family connections, whether through milestones or core priorities, are worth honoring and leaning into.",
+          "agreement": 3,
+          "divergence": "Some readers focused on joyful family celebrations and togetherness, while another emphasized family resistance to personal decisions, framing pushback as love rather than conflict."
+        }
+      },
+      "readers": [
+        {
+          "video_id": "U-CA1BpGzr8",
+          "url": "https://www.youtube.com/watch?v=U-CA1BpGzr8",
+          "distinctive_point": "Leo should exit an overwhelming situation strategically and with confidence.",
+          "reader_tone": "transformative"
+        },
+        {
+          "video_id": "A6tPMriTGJ0",
+          "url": "https://www.youtube.com/watch?v=A6tPMriTGJ0",
+          "distinctive_point": "Family resistance to relocation is reframed as love, not true opposition.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "ZUABVzBQLSw",
+          "url": "https://www.youtube.com/watch?v=ZUABVzBQLSw",
+          "distinctive_point": "Honestly assess if your relationship fulfills you or just feels familiar.",
+          "reader_tone": "transformative"
+        },
+        {
+          "video_id": "itmkiWQ2s5w",
+          "url": "https://www.youtube.com/watch?v=itmkiWQ2s5w",
+          "distinctive_point": "A wealthy, grounded admirer may soon pursue a serious commitment with Leo.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "SaQmkz5JfQ8",
+          "url": "https://www.youtube.com/watch?v=SaQmkz5JfQ8",
+          "distinctive_point": "Fertility and family values should guide Leo's romantic decisions this week.",
+          "reader_tone": "hopeful"
+        }
+      ]
+    },
+    {
+      "week_of": "2026-08-24",
+      "sign": "virgo",
+      "theme": "hopeful",
+      "theme_rule": "repeats-allowed",
+      "repeat_streak": 1,
+      "overall_tone_summary": "A bright current of optimism carries Virgo steadily through the week.",
+      "categories": {
+        "love": {
+          "summary": "A few readers sense new or renewed romantic connections on the horizon this week, so stay open to unexpected encounters or honest conversations that could bring someone meaningful closer to you.",
+          "agreement": 4,
+          "divergence": "One reading focused on emotional longing and feeling stuck, while others pointed toward active new connections forming or deepening."
+        },
+        "finance": {
+          "summary": "Three readers point to meaningful financial gains this week for Virgo, whether through earned recognition, inherited assets, or new income streams like loans or settlements, suggesting this is a strong time to pursue material growth with confidence.",
+          "agreement": 3,
+          "divergence": null
+        },
+        "career": {
+          "summary": "Most readers sense meaningful career change approaching this week, so take initiative on new opportunities rather than overthinking or staying stagnant, as bold action appears well-supported right now.",
+          "agreement": 5,
+          "divergence": "Some readers saw an existing project flourishing and current skills paying off, while others suggested questioning whether the current path is right and seeking something new entirely."
+        },
+        "family": {
+          "summary": "About half the readers who touched on family this week point to positive shifts, whether that means stepping away from unfair household dynamics or opening honest conversations with loved ones that could bring shared blessings your way.",
+          "agreement": 3,
+          "divergence": null
+        }
+      },
+      "readers": [
+        {
+          "video_id": "F7zBnu7qU7A",
+          "url": "https://www.youtube.com/watch?v=F7zBnu7qU7A",
+          "distinctive_point": "A fated new romantic connection is drawn in by your open energy.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "c8PWlN3yU4w",
+          "url": "https://www.youtube.com/watch?v=c8PWlN3yU4w",
+          "distinctive_point": "Stop overthinking and take action on your ideas now.",
+          "reader_tone": "cautionary"
+        },
+        {
+          "video_id": "P6Wp37CzDJw",
+          "url": "https://www.youtube.com/watch?v=P6Wp37CzDJw",
+          "distinctive_point": "An inheritance or passed-down asset may arrive for you this week.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "gZLfk32DM0U",
+          "url": "https://www.youtube.com/watch?v=gZLfk32DM0U",
+          "distinctive_point": "Emotional imbalance may be blocking you from pursuing what your heart wants.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "ze3rN9aMw9g",
+          "url": "https://www.youtube.com/watch?v=ze3rN9aMw9g",
+          "distinctive_point": "A new partnership could bring both committed love and financial stability.",
+          "reader_tone": "hopeful"
+        }
+      ]
+    },
+    {
+      "week_of": "2026-08-24",
+      "sign": "libra",
+      "theme": "hopeful",
+      "theme_rule": "repeats-allowed",
+      "repeat_streak": 2,
+      "overall_tone_summary": "A bright, optimistic current runs through Libra's week, with gentle caution threading beneath. Second week running.",
+      "categories": {
+        "love": {
+          "summary": "Most readers sense new or rekindling romantic energy this week, with deepening feelings and potential long-term commitment on the horizon, so stay open to what resurfaces while being mindful not to sacrifice your existing priorities for it.",
+          "agreement": 5,
+          "divergence": "Some readers emphasized an exciting new love interest arriving, while others focused on a complicated or returning connection resurfacing. One reader cautioned against compromising yourself for any new offer."
+        },
+        "finance": {
+          "summary": "Most readers see financial rewards and new opportunities on the horizon this week, whether through a promotion, a recognized skill, or an emerging partnership, so stay open to offers and put your talents forward.",
+          "agreement": 3,
+          "divergence": null
+        },
+        "career": {
+          "summary": "New professional opportunities appear to be emerging for Libra this week, whether through decisive personal action, the recognition of others, or the completion of existing work, so stay open to where these openings arrive from.",
+          "agreement": 4,
+          "divergence": "Some readers highlighted receiving opportunities passively through others' choices, while another emphasized actively pursuing a fulfilling new role based on personal well-being."
+        },
+        "family": {
+          "summary": "Family themes this week range from joyful milestones and deepening bonds to more strained or one-sided connections, so focus on the relationships that genuinely nurture you while releasing what pulls you backward.",
+          "agreement": 4,
+          "divergence": "Some readers highlighted warmth and growth in family bonds, while one pointed to frustrating, shallow communication with younger relatives."
+        }
+      },
+      "readers": [
+        {
+          "video_id": "6WO2VMN3U9c",
+          "url": "https://www.youtube.com/watch?v=6WO2VMN3U9c",
+          "distinctive_point": "An Aquarius energy may spark exciting new romantic possibilities for Libra.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "8y-dttK0_DI",
+          "url": "https://www.youtube.com/watch?v=8y-dttK0_DI",
+          "distinctive_point": "Libra is warned not to sacrifice existing priorities for a new offer.",
+          "reader_tone": "cautionary"
+        },
+        {
+          "video_id": "d9tfP26cflk",
+          "url": "https://www.youtube.com/watch?v=d9tfP26cflk",
+          "distinctive_point": "A nurturing authority figure is likely to reward Libra financially this week.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "UZwkDrM7tl4",
+          "url": "https://www.youtube.com/watch?v=UZwkDrM7tl4",
+          "distinctive_point": "A complicated romantic history resurfaces, making it hard to move forward clearly.",
+          "reader_tone": "cautionary"
+        },
+        {
+          "video_id": "g9IdbAvS8Ok",
+          "url": "https://www.youtube.com/watch?v=g9IdbAvS8Ok",
+          "distinctive_point": "Libra may monetize a spiritual talent and reap smart investment rewards.",
+          "reader_tone": "hopeful"
+        }
+      ]
+    },
+    {
+      "week_of": "2026-08-24",
+      "sign": "scorpio",
+      "theme": "hopeful",
+      "theme_rule": "repeats-allowed",
+      "repeat_streak": 2,
+      "overall_tone_summary": "A bright undercurrent of possibility carries Scorpio through the week. Second week running.",
+      "categories": {
+        "love": {
+          "summary": "Romantic momentum is building for Scorpio, with meaningful new connections, deeper commitment, and significant partnership decisions all pointing toward a fulfilling and lasting love unfolding naturally this week.",
+          "agreement": 5,
+          "divergence": "Some readers focused on fresh romantic starts and new connections, while others emphasized major commitment milestones like engagement, cohabitation, or marriage with an existing partner."
+        },
+        "finance": {
+          "summary": "Most readers see promising financial momentum building for Scorpio this week, whether through resolving past obstacles, reaping rewards from hard work, or seizing a major new opportunity, so taking proactive steps now could make a meaningful difference.",
+          "agreement": 4,
+          "divergence": "Some readers emphasized gradual rewards already unfolding, while others pointed to a sudden or dramatic financial shift, such as a legal settlement or property deal, still on the horizon."
+        },
+        "career": {
+          "summary": "A meaningful professional shift is on the horizon for Scorpio, with most readers pointing to new opportunities, recognition, and the end of a difficult cycle. Embrace what is emerging rather than staying in your comfort zone.",
+          "agreement": 5,
+          "divergence": "Some readers focused on external changes like new people or job offers, while others emphasized an internal shift in mindset or attitude as the key to unlocking professional fulfillment."
+        },
+        "family": {
+          "summary": "Only a few readers touched on family this week, but those who did highlighted themes of new foundations, appreciating loved ones' support, and life transitions like marriage or children leaving home shaping Scorpio's broader circumstances.",
+          "agreement": 3,
+          "divergence": "Some readers focused on emotional support and comfort from loved ones, while one pointed to practical family events directly affecting finances, suggesting different levels of family involvement this week."
+        }
+      },
+      "readers": [
+        {
+          "video_id": "BZh1YULZmnc",
+          "url": "https://www.youtube.com/watch?v=BZh1YULZmnc",
+          "distinctive_point": "A Pisces-energy figure may soon transform your career or finances.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "NSN8b7mSPTU",
+          "url": "https://www.youtube.com/watch?v=NSN8b7mSPTU",
+          "distinctive_point": "A water sign is actively closing the distance to be with you.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "GnB-ccoGgWg",
+          "url": "https://www.youtube.com/watch?v=GnB-ccoGgWg",
+          "distinctive_point": "Marriage, family, and a new home may all be approaching together.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "sSDRyuTCXF4",
+          "url": "https://www.youtube.com/watch?v=sSDRyuTCXF4",
+          "distinctive_point": "Shifting to gratitude unlocks recognition and deeper family support.",
+          "reader_tone": "transformative"
+        },
+        {
+          "video_id": "7FMq8VMaqqI",
+          "url": "https://www.youtube.com/watch?v=7FMq8VMaqqI",
+          "distinctive_point": "A legal settlement or property deal could spark your financial turnaround.",
+          "reader_tone": "hopeful"
+        }
+      ]
+    },
+    {
+      "week_of": "2026-08-24",
+      "sign": "sagittarius",
+      "theme": "hopeful",
+      "theme_rule": "repeats-allowed",
+      "repeat_streak": 1,
+      "overall_tone_summary": "A bright current of optimism carries Sagittarius through the week with steady momentum.",
+      "categories": {
+        "love": {
+          "summary": "A few readers this week see new and deepening romantic connections on the horizon for Sagittarius, so align your energy with what you truly desire and stay open to meaningful bonds forming naturally.",
+          "agreement": 3,
+          "divergence": null
+        },
+        "finance": {
+          "summary": "Most readers point to meaningful financial gains arriving this week, whether through new opportunities, contracts, or unexpected windfalls, so stay open and follow through consistently to turn that potential into real abundance.",
+          "agreement": 5,
+          "divergence": "Some readers saw gradual growth requiring effort, while others suggested sudden windfalls like bonuses or inheritances arriving more immediately."
+        },
+        "career": {
+          "summary": "Most readers point to a meaningful professional shift this week, suggesting that breaking free from draining situations and embracing bold new opportunities, whether through a new role, venture, or partnership, is the key move for Sagittarius.",
+          "agreement": 4,
+          "divergence": "Some readers focused on escaping toxic environments and starting fresh, while one emphasized stepping into confident leadership and reaping rewards from existing hard work."
+        },
+        "family": {
+          "summary": "Only a couple of readers touched on family this week, but those who did highlighted the theme of support and shared stability, suggesting that leaning on loved ones or welcoming a family member's financial contribution could lift everyone's wellbeing.",
+          "agreement": 2,
+          "divergence": null
+        }
+      },
+      "readers": [
+        {
+          "video_id": "TrHdd5h5SGY",
+          "url": "https://www.youtube.com/watch?v=TrHdd5h5SGY",
+          "distinctive_point": "Leadership opportunities are approaching and hard work is about to pay off meaningfully.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "-0LTyWDR5HM",
+          "url": "https://www.youtube.com/watch?v=-0LTyWDR5HM",
+          "distinctive_point": "Important contracts or documents may soon bring tangible financial gains your way.",
+          "reader_tone": "transformative"
+        },
+        {
+          "video_id": "r0tNUQ4IGkE",
+          "url": "https://www.youtube.com/watch?v=r0tNUQ4IGkE",
+          "distinctive_point": "Escaping a toxic situation, possibly by launching a family business, brings stability.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "JMgL9S75lkk",
+          "url": "https://www.youtube.com/watch?v=JMgL9S75lkk",
+          "distinctive_point": "A specific Virgo romantic interest and a Cancer career contact stand out uniquely.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "zjeupLvFSe8",
+          "url": "https://www.youtube.com/watch?v=zjeupLvFSe8",
+          "distinctive_point": "A chance conversation this week could spark a promising entrepreneurial opportunity.",
+          "reader_tone": "hopeful"
+        }
+      ]
+    },
+    {
+      "week_of": "2026-08-24",
+      "sign": "capricorn",
+      "theme": "hopeful",
+      "theme_rule": "repeats-allowed",
+      "repeat_streak": 1,
+      "overall_tone_summary": "Two readings echo optimism, and even transformation here carries a forward-looking spark.",
+      "categories": {
+        "love": {
+          "summary": "Most readers sense meaningful romantic potential this week, whether through a deepening bond, a new connection, or a returning partner, so stay open but reflect carefully on whether what comes your way is truly right for you.",
+          "agreement": 5,
+          "divergence": "Some readers pointed to exciting new or rekindled love arriving naturally. One reading cautioned that an incoming connection may be passionate but unreliable, urging careful discernment before engaging."
+        },
+        "finance": {
+          "summary": "Three readers suggest a financial turning point is approaching for Capricorn, so releasing old patterns and staying open to new opportunities can help move toward greater stability and abundance.",
+          "agreement": 3,
+          "divergence": "One reader focused on resolving an existing financial conflict with outside help, while others pointed to fresh growth and incoming prosperity rather than addressing a current struggle."
+        },
+        "career": {
+          "summary": "Most readers this week sense a new professional opportunity coming Capricorn's way, possibly from a familiar contact or as a reward for past efforts, so take time to evaluate it carefully before committing rather than rushing in.",
+          "agreement": 5,
+          "divergence": "Some readers emphasized bold, confident action toward opportunities, while one advised caution and careful deliberation before committing. Another focused on an authority figure intervening on Capricorn's behalf rather than a personal choice to make."
+        },
+        "family": {
+          "summary": "Family themes are prominent this week for Capricorn, with several readers pointing to stability, protection, and growth, suggesting this is a meaningful time to lean into your loved ones and trust that positive shifts are unfolding around you.",
+          "agreement": 4,
+          "divergence": "Some readers saw family expansion and new beginnings, while one focused on legal or structural changes like divorce or shifting household dynamics."
+        }
+      },
+      "readers": [
+        {
+          "video_id": "yrXE9wmNb20",
+          "url": "https://www.youtube.com/watch?v=yrXE9wmNb20",
+          "distinctive_point": "Archangel Michael offers divine reassurance about the safety of your loved ones.",
+          "reader_tone": "reflective"
+        },
+        {
+          "video_id": "amCWv5x9IyU",
+          "url": "https://www.youtube.com/watch?v=amCWv5x9IyU",
+          "distinctive_point": "A powerful, almost fated new romantic or professional bond is approaching.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "o4Gpm-LVCps",
+          "url": "https://www.youtube.com/watch?v=o4Gpm-LVCps",
+          "distinctive_point": "A legal separation is nearing its end, opening a fresh personal chapter.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "ATwdJuTiE-c",
+          "url": "https://www.youtube.com/watch?v=ATwdJuTiE-c",
+          "distinctive_point": "A legal advocate will step in and actively fight your corner this week.",
+          "reader_tone": "celebratory"
+        },
+        {
+          "video_id": "argxrE23MDI",
+          "url": "https://www.youtube.com/watch?v=argxrE23MDI",
+          "distinctive_point": "Romantic proposals may emerge as you open yourself to new connections.",
+          "reader_tone": "transformative"
+        }
+      ]
+    },
+    {
+      "week_of": "2026-08-24",
+      "sign": "aquarius",
+      "theme": "hopeful",
+      "theme_rule": "repeats-allowed",
+      "repeat_streak": 1,
+      "overall_tone_summary": "A quiet optimism lifts Aquarius forward, with real change stirring beneath the surface.",
+      "categories": {
+        "love": {
+          "summary": "Most readers sense meaningful romantic shifts this week, whether through new connections, deepening bonds, or unexpected returns, so stay open to love arriving in forms you may not have anticipated.",
+          "agreement": 5,
+          "divergence": "Some readers saw fresh romantic beginnings and exciting new offers, while one reading pointed to potential endings like divorce alongside those new starts."
+        },
+        "finance": {
+          "summary": "Most readers see a financial turning point emerging this week, with stagnant or troubled situations giving way to new opportunities and long-term stability, so stay open and let go of what no longer serves your growth.",
+          "agreement": 5,
+          "divergence": "Some readers focused on resolving past difficulties, while others emphasized fresh opportunities arriving through new people or partnerships."
+        },
+        "career": {
+          "summary": "Most readers this week see past opportunities or untapped paths circling back for Aquarius, so take bold, consistent action on whatever resurfaces, as it could set a meaningful new direction in motion.",
+          "agreement": 5,
+          "divergence": "Some readers emphasized entirely new beginnings or bold career pivots, while others focused on returning opportunities and revisiting what was previously left behind."
+        },
+        "family": {
+          "summary": "Family themes appear across several readings this week, with a sense that meaningful moments, whether a reunion, a heartfelt gesture from loved ones, or a turning point in domestic responsibilities, can spark renewed clarity and purpose at home.",
+          "agreement": 4,
+          "divergence": "Some readers focused on emotional warmth and sweet surprises from family. Others highlighted heavier burdens or significant domestic changes reaching a resolution."
+        }
+      },
+      "readers": [
+        {
+          "video_id": "Y2FScqbHLLY",
+          "url": "https://www.youtube.com/watch?v=Y2FScqbHLLY",
+          "distinctive_point": "Major life milestones like marriage or divorce are reaching a turning point now.",
+          "reader_tone": "transformative"
+        },
+        {
+          "video_id": "64SNATS72ng",
+          "url": "https://www.youtube.com/watch?v=64SNATS72ng",
+          "distinctive_point": "A transformative love offer could completely redirect your entire life path.",
+          "reader_tone": "transformative"
+        },
+        {
+          "video_id": "Zax_OMwmWaM",
+          "url": "https://www.youtube.com/watch?v=Zax_OMwmWaM",
+          "distinctive_point": "Past connections resurface across love, career, and family all at once.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "W4biBqK2_O8",
+          "url": "https://www.youtube.com/watch?v=W4biBqK2_O8",
+          "distinctive_point": "A single new idea this week could spark years of major life change.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "2doD9CdWZH4",
+          "url": "https://www.youtube.com/watch?v=2doD9CdWZH4",
+          "distinctive_point": "A Sagittarius influence brings fresh financial opportunities through a new partner or advisor.",
+          "reader_tone": "hopeful"
+        }
+      ]
+    },
+    {
+      "week_of": "2026-08-24",
+      "sign": "pisces",
+      "theme": "transformative",
+      "theme_rule": "repeats-allowed",
+      "repeat_streak": 1,
+      "overall_tone_summary": "Three readings converge on deep change, urging Pisces to embrace what is shifting.",
+      "categories": {
+        "love": {
+          "summary": "A past romantic connection may resurface for Pisces this week, and while a meaningful relationship or deeper commitment could be on the horizon, most readers advise looking beyond surface charm to evaluate whether this person's intentions are genuine.",
+          "agreement": 3,
+          "divergence": "Some readers saw a lighthearted or new connection growing into something serious, while one urged caution about a returning figure whose true motives may not be clear."
+        },
+        "finance": {
+          "summary": "Most readers see promising financial developments ahead for Pisces, from career moves and property deals to clearing blockages and long-term stability, so assess opportunities carefully before committing to ensure they genuinely serve your practical needs.",
+          "agreement": 5,
+          "divergence": "Some readers emphasized incoming abundance and positive openings, while one cautioned against flashy or superficial financial temptations that may not hold real value."
+        },
+        "career": {
+          "summary": "A career transition or professional upgrade appears to be on the horizon for Pisces, so evaluate any new opportunities carefully and trust that your unique strengths will guide you toward the right next step.",
+          "agreement": 5,
+          "divergence": "Some readers saw an incoming offer as exciting and worth pursuing, while one advised scrutinizing it closely before committing, as appearances may be misleading."
+        },
+        "family": {
+          "summary": "Only two readers touched on family this week, but both pointed to significant milestones, whether marriage, partnership deepening, or changes like divorce, quietly shaping the emotional and financial landscape for Pisces.",
+          "agreement": 2,
+          "divergence": "One reader focused on romantic and emotional commitment, while the other framed family events more through their financial and practical impact on Pisces life."
+        }
+      },
+      "readers": [
+        {
+          "video_id": "6BiNznH9pWg",
+          "url": "https://www.youtube.com/watch?v=6BiNznH9pWg",
+          "distinctive_point": "A smooth job transition leads to a better offer with minimal stress.",
+          "reader_tone": "transformative"
+        },
+        {
+          "video_id": "RtcZ54IyaTU",
+          "url": "https://www.youtube.com/watch?v=RtcZ54IyaTU",
+          "distinctive_point": "A casual fling could evolve into a serious marriage commitment this week.",
+          "reader_tone": "transformative"
+        },
+        {
+          "video_id": "XuZeLobmS5w",
+          "url": "https://www.youtube.com/watch?v=XuZeLobmS5w",
+          "distinctive_point": "Rising above workplace toxicity is key to earning recognition and promotions.",
+          "reader_tone": "hopeful"
+        },
+        {
+          "video_id": "BgiodZd_lF4",
+          "url": "https://www.youtube.com/watch?v=BgiodZd_lF4",
+          "distinctive_point": "Pisces is warned to look past surface charm before trusting a returning ex.",
+          "reader_tone": "cautionary"
+        },
+        {
+          "video_id": "UNe8bbJMQXw",
+          "url": "https://www.youtube.com/watch?v=UNe8bbJMQXw",
+          "distinctive_point": "Releasing past hurts unlocks financial abundance and professional leveling up.",
+          "reader_tone": "transformative"
+        }
+      ]
     }
   ]
 }

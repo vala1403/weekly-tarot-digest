@@ -1,59 +1,59 @@
 {
   "sign": "Tauro",
-  "week_of": "2026-08-17",
+  "week_of": "2026-08-24",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores perciben que el amor toca la puerta de Tauro esta semana, ya sea a través de una nueva conexión o de alguien que regresa. Vale la pena ser selectivo y preguntarse quién realmente merece tu energía emocional.",
-      "reader_count": 5,
-      "disagreement": "Algunos lectores destacaron inicios románticos frescos y afecto que llega de forma genuina, mientras que uno advirtió que un ex que regresa podría tener intenciones egoístas más que sentimientos verdaderos."
+      "summary": "Ninguno de los cinco lectores abordó el amor o las relaciones para Tauro esta semana, por lo que no hay un tema romántico común ni consejos en ese sentido.",
+      "reader_count": 0,
+      "disagreement": null
     },
     "finance": {
-      "summary": "Los cinco lectores coinciden en que esta semana se presenta especialmente favorable para las finanzas de Tauro. Mantente con los pies en la tierra, sigue desarrollando tus habilidades y esfuerzos, y muéstrate receptivo a las oportunidades que puedan traer estabilidad real o buenos resultados.",
-      "reader_count": 5,
-      "disagreement": "Algunos lectores hicieron énfasis en tomar acción y atender responsabilidades de inmediato, mientras que otros sugirieron dejar que las oportunidades o la ayuda lleguen por sí solas sin forzar el proceso."
+      "summary": "La mayoría de los lectores perciben un impulso financiero positivo para Tauro esta semana, así que mantente abierto a las oportunidades que vayan surgiendo e invierte tu tiempo y energía con inteligencia para aprovechar al máximo lo que podría ser un momento clave.",
+      "reader_count": 4,
+      "disagreement": null
     },
     "career": {
-      "summary": "El panorama profesional luce positivo para Tauro esta semana. La mayoría de los lectores animan a mantener el enfoque en el camino elegido, sin cerrar la puerta a nuevas oportunidades o enfoques que puedan ampliar el alcance profesional.",
-      "reader_count": 4,
-      "disagreement": "Un lector señaló que un cierre profesional significativo está en marcha, mientras que los demás se centraron en el crecimiento y el avance, sin ninguna señal de finalización o transición."
+      "summary": "La mayoría de los lectores perciben que esta semana emergen nuevas oportunidades profesionales y el reconocimiento de esfuerzos pasados, por lo que Tauro debería avanzar con confianza y planificación cuidadosa, sin precipitarse ni sobrecargarse.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores animaron a actuar con decisión y valentía para aprovechar las oportunidades sin demora. Otros, en cambio, aconsejaron prudencia, establecer límites claros y resistir la tentación de volver a situaciones insatisfactorias o lanzarse a ellas sin reflexión."
     },
     "family": {
-      "summary": "Varios lectores subrayan la importancia de cultivar vínculos leales y afectuosos esta semana. Permanece abierto al apoyo de tus seres queridos y presta atención a cómo las dinámicas familiares y las presiones externas pueden estar influyendo en silencio en tus decisiones más importantes.",
+      "summary": "La mayoría de los lectores señalan esta semana a la familia como una fuente de fortaleza y alegría para Tauro, sugiriendo que apoyarse en los seres queridos abrirá el camino hacia la celebración y una renovada armonía en el hogar.",
       "reader_count": 4,
-      "disagreement": "Algunos lectores destacaron una energía cálida y de apoyo por parte de los seres queridos, mientras que otros señalaron secretos familiares, reencuentros con el pasado o presiones sociales que generan cierta fricción en torno a las decisiones personales."
+      "disagreement": "Un lector se centró en encontrar fuerza en el vínculo paterno durante momentos difíciles, mientras que los demás se inclinaron hacia la alegría colectiva en familia y las celebraciones compartidas que se avecinan."
     }
   },
-  "overall_tone_summary": "Dos lecturas resuenan con esperanza, e incluso la transformación apunta hacia un horizonte más luminoso.",
+  "overall_tone_summary": "El optimismo impulsa a Tauro esta semana, mientras una transformación silenciosa se va gestando por debajo. Segunda semana consecutiva.",
   "readers": [
     {
-      "video_id": "ZgiYM_f4yIM",
-      "channel_theme": "Tauro debería alejarse de las relaciones irrespetuosas y hacer frente a sus finanzas de forma directa esta semana.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=ZgiYM_f4yIM"
-    },
-    {
-      "video_id": "_EvTu2hKhOc",
-      "channel_theme": "Un secreto familiar oculto podría salir a la luz al mismo tiempo que comienzan nuevos lazos románticos marcados por el destino.",
-      "tone": "nostálgico",
-      "url": "https://www.youtube.com/watch?v=_EvTu2hKhOc"
-    },
-    {
-      "video_id": "3rNBUrv4kl4",
-      "channel_theme": "Personas queridas están tendiendo la mano para acompañar a Tauro en los momentos difíciles.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=3rNBUrv4kl4"
-    },
-    {
-      "video_id": "cdLcQiFbIDY",
-      "channel_theme": "Un ex que regresa tiene motivaciones egoístas y conviene acercarse a esa situación con mucha cautela.",
+      "video_id": "Kr6n8dNPxF8",
+      "channel_theme": "Evita volver a un entorno laboral tóxico, por muy tentador que parezca.",
       "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=cdLcQiFbIDY"
+      "url": "https://www.youtube.com/watch?v=Kr6n8dNPxF8"
     },
     {
-      "video_id": "flMryAMpg38",
-      "channel_theme": "Las presiones sociales y familiares están moldeando en silencio las decisiones de vida y carrera de Tauro.",
+      "video_id": "IrMc5v2OyR8",
+      "channel_theme": "Establece límites firmes en el trabajo para no agotarte por comprometerte con demasiadas cosas a la vez.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=IrMc5v2OyR8"
+    },
+    {
+      "video_id": "6U7NbJ-FFC4",
+      "channel_theme": "El esfuerzo del pasado por fin está dando frutos, pero evita precipitarte con las nuevas oportunidades.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=flMryAMpg38"
+      "url": "https://www.youtube.com/watch?v=6U7NbJ-FFC4"
+    },
+    {
+      "video_id": "sm_3ah9buFo",
+      "channel_theme": "Actuar con audacia ahora puede catapultar a Tauro hacia un rol de liderazgo apasionante.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=sm_3ah9buFo"
+    },
+    {
+      "video_id": "7RuDOK_6ztM",
+      "channel_theme": "La armonía y la alegría familiar regresan tras un largo período de dificultades.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=7RuDOK_6ztM"
     }
   ]
 }

@@ -1,60 +1,60 @@
 {
   "sign": "Aquarius",
-  "week_of": "2026-08-17",
+  "week_of": "2026-08-24",
   "categories": {
     "love": {
-      "summary": "Most readers sense a romantic turning point this week for Aquarius, whether through a new connection or a long-strained relationship finally shifting, so releasing past wounds and allowing things to unfold gradually will serve you best.",
+      "summary": "Most readers sense meaningful romantic shifts this week, whether through new connections, deepening bonds, or unexpected returns, so stay open to love arriving in forms you may not have anticipated.",
       "reader_count": 5,
-      "disagreement": "Some readers saw fresh romantic beginnings and new love interests emerging, while others pointed to unresolved past relationships or difficult situations like divorce resurfacing as the central focus."
+      "disagreement": "Some readers saw fresh romantic beginnings and exciting new offers, while one reading pointed to potential endings like divorce alongside those new starts."
     },
     "finance": {
-      "summary": "Most readers sense a significant financial shift or turning point this week, so take your time reviewing any agreements or decisions carefully before committing to ensure the outcome truly serves you.",
+      "summary": "Most readers see a financial turning point emerging this week, with stagnant or troubled situations giving way to new opportunities and long-term stability, so stay open and let go of what no longer serves your growth.",
       "reader_count": 5,
-      "disagreement": "Some readers saw financial struggles easing into stability and reward, while others cautioned that things may not be as promising as they appear on the surface."
+      "disagreement": "Some readers focused on resolving past difficulties, while others emphasized fresh opportunities arriving through new people or partnerships."
     },
     "career": {
-      "summary": "Most readers sense professional recognition or a meaningful career breakthrough coming for Aquarius, so taking focused, disciplined action rather than staying stuck in hesitation is the clearest path forward this week.",
-      "reader_count": 4,
-      "disagreement": "Some readers highlighted positive recognition and advancement ahead, while one focused on workplace conflict around compensation or hours, suggesting a more confrontational or transitional shift may be needed first."
+      "summary": "Most readers this week see past opportunities or untapped paths circling back for Aquarius, so take bold, consistent action on whatever resurfaces, as it could set a meaningful new direction in motion.",
+      "reader_count": 5,
+      "disagreement": "Some readers emphasized entirely new beginnings or bold career pivots, while others focused on returning opportunities and revisiting what was previously left behind."
     },
     "family": {
-      "summary": "Most readers see family connections as a source of warmth and renewal this week, so lean into those relationships by sharing good news, welcoming visits, or simply retreating into the comfort of home and loved ones.",
+      "summary": "Family themes appear across several readings this week, with a sense that meaningful moments, whether a reunion, a heartfelt gesture from loved ones, or a turning point in domestic responsibilities, can spark renewed clarity and purpose at home.",
       "reader_count": 4,
-      "disagreement": "One reader pointed to deeper family tensions around inheritance or estate matters, while others focused on joyful, uplifting connection with loved ones."
+      "disagreement": "Some readers focused on emotional warmth and sweet surprises from family. Others highlighted heavier burdens or significant domestic changes reaching a resolution."
     }
   },
-  "overall_tone": "cautious",
-  "overall_tone_summary": "Two cautionary readings anchor a week that rewards careful, measured steps forward.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "A quiet optimism lifts Aquarius forward, with real change stirring beneath the surface.",
   "readers": [
     {
-      "video_id": "IMPnfa3l_Ww",
-      "channel_theme": "Conserve energy now and wait for a major opportunity approaching soon.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=IMPnfa3l_Ww"
-    },
-    {
-      "video_id": "NS0a1YivN7w",
-      "channel_theme": "A career breakthrough or promotion appears imminent after recent struggles.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=NS0a1YivN7w"
-    },
-    {
-      "video_id": "aIZdLw8zncs",
-      "channel_theme": "Estate matters, wills, or inherited wealth are central to family tension.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=aIZdLw8zncs"
-    },
-    {
-      "video_id": "GPkRGak8u84",
-      "channel_theme": "Specific zodiac figures like Leo and Capricorn are shaping your week.",
+      "video_id": "Y2FScqbHLLY",
+      "channel_theme": "Major life milestones like marriage or divorce are reaching a turning point now.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=GPkRGak8u84"
+      "url": "https://www.youtube.com/watch?v=Y2FScqbHLLY"
     },
     {
-      "video_id": "TAN9Ri2IRdo",
-      "channel_theme": "Long-endured hardships in love and finances are finally coming to an end.",
+      "video_id": "64SNATS72ng",
+      "channel_theme": "A transformative love offer could completely redirect your entire life path.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=64SNATS72ng"
+    },
+    {
+      "video_id": "Zax_OMwmWaM",
+      "channel_theme": "Past connections resurface across love, career, and family all at once.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=TAN9Ri2IRdo"
+      "url": "https://www.youtube.com/watch?v=Zax_OMwmWaM"
+    },
+    {
+      "video_id": "W4biBqK2_O8",
+      "channel_theme": "A single new idea this week could spark years of major life change.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=W4biBqK2_O8"
+    },
+    {
+      "video_id": "2doD9CdWZH4",
+      "channel_theme": "A Sagittarius influence brings fresh financial opportunities through a new partner or advisor.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=2doD9CdWZH4"
     }
   ]
 }
