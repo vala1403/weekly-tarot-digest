@@ -1,60 +1,60 @@
 {
   "sign": "Virgo",
-  "week_of": "2026-08-24",
+  "week_of": "2026-08-31",
   "categories": {
     "love": {
-      "summary": "A few readers sense new or renewed romantic connections on the horizon this week, so stay open to unexpected encounters or honest conversations that could bring someone meaningful closer to you.",
-      "reader_count": 4,
-      "disagreement": "One reading focused on emotional longing and feeling stuck, while others pointed toward active new connections forming or deepening."
+      "summary": "A few readers see new romantic possibilities opening up for Virgo this week, so stay open to connection while letting go of past heartbreak and trusting that a shift in perspective can make room for something better.",
+      "reader_count": 3,
+      "disagreement": "Some readers pointed to new romantic beginnings and emotional openness. One reading emphasized heartbreak and the need to move on from a loss."
     },
     "finance": {
-      "summary": "Three readers point to meaningful financial gains this week for Virgo, whether through earned recognition, inherited assets, or new income streams like loans or settlements, suggesting this is a strong time to pursue material growth with confidence.",
-      "reader_count": 3,
-      "disagreement": "No notable disagreement. Readers who addressed finances this week were broadly aligned on positive outcomes and incoming abundance."
+      "summary": "Most readers see this as a promising week for Virgo's finances, with growth and positive shifts on the horizon, so take practical, methodical steps toward new opportunities rather than waiting for them to come to you.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on an internal mindset shift toward gratitude and abundance, while others pointed to concrete external events like career moves or property deals as the source of financial progress."
     },
     "career": {
-      "summary": "Most readers sense meaningful career change approaching this week, so take initiative on new opportunities rather than overthinking or staying stagnant, as bold action appears well-supported right now.",
+      "summary": "Most readers see a significant career breakthrough emerging this week, built on momentum and hard work, so act decisively when the opportunity arrives rather than waiting for ideal conditions.",
       "reader_count": 5,
-      "disagreement": "Some readers saw an existing project flourishing and current skills paying off, while others suggested questioning whether the current path is right and seeking something new entirely."
+      "disagreement": "One reading focused on returning to learning or revisiting a project rather than pursuing a bold new external opportunity, which contrasts with the forward-charging energy most others described."
     },
     "family": {
-      "summary": "About half the readers who touched on family this week point to positive shifts, whether that means stepping away from unfair household dynamics or opening honest conversations with loved ones that could bring shared blessings your way.",
-      "reader_count": 3,
-      "disagreement": "No notable disagreement among readers, though one focuses on internal balance between home and work, while another emphasizes external change by leaving burdensome situations."
+      "summary": "Most readers this week sense that family and community are sources of support for Virgo during a period of transition, so leaning on loved ones and trusted advisors can help lighten the load and ease the path forward.",
+      "reader_count": 5,
+      "disagreement": "Most readers saw family as a supportive presence, but one reading pointed to unresolved tension or emotional friction within family relationships rather than harmony."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "A bright current of optimism carries Virgo steadily through the week.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Big shifts are reshaping what Virgo once thought was settled ground.",
   "readers": [
     {
-      "video_id": "F7zBnu7qU7A",
-      "channel_theme": "A fated new romantic connection is drawn in by your open energy.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=F7zBnu7qU7A"
+      "video_id": "GG9SC7p3asE",
+      "channel_theme": "Gradual career transformation is reshaping Virgo's identity and professional momentum.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=GG9SC7p3asE"
     },
     {
-      "video_id": "c8PWlN3yU4w",
-      "channel_theme": "Stop overthinking and take action on your ideas now.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=c8PWlN3yU4w"
+      "video_id": "cGCwetgyRTA",
+      "channel_theme": "A mentor figure steps in to push Virgo past fear toward new opportunities.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=cGCwetgyRTA"
     },
     {
-      "video_id": "P6Wp37CzDJw",
-      "channel_theme": "An inheritance or passed-down asset may arrive for you this week.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=P6Wp37CzDJw"
+      "video_id": "-HWiQocNkNQ",
+      "channel_theme": "Legal, property, or relocation events could trigger a major financial windfall.",
+      "tone": "triumphant",
+      "url": "https://www.youtube.com/watch?v=-HWiQocNkNQ"
     },
     {
-      "video_id": "gZLfk32DM0U",
-      "channel_theme": "Emotional imbalance may be blocking you from pursuing what your heart wants.",
+      "video_id": "9pC3GCXA8v0",
+      "channel_theme": "Shifting to a gratitude mindset is the key to unlocking awaited abundance.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=gZLfk32DM0U"
+      "url": "https://www.youtube.com/watch?v=9pC3GCXA8v0"
     },
     {
-      "video_id": "ze3rN9aMw9g",
-      "channel_theme": "A new partnership could bring both committed love and financial stability.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=ze3rN9aMw9g"
+      "video_id": "Yb-K0yFyfBg",
+      "channel_theme": "Virgo is urged to rebuild confidence after heartbreak rather than dwelling on loss.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=Yb-K0yFyfBg"
     }
   ]
 }

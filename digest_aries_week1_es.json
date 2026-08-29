@@ -1,59 +1,59 @@
 {
   "sign": "Aries",
-  "week_of": "2026-08-24",
+  "week_of": "2026-08-31",
   "categories": {
     "love": {
-      "summary": "Solo un par de lectoras abordaron el amor esta semana, pero quienes lo hicieron sugieren que Aries podría estar en una encrucijada romántica, ya sea ante una conexión nueva y significativa o finalmente encontrando la claridad necesaria para resolver una relación que ha estado en el aire.",
-      "reader_count": 2,
-      "disagreement": "Una lectora apuntó hacia un nuevo potencial romántico y la posibilidad de reencontrarse con un alma gemela, mientras que otra se centró en la posibilidad de quedarse o alejarse de una relación que ya no llena."
+      "summary": "La mayoría de los lectores perciben que se están formando o profundizando conexiones románticas significativas para Aries esta semana, así que abre tu corazón con cuidado y sé selectivo con quién dejas entrar en él.",
+      "reader_count": 4,
+      "disagreement": "Una lectura apuntó a una llegada romántica repentina y desenfadada, mientras que otras sugirieron un proceso más lento y emocionalmente cauteloso de abrirse al amor."
     },
     "finance": {
-      "summary": "Las cinco lectoras coinciden en que esta semana trae un impulso financiero positivo, así que es buen momento para dar pasos concretos: ya sea replantear tus esfuerzos actuales, sentar bases sólidas o mantenerte abierta a nuevas oportunidades y alianzas que puedan traer un crecimiento real y significativo.",
+      "summary": "La mayoría de los lectores perciben tensión financiera esta semana, pero el consejo común es tomar el control de la situación, poner tus asuntos en orden y confiar en que hacerlo abrirá la puerta a una abundancia y un alivio mayores de lo que podrías esperar.",
       "reader_count": 5,
-      "disagreement": "Algunas lectoras se enfocaron en la planificación constante y metódica, mientras que otras destacaron avances externos como nuevas asociaciones o golpes de suerte inesperados. Una también señaló la necesidad de dejar de conformarse con menos de lo que mereces."
+      "disagreement": "Algunos lectores se enfocaron en la ansiedad y la necesidad de organizar las finanzas, mientras que uno destacó la habilidad para manejar múltiples compromisos que se resuelven sin mayores contratiempos, y otro señaló decisiones importantes relacionadas con propiedades o mudanzas."
     },
     "career": {
-      "summary": "La mayoría de las lectoras esta semana ven en el horizonte una oportunidad o cambio profesional importante para Aries, así que confía en tu intuición, mantente abierta a nuevas direcciones y prepárate para asumir un rol más seguro y con mayor propósito en tu vida laboral.",
-      "reader_count": 5,
-      "disagreement": "Algunas lectoras se centraron en una oferta u oportunidad que llega desde afuera, mientras que otras hicieron énfasis en tomar la iniciativa y liderar desde adentro. El punto de partida varía, pero el resultado apunta al crecimiento en todos los casos."
+      "summary": "El reconocimiento y nuevas oportunidades profesionales parecen estar a la vuelta de la esquina para Aries esta semana, así que mantenerte abierto a ofertas o colaboraciones inesperadas podría ser la clave para un crecimiento profesional verdaderamente significativo.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores vieron a Aries lleno de energía y listo para destacar, mientras que otros señalaron sensaciones de agotamiento y dudas sobre si el esfuerzo realmente vale la pena."
     },
     "family": {
-      "summary": "Varias lectoras sugieren que apoyarte en tu círculo cercano y nutrir tus relaciones más importantes puede traerte claridad emocional y una sensación de plenitud esta semana, especialmente porque algunas conexiones del pasado podrían resurgir y las personas que quieres podrían notar con admiración cuánto has crecido.",
+      "summary": "La mayoría de los lectores ven una energía familiar alegre en el horizonte para Aries, ya sea a través de celebraciones, nuevas llegadas o momentos especiales, así que abraza ese calor y da la bienvenida a los vínculos de apoyo que se están tejiendo a tu alrededor.",
       "reader_count": 4,
-      "disagreement": "Algunas lectoras pusieron el foco en el reencuentro con el pasado a través de reuniones con personas queridas, mientras que otras destacaron la admiración que Aries despierta en quienes la rodean gracias a su transformación personal, más que el acto de reconectar en sí."
+      "disagreement": "Algunos lectores se centraron en reuniones festivas e hitos familiares, mientras que uno resaltó que Aries podría necesitar apoyarse en su familia del alma o en aliados cercanos, más que en sus lazos familiares de sangre."
     }
   },
-  "overall_tone_summary": "Cambios profundos están transformando aquello que Aries creía tener bien establecido.",
+  "overall_tone_summary": "Grandes cambios están en marcha, y con ellos llega una esperanza silenciosa. Segunda semana consecutiva con esta energía.",
   "readers": [
     {
-      "video_id": "5knIhyDy9D8",
-      "channel_theme": "Liberarse de la conformidad financiera a través de una nueva claridad personal.",
+      "video_id": "PkiMDDTm8dw",
+      "channel_theme": "Heridas del pasado están bloqueando la posibilidad de un compromiso romántico más profundo para Aries.",
       "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=5knIhyDy9D8"
+      "url": "https://www.youtube.com/watch?v=PkiMDDTm8dw"
     },
     {
-      "video_id": "kgA4RMePs_8",
-      "channel_theme": "La armonía emocional en la vida familiar llega cuando sueltas las cargas del pasado.",
+      "video_id": "GMtlzysixBA",
+      "channel_theme": "Pronto podría llegar una oferta profesional concreta con mejor salario o beneficios para Aries.",
       "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=kgA4RMePs_8"
+      "url": "https://www.youtube.com/watch?v=GMtlzysixBA"
     },
     {
-      "video_id": "xhXoUNsP5I8",
-      "channel_theme": "Un reencuentro con un alma gemela o una propuesta romántica significativa podría estar por llegar.",
+      "video_id": "9jhhoq6j44U",
+      "channel_theme": "Aliados del alma están siendo convocados para acompañar y apoyar el camino de Aries hacia adelante.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=xhXoUNsP5I8"
+      "url": "https://www.youtube.com/watch?v=9jhhoq6j44U"
     },
     {
-      "video_id": "xvoYRYujgE0",
-      "channel_theme": "Asumir un rol de liderazgo mientras te preguntas si tus esfuerzos actuales realmente valen la pena.",
-      "tone": "cautelosamente optimista",
-      "url": "https://www.youtube.com/watch?v=xvoYRYujgE0"
+      "video_id": "9vRiuF0uiMM",
+      "channel_theme": "Aries se siente dividido y agotado, sin saber si el reconocimiento en su carrera merece tanto esfuerzo.",
+      "tone": "conflictivo",
+      "url": "https://www.youtube.com/watch?v=9vRiuF0uiMM"
     },
     {
-      "video_id": "VCgeHLU9O5U",
-      "channel_theme": "El hogar de tus sueños o el trabajo que siempre quisiste podrían llegar como una gran bendición.",
+      "video_id": "7bJh8EEGCfU",
+      "channel_theme": "Un pretendiente espontáneo y aventurero podría aparecer de forma inesperada en la vida de Aries muy pronto.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=VCgeHLU9O5U"
+      "url": "https://www.youtube.com/watch?v=7bJh8EEGCfU"
     }
   ]
 }

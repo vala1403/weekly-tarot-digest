@@ -1,60 +1,60 @@
 {
   "sign": "Taurus",
-  "week_of": "2026-08-24",
+  "week_of": "2026-08-31",
   "categories": {
     "love": {
-      "summary": "None of the five readers addressed love or relationships for Taurus this week, so there is no shared romantic theme or advice to draw from.",
-      "reader_count": 0,
-      "disagreement": null
+      "summary": "Most readers sense emotional healing and a meaningful romantic shift ahead for Taurus, so releasing past hurt and opening your heart may be the key to welcoming a deeper or entirely new connection.",
+      "reader_count": 4,
+      "disagreement": "Some readers suggested moving on from an unfulfilling relationship, while others pointed to a deepening of an existing bond or the arrival of something new."
     },
     "finance": {
-      "summary": "Most readers see positive financial momentum building for Taurus this week, so stay open to emerging opportunities and invest time and energy wisely to make the most of what could be a meaningful turning point.",
-      "reader_count": 4,
-      "disagreement": "No notable disagreement among readers. All who touched on finances pointed toward growth and opportunity, differing only in specifics like lucky breaks, new ventures, or wise investing."
+      "summary": "Most readers see a meaningful financial opportunity or reward arriving for Taurus this week, so embrace what emerges with openness and trust that past efforts are helping lay the groundwork for lasting stability.",
+      "reader_count": 5,
+      "disagreement": "Some readers framed this as an exciting new opportunity to pursue. One reader suggested Taurus may need to leave a secure position behind to find something more fulfilling."
     },
     "career": {
-      "summary": "Most readers sense new professional opportunities and rewards from past efforts emerging this week, so Taurus should move forward with confidence and careful planning rather than rushing or overextending.",
+      "summary": "Most readers see this as a pivotal career moment for Taurus, encouraging you to trust your skills, embrace change boldly, and stay dedicated, as a meaningful breakthrough or new opportunity is likely just around the corner.",
       "reader_count": 5,
-      "disagreement": "Some readers encouraged bold, assertive action to seize opportunities quickly. Others urged caution, boundary-setting, and avoiding the temptation to return to or rush into unfulfilling situations."
+      "disagreement": "Some readers emphasized leaving behind stability for a more fulfilling path, while others focused on persisting with current efforts to earn recognition and reward."
     },
     "family": {
-      "summary": "Most readers this week point to family as a source of strength and joy for Taurus, suggesting that leaning into the support of loved ones will pave the way for celebration and renewed harmony at home.",
-      "reader_count": 4,
-      "disagreement": "One reader focused on drawing strength from a paternal bond during hardship, while others leaned toward collective family joy and upcoming shared celebrations."
+      "summary": "A few readers this week pointed to family relationships moving toward healing and restoration, suggesting that releasing old wounds and leaning into available support can help build a more stable foundation ahead.",
+      "reader_count": 3,
+      "disagreement": "Some readers focused on healing emotional wounds within family ties, while one emphasized practical family support such as inheritance or financial investment in your future."
     }
   },
   "overall_tone": "hopeful",
-  "overall_tone_summary": "Optimism carries Taurus forward this week, with transformation quietly building beneath. Second week running.",
+  "overall_tone_summary": "A bright current of optimism runs through Taurus this week, with real change stirring beneath. Third week running.",
   "readers": [
     {
-      "video_id": "Kr6n8dNPxF8",
-      "channel_theme": "Avoid returning to a toxic work environment, no matter how tempting.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=Kr6n8dNPxF8"
+      "video_id": "avxm2kBk1-g",
+      "channel_theme": "Step boldly into leadership now by trusting your skills and deciding fast.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=avxm2kBk1-g"
     },
     {
-      "video_id": "IrMc5v2OyR8",
-      "channel_theme": "Set firm boundaries at work to avoid burnout from overcommitment.",
+      "video_id": "bdEkEX5PszU",
+      "channel_theme": "Releasing past pain, both romantic and family, unlocks every area of your life.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=bdEkEX5PszU"
+    },
+    {
+      "video_id": "TXFTXKT6V20",
+      "channel_theme": "Leaving financial security behind may be necessary to follow your true calling.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=IrMc5v2OyR8"
+      "url": "https://www.youtube.com/watch?v=TXFTXKT6V20"
     },
     {
-      "video_id": "6U7NbJ-FFC4",
-      "channel_theme": "Past hard work is finally paying off, but avoid rushing new opportunities.",
+      "video_id": "1bqTnA1LRyo",
+      "channel_theme": "Karmic rewards are arriving soon for all your past struggles and sacrifices.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=6U7NbJ-FFC4"
+      "url": "https://www.youtube.com/watch?v=1bqTnA1LRyo"
     },
     {
-      "video_id": "sm_3ah9buFo",
-      "channel_theme": "Bold action now can launch Taurus into a passionate leadership role.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=sm_3ah9buFo"
-    },
-    {
-      "video_id": "7RuDOK_6ztM",
-      "channel_theme": "Family harmony and joy are returning after a prolonged period of hardship.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=7RuDOK_6ztM"
+      "video_id": "BP-_yklvrmI",
+      "channel_theme": "Family wealth or inheritance could be a key source of your financial growth.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=BP-_yklvrmI"
     }
   ]
 }

@@ -1,60 +1,60 @@
 {
   "sign": "Libra",
-  "week_of": "2026-08-24",
+  "week_of": "2026-08-31",
   "categories": {
     "love": {
-      "summary": "Most readers sense new or rekindling romantic energy this week, with deepening feelings and potential long-term commitment on the horizon, so stay open to what resurfaces while being mindful not to sacrifice your existing priorities for it.",
-      "reader_count": 5,
-      "disagreement": "Some readers emphasized an exciting new love interest arriving, while others focused on a complicated or returning connection resurfacing. One reader cautioned against compromising yourself for any new offer."
+      "summary": "Love readings this week are split between endings and beginnings for Libra, with several readers pointing toward a meaningful new connection on the horizon and encouraging full openness rather than hesitation or holding back.",
+      "reader_count": 3,
+      "disagreement": "Some readers saw Libra releasing painful or obligatory relationships, while others pointed to an exciting new romantic arrival or soulmate entering their life."
     },
     "finance": {
-      "summary": "Most readers see financial rewards and new opportunities on the horizon this week, whether through a promotion, a recognized skill, or an emerging partnership, so stay open to offers and put your talents forward.",
+      "summary": "A few readers touched on finances this week, suggesting that a moment of reassessment and deliberate planning is key, as building momentum toward greater abundance requires a thoughtful, diversified approach rather than rushing forward.",
       "reader_count": 3,
-      "disagreement": "No notable disagreement among readers who discussed this theme."
+      "disagreement": "Some readers focused on proactive goal-setting and diversification, while one suggested that past financial hardships will be resolved through karmic restoration rather than personal strategy."
     },
     "career": {
-      "summary": "New professional opportunities appear to be emerging for Libra this week, whether through decisive personal action, the recognition of others, or the completion of existing work, so stay open to where these openings arrive from.",
+      "summary": "Most readers sense a career turning point driven by fresh inspiration or a desire for something more fulfilling, so trust any new ideas or epiphanies that arise and take thoughtful, decisive steps toward building something meaningful.",
       "reader_count": 4,
-      "disagreement": "Some readers highlighted receiving opportunities passively through others' choices, while another emphasized actively pursuing a fulfilling new role based on personal well-being."
+      "disagreement": "Some readers focused on leaving behind workplace injustice and moving forward, while others emphasized a spontaneous new idea as the catalyst for change."
     },
     "family": {
-      "summary": "Family themes this week range from joyful milestones and deepening bonds to more strained or one-sided connections, so focus on the relationships that genuinely nurture you while releasing what pulls you backward.",
-      "reader_count": 4,
-      "disagreement": "Some readers highlighted warmth and growth in family bonds, while one pointed to frustrating, shallow communication with younger relatives."
+      "summary": "Family themes this week center on healing and resolution, whether that means finally opening up about a burden you have carried too long or finding that difficult circumstances are beginning to turn in your favor.",
+      "reader_count": 3,
+      "disagreement": "Some readers saw family life as a source of strain or conflict this week. Others pointed toward reunion, emotional fulfillment, and the easing of long-standing difficulties."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "A bright, optimistic current runs through Libra's week, with gentle caution threading beneath. Second week running.",
+  "overall_tone": "cautious",
+  "overall_tone_summary": "Two cautionary pulls anchor a week where hope flickers but warrants careful attention.",
   "readers": [
     {
-      "video_id": "6WO2VMN3U9c",
-      "channel_theme": "An Aquarius energy may spark exciting new romantic possibilities for Libra.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=6WO2VMN3U9c"
-    },
-    {
-      "video_id": "8y-dttK0_DI",
-      "channel_theme": "Libra is warned not to sacrifice existing priorities for a new offer.",
+      "video_id": "SEZ2JXe4Y1g",
+      "channel_theme": "A draining family obligation is blocking Libra from moving forward personally.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=8y-dttK0_DI"
+      "url": "https://www.youtube.com/watch?v=SEZ2JXe4Y1g"
     },
     {
-      "video_id": "d9tfP26cflk",
-      "channel_theme": "A nurturing authority figure is likely to reward Libra financially this week.",
+      "video_id": "keSctOujbTw",
+      "channel_theme": "Karmic justice is coming to restore balance after betrayal or financial loss.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=d9tfP26cflk"
+      "url": "https://www.youtube.com/watch?v=keSctOujbTw"
     },
     {
-      "video_id": "UZwkDrM7tl4",
-      "channel_theme": "A complicated romantic history resurfaces, making it hard to move forward clearly.",
+      "video_id": "DusaSCVUyJU",
+      "channel_theme": "A spiritually present but physically inconsistent relationship tension nears confrontation.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=UZwkDrM7tl4"
+      "url": "https://www.youtube.com/watch?v=DusaSCVUyJU"
     },
     {
-      "video_id": "g9IdbAvS8Ok",
-      "channel_theme": "Libra may monetize a spiritual talent and reap smart investment rewards.",
+      "video_id": "bGGUebvTC_c",
+      "channel_theme": "A trip brings a transformative encounter that sparks a major healing career move.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=bGGUebvTC_c"
+    },
+    {
+      "video_id": "0ep3jktdvGg",
+      "channel_theme": "A soulmate is arriving, urging Libra to commit fully without hesitation.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=g9IdbAvS8Ok"
+      "url": "https://www.youtube.com/watch?v=0ep3jktdvGg"
     }
   ]
 }

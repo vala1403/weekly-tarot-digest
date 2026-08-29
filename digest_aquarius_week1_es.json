@@ -1,59 +1,59 @@
 {
   "sign": "Acuario",
-  "week_of": "2026-08-24",
+  "week_of": "2026-08-31",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores perciben cambios románticos significativos esta semana, ya sea a través de nuevas conexiones, vínculos que se profundizan o regresos inesperados. Mantente abierto al amor, porque puede llegar de formas que quizás no anticipabas.",
-      "reader_count": 5,
-      "disagreement": "Algunos lectores vieron nuevos comienzos románticos y propuestas emocionantes, mientras que una lectura señaló posibles finales, como el divorcio, junto a esos nuevos inicios."
+      "summary": "La mayoría de los lectores perciben desarrollos románticos prometedores para Acuario, con conexiones emocionales más profundas y una comunicación mejorada que probablemente traigan mayor armonía. Mantente abierto pero paciente mientras las cosas se desarrollan de forma natural.",
+      "reader_count": 3,
+      "disagreement": "Una lectora recomendó esperar hasta finales de septiembre antes de comprometerse, mientras que otros sugirieron que la oportunidad romántica ya está alineándose y lista para manifestarse pronto."
     },
     "finance": {
-      "summary": "La mayoría de los lectores ven surgir un punto de inflexión financiero esta semana, donde las situaciones estancadas o difíciles dan paso a nuevas oportunidades y estabilidad a largo plazo. Mantente receptivo y suelta lo que ya no contribuye a tu crecimiento.",
+      "summary": "La mayoría de los lectores perciben que el crecimiento financiero y la estabilidad están al alcance de Acuario esta semana, por lo que adoptar un enfoque más consciente y estratégico con el dinero podría ayudar a atraer la abundancia que ya viene en camino.",
       "reader_count": 5,
-      "disagreement": "Algunos lectores se centraron en resolver dificultades del pasado, mientras que otros destacaron la llegada de oportunidades frescas a través de nuevas personas o asociaciones."
+      "disagreement": "Algunos lectores hicieron hincapié en el manejo prudente de las deudas y la planificación estratégica, mientras que otros señalaron las abundantes oportunidades que se avecinan y una mentalidad de prosperidad como el camino principal a seguir."
     },
     "career": {
-      "summary": "La mayoría de los lectores esta semana ven cómo oportunidades pasadas o caminos sin explorar vuelven a presentarse para Acuario. Actúa con decisión y constancia ante lo que resurja, porque podría marcar el inicio de una nueva dirección importante en tu vida profesional.",
+      "summary": "Los cinco lectores perciben emocionantes nuevas oportunidades profesionales que emergen para Acuario esta semana, así que confía en tus habilidades actuales y da pasos firmes y seguros mientras exploras caminos innovadores o poco convencionales.",
       "reader_count": 5,
-      "disagreement": "Algunos lectores enfatizaron comienzos completamente nuevos o giros profesionales atrevidos, mientras que otros se enfocaron en oportunidades que regresan y en retomar lo que quedó pendiente."
+      "disagreement": "Algunos lectores destacaron la incertidumbre y los desafíos laborales antes del gran avance, mientras que otros se centraron únicamente en la inspiración renovada y las posibilidades expansivas, sin mencionar obstáculos."
     },
     "family": {
-      "summary": "Los temas familiares aparecen en varias lecturas esta semana, con la sensación de que momentos significativos, ya sea un reencuentro, un gesto emotivo de los seres queridos o un punto de quiebre en las responsabilidades del hogar, pueden despertar una nueva claridad y un sentido de propósito renovado en casa.",
-      "reader_count": 4,
-      "disagreement": "Algunos lectores se centraron en la calidez emocional y en sorpresas entrañables de parte de la familia. Otros destacaron cargas más pesadas o cambios domésticos importantes que finalmente encuentran resolución."
+      "summary": "Tres lectores sugieren que Acuario se encamina hacia un período de abundancia y alivio en su hogar y vida familiar, así que apóyate en la energía positiva que te rodea, ya que se vislumbran circunstancias más favorables.",
+      "reader_count": 3,
+      "disagreement": null
     }
   },
-  "overall_tone_summary": "Un optimismo tranquilo impulsa a Acuario hacia adelante, con cambios reales que comienzan a gestarse bajo la superficie.",
+  "overall_tone_summary": "Una ola constante de optimismo lleva a Acuario con confianza hacia nuevas posibilidades esta semana. Segunda semana consecutiva.",
   "readers": [
     {
-      "video_id": "Y2FScqbHLLY",
-      "channel_theme": "Hitos importantes en la vida, como el matrimonio o el divorcio, están llegando a un punto decisivo ahora.",
+      "video_id": "LAhUSFVBiRE",
+      "channel_theme": "La paciencia es clave, especialmente en el amor, hasta que llegue finales de septiembre.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=LAhUSFVBiRE"
+    },
+    {
+      "video_id": "-BiQ01h_2Po",
+      "channel_theme": "La abundancia fluye con tanta fuerza que Acuario puede apoyar generosamente a sus seres queridos.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=-BiQ01h_2Po"
+    },
+    {
+      "video_id": "M9QlO7fsKpI",
+      "channel_theme": "Una pesada carga de cuidado a otros está llegando a su fin, con momentos de celebración por delante.",
       "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=Y2FScqbHLLY"
+      "url": "https://www.youtube.com/watch?v=M9QlO7fsKpI"
     },
     {
-      "video_id": "64SNATS72ng",
-      "channel_theme": "Una propuesta amorosa transformadora podría cambiar por completo el rumbo de tu vida.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=64SNATS72ng"
-    },
-    {
-      "video_id": "Zax_OMwmWaM",
-      "channel_theme": "Conexiones del pasado resurgen al mismo tiempo en el amor, la carrera y la familia.",
+      "video_id": "hexbHORF0b0",
+      "channel_theme": "Un acuerdo financiero o contrato esperado por mucho tiempo finalmente está llegando.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=Zax_OMwmWaM"
+      "url": "https://www.youtube.com/watch?v=hexbHORF0b0"
     },
     {
-      "video_id": "W4biBqK2_O8",
-      "channel_theme": "Una sola idea nueva esta semana podría desencadenar años de grandes cambios en tu vida.",
+      "video_id": "C8gYT5NYWKM",
+      "channel_theme": "Cambiar tu mentalidad para sentirte próspero desde ahora mismo atraerá abundancia real a tu vida.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=W4biBqK2_O8"
-    },
-    {
-      "video_id": "2doD9CdWZH4",
-      "channel_theme": "Una influencia de Sagitario trae oportunidades financieras frescas a través de una nueva pareja o asesor.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=2doD9CdWZH4"
+      "url": "https://www.youtube.com/watch?v=C8gYT5NYWKM"
     }
   ]
 }

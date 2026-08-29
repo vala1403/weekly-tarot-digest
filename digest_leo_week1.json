@@ -1,60 +1,60 @@
 {
   "sign": "Leo",
-  "week_of": "2026-08-24",
+  "week_of": "2026-08-31",
   "categories": {
     "love": {
-      "summary": "Most readers this week encourage Leo to honestly evaluate whether current or potential relationships are truly fulfilling, recognizing their own worth and releasing fear or habit as reasons to stay, in order to attract or nurture a genuinely aligned connection.",
-      "reader_count": 4,
-      "disagreement": "Some readers saw optimism, pointing to joyful new meetings or a wealthy admirer pursuing serious commitment. Others suggested the current relationship may be stagnant and worth reconsidering entirely."
+      "summary": "Only two readers touched on love this week, but both sensed a boost of romantic energy heading Leo's way, so lean into that momentum and stay open to new or renewed connection.",
+      "reader_count": 2,
+      "disagreement": "No notable disagreement between readers."
     },
     "finance": {
-      "summary": "Most readers see financial improvement on the horizon for Leo this week, whether through a raise, approval, or a broader shift away from hardship, so trust the process, work quietly toward your goals, and allow results to unfold with patience.",
-      "reader_count": 4,
-      "disagreement": "Some readers pointed to immediate or imminent financial gains, while others suggested stability is still a work in progress requiring time and practical adjustments before results fully materialize."
+      "summary": "Most readers sense a financial turning point for Leo this week, pointing toward releasing what no longer works and making room for new opportunities that can build lasting stability and abundance.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw Leo actively benefiting from past effort with rewards already arriving, while others suggested the shift requires conscious action and openness to outside help before growth can begin."
     },
     "career": {
-      "summary": "All five readers agree that a meaningful career shift is on the horizon for Leo this week, so approach any incoming opportunity or exit with confidence and a willingness to take a decisive leap forward.",
+      "summary": "All five readers sense meaningful career movement ahead for Leo, whether through a new opportunity, advancement, or fresh start, so trust in yourself and move forward with confidence despite any financial or competitive concerns.",
       "reader_count": 5,
-      "disagreement": "Some readers saw Leo initiating a departure from an overwhelming situation, while others suggested an unexpected external offer is arriving that requires Leo to respond and choose."
+      "disagreement": "Some readers focused on an exciting new opportunity just beginning to emerge, while others suggested Leo is already exiting a long struggle and seeing tangible progress like promotions or raises."
     },
     "family": {
-      "summary": "Only a few readers touched on family this week; those who did highlighted themes of love, celebration, and personal values, suggesting that family connections, whether through milestones or core priorities, are worth honoring and leaning into.",
+      "summary": "Only a few readers touched on family this week, but those who did pointed to a gradual stabilization in the home environment, with financial and relational dynamics slowly finding their footing after a period of difficulty.",
       "reader_count": 3,
-      "disagreement": "Some readers focused on joyful family celebrations and togetherness, while another emphasized family resistance to personal decisions, framing pushback as love rather than conflict."
+      "disagreement": "One reader highlighted a warm and harmonious home life ahead, while another pointed to a controlling father figure creating underlying tension and resistance to outside influence."
     }
   },
   "overall_tone": "hopeful",
-  "overall_tone_summary": "Bright possibilities keep surfacing, nudging Leo toward optimism this week. Second week running.",
+  "overall_tone_summary": "Optimism outweighs caution this week, with one bright triumphant spark lighting the way. Third week running.",
   "readers": [
     {
-      "video_id": "U-CA1BpGzr8",
-      "channel_theme": "Leo should exit an overwhelming situation strategically and with confidence.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=U-CA1BpGzr8"
-    },
-    {
-      "video_id": "A6tPMriTGJ0",
-      "channel_theme": "Family resistance to relocation is reframed as love, not true opposition.",
+      "video_id": "mQR7z613hrI",
+      "channel_theme": "A fresh career opportunity aligned with Leo's passions may signal a new beginning.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=A6tPMriTGJ0"
+      "url": "https://www.youtube.com/watch?v=mQR7z613hrI"
     },
     {
-      "video_id": "ZUABVzBQLSw",
-      "channel_theme": "Honestly assess if your relationship fulfills you or just feels familiar.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=ZUABVzBQLSw"
+      "video_id": "9Mj9EmoEEqg",
+      "channel_theme": "A suspicious past work contact may be rushing back with hidden motives.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=9Mj9EmoEEqg"
     },
     {
-      "video_id": "itmkiWQ2s5w",
-      "channel_theme": "A wealthy, grounded admirer may soon pursue a serious commitment with Leo.",
+      "video_id": "0pvdzhPd7j0",
+      "channel_theme": "A controlling father figure may be quietly influencing Leo's decisions.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=0pvdzhPd7j0"
+    },
+    {
+      "video_id": "ObK0hEnr874",
+      "channel_theme": "Leo must act boldly and guard against rivals to reach the next level.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=itmkiWQ2s5w"
+      "url": "https://www.youtube.com/watch?v=ObK0hEnr874"
     },
     {
-      "video_id": "SaQmkz5JfQ8",
-      "channel_theme": "Fertility and family values should guide Leo's romantic decisions this week.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=SaQmkz5JfQ8"
+      "video_id": "zkkpHOdoB4U",
+      "channel_theme": "Windfalls from settlements or property deals reward Leo's long sacrifice.",
+      "tone": "triumphant",
+      "url": "https://www.youtube.com/watch?v=zkkpHOdoB4U"
     }
   ]
 }

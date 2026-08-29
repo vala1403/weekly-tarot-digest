@@ -1,60 +1,60 @@
 {
   "sign": "Gemini",
-  "week_of": "2026-08-24",
+  "week_of": "2026-08-31",
   "categories": {
     "love": {
-      "summary": "Most readers this week sense a fresh or renewed romantic connection coming for Gemini, so stay open to new encounters and be willing to let your heart lead the way.",
-      "reader_count": 3,
-      "disagreement": "Some readers focused on brand-new connections forming, while one suggested a past relationship could be rekindled instead."
+      "summary": "Most readers sense an important romantic crossroads for Gemini this week, so trust your instincts and honestly assess whether your current or returning connection truly serves your growth and happiness.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw new love and emotional healing on the horizon, while others suggested a fading connection or a returning ex may require a clear-eyed decision to move on."
     },
     "finance": {
-      "summary": "Most readers sense financial relief and new opportunities arriving this week, so stay open to incoming offers, partnerships, or career shifts that could mark a meaningful turning point toward stability and independence.",
-      "reader_count": 4,
-      "disagreement": "No notable disagreement among readers. All who discussed finances pointed toward improvement and incoming opportunities."
+      "summary": "Most readers sense a significant financial opportunity or turning point ahead for Gemini, so take time to strategically reassess where your energy and resources are going to make the most of what is coming.",
+      "reader_count": 5,
+      "disagreement": "Some readers highlighted incoming abundance and financial gains, while others warned of overextension and the need to cut back or reallocate funds."
     },
     "career": {
-      "summary": "Most readers see a meaningful professional breakthrough unfolding for Gemini this week, so trust your abilities and step forward with confidence rather than holding yourself back with doubt or overthinking.",
+      "summary": "Most readers sense a pivotal professional moment this week, urging Gemini to act decisively, whether by seizing an opportunity, stepping into leadership, or committing to a new direction, rather than letting hesitation or distractions hold them back.",
       "reader_count": 5,
-      "disagreement": "Some readers focused on external recognition and new opportunities arriving naturally, while one emphasized that internal mindset shifts and releasing control are necessary before progress can happen."
+      "disagreement": "Some readers saw Gemini ready to step forward boldly into new roles or opportunities. Others suggested a more cautious tone, with plans kept private and focus required to overcome setbacks before progress is made."
     },
     "family": {
-      "summary": "Several readers sense warmth and renewal within close relationships and home life this week, so pay attention to your immediate environment and the people in it, as positive energy and stability appear to be returning.",
+      "summary": "Most readers highlight that relationships and social bonds are central this week, so lean into connections that genuinely uplift and support you, letting go of those that drain your energy or cause tension.",
       "reader_count": 4,
-      "disagreement": "Most readers focused on emotional renewal and home comfort, but one highlighted joyful external news like an announcement as the source of positive energy rather than internal relationship repair."
+      "disagreement": "Some readers saw nurturing and healing through close bonds, while one reader suggested that a failed group plan may push Gemini toward a more fulfilling solo path."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "Gemini rides a bright, optimistic current with real momentum this week.",
+  "overall_tone": "cautious",
+  "overall_tone_summary": "Two cautionary readings anchor a week that rewards careful, measured choices.",
   "readers": [
     {
-      "video_id": "2lCgTG8hsFM",
-      "channel_theme": "A specific date around the 28th is flagged for a romantic development.",
+      "video_id": "t1UKcfDWMPE",
+      "channel_theme": "Solo success follows a group plan falling apart.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=t1UKcfDWMPE"
+    },
+    {
+      "video_id": "3cBXGeFJIUw",
+      "channel_theme": "Friendships and bonds are highlighted as sources of healing and support.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=2lCgTG8hsFM"
+      "url": "https://www.youtube.com/watch?v=3cBXGeFJIUw"
     },
     {
-      "video_id": "jaJbQcEypsU",
-      "channel_theme": "Your home environment is highlighted as key to personal growth this week.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=jaJbQcEypsU"
+      "video_id": "_lYQpIFLYh0",
+      "channel_theme": "A fading romance may force a difficult stay-or-go decision.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=_lYQpIFLYh0"
     },
     {
-      "video_id": "aDex2jVwOIA",
-      "channel_theme": "Joyful news like a pregnancy or engagement may arrive from loved ones.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=aDex2jVwOIA"
+      "video_id": "JE-FNebI70I",
+      "channel_theme": "A milestone event is stirring secrecy and tension over who is included.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=JE-FNebI70I"
     },
     {
-      "video_id": "nTiUx1IM82g",
-      "channel_theme": "Releasing self-doubt and the need for control is the sole focus.",
-      "tone": "encouraging",
-      "url": "https://www.youtube.com/watch?v=nTiUx1IM82g"
-    },
-    {
-      "video_id": "rO67dqZYoB8",
-      "channel_theme": "Long-awaited breakthroughs finally arrive, aligning career with true purpose.",
-      "tone": "triumphant",
-      "url": "https://www.youtube.com/watch?v=rO67dqZYoB8"
+      "video_id": "EwaQ85jgWwY",
+      "channel_theme": "Family events like marriage or divorce may directly shape financial outcomes.",
+      "tone": "deliberative",
+      "url": "https://www.youtube.com/watch?v=EwaQ85jgWwY"
     }
   ]
 }
