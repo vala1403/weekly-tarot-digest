@@ -519,7 +519,7 @@ def main():
     output_path.write_text(json.dumps(digest, indent=2), encoding="utf-8")
 
     theme_log["entries"].append(
-        build_theme_log_entry(digest, sign_slug, categories_result, repeat_streak, theme_rule)
+        build_theme_log_entry(digest, sign_slug, digest["categories"], repeat_streak, theme_rule)
     )
     save_theme_log(theme_log)
 
