@@ -518,9 +518,14 @@ def main():
 
     output_path.write_text(json.dumps(digest, indent=2), encoding="utf-8")
 
-    theme_log["entries"].append(
-        build_theme_log_entry(digest, sign_slug, digest["categories"], repeat_streak, theme_rule)
-    )
+    theme_log_entry = build_theme_log_entry(digest, sign_slug, digest["categories"], repeat_streak, theme_rule)
+    remaining_entry = find_em_dashes(theme_log_entry, path="theme_log_entry")
+    if remaining_entry:
+        print("\nWARNING: em dash(es) survived stripping in theme-log entry, flagging for manual review:")
+        for hit in remaining_entry:
+            print(f"  {hit}")
+
+    theme_log["entries"].append(theme_log_entry)
     save_theme_log(theme_log)
 
     print("\n" + "=" * 70)

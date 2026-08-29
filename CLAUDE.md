@@ -49,6 +49,10 @@ touching that data.
   exactly that reason. Each entry's `theme_rule` field marks which regime
   produced it (`"no-repeat-4wk"` vs `"repeats-allowed"`) so this isn't
   misread as a genuine trend later.
+- **Entries from 2026-07-20 through 2026-08-10 predate the no-em-dash
+  rule and retain em dashes in their category summaries.** This is
+  retained deliberately as observed output from before the rule
+  existed, not a defect to clean up. Do not backfill them.
 - **From 2026-08-17, repeats are allowed** (`REPEATS_ALLOWED_FROM =
   "2026-08-17"` in `aggregate_digest.py`). `aggregate_tone()` opens the
   full `THEME_VOCABULARY` and shows the sign's history to the model as
