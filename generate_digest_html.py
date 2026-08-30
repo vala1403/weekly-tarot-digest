@@ -31,6 +31,26 @@ SPARKLE_SVG = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c.6 4.
 
 CATEGORY_ORDER = ["love", "finance", "career", "family"]
 
+ZODIAC_ORDER = [
+    "aries", "taurus", "gemini", "cancer", "leo", "virgo",
+    "libra", "scorpio", "sagittarius", "capricorn", "aquarius", "pisces",
+]
+
+ZODIAC_ES = {
+    "aries": "Aries",
+    "taurus": "Tauro",
+    "gemini": "Géminis",
+    "cancer": "Cáncer",
+    "leo": "Leo",
+    "virgo": "Virgo",
+    "libra": "Libra",
+    "scorpio": "Escorpio",
+    "sagittarius": "Sagitario",
+    "capricorn": "Capricornio",
+    "aquarius": "Acuario",
+    "pisces": "Piscis",
+}
+
 EM_DASH = "—"
 
 
@@ -70,6 +90,9 @@ STRINGS = {
         "watch_link_text": "Watch →",
         "agreement_pill": lambda n: f"Echoed by {n} of 5 readers",
         "footer": lambda sign, date: f"Compiled from five independent {sign} readings published for the week of {date}. Themes are paraphrased and compared; interpretations remain those of the original creators.",
+        "all_signs_link": "All signs",
+        "back_to_all_signs": "Back to all signs",
+        "index_href": "index.html",
     },
     "es": {
         "html_lang": "es",
@@ -84,6 +107,9 @@ STRINGS = {
         "watch_link_text": "Ver →",
         "agreement_pill": lambda n: f"Compartido por {n} de 5 lectores",
         "footer": lambda sign, date: f"Recopilado de cinco lecturas independientes de {sign} publicadas para la semana del {date}. Los temas están parafraseados y comparados; las interpretaciones siguen siendo las de sus creadores originales.",
+        "all_signs_link": "Todos los signos",
+        "back_to_all_signs": "Ver todos los signos",
+        "index_href": "index-es.html",
     },
 }
 
@@ -128,6 +154,29 @@ def render_category_card(key: str, data: dict, index: int, is_last: bool, lang: 
         </article>"""
 
 
+def sign_display_name(slug: str, lang: str) -> str:
+    return ZODIAC_ES[slug] if lang == "es" else slug.capitalize()
+
+
+def render_all_signs_button(lang: str) -> str:
+    strings = STRINGS[lang]
+    return f'<div class="all-signs-button-wrap"><a class="all-signs-button" href="{esc(strings["index_href"])}">{esc(strings["back_to_all_signs"])}</a></div>'
+
+
+def render_all_signs_link(lang: str) -> str:
+    strings = STRINGS[lang]
+    return f'<div class="all-signs-link"><a href="{esc(strings["index_href"])}">{esc(strings["all_signs_link"])}</a></div>'
+
+
+def render_sign_selector(current_slug: str, lang: str) -> str:
+    pills = []
+    for slug in ZODIAC_ORDER:
+        href = f"digest-{slug}{'' if lang == 'en' else '-es'}.html"
+        cls = "sign-pill sign-pill-current" if slug == current_slug else "sign-pill"
+        pills.append(f'<a class="{cls}" href="{esc(href)}">{esc(sign_display_name(slug, lang))}</a>')
+    return f'<nav class="sign-selector">{"".join(pills)}</nav>'
+
+
 def render_reader_row(reader: dict, index: int, lang: str) -> str:
     strings = STRINGS[lang]
     return f"""
@@ -138,7 +187,7 @@ def render_reader_row(reader: dict, index: int, lang: str) -> str:
           </tr>"""
 
 
-def build_html(digest: dict, week_of_display: str, cards_html: str, rows_html: str, lang: str) -> str:
+def build_html(digest: dict, sign_slug: str, week_of_display: str, cards_html: str, rows_html: str, lang: str) -> str:
     strings = STRINGS[lang]
     html_out = f"""<!doctype html>
 <html lang="{strings['html_lang']}">
@@ -225,6 +274,73 @@ def build_html(digest: dict, week_of_display: str, cards_html: str, rows_html: s
     letter-spacing: 0;
     margin: 0;
   }}
+
+  .all-signs-button-wrap {{
+    text-align: center;
+    margin-bottom: 28px;
+  }}
+
+  .all-signs-button {{
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    font-family: 'Antic', -apple-system, sans-serif;
+    font-weight: 700;
+    font-size: 0.95rem;
+    text-decoration: none;
+    padding: 12px 30px;
+    border-radius: 10px;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }}
+  .all-signs-button:hover {{
+    transform: translateY(-1px);
+    box-shadow: 0 6px 16px rgba(43, 36, 32, 0.18);
+  }}
+
+  .all-signs-link {{
+    text-align: center;
+    margin-top: 40px;
+  }}
+
+  .all-signs-link a {{
+    color: var(--accent);
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
+    padding-bottom: 2px;
+  }}
+  .all-signs-link a:hover {{ border-bottom-color: var(--accent); }}
+
+  .sign-selector {{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 40px;
+    margin-bottom: 28px;
+  }}
+
+  .sign-pill {{
+    display: inline-block;
+    text-decoration: none;
+    color: var(--text-soft);
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 6px 14px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    transition: border-color 0.15s ease, color 0.15s ease;
+  }}
+  .sign-pill:hover {{ border-color: var(--accent); color: var(--accent); }}
+
+  .sign-pill-current {{
+    background: var(--accent-soft);
+    border-color: var(--accent-soft);
+    color: var(--text);
+  }}
+  .sign-pill-current:hover {{ border-color: var(--accent-soft); color: var(--text); }}
 
   .cards {{
     margin-bottom: 44px;
@@ -469,6 +585,8 @@ def build_html(digest: dict, week_of_display: str, cards_html: str, rows_html: s
 </head>
 <body>
   <div class="wrap">
+    {render_all_signs_button(lang)}
+
     <header>
       <span class="header-sparkle">{SPARKLE_SVG}</span>
       <h1 class="sign-name">{esc(digest['sign'])}</h1>
@@ -504,6 +622,10 @@ def build_html(digest: dict, week_of_display: str, cards_html: str, rows_html: s
     <footer>
       {strings['footer'](esc(digest['sign']), esc(week_of_display))}
     </footer>
+
+    {render_sign_selector(sign_slug, lang)}
+
+    {render_all_signs_link(lang)}
   </div>
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
@@ -545,7 +667,7 @@ def main():
         render_reader_row(reader, i, lang) for i, reader in enumerate(digest["readers"])
     )
 
-    html_out = build_html(digest, week_of_display, cards_html, rows_html, lang)
+    html_out = build_html(digest, sign_slug, week_of_display, cards_html, rows_html, lang)
 
     if EM_DASH in html_out:
         count = html_out.count(EM_DASH)

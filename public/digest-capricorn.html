@@ -84,6 +84,73 @@
     margin: 0;
   }
 
+  .all-signs-button-wrap {
+    text-align: center;
+    margin-bottom: 28px;
+  }
+
+  .all-signs-button {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    font-family: 'Antic', -apple-system, sans-serif;
+    font-weight: 700;
+    font-size: 0.95rem;
+    text-decoration: none;
+    padding: 12px 30px;
+    border-radius: 10px;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }
+  .all-signs-button:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 16px rgba(43, 36, 32, 0.18);
+  }
+
+  .all-signs-link {
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  .all-signs-link a {
+    color: var(--accent);
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
+    padding-bottom: 2px;
+  }
+  .all-signs-link a:hover { border-bottom-color: var(--accent); }
+
+  .sign-selector {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 40px;
+    margin-bottom: 28px;
+  }
+
+  .sign-pill {
+    display: inline-block;
+    text-decoration: none;
+    color: var(--text-soft);
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 6px 14px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    transition: border-color 0.15s ease, color 0.15s ease;
+  }
+  .sign-pill:hover { border-color: var(--accent); color: var(--accent); }
+
+  .sign-pill-current {
+    background: var(--accent-soft);
+    border-color: var(--accent-soft);
+    color: var(--text);
+  }
+  .sign-pill-current:hover { border-color: var(--accent-soft); color: var(--text); }
+
   .cards {
     margin-bottom: 44px;
   }
@@ -327,6 +394,8 @@
 </head>
 <body>
   <div class="wrap">
+    <div class="all-signs-button-wrap"><a class="all-signs-button" href="index.html">Back to all signs</a></div>
+
     <header>
       <span class="header-sparkle"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c.6 4.2 2.8 6.4 7 7-4.2.6-6.4 2.8-7 7-.6-4.2-2.8-6.4-7-7 4.2-.6 6.4-2.8 7-7z"/></svg></span>
       <h1 class="sign-name">Capricorn</h1>
@@ -430,6 +499,10 @@
     <footer>
       Compiled from five independent Capricorn readings published for the week of August 31, 2026. Themes are paraphrased and compared; interpretations remain those of the original creators.
     </footer>
+
+    <nav class="sign-selector"><a class="sign-pill" href="digest-aries.html">Aries</a><a class="sign-pill" href="digest-taurus.html">Taurus</a><a class="sign-pill" href="digest-gemini.html">Gemini</a><a class="sign-pill" href="digest-cancer.html">Cancer</a><a class="sign-pill" href="digest-leo.html">Leo</a><a class="sign-pill" href="digest-virgo.html">Virgo</a><a class="sign-pill" href="digest-libra.html">Libra</a><a class="sign-pill" href="digest-scorpio.html">Scorpio</a><a class="sign-pill" href="digest-sagittarius.html">Sagittarius</a><a class="sign-pill sign-pill-current" href="digest-capricorn.html">Capricorn</a><a class="sign-pill" href="digest-aquarius.html">Aquarius</a><a class="sign-pill" href="digest-pisces.html">Pisces</a></nav>
+
+    <div class="all-signs-link"><a href="index.html">All signs</a></div>
   </div>
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
