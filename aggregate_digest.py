@@ -28,6 +28,7 @@ THEME_VOCABULARY = [
 ]
 
 TAGGED_DIR = Path(__file__).parent / "tagged"
+TRANSCRIPTS_DIR = Path(__file__).parent / "transcripts"
 THEME_LOG_PATH = Path(__file__).parent / "data" / "theme-log.json"
 THEME_LOG_SCHEMA_VERSION = 2
 
@@ -198,10 +199,22 @@ THEME_LOG_NOTES = {
         "theme (per-sign aggregate) exist. No `tone` key is included inside "
         "category objects."
     ),
-    "channel_name_gap": (
-        "Reader channel names were never captured by the pipeline (only "
-        "video_id, url, and paraphrased content). No `channel_name` key is "
-        "included in reader objects."
+    "channel": (
+        "The reader's channel name, exactly as self-introduced in the transcript "
+        "(e.g. '...and welcome to Northern Oracle.'), including any ASR mishearing "
+        "or typos -- never normalized across weeks and never fetched from YouTube "
+        "or otherwise inferred. Extracted by parse_manual_transcripts.py's "
+        "extract_channel_name() at parse time and cached in "
+        "transcripts/<video_id>.channel.json. Null when the transcript never "
+        "states a channel name."
+    ),
+    "channel_source": (
+        "'transcript' when `channel` was extracted from the transcript text, or "
+        "null when `channel` itself is null (either the transcript never stated a "
+        "name, or -- for the three earliest backfilled weeks, 2026-07-20 through "
+        "2026-08-03 -- the raw source file no longer exists to check; that specific "
+        "gap is a listed, human-reviewed limitation, not a claim that those readers "
+        "stated no channel name)."
     ),
 }
 
@@ -241,6 +254,17 @@ def get_latest_sign_entry(theme_log: dict, sign_slug: str, before_week: str):
     return max(entries, key=lambda e: e["week_of"])
 
 
+def load_reader_channel(video_id: str) -> tuple[str | None, str | None]:
+    """Reads the (channel, channel_source) pair written by parse_manual_transcripts.py's
+    <video_id>.channel.json sidecar. Missing sidecar (e.g. transcript predates this field)
+    yields (None, None), same as a transcript with no self-introduced channel name."""
+    path = TRANSCRIPTS_DIR / f"{video_id}.channel.json"
+    if not path.exists():
+        return None, None
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return data.get("channel"), data.get("channel_source")
+
+
 def build_theme_log_entry(digest: dict, sign_slug: str, categories_result: dict, repeat_streak: int, theme_rule: str) -> dict:
     categories = {}
     for cat in CATEGORIES:
@@ -251,15 +275,17 @@ def build_theme_log_entry(digest: dict, sign_slug: str, categories_result: dict,
             "divergence": None if is_placeholder_disagreement(c["disagreement"]) else c["disagreement"],
         }
 
-    readers = [
-        {
+    readers = []
+    for r in digest["readers"]:
+        channel, channel_source = load_reader_channel(r["video_id"])
+        readers.append({
             "video_id": r["video_id"],
             "url": r["url"],
+            "channel": channel,
+            "channel_source": channel_source,
             "distinctive_point": r["channel_theme"] or None,
             "reader_tone": r["tone"],
-        }
-        for r in digest["readers"]
-    ]
+        })
 
     return {
         "week_of": digest["week_of"],

@@ -17,6 +17,7 @@ files with the same content.
 """
 import argparse
 import difflib
+import json
 import re
 import sys
 from pathlib import Path
@@ -53,6 +54,55 @@ def match_sign(raw_name: str) -> str | None:
         return name
     close = difflib.get_close_matches(name, SIGNS, n=1, cutoff=0.7)
     return close[0] if close else None
+
+
+# Ordered candidate patterns for a reader's self-introduced channel name. "welcome (back) to"
+# is matched case-insensitively, but the captured name itself must start with a real capital
+# letter -- otherwise generic lowercase leads like "your week ahead reading" or "my channel"
+# would slip through as false positives.
+CHANNEL_PATTERNS = [
+    re.compile(r"(?i:welcome (?:back )?to) (?:the channel )?([A-Z][A-Za-z0-9'\-]*(?:\s+[A-Za-z0-9'\-]+){0,5})"),
+    re.compile(r"(?i:welcome to) (?:uh |um )?([A-Z][A-Za-z0-9'\-]*(?:\s+[A-Za-z0-9'\-]+){0,5}) channel\b"),
+]
+
+_CHANNEL_STOPWORDS_AFTER = re.compile(
+    r"\b(?:this is|my name|i am|i'm|for a|for this|hope|welcome|and welcome|let'?s|thank you)\b",
+    re.IGNORECASE,
+)
+
+
+def _clean_channel_candidate(raw: str) -> str | None:
+    text = re.sub(r"^(?:uh|um)\s+", "", raw.strip(), flags=re.IGNORECASE)
+    if not text:
+        return None
+    low = text.lower()
+    if low.startswith("my channel") or low.startswith("the channel") or low == "my":
+        return None
+    m = _CHANNEL_STOPWORDS_AFTER.search(text)
+    if m:
+        text = text[: m.start()].strip()
+    text = re.sub(r"[.,!?]+$", "", text).strip()
+    text = re.sub(r"\s+(?:and|channel)$", "", text, flags=re.IGNORECASE).strip()
+    if not text or text.lower() in {"my channel", "the channel"}:
+        return None
+    if not re.search(r"[A-Za-z]{2,}", text) or len(text.split()) > 6:
+        return None
+    return text
+
+
+def extract_channel_name(full_text: str) -> str | None:
+    """Best-effort extraction of a reader's self-introduced channel name from the opening
+    of the transcript (e.g. "...welcome to Northern Oracle. This is your reading..."). Returns
+    the name exactly as transcribed -- including any ASR mishearing/typos -- never a normalized
+    or guessed value. Returns None when no self-introduction is present, rather than guessing."""
+    window = full_text[:400]
+    for pat in CHANNEL_PATTERNS:
+        m = pat.search(window)
+        if m:
+            candidate = _clean_channel_candidate(m.group(1))
+            if candidate:
+                return candidate
+    return None
 
 
 def video_id_from_url(url: str) -> str | None:
@@ -169,14 +219,22 @@ def main():
             if flags:
                 any_flags = True
 
+            channel = extract_channel_name(text) if text else None
+
             print(f"\n  {path.name}")
             print(f"    url: {url or '(none)'}")
             print(f"    chars: {char_count}{flag_str}")
+            print(f"    channel: {channel or '(not stated in source)'}")
             print(f"    preview: {text[:200]!r}")
 
             if video_id and text:
                 out_path = TRANSCRIPTS_DIR / f"{video_id}.txt"
                 out_path.write_text(text, encoding="utf-8")
+                channel_path = TRANSCRIPTS_DIR / f"{video_id}.channel.json"
+                channel_path.write_text(
+                    json.dumps({"channel": channel, "channel_source": "transcript" if channel else None}, indent=2),
+                    encoding="utf-8",
+                )
                 print(f"    -> wrote {out_path}")
             else:
                 print(f"    -> SKIPPED writing (missing url/video_id or empty text)")

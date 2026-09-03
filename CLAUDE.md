@@ -38,9 +38,18 @@ touching that data.
   `tag_transcripts.py`'s `overall_tone`) and `theme` (per-sign aggregate,
   fixed `THEME_VOCABULARY`). Don't confuse the two or invent a
   category-level tone that was never computed.
-- **`channel_name`** was also never captured anywhere in the pipeline
-  (only `video_id`, `url`, and paraphrased content exist per reader) and is
-  omitted from the reader schema for the same reason.
+- **`channel` / `channel_source`** (added 2026-09-08) capture the reader's
+  self-introduced channel name, e.g. "...and welcome to Northern Oracle."
+  Extracted by `parse_manual_transcripts.py`'s `extract_channel_name()` at
+  parse time from the transcript text itself, exactly as transcribed
+  (including ASR mishearing/typos), never normalized across near-duplicate
+  variants and never fetched from YouTube or otherwise inferred. `channel`
+  is `null` when the transcript never states a name; `channel_source` is
+  `"transcript"` when `channel` has a value, `null` otherwise. For the
+  three earliest backfilled weeks (2026-07-20 through 2026-08-03), the raw
+  `/mnt/c/tarot/<week>/` source files no longer exist on disk, so `channel`
+  is `null` there for a different reason: unable to check, not "checked
+  and absent." This is a listed, human-reviewed gap, not a silent null.
 - **Theme movement in 2026-07-20 through 2026-08-10 is an artifact of the
   `no-repeat-4wk` exclusion rule**, not observed volatility. During that
   window, `aggregate_tone()` excluded a sign's last 4 weeks of themes from
