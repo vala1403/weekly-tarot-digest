@@ -1,60 +1,60 @@
 {
   "sign": "Libra",
-  "week_of": "2026-08-31",
+  "week_of": "2026-09-07",
   "categories": {
     "love": {
-      "summary": "Love readings split between endings and beginnings for Libra this week. Several point toward a meaningful new connection on the horizon, with full openness favored over hesitation.",
-      "reader_count": 3,
-      "disagreement": "Some readers see Libra releasing painful or obligatory relationships. Others point instead to a new romantic arrival, even a soulmate, entering their life."
+      "summary": "Most readers sense a meaningful romantic development unfolding for Libra this week, so staying open and emotionally vulnerable may be the key to welcoming the connection or positive shift that seems to be building.",
+      "reader_count": 5,
+      "disagreement": "Some readers pointed to an unresolved or complicated reconnection with someone from the past, while others suggested a fresh, stable, and joyful romantic energy is on its way."
     },
     "finance": {
-      "summary": "A smaller group of readings touches on finances this week, pointing to reassessment and deliberate planning as key. Building momentum is described as requiring a thoughtful, diversified approach rather than rushing forward.",
+      "summary": "Most readers this week sense some kind of financial shift on the horizon, so be mindful of spending and attachment to what you have, and try to keep a positive mindset to avoid blocking the abundance that may be coming.",
       "reader_count": 3,
-      "disagreement": "Some readers focus on proactive goal-setting and diversification. One reading takes a different view, suggesting past financial hardships resolve through karmic restoration rather than personal strategy."
+      "disagreement": "One reader warned about monitoring spending cautiously, while another suggested prosperity is already approaching. The difference is between guarding what you have versus opening up to receive more."
     },
     "career": {
-      "summary": "A career turning point, driven by fresh inspiration or a desire for something more fulfilling, is the clearest pattern for Libra this week. Several readings advise trusting new ideas as they arise and taking thoughtful, decisive steps.",
-      "reader_count": 4,
-      "disagreement": "Some readers focus on leaving workplace injustice behind and moving forward. Others emphasize a spontaneous new idea as the catalyst for change instead."
+      "summary": "A few readers this week pointed to career momentum building through effort and clarity, so trust the process, stay disciplined, and know that the right path is becoming clearer even if results are not yet visible.",
+      "reader_count": 3,
+      "disagreement": "Some readers focused on steady groundwork in new collaborations, while others emphasized strategies already in motion reaching completion and recognition."
     },
     "family": {
-      "summary": "Family themes center on healing and resolution for Libra this week, whether that means finally opening up about a long-carried burden or finding that difficult circumstances are beginning to turn.",
-      "reader_count": 3,
-      "disagreement": "Some readers see family life as a source of strain or conflict this week. Others point instead toward reunion, emotional fulfillment, and the easing of long-standing difficulties."
+      "summary": "Only one reader touched on family this week, pointing to the value of surrounding yourself with emotionally uplifting people whose support can genuinely help move you forward.",
+      "reader_count": 1,
+      "disagreement": "No notable disagreement, as only one reader addressed this theme."
     }
   },
-  "overall_tone": "cautious",
-  "overall_tone_summary": "Two readings strike a cautionary note for Libra this week, anchoring a week where hope appears but still warrants careful attention.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "A buoyant optimism carries Libra forward, softened by a gentle cautionary note.",
   "readers": [
     {
-      "video_id": "SEZ2JXe4Y1g",
-      "channel_theme": "A draining family obligation is blocking Libra from moving forward personally.",
+      "video_id": "SDlcTZBVP1I",
+      "channel_theme": "Venus in Libra actively boosts romance and favors unconventional partners this week.",
+      "tone": "expansive",
+      "url": "https://www.youtube.com/watch?v=SDlcTZBVP1I"
+    },
+    {
+      "video_id": "K7PZaEDJczg",
+      "channel_theme": "A potential reunion stalls because one person is not fully committed.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=SEZ2JXe4Y1g"
+      "url": "https://www.youtube.com/watch?v=K7PZaEDJczg"
     },
     {
-      "video_id": "keSctOujbTw",
-      "channel_theme": "Karmic justice is coming to restore balance after betrayal or financial loss.",
+      "video_id": "0Y3TwZagxh4",
+      "channel_theme": "Libra is urged to release attachment to familiar comforts and embrace vulnerability.",
+      "tone": "integrative",
+      "url": "https://www.youtube.com/watch?v=0Y3TwZagxh4"
+    },
+    {
+      "video_id": "3Ae72wB0o1c",
+      "channel_theme": "A hurt, obsessed ex may make one final attempt to reconnect with Libra.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=keSctOujbTw"
+      "url": "https://www.youtube.com/watch?v=3Ae72wB0o1c"
     },
     {
-      "video_id": "DusaSCVUyJU",
-      "channel_theme": "A spiritually present but physically inconsistent relationship tension nears confrontation.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=DusaSCVUyJU"
-    },
-    {
-      "video_id": "bGGUebvTC_c",
-      "channel_theme": "A trip brings a transformative encounter that sparks a major healing career move.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=bGGUebvTC_c"
-    },
-    {
-      "video_id": "0ep3jktdvGg",
-      "channel_theme": "A soulmate is arriving, urging Libra to commit fully without hesitation.",
+      "video_id": "07Kw1Ae5u0E",
+      "channel_theme": "Negative thinking risks blocking financial abundance that is already on its way.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=0ep3jktdvGg"
+      "url": "https://www.youtube.com/watch?v=07Kw1Ae5u0E"
     }
   ]
 }

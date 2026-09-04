@@ -1,60 +1,60 @@
 {
   "sign": "Virgo",
-  "week_of": "2026-08-31",
+  "week_of": "2026-09-07",
   "categories": {
     "love": {
-      "summary": "A smaller group of readings points to new romantic possibilities opening up for Virgo this week. The common thread is letting go of past heartbreak, with a shift in perspective described as making room for something better.",
-      "reader_count": 3,
-      "disagreement": "Some readers point to new romantic beginnings and emotional openness. One reading instead emphasizes heartbreak, and the need to move on from a loss."
+      "summary": "Most readers sense a meaningful relationship shift this week, so approach your connections with honesty and openness to understand whether they are built to last or simply a lesson to carry forward.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw new beginnings or deepening bonds, while others suggested a relationship may be ending or was never meant to be permanent."
     },
     "finance": {
-      "summary": "This reads as a promising week for Virgo's finances, with growth and positive shifts on the horizon. Several readings advise practical, methodical steps toward new opportunities, rather than waiting for them to arrive.",
-      "reader_count": 5,
-      "disagreement": "Some readers focus on an internal mindset shift toward gratitude. Others point instead to concrete external events, like career moves or property deals, as the real source of financial progress."
+      "summary": "Several readers see financial growth and new opportunities on the horizon for Virgo this week, but consistent effort and timely action are key to making those prospects fully materialize.",
+      "reader_count": 4,
+      "disagreement": "One reader highlighted a blessing arriving to ease hardship, suggesting more passive receipt of abundance, while others emphasized that results depend heavily on active effort and persistence."
     },
     "career": {
-      "summary": "A significant career breakthrough is the clearest pattern for Virgo this week, built on momentum already in motion. The shared advice is to act decisively when the opportunity arrives, rather than waiting for ideal conditions.",
-      "reader_count": 5,
-      "disagreement": "One reading points a different direction: returning to learning or revisiting a project, rather than pursuing a bold new external opportunity. This contrasts with the forward-moving energy most other readings describe."
+      "summary": "Several readers this week point to meaningful growth potential in your work, suggesting that taking deliberate, focused action and staying open to collaboration or new directions can turn promising beginnings into real, lasting results.",
+      "reader_count": 4,
+      "disagreement": "Some readers emphasized working steadily within existing structures, while others pointed to unexpected or unconventional paths as the way forward."
     },
     "family": {
-      "summary": "Family and community read as sources of support for Virgo during this transition. Several readings point to leaning on loved ones and trusted advisors as what lightens the load and eases the path forward.",
-      "reader_count": 5,
-      "disagreement": "Most readers describe family as a supportive presence. One reading differs, pointing to unresolved tension or emotional friction within family relationships rather than harmony."
+      "summary": "A few readers point to joyful celebrations and gatherings with loved ones ahead, so take time to reflect on who truly supports your journey and bring those people along as you move forward.",
+      "reader_count": 3,
+      "disagreement": "One reader noted a possible minor conflict arising within a social gathering, while others focused purely on shared joy and celebration with no friction implied."
     }
   },
-  "overall_tone": "transformative",
-  "overall_tone_summary": "Change is the throughline for Virgo this week, several readings describing shifts in what once felt like settled ground.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "Quiet optimism lifts Virgo forward, with one meaningful shift on the horizon.",
   "readers": [
     {
-      "video_id": "GG9SC7p3asE",
-      "channel_theme": "Gradual career transformation is reshaping Virgo's identity and professional momentum.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=GG9SC7p3asE"
-    },
-    {
-      "video_id": "cGCwetgyRTA",
-      "channel_theme": "A mentor figure steps in to push Virgo past fear toward new opportunities.",
+      "video_id": "IH9yoT1RhpI",
+      "channel_theme": "A social event brings joy but also a minor conflict with someone there.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=cGCwetgyRTA"
+      "url": "https://www.youtube.com/watch?v=IH9yoT1RhpI"
     },
     {
-      "video_id": "-HWiQocNkNQ",
-      "channel_theme": "Legal, property, or relocation events could trigger a major financial windfall.",
-      "tone": "triumphant",
-      "url": "https://www.youtube.com/watch?v=-HWiQocNkNQ"
-    },
-    {
-      "video_id": "9pC3GCXA8v0",
-      "channel_theme": "A shift toward gratitude is presented as the key to the financial gains ahead.",
+      "video_id": "6EcNqs828tg",
+      "channel_theme": "Internal struggles risk causing both partners to undervalue a solid relationship.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=9pC3GCXA8v0"
+      "url": "https://www.youtube.com/watch?v=6EcNqs828tg"
     },
     {
-      "video_id": "Yb-K0yFyfBg",
-      "channel_theme": "Virgo is urged to rebuild confidence after heartbreak rather than dwelling on loss.",
+      "video_id": "EWEksRUa9-Y",
+      "channel_theme": "An unwanted work pairing will surprisingly reveal the power of cooperation.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=EWEksRUa9-Y"
+    },
+    {
+      "video_id": "EvWSUfiJx-o",
+      "channel_theme": "Honest reflection guides you to decide who truly belongs in your future.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=Yb-K0yFyfBg"
+      "url": "https://www.youtube.com/watch?v=EvWSUfiJx-o"
+    },
+    {
+      "video_id": "zwi3STiaNzg",
+      "channel_theme": "A closing relationship was only ever meant to be a brief lesson.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=zwi3STiaNzg"
     }
   ]
 }

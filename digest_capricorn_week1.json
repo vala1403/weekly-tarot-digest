@@ -1,60 +1,60 @@
 {
   "sign": "Capricorn",
-  "week_of": "2026-08-31",
+  "week_of": "2026-09-07",
   "categories": {
     "love": {
-      "summary": "New romantic energy, or a deepening connection, is a recurring pattern for Capricorn this week. Several readings point to open, honest communication as what lets that potential fully unfold.",
+      "summary": "Most readers sense that romantic connections are forming or transforming for Capricorn this week, so release what no longer serves you and navigate new bonds with care to allow something more harmonious to take shape.",
       "reader_count": 4,
-      "disagreement": "Some readers highlight a fresh new connection arriving. One reading sees it differently: emotional turbulence only now settling into stability, rather than something newly beginning."
+      "disagreement": "Some readers focused on hopeful new connections forming, while one emphasized emotional misalignment within an existing relationship where partners are drifting apart."
     },
     "finance": {
-      "summary": "Nearly all readings point to a promising week for Capricorn's financial growth. The shared advice is concrete: save, invest, or put your skills and work in front of the right people.",
-      "reader_count": 5,
-      "disagreement": "One reading strikes a more cautious note, flagging a possible ending or loss of income. The others lean toward optimism and new beginnings instead."
+      "summary": "Most readers see financial improvement on the horizon this week, with some hinting at unexpected windfalls, so stay open to abundance arriving in surprising ways while keeping emotional impulses from driving unnecessary spending.",
+      "reader_count": 4,
+      "disagreement": "One reader flagged emotional overspending as a risk, while others focused purely on incoming prosperity and growth."
     },
     "career": {
-      "summary": "This reads as a pivotal week for Capricorn's career: fresh starts, new opportunities, or stalled situations finally gaining momentum. Several readings point to leaning on your existing strengths as the way through.",
+      "summary": "Most readers see Capricorn in a phase of building momentum toward professional success, and the shared advice is to stay persistent, advocate for your worth, and remain open to creative approaches rather than rigid ones.",
       "reader_count": 5,
-      "disagreement": "Some readers focus on launching something new or taking initiative. One reading points elsewhere: leading from within, making tough evaluative decisions in an existing role rather than pursuing change."
+      "disagreement": "Some readers described Capricorn as already in motion and productive, while others suggested they are still in a preparatory or stagnant phase yet to take decisive action."
     },
     "family": {
-      "summary": "Emotional fulfillment, and a more joyful, stable home life, is the clearest family pattern for Capricorn this week. Several readings point to nurturing the relationships closest to you as what brings that warmth fully into place.",
-      "reader_count": 5,
-      "disagreement": "Some readers focus on emotional fulfillment and stability already taking shape. One reading suggests Capricorn may first need to break free from stagnation before that happiness becomes available."
+      "summary": "Only two readers touched on family this week, with one pointing to a caring figure stepping up to offer support, and the other suggesting that inviting more warmth and playfulness into the home can lift the overall atmosphere.",
+      "reader_count": 2,
+      "disagreement": "One reader focused on receiving outside support during hardship, while the other emphasized actively creating a lighter, more harmonious home environment from within."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "Optimism remains the dominant note for Capricorn this week, with quieter signs of transformation stirring underneath it. Second week running.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Powerful shifts are underway, reshaping what Capricorn thought was settled ground.",
   "readers": [
     {
-      "video_id": "KbFV_KmqEdM",
-      "channel_theme": "Creative self-marketing is described as the key driver behind career and financial breakthroughs now.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=KbFV_KmqEdM"
-    },
-    {
-      "video_id": "GeJfj-yN7-U",
-      "channel_theme": "A loved one is actively energized by your growth and wants to join you.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=GeJfj-yN7-U"
-    },
-    {
-      "video_id": "Fvi2ohPSauw",
-      "channel_theme": "Emotional turbulence is finally settling into clarity and romantic peace.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=Fvi2ohPSauw"
-    },
-    {
-      "video_id": "4koqns28SCM",
-      "channel_theme": "A fiery new romantic connection could bring exciting transformation to your love life.",
+      "video_id": "KNpraB0sugY",
+      "channel_theme": "A nurturing figure steps up with real help during difficult times.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=4koqns28SCM"
+      "url": "https://www.youtube.com/watch?v=KNpraB0sugY"
     },
     {
-      "video_id": "Uepin6ABgik",
-      "channel_theme": "Tough leadership decisions require fairness, including evaluating and rewarding your team objectively.",
+      "video_id": "n_t6QCzXjDo",
+      "channel_theme": "Treat your skills as flexible tools and build creatively around obstacles.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=n_t6QCzXjDo"
+    },
+    {
+      "video_id": "avOQOYPxy58",
+      "channel_theme": "Partners share a goal but are emotionally drifting apart.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=Uepin6ABgik"
+      "url": "https://www.youtube.com/watch?v=avOQOYPxy58"
+    },
+    {
+      "video_id": "jR70V-6BaEs",
+      "channel_theme": "Major recognition is near, but you must first overcome current competition.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=jR70V-6BaEs"
+    },
+    {
+      "video_id": "DsRBHBhwsX4",
+      "channel_theme": "Releasing an idealized past love opens the door to a better match.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=DsRBHBhwsX4"
     }
   ]
 }

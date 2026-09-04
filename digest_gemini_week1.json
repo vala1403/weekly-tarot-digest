@@ -1,60 +1,60 @@
 {
   "sign": "Gemini",
-  "week_of": "2026-08-31",
+  "week_of": "2026-09-07",
   "categories": {
     "love": {
-      "summary": "An important romantic crossroads is the clearest pattern for Gemini this week. Several readings point to the same task: honestly assessing whether a current or returning connection truly serves you.",
+      "summary": "A new romantic connection or opportunity seems to be emerging for Gemini this week, but releasing past emotional baggage or unhealthy attachments is key to fully welcoming it in.",
       "reader_count": 4,
-      "disagreement": "Some readers see new love and emotional healing on the horizon. Others describe a fading connection, or a returning ex, requiring a clear-eyed decision about whether to move on."
+      "disagreement": "Some readers focused on a fresh new connection developing, while one suggested a reunion or rekindling with someone from the past is equally possible."
     },
     "finance": {
-      "summary": "A significant financial opportunity or turning point is the clearest pattern for Gemini this week. Several readers suggest reassessing where your energy and resources are going, to make the most of what's coming.",
-      "reader_count": 5,
-      "disagreement": "Some readers highlight incoming financial gains. Others warn of overextension, pointing to a need to cut back or reallocate funds."
+      "summary": "Most readers see financial growth and abundance building for Gemini this week, so focus your energy on opportunities that genuinely give back and avoid pouring effort into situations with no real return.",
+      "reader_count": 4,
+      "disagreement": "One reading cautioned that energy may be going toward things that no longer hold value, while others leaned more optimistically toward incoming abundance and favorable new opportunities."
     },
     "career": {
-      "summary": "A pivotal professional moment is the clearest pattern this week. Several readings urge decisive action, whether that means seizing an opportunity, stepping into leadership, or committing to a new direction, rather than letting hesitation hold Gemini back.",
-      "reader_count": 5,
-      "disagreement": "Some readers see Gemini ready to step forward into new roles or opportunities. Others strike a more cautious note, describing plans best kept private and setbacks that need to be overcome before progress is made."
+      "summary": "Most readers see this as a strong moment for Gemini to make their skills and work more visible, so now is the time to step up boldly and let what you have built speak for itself.",
+      "reader_count": 4,
+      "disagreement": "Some readers encouraged pushing forward and showcasing skills where you are, while one suggested leaving an unfulfilling role entirely may be the more rewarding path."
     },
     "family": {
-      "summary": "Relationships and social bonds are central to this week's readings for Gemini. The shared advice is to lean into connections that genuinely support you, and let go of those that drain your energy or cause tension.",
-      "reader_count": 4,
-      "disagreement": "Some readers see nurturing and healing through close bonds. One reading points elsewhere, suggesting a failed group plan may push Gemini toward a more fulfilling solo path."
+      "summary": "Only a few readers touched on family this week, but those who did highlighted themes of healing rifts, setting boundaries with draining people, and embracing joyful time with supportive loved ones.",
+      "reader_count": 3,
+      "disagreement": "Some readers focused on tension and boundaries with draining family members, while others pointed to reconciliation and joyful connection with uplifting people."
     }
   },
-  "overall_tone": "cautious",
-  "overall_tone_summary": "Two of the five readings strike a cautionary note this week, and together they anchor a week that rewards careful, measured choices for Gemini.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "Two readings point upward, and even transformation here carries a promising undercurrent.",
   "readers": [
     {
-      "video_id": "t1UKcfDWMPE",
-      "channel_theme": "Solo success follows a group plan falling apart.",
+      "video_id": "S5xHzRDC4To",
+      "channel_theme": "Release something or someone first to make room for new love.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=t1UKcfDWMPE"
+      "url": "https://www.youtube.com/watch?v=S5xHzRDC4To"
     },
     {
-      "video_id": "3cBXGeFJIUw",
-      "channel_theme": "Friendships and bonds are highlighted as sources of healing and support.",
+      "video_id": "TbEY3rGRF7M",
+      "channel_theme": "Past emotional baggage is actively blocking a promising new connection.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=TbEY3rGRF7M"
+    },
+    {
+      "video_id": "N8nPxecEuXc",
+      "channel_theme": "A fated financial surge tied to double eight energy is highlighted.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=3cBXGeFJIUw"
+      "url": "https://www.youtube.com/watch?v=N8nPxecEuXc"
     },
     {
-      "video_id": "_lYQpIFLYh0",
-      "channel_theme": "A fading romance may force a difficult stay-or-go decision.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=_lYQpIFLYh0"
+      "video_id": "QkkN7TALw28",
+      "channel_theme": "Watch actions closely to confirm a slow-building romance is genuine.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=QkkN7TALw28"
     },
     {
-      "video_id": "JE-FNebI70I",
-      "channel_theme": "A milestone event is stirring secrecy and tension over who is included.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=JE-FNebI70I"
-    },
-    {
-      "video_id": "EwaQ85jgWwY",
-      "channel_theme": "Family events like marriage or divorce may directly shape financial outcomes.",
-      "tone": "deliberative",
-      "url": "https://www.youtube.com/watch?v=EwaQ85jgWwY"
+      "video_id": "clg5eAGKS3E",
+      "channel_theme": "Fear may be causing Gemini to ignore a new financial opportunity.",
+      "tone": "introspective",
+      "url": "https://www.youtube.com/watch?v=clg5eAGKS3E"
     }
   ]
 }

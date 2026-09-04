@@ -1,60 +1,60 @@
 {
   "sign": "Taurus",
-  "week_of": "2026-08-31",
+  "week_of": "2026-09-07",
   "categories": {
     "love": {
-      "summary": "Emotional healing is the clearest romantic pattern for Taurus this week. Several readings point to releasing past hurt as the opening for a deeper, or an entirely new, connection.",
+      "summary": "Most readers sense that current or incoming romantic connections carry emotional weight and may require honest reflection, so trust your instincts and prioritize partnerships built on genuine loyalty and open communication.",
       "reader_count": 4,
-      "disagreement": "Some readers suggest moving on from an unfulfilling relationship. Others point instead to a deepening of an existing bond, or the arrival of something new."
+      "disagreement": "Some readers saw a hopeful new connection approaching, while others described an existing relationship struggling with tension and breakdown in communication."
     },
     "finance": {
-      "summary": "A meaningful financial opportunity or reward is the clearest pattern for Taurus this week. Several readers frame it as the payoff of effort already made, laying groundwork for more lasting stability.",
-      "reader_count": 5,
-      "disagreement": "Some readers frame this as a new opportunity worth pursuing. One reading goes further, suggesting Taurus may need to leave a secure position behind to find something more fulfilling."
+      "summary": "A few readers suggest this could be a fortunate and abundant period for Taurus, so be intentional about where you direct your money and energy, as balanced and focused efforts are likely to bring real returns.",
+      "reader_count": 3,
+      "disagreement": "One reading emphasized that Taurus may be navigating financial disruption from personal or family circumstances, while others focused on incoming prosperity and mindful investment of energy."
     },
     "career": {
-      "summary": "This reads as a pivotal career moment for Taurus. Most readings point to a breakthrough or new opportunity close at hand, with trust in your existing skills and continued dedication as the common thread.",
-      "reader_count": 5,
-      "disagreement": "Some readers emphasize leaving stability behind for a more fulfilling path. Others focus instead on persisting with current efforts to earn recognition and reward."
+      "summary": "Most readers this week sense Taurus moving through a period of transition or uncertainty toward clearer professional momentum, so trust your abilities and take steady, intentional steps forward rather than holding back or rushing.",
+      "reader_count": 4,
+      "disagreement": "One reader highlighted a collaboration that is fractured and misaligned, while others focused on individual drive and independent progress as the path forward."
     },
     "family": {
-      "summary": "A smaller group of readers points to family relationships moving toward healing and restoration this week. Releasing old wounds and drawing on available support are described as building a more stable foundation ahead.",
+      "summary": "A few readers this week highlight the importance of evaluating who around you is truly supportive, suggesting that leaning into uplifting connections can help Taurus navigate shifting family dynamics and move toward a more positive chapter.",
       "reader_count": 3,
-      "disagreement": "Some readers focus on healing emotional wounds within family ties. One reading points instead to practical family support, such as inheritance or financial investment in your future."
+      "disagreement": "Some readers focused on Taurus auditing and building outward connections, while one emphasized handling family changes independently without relying on others."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "Optimism remains the dominant note for Taurus this week, with real change stirring underneath it. Third week running.",
+  "overall_tone": "cautious",
+  "overall_tone_summary": "Two cautionary readings anchor a week urging Taurus to tread carefully and deliberately.",
   "readers": [
     {
-      "video_id": "avxm2kBk1-g",
-      "channel_theme": "Step boldly into leadership now by trusting your skills and deciding fast.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=avxm2kBk1-g"
+      "video_id": "aKCH2Y5XNa0",
+      "channel_theme": "Abundance and prosperity are clearly on the horizon for Taurus this week.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=aKCH2Y5XNa0"
     },
     {
-      "video_id": "bdEkEX5PszU",
-      "channel_theme": "Releasing past pain, both romantic and family, unlocks every area of your life.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=bdEkEX5PszU"
+      "video_id": "nqynbS7zdo8",
+      "channel_theme": "Focus on steady work routines while adjusting to a new environment.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=nqynbS7zdo8"
     },
     {
-      "video_id": "TXFTXKT6V20",
-      "channel_theme": "Leaving financial security behind may be necessary to follow a more fulfilling path.",
+      "video_id": "Mcn9fSqUbQc",
+      "channel_theme": "You can achieve stability independently, even amid major life upheavals.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=Mcn9fSqUbQc"
+    },
+    {
+      "video_id": "MniMduTqcDM",
+      "channel_theme": "A period of self-doubt is ending, so pursue goals with bold confidence.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=TXFTXKT6V20"
+      "url": "https://www.youtube.com/watch?v=MniMduTqcDM"
     },
     {
-      "video_id": "1bqTnA1LRyo",
-      "channel_theme": "Karmic rewards are arriving soon for all your past struggles and sacrifices.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=1bqTnA1LRyo"
-    },
-    {
-      "video_id": "BP-_yklvrmI",
-      "channel_theme": "Family wealth or inheritance could be a key source of your financial growth.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=BP-_yklvrmI"
+      "video_id": "ic0DDyyzUeI",
+      "channel_theme": "A key relationship suffers from persistent poor communication and lack of cooperation.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=ic0DDyyzUeI"
     }
   ]
 }

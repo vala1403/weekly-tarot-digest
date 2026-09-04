@@ -1,59 +1,59 @@
 {
   "sign": "Leo",
-  "week_of": "2026-08-31",
+  "week_of": "2026-09-07",
   "categories": {
     "love": {
-      "summary": "Solo dos lectoras se adentraron en el amor esta semana, pero ambas percibieron un impulso de energía romántica llegando para Leo, así que aprovecha ese momento y mantente abierto o abierta a nuevas conexiones o al renacer de vínculos ya existentes.",
-      "reader_count": 2,
-      "disagreement": null
+      "summary": "La mayoría de los lectores esta semana perciben que se acerca una conexión romántica nueva o renovada para Leo, así que mantente abierto a lo que está por venir, comunica tus necesidades con claridad y presta atención a quienes quizás no te desean lo mejor.",
+      "reader_count": 4,
+      "disagreement": "Una lectora destacó la incertidumbre emocional y la necesidad de alejarse de relaciones que agotan, mientras que otros se centraron en nuevas conexiones o vínculos revividos que están a punto de llegar."
     },
     "finance": {
-      "summary": "La mayoría de las lectoras perciben un punto de inflexión financiero para Leo esta semana, apuntando hacia la necesidad de soltar lo que ya no funciona y abrir espacio para nuevas oportunidades que puedan construir estabilidad y abundancia duraderas.",
-      "reader_count": 5,
-      "disagreement": "Algunas lectoras vieron a Leo beneficiándose activamente del esfuerzo pasado, con recompensas que ya están llegando, mientras que otras sugirieron que el cambio requiere acción consciente y apertura a la ayuda externa antes de que el crecimiento pueda comenzar."
+      "summary": "La mayoría de los lectores perciben una mejora económica en el horizonte esta semana, así que dirige tu energía hacia inversiones equilibradas y que valgan la pena, y ten cuidado con las decisiones impulsivas o los intercambios desiguales que drenan tus recursos.",
+      "reader_count": 3,
+      "disagreement": "Una lectora hizo hincapié en retirarse de situaciones que agotan, mientras que otros señalaron ganancias económicas próximas como aumentos de sueldo o bonos, lo que sugiere distintos puntos de partida en el camino financiero."
     },
     "career": {
-      "summary": "Las cinco lectoras perciben un avance profesional significativo en el horizonte de Leo, ya sea a través de una nueva oportunidad, un ascenso o un comienzo renovado, así que confía en ti y avanza con seguridad aunque existan preocupaciones económicas o de competencia.",
-      "reader_count": 5,
-      "disagreement": "Algunas lectoras se centraron en una emocionante nueva oportunidad que apenas comienza a surgir, mientras que otras sugirieron que Leo ya está saliendo de una larga lucha y empezando a ver progresos concretos como ascensos o aumentos de sueldo."
+      "summary": "Varios lectores ven que el impulso profesional de Leo va en aumento esta semana, con oportunidades prometedoras o un ciclo de éxito a la vista, así que mantente enfocado en tus verdaderas ambiciones y evita las distracciones que puedan desviarte del camino.",
+      "reader_count": 3,
+      "disagreement": "Algunos lectores destacaron triunfos y oportunidades que se aproximan, mientras que otros señalaron conflictos, dudas internas o la necesidad de hacer una pausa antes de actuar."
     },
     "family": {
-      "summary": "Solo algunas lectoras abordaron el tema familiar esta semana, pero quienes lo hicieron señalaron una estabilización gradual en el entorno del hogar, con dinámicas económicas y relacionales que poco a poco encuentran su equilibrio tras un período de dificultad.",
-      "reader_count": 3,
-      "disagreement": "Una lectora destacó un hogar cálido y armonioso en el horizonte, mientras que otra señaló la presencia de una figura paterna controladora que genera tensión subyacente y resistencia a las influencias externas."
+      "summary": "Solo dos lectores abordaron el tema familiar esta semana, pero ambos apuntaron a una disminución de la tensión y un regreso a la calidez, lo que sugiere que Leo puede apoyarse en la lealtad y el respaldo dentro de sus relaciones más cercanas mientras las cosas se asientan.",
+      "reader_count": 2,
+      "disagreement": null
     }
   },
-  "overall_tone_summary": "El optimismo supera a la cautela esta semana, con una chispa brillante y triunfante que ilumina el camino. Tercera semana consecutiva.",
+  "overall_tone_summary": "Esta semana llegan grandes cambios que sacuden lo que Leo creía tener bien establecido.",
   "readers": [
     {
-      "video_id": "mQR7z613hrI",
-      "channel_theme": "Una nueva oportunidad profesional alineada con las pasiones de Leo podría marcar el inicio de un nuevo capítulo.",
+      "video_id": "y1G2cyddg7M",
+      "channel_theme": "Enfócate únicamente en los intercambios equilibrados y aléjate por completo de todo lo que te drene la energía.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=y1G2cyddg7M"
+    },
+    {
+      "video_id": "2czCBulqQNw",
+      "channel_theme": "Es posible que llegue un aumento de sueldo o una recompensa material, pero protege bien lo que ganes.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=mQR7z613hrI"
+      "url": "https://www.youtube.com/watch?v=2czCBulqQNw"
     },
     {
-      "video_id": "9Mj9EmoEEqg",
-      "channel_theme": "Un contacto laboral sospechoso del pasado podría estar regresando apresuradamente con motivos ocultos.",
+      "video_id": "uX6-Zp9Dfrs",
+      "channel_theme": "Ten cuidado con terceros envidiosos que intentan sabotear tu felicidad en el amor.",
       "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=9Mj9EmoEEqg"
+      "url": "https://www.youtube.com/watch?v=uX6-Zp9Dfrs"
     },
     {
-      "video_id": "0pvdzhPd7j0",
-      "channel_theme": "Una figura paterna controladora podría estar influyendo en silencio en las decisiones de Leo.",
+      "video_id": "TBT4lzuOms0",
+      "channel_theme": "Espera antes de tomar decisiones importantes hasta que te hayas recuperado de un largo período de agotamiento.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=TBT4lzuOms0"
+    },
+    {
+      "video_id": "sokIO9ZkLMQ",
+      "channel_theme": "La verdadera felicidad viene de adentro, no de la aprobación de los demás.",
       "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=0pvdzhPd7j0"
-    },
-    {
-      "video_id": "ObK0hEnr874",
-      "channel_theme": "Leo debe actuar con valentía y protegerse de los rivales para alcanzar el siguiente nivel.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=ObK0hEnr874"
-    },
-    {
-      "video_id": "zkkpHOdoB4U",
-      "channel_theme": "Ingresos inesperados provenientes de acuerdos legales o negocios inmobiliarios recompensan el largo sacrificio de Leo.",
-      "tone": "triunfante",
-      "url": "https://www.youtube.com/watch?v=zkkpHOdoB4U"
+      "url": "https://www.youtube.com/watch?v=sokIO9ZkLMQ"
     }
   ]
 }

@@ -1,60 +1,60 @@
 {
   "sign": "Pisces",
-  "week_of": "2026-08-31",
+  "week_of": "2026-09-07",
   "categories": {
     "love": {
-      "summary": "New or deepening romantic connections are the clearest pattern for Pisces this week. Several readings point to staying open to what's already present as what draws meaningful relationships closer.",
-      "reader_count": 4,
-      "disagreement": "One reading suggests lingering attachment to the past may be blocking new love. Others point instead to fresh connections already forming, or arriving soon."
+      "summary": "New romantic possibilities are quietly emerging for Pisces this week, but past emotional wounds and patterns of disappointment may get in the way, so staying open while protecting your own self-worth is key.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw fresh romantic hope and encouraged openness, while others warned of ongoing betrayal and emotional pain within existing connections, suggesting very different starting points for Pisces."
     },
     "finance": {
-      "summary": "Most readings agree that financial improvement is on the way for Pisces. Several advise mindful spending, and keeping any incoming windfall private until things settle.",
+      "summary": "Several readers point to a financial turning point this week, with new opportunities or revived ideas holding real promise, so this may be the moment to take practical steps forward rather than waiting for stagnant situations to improve on their own.",
       "reader_count": 4,
-      "disagreement": "Some readers focus on caution and intentional spending. Others frame it more simply: incoming gains arriving without conditions attached."
+      "disagreement": "Some readers highlighted incoming opportunities and creative potential, while others suggested cutting ties with disappointing work situations where growth has stalled."
     },
     "career": {
-      "summary": "All five readings point to fresh career opportunities on the horizon for Pisces this week. The shared advice is to trust the effort already made, and stay open to new directions arriving through your network or your own initiative.",
+      "summary": "Most readers sense that Pisces is approaching a meaningful career shift this week, and standing out through bold, unconventional approaches rather than waiting passively will be the key to making the most of it.",
       "reader_count": 5,
-      "disagreement": "Some readers emphasize actively seizing new opportunities. Others suggest instead trusting the process, and waiting for results to unfold on their own."
+      "disagreement": "Some readers encouraged proactive, unconventional moves to spark progress. One reading suggested the situation is already stagnant and a decisive break may be needed to move forward at all."
     },
     "family": {
-      "summary": "Three of the five readings touch on family this week, and the shared thread is a need to reconsider what you owe to those around you, setting clearer limits where relationships have become draining or unbalanced.",
-      "reader_count": 3,
-      "disagreement": "Some readers emphasize support and connection from loved ones as a positive force. Others point instead to a need for firmer limits with difficult or dependent family members."
+      "summary": "Family themes this week blend optimism and caution, with some readers pointing toward healing and stability ahead while others urge Pisces to guard against dishonesty from loved ones and hold firm on personal boundaries.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw family life moving toward harmony and stability. Others warned of potential betrayal from close relatives, suggesting Pisces stay guarded rather than fully open."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "Possibility is the throughline across nearly every reading for Pisces this week, appearing in some form in almost every category.",
+  "overall_tone": "cautious",
+  "overall_tone_summary": "Three of five readings urge careful steps before moving forward this week.",
   "readers": [
     {
-      "video_id": "w8ZMagCm1y8",
-      "channel_theme": "Community and network connections are described as key to new opportunities ahead.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=w8ZMagCm1y8"
-    },
-    {
-      "video_id": "lRoKOG5H8oE",
-      "channel_theme": "Keep any financial windfall private to protect it from others.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=lRoKOG5H8oE"
-    },
-    {
-      "video_id": "SENOS2Dx0Sc",
-      "channel_theme": "Releasing old burdens opens the door to material and relational rewards.",
+      "video_id": "LQ10gor1D8E",
+      "channel_theme": "An old creative idea can be practically transformed into financial reward now.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=SENOS2Dx0Sc"
+      "url": "https://www.youtube.com/watch?v=LQ10gor1D8E"
     },
     {
-      "video_id": "t75d7VnvBgs",
-      "channel_theme": "Self-employed Pisces may find growth through spiritually aligned career work.",
+      "video_id": "FPqLbzIBHDA",
+      "channel_theme": "Family values and traditions are actively shaping key decisions this week.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=t75d7VnvBgs"
+      "url": "https://www.youtube.com/watch?v=FPqLbzIBHDA"
     },
     {
-      "video_id": "pyjm-f5Nyv0",
-      "channel_theme": "Someone close is realizing their feelings, inspired by your positive energy.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=pyjm-f5Nyv0"
+      "video_id": "iySyem5MAYo",
+      "channel_theme": "A deeply painful yet invested romantic bond carries both love and suffering.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=iySyem5MAYo"
+    },
+    {
+      "video_id": "llIFlgq_tSc",
+      "channel_theme": "Repeated betrayal in love and family demands firm boundaries, not excuses.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=llIFlgq_tSc"
+    },
+    {
+      "video_id": "32wym58rJNo",
+      "channel_theme": "New romantic prospects appear exciting but may lack trustworthiness or consistency.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=32wym58rJNo"
     }
   ]
 }

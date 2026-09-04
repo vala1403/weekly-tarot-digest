@@ -1,60 +1,60 @@
 {
   "sign": "Sagittarius",
-  "week_of": "2026-08-31",
+  "week_of": "2026-09-07",
   "categories": {
     "love": {
-      "summary": "Romantic opportunity, whether through a new connection or a deepening bond, is the clearest pattern for Sagittarius this week. Several readings point to patience, rather than rushing, as what lets it unfold.",
-      "reader_count": 4,
-      "disagreement": "Some readers focus on fresh romantic beginnings. One reading frames it instead as a choice: reconciling a past relationship, or moving toward something new."
+      "summary": "Most readers sense a new or deepening romantic connection on the horizon for Sagittarius, suggesting that patience and emotional openness will be key to welcoming the meaningful bond that may be approaching.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on a fresh romantic beginning or fulfillment of long-awaited love, while others suggested Sagittarius is releasing an old connection to make space for something new."
     },
     "finance": {
-      "summary": "A financial turning point is emerging for Sagittarius this week. Several readings advise carefully evaluating any new opportunities or agreements now, with an eye toward long-term stability rather than quick gains.",
-      "reader_count": 5,
-      "disagreement": "Some readers emphasize caution and scrutiny around financial decisions. Others focus instead on staying open to opportunity, framing mindset as part of what draws it in."
+      "summary": "Nearly all readers agree that Sagittarius is moving into a prosperous and stable financial period, so keep persisting in your efforts as rewards, new opportunities, and lasting abundance appear to be on the way.",
+      "reader_count": 4,
+      "disagreement": "No notable disagreement. Most readers align on financial growth and reward, though one specifically highlights a single life-changing offer rather than a gradual buildup of stability."
     },
     "career": {
-      "summary": "A significant career shift or new opportunity appears on the horizon for Sagittarius this week. Several readings point to disciplined follow-through, alongside enthusiasm, as what turns this potential into something lasting.",
-      "reader_count": 5,
-      "disagreement": "Some readers see a new opportunity arriving with confidence. Others note real uncertainty about whether new professional dynamics can be trusted to deliver stable results."
+      "summary": "Several readers see a meaningful professional shift unfolding for Sagittarius this week, whether through a new opportunity, spiritual vocation, or long-earned recognition, so trust the progress being made and keep showing up with dedication.",
+      "reader_count": 3,
+      "disagreement": "Some readers focused on an incoming external opportunity replacing a difficult situation, while others emphasized that internal persistence and past effort are what is now generating the reward."
     },
     "family": {
-      "summary": "Family life appears active for Sagittarius this week, with support, change, and even celebration all surfacing across readings. Several point to leaning on trusted loved ones while navigating any domestic shifts.",
+      "summary": "Several readers sense that family is becoming a meaningful focus this week, so take time to reprioritize accordingly, offer support to those leaning on you, and trust that your steady efforts are naturally bringing more stability to your home life.",
       "reader_count": 4,
-      "disagreement": "Some readers highlight warmth and support within close relationships. Others warn instead of potential conflict or disruption from those in Sagittarius's inner circle."
+      "disagreement": "Some readers highlight active support and reordering priorities, while one points to a quieter, more reflective look at past family responsibilities."
     }
   },
-  "overall_tone": "cautious",
-  "overall_tone_summary": "Two of the five readings strike a cautionary note for Sagittarius this week, the clearest signal to tread carefully rather than rush ahead.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "Optimism rises steadily, carrying Sagittarius toward promising new horizons this week.",
   "readers": [
     {
-      "video_id": "XEGVjvLgnvU",
-      "channel_theme": "Trust and transparency are the central tests in love, money, and work.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=XEGVjvLgnvU"
-    },
-    {
-      "video_id": "3Yi_zLjmt1k",
-      "channel_theme": "A new career opportunity may emerge specifically around December.",
+      "video_id": "R9hMW0vs-oM",
+      "channel_theme": "A major career breakthrough is replacing a burdensome work situation soon.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=3Yi_zLjmt1k"
+      "url": "https://www.youtube.com/watch?v=R9hMW0vs-oM"
     },
     {
-      "video_id": "AdVwAcd78Ow",
-      "channel_theme": "A romantic proposal and family expansion signal joyful new beginnings ahead.",
-      "tone": "celebratory",
-      "url": "https://www.youtube.com/watch?v=AdVwAcd78Ow"
-    },
-    {
-      "video_id": "jo7BelAj2Lc",
-      "channel_theme": "Choosing between a familiar path and a promising new direction defines the week.",
+      "video_id": "Pd5lVSDgrdg",
+      "channel_theme": "A life-changing offer may arrive, tied to a healing or spiritual career.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=jo7BelAj2Lc"
+      "url": "https://www.youtube.com/watch?v=Pd5lVSDgrdg"
     },
     {
-      "video_id": "DKTZhjFhUfw",
-      "channel_theme": "A sudden career shift and financial revelation demand difficult but necessary choices.",
+      "video_id": "gIH_B9Fcf24",
+      "channel_theme": "Sagittarius must fully detach emotionally before someone new can enter.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=DKTZhjFhUfw"
+      "url": "https://www.youtube.com/watch?v=gIH_B9Fcf24"
+    },
+    {
+      "video_id": "KyBUjmQofYQ",
+      "channel_theme": "A meaningful connection is peacefully fading as Sagittarius naturally evolves.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=KyBUjmQofYQ"
+    },
+    {
+      "video_id": "mJ_p-VYO6ms",
+      "channel_theme": "Long-awaited love and financial stability are finally arriving together.",
+      "tone": "triumphant",
+      "url": "https://www.youtube.com/watch?v=mJ_p-VYO6ms"
     }
   ]
 }

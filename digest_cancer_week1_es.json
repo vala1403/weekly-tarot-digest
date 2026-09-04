@@ -1,59 +1,59 @@
 {
   "sign": "Cáncer",
-  "week_of": "2026-08-31",
+  "week_of": "2026-09-07",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores perciben un giro en la vida amorosa de Cáncer, donde la soledad va cediendo paso a conexiones nuevas o renovadas llenas de significado. Mantente abierto a lo que está surgiendo en lugar de replegarte hacia adentro.",
-      "reader_count": 4,
-      "disagreement": "Algunos lectores vieron desarrollos románticos positivos y nuevos vínculos tomando forma, mientras que uno sugirió que una figura del pasado podría regresar y complicar las relaciones actuales."
+      "summary": "La mayoría de los lectores perciben un giro en la vida amorosa de Cáncer esta semana, y el consejo compartido es soltar lo que ya no te sirve, ya sean patrones del pasado o vínculos que no son auténticos, para abrirle paso a una conexión genuina y satisfactoria que se aproxima.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores se centraron en dejar ir relaciones falsas o caducas, mientras que otros señalaron la llegada de un nuevo vínculo romántico o el regreso de un ex como la energía principal a gestionar."
     },
     "finance": {
-      "summary": "La mayoría de los lectores esta semana perciben que se acerca un punto de inflexión financiero importante para Cáncer, donde las dificultades prolongadas comienzan a dar paso a una mayor abundancia. Vale la pena adoptar un enfoque disciplinado e intencional para ayudar a que ese cambio se concrete.",
-      "reader_count": 5,
-      "disagreement": "Algunos lectores vieron el cambio ya en marcha con energía suficiente para manejarlo, mientras que otros lo plantearon como una transformación pendiente que depende de dejar atrás viejos patrones o de tomar decisiones financieras concretas."
+      "summary": "La mayoría de los lectores perciben que el impulso financiero está tomando forma para Cáncer, así que este es el momento de hacer un balance de tus recursos, frenar el autosabotaje y cultivar mayor disciplina para aprovechar al máximo la abundancia que está por llegar.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores destacaron una amenaza externa que drena los recursos, mientras que otros se enfocaron en el miedo interno y el autosabotaje como el principal obstáculo para el progreso económico."
     },
     "career": {
-      "summary": "Los cinco lectores señalan un crecimiento profesional significativo desplegándose para Cáncer esta semana. Abrázate a las oportunidades que emergen con valentía y procura que la ambición no le quite espacio al equilibrio en otras áreas de tu vida.",
-      "reader_count": 5,
-      "disagreement": "Algunos lectores vieron un avance gradual y constante gracias al esfuerzo sostenido, mientras que otros indicaron que es necesario alejarse de un trabajo estancado antes de que pueda comenzar el verdadero crecimiento."
+      "summary": "Varios lectores ven cambios profesionales en el horizonte para Cáncer esta semana, ya sea dejando atrás lo que ya no te corresponde o adentrándote en algo nuevo, por lo que despejar los obstáculos del pasado y pensar con estrategia te ayudará a sacar el mayor provecho de lo que está por venir.",
+      "reader_count": 3,
+      "disagreement": "Algunos lectores se enfocaron en abandonar situaciones tóxicas o que no están alineadas con tu propósito, mientras que otros pusieron el acento en los avances que se aproximan y las nuevas oportunidades, más que en la necesidad de despejar el camino primero."
     },
     "family": {
-      "summary": "La mayoría de los lectores ven el hogar y la familia como una fuente de estabilidad y plenitud para Cáncer esta semana. Apóyate en esos vínculos y deja que la energía estabilizadora de tus seres queridos impulse tus metas más amplias.",
-      "reader_count": 4,
-      "disagreement": "Un lector señaló incertidumbre y distanciamiento dentro de una relación cercana, mientras que la mayoría describió a la familia como una base sólida y nutritiva."
+      "summary": "Solo dos lectores abordaron el tema familiar esta semana, pero ambos señalaron que Cáncer necesita tomar distancia de relaciones desgastantes o conflictivas para encontrar mayor estabilidad y equilibrio.",
+      "reader_count": 2,
+      "disagreement": "Un lector se enfocó específicamente en un familiar como fuente del conflicto, mientras que el otro amplió el enfoque hacia amistades tóxicas y vínculos poco saludables en general."
     }
   },
-  "overall_tone_summary": "Cambios poderosos están transformando el camino de Cáncer de maneras profundas y duraderas.",
+  "overall_tone_summary": "Esta semana empuja a Cáncer a través de cambios significativos, con la reflexión como ancla que estabiliza el camino. Segunda semana consecutiva.",
   "readers": [
     {
-      "video_id": "yNOTMHcVvVs",
-      "channel_theme": "Las oportunidades en el amor y en el trabajo están encajando más rápido de lo esperado.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=yNOTMHcVvVs"
+      "video_id": "_FRA9QJc9Gc",
+      "channel_theme": "Alguien cercano ha estado drenando tus recursos y tu energía, es hora de alejarte de esa persona.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=_FRA9QJc9Gc"
     },
     {
-      "video_id": "weG7OR1P5mg",
-      "channel_theme": "Una persona del pasado podría volver y alterar una relación o amistad existente.",
+      "video_id": "-uW1CqTq4TE",
+      "channel_theme": "Es posible que un ex regrese, pero soltar los viejos patrones es clave para tu crecimiento.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=-uW1CqTq4TE"
+    },
+    {
+      "video_id": "jZbSZJckAyc",
+      "channel_theme": "Un gran ascenso profesional o el lanzamiento de un nuevo negocio está por llegar.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=jZbSZJckAyc"
+    },
+    {
+      "video_id": "dWhw_M8QZXo",
+      "channel_theme": "Empieza a disciplinar tus ahorros ahora, quizás con un futuro viaje en mente.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=dWhw_M8QZXo"
+    },
+    {
+      "video_id": "anu2HayZ-d0",
+      "channel_theme": "El miedo te frena para reconectar, pero hay un signo de fuego esperándote.",
       "tone": "reflexivo",
-      "url": "https://www.youtube.com/watch?v=weG7OR1P5mg"
-    },
-    {
-      "video_id": "fMjx3xZ6ZpA",
-      "channel_theme": "El giro financiero requiere dejar atrás conscientemente lo que ya no funciona.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=fMjx3xZ6ZpA"
-    },
-    {
-      "video_id": "WFahW8Tl3tk",
-      "channel_theme": "La soledad está por terminar, con conexiones significativas que llegarán en los próximos meses.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=WFahW8Tl3tk"
-    },
-    {
-      "video_id": "-TzkXhN3xng",
-      "channel_theme": "Cáncer está pasando de los límites autoimpuestos hacia la valentía creativa y la disposición a arriesgarse.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=-TzkXhN3xng"
+      "url": "https://www.youtube.com/watch?v=anu2HayZ-d0"
     }
   ]
 }
