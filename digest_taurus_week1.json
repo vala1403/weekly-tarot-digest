@@ -1,60 +1,60 @@
 {
   "sign": "Taurus",
-  "week_of": "2026-09-07",
+  "week_of": "2026-09-14",
   "categories": {
     "love": {
-      "summary": "Most readers sense that current or incoming romantic connections carry emotional weight and may require honest reflection, so trust your instincts and prioritize partnerships built on genuine loyalty and open communication.",
+      "summary": "Several readers sense a mix of romantic opportunity and relational reassessment this week, so Taurus is encouraged to lean toward honest, trustworthy connections while stepping back from those who drain their energy.",
       "reader_count": 4,
-      "disagreement": "Some readers saw a hopeful new connection approaching, while others described an existing relationship struggling with tension and breakdown in communication."
+      "disagreement": "Some readers focused on romantic opportunity and choosing the right partner, while others emphasized pulling back from draining relationships and prioritizing personal boundaries."
     },
     "finance": {
-      "summary": "A few readers suggest this could be a fortunate and abundant period for Taurus, so be intentional about where you direct your money and energy, as balanced and focused efforts are likely to bring real returns.",
-      "reader_count": 3,
-      "disagreement": "One reading emphasized that Taurus may be navigating financial disruption from personal or family circumstances, while others focused on incoming prosperity and mindful investment of energy."
+      "summary": "Most readers see this as a meaningful moment for Taurus to claim greater financial stability, encouraging bold action and creative, long-term thinking to build the abundance that is rightfully theirs.",
+      "reader_count": 4,
+      "disagreement": "One reader urged assertive action against unfair treatment, while others focused on positive incoming opportunities and building sustainable security rather than addressing wrongs."
     },
     "career": {
-      "summary": "Most readers this week sense Taurus moving through a period of transition or uncertainty toward clearer professional momentum, so trust your abilities and take steady, intentional steps forward rather than holding back or rushing.",
+      "summary": "Several readers see this as a pivotal week for Taurus to assert themselves professionally, whether by speaking up, setting boundaries, or pursuing new opportunities, channeling their unique strengths with confidence and intention.",
       "reader_count": 4,
-      "disagreement": "One reader highlighted a collaboration that is fractured and misaligned, while others focused on individual drive and independent progress as the path forward."
+      "disagreement": "Some readers highlighted recognition and advancement, while others focused on reinvention after loss or redirecting energy away from draining responsibilities."
     },
     "family": {
-      "summary": "A few readers this week highlight the importance of evaluating who around you is truly supportive, suggesting that leaning into uplifting connections can help Taurus navigate shifting family dynamics and move toward a more positive chapter.",
+      "summary": "Only a few readers touched on family this week, with those who did pointing to the importance of addressing burdens and responsibilities head-on rather than staying passive, while working toward lasting stability for those you love.",
       "reader_count": 3,
-      "disagreement": "Some readers focused on Taurus auditing and building outward connections, while one emphasized handling family changes independently without relying on others."
+      "disagreement": "Some readers focused on releasing the weight of others' problems, while one emphasized actively confronting shared financial or family obligations rather than staying silent."
     }
   },
-  "overall_tone": "cautious",
-  "overall_tone_summary": "Two cautionary readings anchor a week urging Taurus to tread carefully and deliberately.",
+  "overall_tone": "empowering",
+  "overall_tone_summary": "Taurus steps into their strength this week with growing confidence and hope.",
   "readers": [
     {
-      "video_id": "aKCH2Y5XNa0",
-      "channel_theme": "Abundance and prosperity are clearly on the horizon for Taurus this week.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=aKCH2Y5XNa0"
-    },
-    {
-      "video_id": "nqynbS7zdo8",
-      "channel_theme": "Focus on steady work routines while adjusting to a new environment.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=nqynbS7zdo8"
-    },
-    {
-      "video_id": "Mcn9fSqUbQc",
-      "channel_theme": "You can achieve stability independently, even amid major life upheavals.",
+      "video_id": "wqwFuSQBBeU",
+      "channel_theme": "Career success brings recognition and possible advancement this week.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=Mcn9fSqUbQc"
+      "url": "https://www.youtube.com/watch?v=wqwFuSQBBeU"
     },
     {
-      "video_id": "MniMduTqcDM",
-      "channel_theme": "A period of self-doubt is ending, so pursue goals with bold confidence.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=MniMduTqcDM"
+      "video_id": "hBPXLipUPr0",
+      "channel_theme": "Stop absorbing others' problems and firmly protect your own energy.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=hBPXLipUPr0"
     },
     {
-      "video_id": "ic0DDyyzUeI",
-      "channel_theme": "A key relationship suffers from persistent poor communication and lack of cooperation.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=ic0DDyyzUeI"
+      "video_id": "BgJnbHmAct4",
+      "channel_theme": "Boldly confront unfair financial or legal treatment and demand what you deserve.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=BgJnbHmAct4"
+    },
+    {
+      "video_id": "MC1_5NruLTw",
+      "channel_theme": "Taurus keeps resisting a meaningful romantic opportunity due to internal barriers.",
+      "tone": "introspective",
+      "url": "https://www.youtube.com/watch?v=MC1_5NruLTw"
+    },
+    {
+      "video_id": "qFBdGXvtbqQ",
+      "channel_theme": "Choose a trustworthy partner and build long-term security creatively.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=qFBdGXvtbqQ"
     }
   ]
 }

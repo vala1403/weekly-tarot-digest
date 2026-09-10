@@ -1,60 +1,60 @@
 {
   "sign": "Sagittarius",
-  "week_of": "2026-09-07",
+  "week_of": "2026-09-14",
   "categories": {
     "love": {
-      "summary": "Most readers sense a new or deepening romantic connection on the horizon for Sagittarius, suggesting that patience and emotional openness will be key to welcoming the meaningful bond that may be approaching.",
-      "reader_count": 5,
-      "disagreement": "Some readers focused on a fresh romantic beginning or fulfillment of long-awaited love, while others suggested Sagittarius is releasing an old connection to make space for something new."
+      "summary": "Most readers sense a meaningful new connection or deepening commitment on the horizon for Sagittarius, so embrace patience and trust that the right relationship will arrive in its own time.",
+      "reader_count": 3,
+      "disagreement": "One reader warned that a current relationship or person may need to be released, while others focused on attracting or deepening a loving new bond."
     },
     "finance": {
-      "summary": "Nearly all readers agree that Sagittarius is moving into a prosperous and stable financial period, so keep persisting in your efforts as rewards, new opportunities, and lasting abundance appear to be on the way.",
+      "summary": "Most readers foresee meaningful financial growth ahead for Sagittarius, whether through unexpected windfalls, property dealings, or new income streams, so trust your instincts and pursue opportunities with confidence.",
       "reader_count": 4,
-      "disagreement": "No notable disagreement. Most readers align on financial growth and reward, though one specifically highlights a single life-changing offer rather than a gradual buildup of stability."
+      "disagreement": "One reader urged careful budgeting and restraint, while most others pointed to incoming abundance and encouraged bold financial moves."
     },
     "career": {
-      "summary": "Several readers see a meaningful professional shift unfolding for Sagittarius this week, whether through a new opportunity, spiritual vocation, or long-earned recognition, so trust the progress being made and keep showing up with dedication.",
-      "reader_count": 3,
-      "disagreement": "Some readers focused on an incoming external opportunity replacing a difficult situation, while others emphasized that internal persistence and past effort are what is now generating the reward."
+      "summary": "Most readers sense a significant career shift or exciting new opportunity on the horizon for Sagittarius, so take practical, grounded steps toward your passion-driven goals to make the most of what is coming.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on an incoming opportunity or external boost, while one suggested pausing to reassess whether the current path is even the right one before moving forward."
     },
     "family": {
-      "summary": "Several readers sense that family is becoming a meaningful focus this week, so take time to reprioritize accordingly, offer support to those leaning on you, and trust that your steady efforts are naturally bringing more stability to your home life.",
-      "reader_count": 4,
-      "disagreement": "Some readers highlight active support and reordering priorities, while one points to a quieter, more reflective look at past family responsibilities."
+      "summary": "Several readers see a powerful theme of stability, legacy, and long-term security emerging for Sagittarius this week, possibly tied to relocation or building a foundation that benefits future generations, so lean into that sense of rootedness.",
+      "reader_count": 3,
+      "disagreement": "One reader focused on reaching out with compassion to a struggling elder, which stands apart from the others who emphasized building stability and legacy rather than tending to a family member's pain."
     }
   },
   "overall_tone": "hopeful",
-  "overall_tone_summary": "Optimism rises steadily, carrying Sagittarius toward promising new horizons this week.",
+  "overall_tone_summary": "Optimism leads the way, with transformation quietly building beneath the surface. Second week running.",
   "readers": [
     {
-      "video_id": "R9hMW0vs-oM",
-      "channel_theme": "A major career breakthrough is replacing a burdensome work situation soon.",
+      "video_id": "labF6oe5Odc",
+      "channel_theme": "A financial windfall is coming that the querent does not yet see.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=R9hMW0vs-oM"
+      "url": "https://www.youtube.com/watch?v=labF6oe5Odc"
     },
     {
-      "video_id": "Pd5lVSDgrdg",
-      "channel_theme": "A life-changing offer may arrive, tied to a healing or spiritual career.",
+      "video_id": "13NsOplx1PE",
+      "channel_theme": "Relocation may bring the lasting roots and homecoming Sagittarius craves.",
+      "tone": "patient",
+      "url": "https://www.youtube.com/watch?v=13NsOplx1PE"
+    },
+    {
+      "video_id": "bzQ1eG2Hb20",
+      "channel_theme": "A major career shift is coming with unexpected support from others.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=Pd5lVSDgrdg"
+      "url": "https://www.youtube.com/watch?v=bzQ1eG2Hb20"
     },
     {
-      "video_id": "gIH_B9Fcf24",
-      "channel_theme": "Sagittarius must fully detach emotionally before someone new can enter.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=gIH_B9Fcf24"
-    },
-    {
-      "video_id": "KyBUjmQofYQ",
-      "channel_theme": "A meaningful connection is peacefully fading as Sagittarius naturally evolves.",
+      "video_id": "yCtuWJ1PTng",
+      "channel_theme": "A spiritually connected person is about to enter your life soon.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=KyBUjmQofYQ"
+      "url": "https://www.youtube.com/watch?v=yCtuWJ1PTng"
     },
     {
-      "video_id": "mJ_p-VYO6ms",
-      "channel_theme": "Long-awaited love and financial stability are finally arriving together.",
-      "tone": "triumphant",
-      "url": "https://www.youtube.com/watch?v=mJ_p-VYO6ms"
+      "video_id": "NEcHPsjXNjA",
+      "channel_theme": "Release a limiting relationship to finally move forward with your life.",
+      "tone": "motivating",
+      "url": "https://www.youtube.com/watch?v=NEcHPsjXNjA"
     }
   ]
 }

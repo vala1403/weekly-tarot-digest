@@ -1,60 +1,60 @@
 {
   "sign": "Cancer",
-  "week_of": "2026-09-07",
+  "week_of": "2026-09-14",
   "categories": {
     "love": {
-      "summary": "Most readers sense a shift in Cancer's romantic life this week, with the shared advice being to release what no longer serves you, whether past patterns or inauthentic bonds, to make room for a genuine and fulfilling connection ahead.",
-      "reader_count": 5,
-      "disagreement": "Some readers focused on letting go of false or outdated connections, while others pointed to an incoming romantic bond or a returning ex as the central energy to navigate."
+      "summary": "Most readers see promising new romantic connections or deepening bonds forming for Cancer this week, so stay open to what is developing rather than letting past wounds or hesitation hold you back.",
+      "reader_count": 4,
+      "disagreement": "One reader focused on caution around past relationship wounds, while others leaned more optimistically toward new connections and deepening commitments without that hesitation."
     },
     "finance": {
-      "summary": "Most readers sense financial momentum building for Cancer, so now is the time to take stock of your resources, curb self-sabotage, and practice greater discipline to make the most of the abundance coming your way.",
-      "reader_count": 4,
-      "disagreement": "Some readers highlighted an external threat draining resources, while others focused on internal fear and self-sabotage as the main obstacle to financial progress."
+      "summary": "Only a few readers touched on finances this week, with those who did pointing to incoming support, new opportunities, and a sense that past financial difficulties may have served a greater purpose, so stay open to help and new work as things begin to shift.",
+      "reader_count": 3,
+      "disagreement": "Some readers saw new financial opportunities arriving, while one suggested a painful loss is being reframed as part of a divine plan rather than a fresh gain."
     },
     "career": {
-      "summary": "Several readers see professional change on the horizon for Cancer this week, whether through leaving behind what no longer serves you or stepping into something new, so clearing old obstacles and thinking strategically will help you make the most of what is coming.",
-      "reader_count": 3,
-      "disagreement": "Some readers focused on leaving behind toxic or misaligned situations, while others emphasized incoming advancement and new opportunities rather than clearing the way first."
+      "summary": "Career momentum is a strong theme this week, with growth, new beginnings, and fresh approaches all pointing toward positive professional movement, so stay consistent and patient rather than forcing outcomes.",
+      "reader_count": 4,
+      "disagreement": "Some readers saw active advancement and recognition already unfolding, while others suggested slowing down and avoiding rushed decisions."
     },
     "family": {
-      "summary": "Only two readers touched on family this week, but both pointed to draining or conflictual relationships as something Cancer needs to step away from in order to find greater stability and alignment.",
+      "summary": "Only two readers touched on family this week, but both pointed to a nurturing, growth-oriented home life, whether through a shared life change with a partner or by leaning into a community of people who genuinely support you.",
       "reader_count": 2,
-      "disagreement": "One reader focused specifically on a family member as the source of conflict, while the other broadened this to toxic friendships and unhealthy connections in general."
+      "disagreement": "No notable disagreement between readers."
     }
   },
-  "overall_tone": "transformative",
-  "overall_tone_summary": "This week pushes Cancer through meaningful change, with reflection steadying the journey. Second week running.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "Transformation lingers, but a bright, hopeful current carries Cancer forward this week.",
   "readers": [
     {
-      "video_id": "_FRA9QJc9Gc",
-      "channel_theme": "Someone close has been draining your resources and energy, cut them off.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=_FRA9QJc9Gc"
-    },
-    {
-      "video_id": "-uW1CqTq4TE",
-      "channel_theme": "An ex may return, but releasing old patterns is key to growth.",
+      "video_id": "S2qoJx558oI",
+      "channel_theme": "Past heartbreak is holding you back from a promising new connection.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=-uW1CqTq4TE"
+      "url": "https://www.youtube.com/watch?v=S2qoJx558oI"
     },
     {
-      "video_id": "jZbSZJckAyc",
-      "channel_theme": "A major career promotion or new business launch is coming soon.",
+      "video_id": "6DAbxqHS6pE",
+      "channel_theme": "Career advancement is rapid, with a major long-term opportunity approaching soon.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=jZbSZJckAyc"
+      "url": "https://www.youtube.com/watch?v=6DAbxqHS6pE"
     },
     {
-      "video_id": "dWhw_M8QZXo",
-      "channel_theme": "Discipline your savings now, possibly with a future trip in mind.",
+      "video_id": "NLK7ehxIGgM",
+      "channel_theme": "A big life move or relocation may be happening alongside a shared partner vision.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=dWhw_M8QZXo"
+      "url": "https://www.youtube.com/watch?v=NLK7ehxIGgM"
     },
     {
-      "video_id": "anu2HayZ-d0",
-      "channel_theme": "Fear holds you back from reconnecting, but a fire sign awaits.",
-      "tone": "reflective",
-      "url": "https://www.youtube.com/watch?v=anu2HayZ-d0"
+      "video_id": "yPVclNrcvAA",
+      "channel_theme": "Simple, consistent daily routines will serve you better than complex strategies now.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=yPVclNrcvAA"
+    },
+    {
+      "video_id": "ma9hRWB0VNU",
+      "channel_theme": "A financial loss is reframed as part of a meaningful divine plan.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=ma9hRWB0VNU"
     }
   ]
 }

@@ -1,60 +1,60 @@
 {
   "sign": "Scorpio",
-  "week_of": "2026-09-07",
+  "week_of": "2026-09-14",
   "categories": {
     "love": {
-      "summary": "Most readers this week see a meaningful new romantic connection on the horizon for Scorpio, so embrace patience and openness as a more honest and destined partnership may be replacing past pain or disappointment.",
-      "reader_count": 4,
-      "disagreement": "One reader focused on an inconsistent revival of a past connection, while most others pointed toward an entirely new romantic opportunity entering Scorpio's life."
+      "summary": "A mix of new and returning romantic energy surrounds Scorpio this week, with hidden feelings or truths likely surfacing soon, so trust your instincts before committing to anything or anyone new.",
+      "reader_count": 3,
+      "disagreement": "Some readers saw a charming figure attempting to pull Scorpio back into something potentially dishonest. Others suggested an authentic deeper connection is growing, or that a fresh offer worth exploring is arriving."
     },
     "finance": {
-      "summary": "A few readers see financial growth building this week, whether through major gains like settlements or new opportunities, or through better presentation of your work. If prosperity is rising, avoid letting impulsive spending erode it.",
-      "reader_count": 3,
-      "disagreement": "Some readers pointed to significant incoming windfalls and long-term stability, while one cautioned that overspending could undercut the growth already underway."
+      "summary": "Most readers see Scorpio in a period of deliberate, patient financial growth, so focus on planting seeds now through careful saving and strategic planning, as tangible results and new opportunities are already beginning to take shape.",
+      "reader_count": 4,
+      "disagreement": "One reader shifts focus outward, warning Scorpio to distance themselves from a greedy or controlling person in their financial life, while others focus entirely on Scorpio's own internal strategy and growth."
     },
     "career": {
-      "summary": "A few readers this week point to a promising career opening for Scorpio, with influential recognition and new opportunities on the horizon, so take calculated risks and collaborate to make the most of this favorable momentum.",
-      "reader_count": 3,
-      "disagreement": "No notable disagreement among the readers who discussed this theme."
+      "summary": "Most readers see this as a pivotal week for Scorpio to stop hesitating and take real action on a promising project or ambition, whether by committing fully, collaborating with others, or stepping into a larger role that has been building for some time.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw Scorpio boldly advancing and seizing new opportunities, while one suggested Scorpio may need to consider walking away from a current endeavor entirely."
     },
     "family": {
-      "summary": "Only a few readers touched on family this week, with some pointing to emotional difficulty or ongoing healing in family dynamics, while one suggested a sense of lasting stability and contentment within long-term commitments.",
-      "reader_count": 2,
-      "disagreement": "One reader pointed to emotional struggle or healing in family life, while another saw security and lasting happiness, offering notably different outlooks on the same theme."
+      "summary": "Most readers see a warm, unifying energy around Scorpio's family and social world this week, so lean into shared experiences and community bonds as they deepen naturally.",
+      "reader_count": 4,
+      "disagreement": "One reader noted that those close to Scorpio may be unsettled by Scorpio's changes, while others focused on harmony and togetherness with no friction implied."
     }
   },
   "overall_tone": "hopeful",
-  "overall_tone_summary": "A steady current of optimism carries Scorpio through this week's unfolding possibilities. Fourth week running.",
+  "overall_tone_summary": "Optimism leads the way, though one turbulent undercurrent deserves your attention. Fifth week running.",
   "readers": [
     {
-      "video_id": "EfppABz72BQ",
-      "channel_theme": "Healing from betrayal is essential before a new romance can begin.",
+      "video_id": "G5By4WRd4pI",
+      "channel_theme": "Stop planning and take decisive action on your most promising project now.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=G5By4WRd4pI"
+    },
+    {
+      "video_id": "2vUBpgCkI5E",
+      "channel_theme": "A charming but dishonest romantic interest should be firmly walked away from.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=EfppABz72BQ"
+      "url": "https://www.youtube.com/watch?v=2vUBpgCkI5E"
     },
     {
-      "video_id": "eLGVDHjHK-8",
-      "channel_theme": "Marriage potential is highlighted alongside business growth and public recognition.",
+      "video_id": "9XtsvWyGcmY",
+      "channel_theme": "A major shakeup is clearing your path toward a higher role or position.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=9XtsvWyGcmY"
+    },
+    {
+      "video_id": "jhxnw6aOwLA",
+      "channel_theme": "Unexpected opportunities from bosses could arrive, helping you build a lasting legacy.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=eLGVDHjHK-8"
+      "url": "https://www.youtube.com/watch?v=jhxnw6aOwLA"
     },
     {
-      "video_id": "-usPJ2QXtgY",
-      "channel_theme": "Pet care logistics may unexpectedly disrupt social and travel plans.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=-usPJ2QXtgY"
-    },
-    {
-      "video_id": "Ing8CQ0XwEw",
-      "channel_theme": "Possible relocation accompanies a major career shift and financial windfall.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=Ing8CQ0XwEw"
-    },
-    {
-      "video_id": "tn4e7s0ooGw",
-      "channel_theme": "An old connection tries to revive but stalls due to one-sided effort.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=tn4e7s0ooGw"
+      "video_id": "aHRCAk_jOTo",
+      "channel_theme": "An unconventional exit from a current endeavor may prove surprisingly wise.",
+      "tone": "turbulent",
+      "url": "https://www.youtube.com/watch?v=aHRCAk_jOTo"
     }
   ]
 }

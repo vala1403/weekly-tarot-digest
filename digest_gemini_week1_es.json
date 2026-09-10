@@ -1,59 +1,59 @@
 {
   "sign": "Géminis",
-  "week_of": "2026-09-07",
+  "week_of": "2026-09-14",
   "categories": {
     "love": {
-      "summary": "Esta semana parece abrirse una nueva conexión o posibilidad romántica para Géminis, pero para recibirla plenamente es clave soltar el equipaje emocional del pasado y las ataduras que ya no te hacen bien.",
+      "summary": "La mayoría de los lectores perciben una energía romántica en movimiento para Géminis esta semana, así que mantente abierto a nuevas conexiones mientras eres honesto contigo mismo sobre los miedos o señales de alerta que puedan estar nublando tu juicio.",
       "reader_count": 4,
-      "disagreement": "Algunas lectoras se enfocaron en una conexión nueva que está tomando forma, mientras que una sugirió que un reencuentro o el resurgir de algo con alguien del pasado es igualmente posible."
+      "disagreement": "Algunos lectores vieron surgir una conexión romántica esperanzadora y satisfactoria, mientras que otros destacaron la resistencia emocional y la posible falta de confianza en un interés romántico."
     },
     "finance": {
-      "summary": "La mayoría de las lectoras ven crecimiento financiero y abundancia acumulándose para Géminis esta semana, así que dirige tu energía hacia las oportunidades que realmente te dan frutos y evita invertir esfuerzo en situaciones que no ofrecen un retorno real.",
+      "summary": "La mayoría de los lectores ven una energía financiera prometedora en el horizonte para Géminis esta semana, así que canaliza tu pasión y esfuerzo hacia las oportunidades que están surgiendo, pero ten cuidado de no gastar de más ni caer en hábitos económicos poco saludables.",
       "reader_count": 4,
-      "disagreement": "Una lectura advirtió que la energía podría estar yendo hacia cosas que ya no tienen valor, mientras que las demás se inclinaron con más optimismo hacia una abundancia que llega y nuevas oportunidades favorables."
+      "disagreement": "Algunos lectores se centraron en actuar con decisión y aprovechar las oportunidades con entusiasmo, mientras que una lectura aconsejó moderación y una gestión cuidadosa de los recursos."
     },
     "career": {
-      "summary": "La mayoría de las lectoras coinciden en que este es un momento poderoso para que Géminis haga más visibles sus habilidades y su trabajo, así que es hora de dar un paso al frente con confianza y dejar que lo que has construido hable por sí solo.",
+      "summary": "La mayoría de los lectores señalan esta semana una importante oportunidad profesional en el horizonte para Géminis, así que abraza el cambio, confía en tu instinto y da un paso al frente con confianza en lugar de quedarte atrás.",
       "reader_count": 4,
-      "disagreement": "Algunas lectoras animaron a seguir adelante y mostrar las habilidades donde estás ahora, mientras que una sugirió que dejar un rol que ya no te llena podría ser el camino más gratificante."
+      "disagreement": "Algunos lectores se enfocaron en aprovechar oportunidades externas y competir con seguridad, mientras que una lectura recomendó alejarse de las comparaciones y enfocarse hacia adentro en el crecimiento personal."
     },
     "family": {
-      "summary": "Solo algunas lectoras abordaron el tema familiar esta semana, pero quienes lo hicieron destacaron la sanación de rupturas, el establecimiento de límites con personas que drenan tu energía y el disfrute de momentos alegres con seres queridos que te apoyan.",
-      "reader_count": 3,
-      "disagreement": "Algunas lectoras se centraron en la tensión y los límites con familiares que agotan, mientras que otras apuntaron hacia la reconciliación y la conexión alegre con personas que te elevan."
+      "summary": "Solo un par de lectores abordaron el tema familiar esta semana, y ambos señalaron la tensión como el hilo central, ya sea entre generaciones con visiones distintas o en torno a obligaciones y una figura parental dominante. Esto sugiere que Géminis navegue estas presiones con cuidado y comunicación honesta.",
+      "reader_count": 2,
+      "disagreement": "Una lectura se centró en resolver el conflicto mediante la comprensión mutua entre padres e hijos. La otra puso el foco en la presión externa y en una figura paterna controladora que lleva a Géminis más allá de sus límites."
     }
   },
-  "overall_tone_summary": "Dos lecturas apuntan hacia arriba, e incluso la transformación presente lleva consigo una corriente prometedora.",
+  "overall_tone_summary": "El optimismo marca el camino, incluso cuando los conflictos ensombrecen brevemente la ruta. Segunda semana consecutiva con esta energía.",
   "readers": [
     {
-      "video_id": "S5xHzRDC4To",
-      "channel_theme": "Primero suelta algo o a alguien para hacer espacio a un nuevo amor.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=S5xHzRDC4To"
+      "video_id": "iwlDuVnOb94",
+      "channel_theme": "Los conflictos familiares entre generaciones pueden sanar esta semana a través de la escucha respetuosa.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=iwlDuVnOb94"
     },
     {
-      "video_id": "TbEY3rGRF7M",
-      "channel_theme": "El peso emocional del pasado está bloqueando activamente una nueva conexión prometedora.",
+      "video_id": "p60jgkkd858",
+      "channel_theme": "Se acerca una gran oportunidad profesional que aún no ves, así que confía en tu instinto.",
+      "tone": "empoderador",
+      "url": "https://www.youtube.com/watch?v=p60jgkkd858"
+    },
+    {
+      "video_id": "8Hu8SQ2HBZM",
+      "channel_theme": "El miedo a salir lastimado le está impidiendo a Géminis abrirse a una conexión genuina.",
+      "tone": "conflictivo",
+      "url": "https://www.youtube.com/watch?v=8Hu8SQ2HBZM"
+    },
+    {
+      "video_id": "sBMCZoEGmDU",
+      "channel_theme": "Deja de compararte con los demás y enfócate en tu propio progreso.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=sBMCZoEGmDU"
+    },
+    {
+      "video_id": "CGroaYXZISo",
+      "channel_theme": "Cuidado con un interés romántico encantador pero emocionalmente poco confiable que genera problemas de confianza.",
       "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=TbEY3rGRF7M"
-    },
-    {
-      "video_id": "N8nPxecEuXc",
-      "channel_theme": "Se destaca un impulso financiero de carácter fated ligado a la energía del doble ocho.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=N8nPxecEuXc"
-    },
-    {
-      "video_id": "QkkN7TALw28",
-      "channel_theme": "Observa bien las acciones para confirmar que un romance que se desarrolla lentamente es genuino.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=QkkN7TALw28"
-    },
-    {
-      "video_id": "clg5eAGKS3E",
-      "channel_theme": "El miedo podría estar llevando a Géminis a ignorar una nueva oportunidad financiera.",
-      "tone": "introspectivo",
-      "url": "https://www.youtube.com/watch?v=clg5eAGKS3E"
+      "url": "https://www.youtube.com/watch?v=CGroaYXZISo"
     }
   ]
 }

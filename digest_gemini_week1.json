@@ -1,60 +1,60 @@
 {
   "sign": "Gemini",
-  "week_of": "2026-09-07",
+  "week_of": "2026-09-14",
   "categories": {
     "love": {
-      "summary": "A new romantic connection or opportunity seems to be emerging for Gemini this week, but releasing past emotional baggage or unhealthy attachments is key to fully welcoming it in.",
+      "summary": "Most readers sense romantic energy in motion for Gemini this week, so stay open to new connections while being honest with yourself about fears or red flags that may be clouding your judgment.",
       "reader_count": 4,
-      "disagreement": "Some readers focused on a fresh new connection developing, while one suggested a reunion or rekindling with someone from the past is equally possible."
+      "disagreement": "Some readers saw a hopeful and fulfilling romantic connection emerging, while others highlighted emotional resistance and potential untrustworthiness in a romantic interest."
     },
     "finance": {
-      "summary": "Most readers see financial growth and abundance building for Gemini this week, so focus your energy on opportunities that genuinely give back and avoid pouring effort into situations with no real return.",
+      "summary": "Most readers see promising financial energy ahead for Gemini this week, so channel your passion and effort into emerging opportunities while being mindful not to overspend or fall into poor money habits.",
       "reader_count": 4,
-      "disagreement": "One reading cautioned that energy may be going toward things that no longer hold value, while others leaned more optimistically toward incoming abundance and favorable new opportunities."
+      "disagreement": "Some readers focused on bold action and seizing passionate pursuits, while one reading cautioned restraint and careful resource management."
     },
     "career": {
-      "summary": "Most readers see this as a strong moment for Gemini to make their skills and work more visible, so now is the time to step up boldly and let what you have built speak for itself.",
+      "summary": "Most readers this week point to a significant career opportunity on the horizon for Gemini, so embrace change, trust your instincts, and step boldly forward rather than holding back.",
       "reader_count": 4,
-      "disagreement": "Some readers encouraged pushing forward and showcasing skills where you are, while one suggested leaving an unfulfilling role entirely may be the more rewarding path."
+      "disagreement": "Some readers focused on seizing external opportunities and competing confidently, while one reading advised stepping back from comparison and focusing inward on personal growth instead."
     },
     "family": {
-      "summary": "Only a few readers touched on family this week, but those who did highlighted themes of healing rifts, setting boundaries with draining people, and embracing joyful time with supportive loved ones.",
-      "reader_count": 3,
-      "disagreement": "Some readers focused on tension and boundaries with draining family members, while others pointed to reconciliation and joyful connection with uplifting people."
+      "summary": "Only a couple of readers touched on family this week, and both pointed to tension as the central theme, whether between generations with differing views or around obligations and a domineering parental presence, suggesting Gemini navigate these pressures with care and honest communication.",
+      "reader_count": 2,
+      "disagreement": "One reading focused on resolving conflict through mutual understanding between parents and children. The other emphasized external pressure and a controlling father figure pushing Gemini past their limits."
     }
   },
   "overall_tone": "hopeful",
-  "overall_tone_summary": "Two readings point upward, and even transformation here carries a promising undercurrent.",
+  "overall_tone_summary": "Optimism leads the way, even where conflict briefly clouds the path. Second week running.",
   "readers": [
     {
-      "video_id": "S5xHzRDC4To",
-      "channel_theme": "Release something or someone first to make room for new love.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=S5xHzRDC4To"
+      "video_id": "iwlDuVnOb94",
+      "channel_theme": "Family conflicts between generations can heal through respectful listening this week.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=iwlDuVnOb94"
     },
     {
-      "video_id": "TbEY3rGRF7M",
-      "channel_theme": "Past emotional baggage is actively blocking a promising new connection.",
+      "video_id": "p60jgkkd858",
+      "channel_theme": "An unseen major career opportunity is approaching, so trust your instincts.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=p60jgkkd858"
+    },
+    {
+      "video_id": "8Hu8SQ2HBZM",
+      "channel_theme": "Fear of getting hurt is blocking Gemini from embracing a real connection.",
+      "tone": "conflicted",
+      "url": "https://www.youtube.com/watch?v=8Hu8SQ2HBZM"
+    },
+    {
+      "video_id": "sBMCZoEGmDU",
+      "channel_theme": "Stop comparing yourself to others and focus on your own progress.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=sBMCZoEGmDU"
+    },
+    {
+      "video_id": "CGroaYXZISo",
+      "channel_theme": "Beware a charming but emotionally unreliable romantic interest causing trust issues.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=TbEY3rGRF7M"
-    },
-    {
-      "video_id": "N8nPxecEuXc",
-      "channel_theme": "A fated financial surge tied to double eight energy is highlighted.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=N8nPxecEuXc"
-    },
-    {
-      "video_id": "QkkN7TALw28",
-      "channel_theme": "Watch actions closely to confirm a slow-building romance is genuine.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=QkkN7TALw28"
-    },
-    {
-      "video_id": "clg5eAGKS3E",
-      "channel_theme": "Fear may be causing Gemini to ignore a new financial opportunity.",
-      "tone": "introspective",
-      "url": "https://www.youtube.com/watch?v=clg5eAGKS3E"
+      "url": "https://www.youtube.com/watch?v=CGroaYXZISo"
     }
   ]
 }

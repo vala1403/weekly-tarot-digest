@@ -1,60 +1,60 @@
 {
   "sign": "Leo",
-  "week_of": "2026-09-07",
+  "week_of": "2026-09-14",
   "categories": {
     "love": {
-      "summary": "Most readers this week sense a new or renewed romantic connection approaching for Leo, so stay open to what is coming while communicating your needs clearly and watching for those who may not wish you well.",
+      "summary": "Most readers this week point to a new romantic connection or commitment on the horizon for Leo, suggesting the universe may be rewarding those who have remained open to love and partnership.",
       "reader_count": 4,
-      "disagreement": "One reader highlighted emotional uncertainty and stepping away from draining relationships, while others focused on fresh or revived connections arriving soon."
+      "disagreement": "One reader noted that unbalanced existing relationships could naturally come to a close, while others focused purely on fresh beginnings and harmony in new connections."
     },
     "finance": {
-      "summary": "Most readers sense financial improvement on the horizon this week, so focus your energy on balanced, worthwhile investments and be cautious about impulsive decisions or one-sided exchanges that drain your resources.",
-      "reader_count": 3,
-      "disagreement": "One reader highlighted pulling back from draining situations, while others pointed to incoming financial gains like raises or bonuses, suggesting different starting points on the financial journey."
+      "summary": "Most readers sense financial abundance or positive developments are on the way for Leo, so trust the timing and stay open to real opportunities materializing, even if a brief waiting period is required first.",
+      "reader_count": 4,
+      "disagreement": "One reader suggested Leo may be clinging to a financially secure but unfulfilling situation, while others pointed to incoming abundance and exciting new beginnings rather than stagnation."
     },
     "career": {
-      "summary": "Several readers see career momentum building for Leo this week, with promising opportunities or a cycle of success on the horizon, so stay focused on your true ambitions and avoid distractions that could pull you off course.",
-      "reader_count": 3,
-      "disagreement": "Some readers highlighted incoming wins and opportunities, while others pointed to conflict, self-doubt, or the need to pause before acting."
+      "summary": "All five readers point to a significant professional shift or new opportunity taking shape for Leo this week, so trust your instincts, take bold action, and be willing to step outside your comfort zone to pursue work that truly excites you.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw Leo already having made a bold move and now receiving validation, while others suggested the leap forward is still ahead and requires courage to initiate."
     },
     "family": {
-      "summary": "Only two readers touched on family this week, but both pointed to an easing of tension and a return to warmth, suggesting Leo can lean into loyalty and support within their closest relationships as things settle.",
-      "reader_count": 2,
-      "disagreement": "No notable disagreement between readers."
+      "summary": "About half the readers touched on family this week, with the prevailing sense being one of healing and harmony returning to relationships, suggesting Leo focus on inner work while trusting that peace is being restored around them.",
+      "reader_count": 3,
+      "disagreement": "Some readers focused on personal, inward healing and growth, while others pointed to outward resolution and smoother dynamics within family or new family roles."
     }
   },
-  "overall_tone": "transformative",
-  "overall_tone_summary": "Big shifts arrive this week, reshaping what Leo thought was settled.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "A bright, expectant energy lifts Leo's week with genuine promise ahead.",
   "readers": [
     {
-      "video_id": "y1G2cyddg7M",
-      "channel_theme": "Focus only on balanced exchanges and withdraw from draining situations entirely.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=y1G2cyddg7M"
-    },
-    {
-      "video_id": "2czCBulqQNw",
-      "channel_theme": "A raise or material bonus may be coming, but guard your gains.",
+      "video_id": "0lRIM8_HUs8",
+      "channel_theme": "Ancestral healing and independent inner work are uniquely emphasized this week.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=2czCBulqQNw"
+      "url": "https://www.youtube.com/watch?v=0lRIM8_HUs8"
     },
     {
-      "video_id": "uX6-Zp9Dfrs",
-      "channel_theme": "Beware jealous third parties trying to sabotage your relationship happiness.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=uX6-Zp9Dfrs"
+      "video_id": "uyGZBj4gG48",
+      "channel_theme": "Past bold decisions are being validated with rewards and recognition now.",
+      "tone": "affirming",
+      "url": "https://www.youtube.com/watch?v=uyGZBj4gG48"
     },
     {
-      "video_id": "TBT4lzuOms0",
-      "channel_theme": "Pause major decisions until you have recovered from a long draining period.",
+      "video_id": "rKXSV7VcB2E",
+      "channel_theme": "You may be clinging to a stable but deeply unfulfilling situation for security.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=TBT4lzuOms0"
+      "url": "https://www.youtube.com/watch?v=rKXSV7VcB2E"
     },
     {
-      "video_id": "sokIO9ZkLMQ",
-      "channel_theme": "True happiness comes from within, not from others' validation.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=sokIO9ZkLMQ"
+      "video_id": "6_tRCD-VrZY",
+      "channel_theme": "Family harmony and resolution are returning after a period of conflict.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=6_tRCD-VrZY"
+    },
+    {
+      "video_id": "HTH1SwVEXgE",
+      "channel_theme": "A romantic connection with someone outside your usual type may be arriving.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=HTH1SwVEXgE"
     }
   ]
 }
