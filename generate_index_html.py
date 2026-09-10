@@ -11,12 +11,39 @@ after processing a new sign to fill its card in automatically.
 Styling matches generate_digest_html.py exactly (same fonts, colors,
 spacing) so the index reads as part of the same site.
 """
+import datetime
 import html
 import json
 import sys
 from pathlib import Path
 
 EM_DASH = "—"
+
+THEME_LOG_PATH = Path(__file__).parent / "data" / "theme-log.json"
+
+MONTHS_ES = [
+    "enero", "febrero", "marzo", "abril", "mayo", "junio",
+    "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre",
+]
+
+
+def current_week_of() -> str:
+    """The week this site is currently showing, read from data/theme-log.json
+    (the most recent week_of on record) rather than hardcoded. aggregate_digest.py
+    appends a theme-log entry for every sign as it writes that sign's digest, so
+    the latest week_of there always matches the digest_<sign>_week1.json files
+    this index renders."""
+    log = json.loads(THEME_LOG_PATH.read_text(encoding="utf-8"))
+    return max(entry["week_of"] for entry in log["entries"])
+
+
+def format_week_of(iso_date: str, lang: str) -> str:
+    """Human date, matching generate_digest_html.py: 'September 14, 2026' (en),
+    '14 de septiembre de 2026' (es)."""
+    d = datetime.date.fromisoformat(iso_date)
+    if lang == "es":
+        return f"{d.day} de {MONTHS_ES[d.month - 1]} de {d.year}"
+    return d.strftime("%B %-d, %Y")
 
 
 def strip_em_dashes(text):
@@ -54,7 +81,8 @@ STRINGS = {
         "html_lang": "en",
         "page_title": "This Week's Tarot Digest",
         "title": "This Week's Tarot Digest",
-        "subtitle": "Pick your sign to see what five independent readers agree on this week.",
+        "week_of_prefix": "Week of",
+        "subtitle": "Pick your sign to see what five independent readers echoed this week.",
         "lang_toggle_text": "Leer en español",
         "lang_toggle_href": "index-es.html",
         "pending_label": "Coming soon",
@@ -72,7 +100,8 @@ STRINGS = {
         "html_lang": "es",
         "page_title": "El Tarot de Esta Semana",
         "title": "El Tarot de Esta Semana",
-        "subtitle": "Elige tu signo para ver en qué coinciden cinco lectores independientes esta semana.",
+        "week_of_prefix": "Semana del",
+        "subtitle": "Elige tu signo para ver qué repitieron cinco lectores independientes esta semana.",
         "lang_toggle_text": "Read in English",
         "lang_toggle_href": "index.html",
         "pending_label": "Próximamente",
@@ -126,7 +155,7 @@ def render_card(card: dict, strings: dict, index: int) -> str:
         </div>"""
 
 
-def build_html(cards_html: str, strings: dict) -> str:
+def build_html(cards_html: str, strings: dict, week_label: str) -> str:
     return f"""<!doctype html>
 <html lang="{strings['html_lang']}">
 <head>
@@ -265,6 +294,13 @@ def build_html(cards_html: str, strings: dict) -> str:
     color: var(--text);
   }}
 
+  .week-date {{
+    font-size: clamp(0.9rem, 1.8vw, 1rem);
+    color: var(--text-soft);
+    letter-spacing: 0.02em;
+    margin: 0 0 10px;
+  }}
+
   .subtitle {{
     font-size: clamp(1rem, 2.2vw, 1.15rem);
     color: var(--accent);
@@ -356,6 +392,7 @@ def build_html(cards_html: str, strings: dict) -> str:
 
     <header>
       <h1>{esc(strings['title'])}</h1>
+      <p class="week-date">{esc(week_label)}</p>
       <p class="subtitle">{esc(strings['subtitle'])}</p>
       <button type="button" id="how-it-works-trigger" class="how-it-works-link">{esc(strings['how_it_works_link'])}</button>
     </header>
@@ -403,12 +440,14 @@ def build_html(cards_html: str, strings: dict) -> str:
 
 
 def main():
+    week_of = current_week_of()
     for lang, strings in STRINGS.items():
         cards_html = "".join(
             render_card(load_sign_card(sign_slug, lang), strings, i)
             for i, sign_slug in enumerate(ZODIAC_ORDER)
         )
-        html_out = build_html(cards_html, strings)
+        week_label = f"{strings['week_of_prefix']} {format_week_of(week_of, lang)}"
+        html_out = build_html(cards_html, strings, week_label)
 
         if EM_DASH in html_out:
             count = html_out.count(EM_DASH)

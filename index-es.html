@@ -136,6 +136,13 @@
     color: var(--text);
   }
 
+  .week-date {
+    font-size: clamp(0.9rem, 1.8vw, 1rem);
+    color: var(--text-soft);
+    letter-spacing: 0.02em;
+    margin: 0 0 10px;
+  }
+
   .subtitle {
     font-size: clamp(1rem, 2.2vw, 1.15rem);
     color: var(--accent);
@@ -227,7 +234,8 @@
 
     <header>
       <h1>El Tarot de Esta Semana</h1>
-      <p class="subtitle">Elige tu signo para ver en qué coinciden cinco lectores independientes esta semana.</p>
+      <p class="week-date">Semana del 14 de septiembre de 2026</p>
+      <p class="subtitle">Elige tu signo para ver qué repitieron cinco lectores independientes esta semana.</p>
       <button type="button" id="how-it-works-trigger" class="how-it-works-link">Cómo funciona</button>
     </header>
 

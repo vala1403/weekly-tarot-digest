@@ -136,6 +136,13 @@
     color: var(--text);
   }
 
+  .week-date {
+    font-size: clamp(0.9rem, 1.8vw, 1rem);
+    color: var(--text-soft);
+    letter-spacing: 0.02em;
+    margin: 0 0 10px;
+  }
+
   .subtitle {
     font-size: clamp(1rem, 2.2vw, 1.15rem);
     color: var(--accent);
@@ -227,7 +234,8 @@
 
     <header>
       <h1>This Week&#x27;s Tarot Digest</h1>
-      <p class="subtitle">Pick your sign to see what five independent readers agree on this week.</p>
+      <p class="week-date">Week of September 14, 2026</p>
+      <p class="subtitle">Pick your sign to see what five independent readers echoed this week.</p>
       <button type="button" id="how-it-works-trigger" class="how-it-works-link">How it works</button>
     </header>
 
