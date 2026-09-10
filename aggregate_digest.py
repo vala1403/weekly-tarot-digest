@@ -200,21 +200,26 @@ THEME_LOG_NOTES = {
         "category objects."
     ),
     "channel": (
-        "The reader's channel name, exactly as self-introduced in the transcript "
-        "(e.g. '...and welcome to Northern Oracle.'), including any ASR mishearing "
-        "or typos -- never normalized across weeks and never fetched from YouTube "
-        "or otherwise inferred. Extracted by parse_manual_transcripts.py's "
-        "extract_channel_name() at parse time and cached in "
-        "transcripts/<video_id>.channel.json. Null when the transcript never "
-        "states a channel name."
+        "The reader's channel name, taken verbatim from the source paste "
+        "(including any ASR mishearing or typos) -- never normalized across weeks "
+        "and never fetched from YouTube or otherwise inferred. For weeks before "
+        "2026-09-14 it is best-effort-extracted from the reader's spoken self-"
+        "introduction (e.g. '...and welcome to Northern Oracle.') by "
+        "parse_manual_transcripts.py's extract_channel_name(); from 2026-09-14 on "
+        "it is read from the fixed video-title / channel / subscriber metadata "
+        "block the paste carries above the transcript. Cached either way in "
+        "transcripts/<video_id>.channel.json. Null when no channel name is present "
+        "in the source."
     ),
     "channel_source": (
-        "'transcript' when `channel` was extracted from the transcript text, or "
-        "null when `channel` itself is null (either the transcript never stated a "
-        "name, or -- for the three earliest backfilled weeks, 2026-07-20 through "
-        "2026-08-03 -- the raw source file no longer exists to check; that specific "
-        "gap is a listed, human-reviewed limitation, not a claim that those readers "
-        "stated no channel name)."
+        "'transcript' when `channel` came from the reader's spoken self-"
+        "introduction in the transcript body (weeks before 2026-09-14); 'manual' "
+        "when `channel` came from the metadata block above the transcript (weeks "
+        "from 2026-09-14 on); or null when `channel` itself is null (either the "
+        "source never stated a name, or -- for the three earliest backfilled "
+        "weeks, 2026-07-20 through 2026-08-03 -- the raw source file no longer "
+        "exists to check; that specific gap is a listed, human-reviewed "
+        "limitation, not a claim that those readers stated no channel name)."
     ),
 }
 

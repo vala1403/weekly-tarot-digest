@@ -39,17 +39,24 @@ touching that data.
   fixed `THEME_VOCABULARY`). Don't confuse the two or invent a
   category-level tone that was never computed.
 - **`channel` / `channel_source`** (added 2026-09-08) capture the reader's
-  self-introduced channel name, e.g. "...and welcome to Northern Oracle."
-  Extracted by `parse_manual_transcripts.py`'s `extract_channel_name()` at
-  parse time from the transcript text itself, exactly as transcribed
-  (including ASR mishearing/typos), never normalized across near-duplicate
-  variants and never fetched from YouTube or otherwise inferred. `channel`
-  is `null` when the transcript never states a name; `channel_source` is
-  `"transcript"` when `channel` has a value, `null` otherwise. For the
-  three earliest backfilled weeks (2026-07-20 through 2026-08-03), the raw
-  `/mnt/c/tarot/<week>/` source files no longer exist on disk, so `channel`
-  is `null` there for a different reason: unable to check, not "checked
-  and absent." This is a listed, human-reviewed gap, not a silent null.
+  channel name, taken verbatim from the source paste (including ASR
+  mishearing/typos), never normalized across near-duplicate variants and
+  never fetched from YouTube or otherwise inferred. Two extraction regimes:
+  for weeks **before 2026-09-14**, `parse_manual_transcripts.py`'s
+  `extract_channel_name()` best-effort-reads it from the reader's spoken
+  self-introduction ("...and welcome to Northern Oracle.") and
+  `channel_source` is `"transcript"`; from **2026-09-14 on**, the source
+  paste carries a fixed video-title / channel / subscriber metadata block
+  above the transcript, the channel is read from that block, and
+  `channel_source` is `"manual"`. `channel` is `null` (and `channel_source`
+  `null`) when no name is present. The same metadata block also yields
+  `video_title` and `subscribers_at_capture`, cached in the
+  `<video_id>.channel.json` sidecar for later use but not currently
+  threaded into theme-log entries. For the three earliest backfilled weeks
+  (2026-07-20 through 2026-08-03), the raw `/mnt/c/tarot/<week>/` source
+  files no longer exist on disk, so `channel` is `null` there for a
+  different reason: unable to check, not "checked and absent." This is a
+  listed, human-reviewed gap, not a silent null.
 - **Theme movement in 2026-07-20 through 2026-08-10 is an artifact of the
   `no-repeat-4wk` exclusion rule**, not observed volatility. During that
   window, `aggregate_tone()` excluded a sign's last 4 weeks of themes from
