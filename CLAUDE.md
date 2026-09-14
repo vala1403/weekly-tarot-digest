@@ -2,8 +2,8 @@
 
 ## Illustrated candidate workspace
 
-Work only in `/home/vala/tarot_transcripts_animated`; treat
-`/home/vala/tarot_transcripts` as read-only. Read `PRODUCTION_HANDOFF.md` for
+Work only in `/home/vala/tarot_transcripts`; treat
+`/home/vala/tarot_transcripts.stale-2026-09-14` as read-only. Read `PRODUCTION_HANDOFF.md` for
 the illustrated site build, verification, and asset conventions. All twelve
 signs now use the approved illustrated interface in both languages. Use
 `python3 build_site.py` after weekly data generation, then

@@ -1,8 +1,8 @@
 # Illustrated Weekly Tarot Digest: Candidate Source
 
 This directory is the candidate source. Work only in
-`/home/vala/tarot_transcripts_animated`. The original
-`/home/vala/tarot_transcripts` is read-only and must not be changed.
+`/home/vala/tarot_transcripts`. The original
+`/home/vala/tarot_transcripts.stale-2026-09-14` is read-only and must not be changed.
 No deployment has been performed or authorized by this handoff.
 
 ## Build and Preview
@@ -58,8 +58,13 @@ Do not overwrite illustrations during weekly generation.
 The existing transcript parsing, tagging, aggregation, and translation pipeline
 is unchanged. Follow `CLAUDE.md` for its rules, including explicit Monday
 `--week-of` dates. Once all twelve English and Spanish digest JSON files are
-ready, run the build and verification commands above. Never rerun aggregation
-just to change presentation; never rerun the one-time theme-log migration.
+ready, run `python3 check_tone_openings.py` and review anything it flags (it
+only reports exact or near-duplicate `overall_tone_summary` openings across
+the week's 12 signs, per language; it never rewrites or rerolls -- added
+after the 2026-09-14 week saw 7/12 signs open with one of two near-identical
+phrases). Then run the build and verification commands above. Never rerun
+aggregation just to change presentation; never rerun the one-time theme-log
+migration.
 
 `data/theme-log.json` and all current digest JSON remain unchanged by this
 integration. No React, npm build, or replacement framework is required.
