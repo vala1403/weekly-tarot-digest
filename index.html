@@ -225,68 +225,112 @@
     .grid { grid-template-columns: repeat(2, 1fr); }
   }
 </style>
+<link rel="stylesheet" href="assets/deck.css">
+<script defer src="assets/deck.js"></script>
 </head>
-<body>
+<body class="deck-home">
   <div class="wrap">
     <div class="lang-toggle">
       <a href="index-es.html">Leer en español</a>
     </div>
 
-    <header>
+    <header class="deck-header">
+      <p class="edition-label">Weekly Tarot Digest</p>
       <h1>This Week&#x27;s Tarot Digest</h1>
       <p class="week-date">Week of September 14, 2026</p>
       <p class="subtitle">Pick your sign to see what five independent readers echoed this week.</p>
       <button type="button" id="how-it-works-trigger" class="how-it-works-link">How it works</button>
+      <div class="opening-deck" aria-hidden="true">
+        <img class="opening-card opening-pisces" src="assets/pisces.webp" width="600" height="900" alt="" fetchpriority="high">
+        <img class="opening-card opening-leo" src="assets/leo.webp" width="600" height="900" alt="" fetchpriority="high">
+        <img class="opening-card opening-gemini" src="assets/gemini.webp" width="600" height="900" alt="" fetchpriority="high">
+      </div>
     </header>
 
     <section class="grid">
-        <a class="sign-card" href="digest-aries.html" style="animation-delay: 0.1s">
+        <a class="sign-card sign-aries" data-reveal href="digest-aries.html">
+          <div class="card-art" style="view-transition-name: zodiac-aries"><img src="assets/aries-600.webp" width="600" height="900" alt="" loading="lazy" decoding="async"></div>
+          <div class="card-copy">
           <h2 class="sign-card-name">Aries</h2>
           <p class="sign-card-teaser">This week invites Aries to pause, look inward, and find clarity.</p>
+          </div>
         </a>
-        <a class="sign-card" href="digest-taurus.html" style="animation-delay: 0.15s">
+        <a class="sign-card sign-taurus" data-reveal href="digest-taurus.html">
+          <div class="card-art" style="view-transition-name: zodiac-taurus"><img src="assets/taurus-600.webp" width="600" height="900" alt="" loading="lazy" decoding="async"></div>
+          <div class="card-copy">
           <h2 class="sign-card-name">Taurus</h2>
           <p class="sign-card-teaser">Taurus steps into their strength this week with growing confidence and hope.</p>
+          </div>
         </a>
-        <a class="sign-card" href="digest-gemini.html" style="animation-delay: 0.2s">
+        <a class="sign-card sign-gemini" data-reveal href="digest-gemini.html">
+          <div class="card-art" style="view-transition-name: zodiac-gemini"><img src="assets/gemini.webp" width="600" height="900" alt="" loading="lazy" decoding="async"></div>
+          <div class="card-copy">
           <h2 class="sign-card-name">Gemini</h2>
           <p class="sign-card-teaser">Optimism leads the way, even where conflict briefly clouds the path. Second week running.</p>
+          </div>
         </a>
-        <a class="sign-card" href="digest-cancer.html" style="animation-delay: 0.25s">
+        <a class="sign-card sign-cancer" data-reveal href="digest-cancer.html">
+          <div class="card-art" style="view-transition-name: zodiac-cancer"><img src="assets/cancer-600.webp" width="600" height="900" alt="" loading="lazy" decoding="async"></div>
+          <div class="card-copy">
           <h2 class="sign-card-name">Cancer</h2>
           <p class="sign-card-teaser">Transformation lingers, but a bright, hopeful current carries Cancer forward this week.</p>
+          </div>
         </a>
-        <a class="sign-card" href="digest-leo.html" style="animation-delay: 0.3s">
+        <a class="sign-card sign-leo" data-reveal href="digest-leo.html">
+          <div class="card-art" style="view-transition-name: zodiac-leo"><img src="assets/leo.webp" width="600" height="900" alt="" loading="lazy" decoding="async"></div>
+          <div class="card-copy">
           <h2 class="sign-card-name">Leo</h2>
           <p class="sign-card-teaser">A bright, expectant energy lifts Leo&#x27;s week with genuine promise ahead.</p>
+          </div>
         </a>
-        <a class="sign-card" href="digest-virgo.html" style="animation-delay: 0.35s">
+        <a class="sign-card sign-virgo" data-reveal href="digest-virgo.html">
+          <div class="card-art" style="view-transition-name: zodiac-virgo"><img src="assets/virgo-600.webp" width="600" height="900" alt="" loading="lazy" decoding="async"></div>
+          <div class="card-copy">
           <h2 class="sign-card-name">Virgo</h2>
           <p class="sign-card-teaser">A bright undercurrent of possibility carries Virgo steadily forward this week. Second week running.</p>
+          </div>
         </a>
-        <a class="sign-card" href="digest-libra.html" style="animation-delay: 0.4s">
+        <a class="sign-card sign-libra" data-reveal href="digest-libra.html">
+          <div class="card-art" style="view-transition-name: zodiac-libra"><img src="assets/libra-600.webp" width="600" height="900" alt="" loading="lazy" decoding="async"></div>
+          <div class="card-copy">
           <h2 class="sign-card-name">Libra</h2>
           <p class="sign-card-teaser">Deep shifts are reshaping Libra&#x27;s path in ways that cannot be undone.</p>
+          </div>
         </a>
-        <a class="sign-card" href="digest-scorpio.html" style="animation-delay: 0.45s">
+        <a class="sign-card sign-scorpio" data-reveal href="digest-scorpio.html">
+          <div class="card-art" style="view-transition-name: zodiac-scorpio"><img src="assets/scorpio-600.webp" width="600" height="900" alt="" loading="lazy" decoding="async"></div>
+          <div class="card-copy">
           <h2 class="sign-card-name">Scorpio</h2>
           <p class="sign-card-teaser">Optimism leads the way, though one turbulent undercurrent deserves your attention. Fifth week running.</p>
+          </div>
         </a>
-        <a class="sign-card" href="digest-sagittarius.html" style="animation-delay: 0.5s">
+        <a class="sign-card sign-sagittarius" data-reveal href="digest-sagittarius.html">
+          <div class="card-art" style="view-transition-name: zodiac-sagittarius"><img src="assets/sagittarius-600.webp" width="600" height="900" alt="" loading="lazy" decoding="async"></div>
+          <div class="card-copy">
           <h2 class="sign-card-name">Sagittarius</h2>
           <p class="sign-card-teaser">Optimism leads the way, with transformation quietly building beneath the surface. Second week running.</p>
+          </div>
         </a>
-        <a class="sign-card" href="digest-capricorn.html" style="animation-delay: 0.55s">
+        <a class="sign-card sign-capricorn" data-reveal href="digest-capricorn.html">
+          <div class="card-art" style="view-transition-name: zodiac-capricorn"><img src="assets/capricorn-600.webp" width="600" height="900" alt="" loading="lazy" decoding="async"></div>
+          <div class="card-copy">
           <h2 class="sign-card-name">Capricorn</h2>
           <p class="sign-card-teaser">Deep shifts take hold as Capricorn moves boldly through meaningful change. Second week running.</p>
+          </div>
         </a>
-        <a class="sign-card" href="digest-aquarius.html" style="animation-delay: 0.6s">
+        <a class="sign-card sign-aquarius" data-reveal href="digest-aquarius.html">
+          <div class="card-art" style="view-transition-name: zodiac-aquarius"><img src="assets/aquarius-600.webp" width="600" height="900" alt="" loading="lazy" decoding="async"></div>
+          <div class="card-copy">
           <h2 class="sign-card-name">Aquarius</h2>
           <p class="sign-card-teaser">Optimism leads the week, though a few cautionary undercurrents ask for mindfulness. Fourth week running.</p>
+          </div>
         </a>
-        <a class="sign-card" href="digest-pisces.html" style="animation-delay: 0.65s">
+        <a class="sign-card sign-pisces" data-reveal href="digest-pisces.html">
+          <div class="card-art" style="view-transition-name: zodiac-pisces"><img src="assets/pisces.webp" width="600" height="900" alt="" loading="lazy" decoding="async"></div>
+          <div class="card-copy">
           <h2 class="sign-card-name">Pisces</h2>
           <p class="sign-card-teaser">Deep shifts are reshaping Pisces from the inside out this week.</p>
+          </div>
         </a>
     </section>
 
@@ -310,10 +354,20 @@
       function openModal() {
         overlay.classList.add('open');
         overlay.setAttribute('aria-hidden', 'false');
+        document.querySelector('.deck-header').inert = true;
+        document.querySelector('.grid').inert = true;
+        document.querySelector('.lang-toggle').inert = true;
+        document.body.style.overflow = 'hidden';
+        closeBtn.focus();
       }
       function closeModal() {
         overlay.classList.remove('open');
         overlay.setAttribute('aria-hidden', 'true');
+        document.querySelector('.deck-header').inert = false;
+        document.querySelector('.grid').inert = false;
+        document.querySelector('.lang-toggle').inert = false;
+        document.body.style.overflow = '';
+        trigger.focus();
       }
 
       trigger.addEventListener('click', openModal);
@@ -322,10 +376,11 @@
         if (e.target === overlay) closeModal();
       });
       document.addEventListener('keydown', function (e) {
+        if (!overlay.classList.contains('open')) return;
         if (e.key === 'Escape') closeModal();
+        if (e.key === 'Tab') { e.preventDefault(); closeBtn.focus(); }
       });
     })();
   </script>
-  <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>

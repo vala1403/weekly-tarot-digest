@@ -26,6 +26,13 @@ ICON_SVG = {
     "family": '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11.5 12 4l8 7.5"/><path d="M6 10v9.5h12V10"/><path d="M10 19.5v-6h4v6"/></svg>',
 }
 
+# Solid printed emblems for the illustrated digest; dimensions stay unchanged.
+EDITORIAL_ICON_SVG = {
+    "love": '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="#175675" d="M11.8 21C8.6 18.5 2.3 14 1.7 9.1 1.2 5.4 3.7 2.8 6.9 3.1c2.2.1 3.8 1.5 5 3.2 1.6-2.3 3.3-3.4 5.5-3.1 3.4.3 5.2 3.1 4.8 6.1-.7 4.3-6 8.9-10.4 11.7Z"/><path fill="#fcfaf6" d="M13.1 7.3c.8 3.1-2.4 3.9-2.1 6.8-2.7-2.5-.1-4.7 2.1-6.8Z"/></svg>',
+    "finance": '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="#211f1c" d="M11.6 1.2C17 .8 22.1 5.5 22.6 11c.5 6-3.9 11.3-10 11.7C6.6 23 1.4 18.3 1.3 12.3 1.1 6.4 5.8 1.6 11.6 1.2Z"/><path fill="#c88c32" d="M11.8 3.1c4.8-.2 8.7 3.7 8.9 8.3.2 5-3.4 9-8.3 9.3-4.9.2-9-3.7-9.2-8.4-.2-4.8 3.6-8.9 8.6-9.2Z"/><path fill="#fcfaf6" d="m12 5.1 1.9 4.8 4.9 2.1-4.9 1.8-1.9 5.1-1.9-5-4.8-1.9 4.9-2Z"/></svg>',
+    "career": '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="#211f1c" fill-rule="evenodd" d="m8.2 1.2 7 6.7-3.4 3.5 9.5 9.3-2.2 2.1-2.7-2.7-1.8 1.8-2.1-2 1.8-1.8-4.7-4.7-1.7 1.7-7-6.9Zm0 3.9L4.9 8.2l3.3 3.2 3.1-3.3Z"/><path fill="#c88c32" d="m12.4 13.3 1.5-1.4 2.1 2.1-1.5 1.4Z"/></svg>',
+}
+
 # Small 4-point sparkle, filled with currentColor, used for decorative accents.
 SPARKLE_SVG = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c.6 4.2 2.8 6.4 7 7-4.2.6-6.4 2.8-7 7-.6-4.2-2.8-6.4-7-7 4.2-.6 6.4-2.8 7-7z"/></svg>'
 
@@ -130,10 +137,14 @@ def format_week_of(iso_date: str, lang: str) -> str:
     return d.strftime("%B %-d, %Y") if hasattr(d, "strftime") else iso_date
 
 
-def render_category_card(key: str, data: dict, index: int, is_last: bool, lang: str) -> str:
+def render_category_card(key: str, data: dict, index: int, is_last: bool, lang: str, editorial: bool = False) -> str:
     label = CATEGORY_LABELS[lang][key]
     strings = STRINGS[lang]
     reader_count = data["reader_count"]
+    tally = ''
+    if editorial:
+        marks = ''.join(f'<i class="tally-mark{" is-filled" if n < reader_count else ""}"></i>' for n in range(5))
+        tally = f'<span class="reader-tally" aria-hidden="true">{marks}</span>'
 
     disagreement_html = ""
     if data.get("disagreement") and "no notable disagreement" not in data["disagreement"].lower() and "no strong disagreement" not in data["disagreement"].lower():
@@ -147,10 +158,10 @@ def render_category_card(key: str, data: dict, index: int, is_last: bool, lang: 
 
     return f"""
         <article class="card" style="animation-delay: {0.4 + index * 0.12}s">
-          <div class="card-icon">{ICON_SVG[key]}</div>
+          <div class="card-icon">{EDITORIAL_ICON_SVG.get(key, ICON_SVG[key]) if editorial else ICON_SVG[key]}</div>
           <h3 class="card-title">{label}</h3>
           <p class="card-headline">{esc(data['summary'])}</p>
-          <div class="agreement-pill">{strings['agreement_pill'](reader_count)}</div>{disagreement_html}{divider_sparkle_html}
+          <div class="agreement-pill">{tally}<span>{strings['agreement_pill'](reader_count)}</span></div>{disagreement_html}{divider_sparkle_html}
         </article>"""
 
 
@@ -173,7 +184,8 @@ def render_sign_selector(current_slug: str, lang: str) -> str:
     for slug in ZODIAC_ORDER:
         href = f"digest-{slug}{'' if lang == 'en' else '-es'}.html"
         cls = "sign-pill sign-pill-current" if slug == current_slug else "sign-pill"
-        pills.append(f'<a class="{cls}" href="{esc(href)}">{esc(sign_display_name(slug, lang))}</a>')
+        current = ' aria-current="page"' if slug == current_slug else ''
+        pills.append(f'<a class="{cls}"{current} href="{esc(href)}">{esc(sign_display_name(slug, lang))}</a>')
     return f'<nav class="sign-selector">{"".join(pills)}</nav>'
 
 
@@ -189,6 +201,15 @@ def render_reader_row(reader: dict, index: int, lang: str) -> str:
 
 def build_html(digest: dict, sign_slug: str, week_of_display: str, cards_html: str, rows_html: str, lang: str) -> str:
     strings = STRINGS[lang]
+    assets = Path(__file__).parent / 'public' / 'assets'
+    image_name = f'{sign_slug}-600.webp' if (assets / f'{sign_slug}-600.webp').exists() else f'{sign_slug}.webp'
+    if not (assets / image_name).is_file():
+        raise FileNotFoundError(f'Missing illustration: {assets / image_name}')
+    digest_art = f'<div class="digest-art" style="view-transition-name: zodiac-{sign_slug}"><img src="assets/{image_name}" width="600" height="900" alt="" fetchpriority="high"></div>'
+    other_page = f'digest-{sign_slug}{"-es" if lang == "en" else ""}.html'
+    other_label = 'Leer en espa&#241;ol' if lang == 'en' else 'Read in English'
+    language_link = f'<div class="lang-toggle"><a href="{other_page}">{other_label}</a></div>'
+    title_class = ' long-sign' if len(digest['sign']) >= 10 else ''
     html_out = f"""<!doctype html>
 <html lang="{strings['html_lang']}">
 <head>
@@ -582,12 +603,15 @@ def build_html(digest: dict, sign_slug: str, week_of_display: str, cards_html: s
     }}
   }}
 </style>
+<link rel="stylesheet" href="assets/deck.css"><script defer src="assets/deck.js"></script>
 </head>
-<body>
+<body class="deck-digest{title_class}">
   <div class="wrap">
+    {language_link}
     {render_all_signs_button(lang)}
 
     <header>
+      {digest_art}
       <span class="header-sparkle">{SPARKLE_SVG}</span>
       <h1 class="sign-name">{esc(digest['sign'])}</h1>
       <p class="week-line">{strings['week_of_prefix']} {esc(week_of_display)}</p>
@@ -627,7 +651,6 @@ def build_html(digest: dict, sign_slug: str, week_of_display: str, cards_html: s
 
     {render_all_signs_link(lang)}
   </div>
-  <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
 """
@@ -660,7 +683,7 @@ def main():
 
     week_of_display = format_week_of(digest["week_of"], lang)
     cards_html = "".join(
-        render_category_card(key, digest["categories"][key], i, i == len(CATEGORY_ORDER) - 1, lang)
+        render_category_card(key, digest["categories"][key], i, i == len(CATEGORY_ORDER) - 1, lang, True)
         for i, key in enumerate(CATEGORY_ORDER)
     )
     rows_html = "".join(
@@ -674,6 +697,9 @@ def main():
         print(f"WARNING: {count} em dash(es) slipped through into {output_path.name}, flagging for manual review.")
 
     output_path.write_text(html_out, encoding="utf-8")
+    public_path = Path(__file__).parent / 'public' / output_path.name
+    public_path.parent.mkdir(exist_ok=True)
+    public_path.write_text(html_out, encoding='utf-8')
     print(f"Wrote {output_path}")
     return 0
 

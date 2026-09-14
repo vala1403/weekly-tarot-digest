@@ -1,5 +1,14 @@
 # CLAUDE.md
 
+## Illustrated candidate workspace
+
+Work only in `/home/vala/tarot_transcripts_animated`; treat
+`/home/vala/tarot_transcripts` as read-only. Read `PRODUCTION_HANDOFF.md` for
+the illustrated site build, verification, and asset conventions. All twelve
+signs now use the approved illustrated interface in both languages. Use
+`python3 build_site.py` after weekly data generation, then
+`python3 verify_site.py`. No deployment is authorized by this handoff.
+
 Context for future sessions on decisions behind the current pipeline and
 `data/theme-log.json` schema (v2). These aren't derivable from reading the
 code alone, so they're recorded here rather than left to be rediscovered.

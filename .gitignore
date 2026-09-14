@@ -6,3 +6,6 @@ transcripts/
 tagged/
 get-pip.py
 .DS_Store
+work/
+.claude/settings.local.json
+.claude/*.local.json

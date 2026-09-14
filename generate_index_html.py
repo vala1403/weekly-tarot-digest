@@ -142,11 +142,22 @@ def load_sign_card(sign_slug: str, lang: str) -> dict:
 
 def render_card(card: dict, strings: dict, index: int) -> str:
     delay = round(0.1 + index * 0.05, 2)
+    slug = ZODIAC_ORDER[index]
+    symbols = ['&#9800;', '&#9801;', '&#9802;', '&#9803;', '&#9804;', '&#9805;', '&#9806;', '&#9807;', '&#9808;', '&#9809;', '&#9810;', '&#9811;']
+    if (Path(__file__).parent / 'public' / 'assets' / f'{slug}.webp').exists():
+        thumbnail = Path(__file__).parent / 'public' / 'assets' / f'{slug}-600.webp'
+        source = f'{slug}-600.webp' if thumbnail.exists() else f'{slug}.webp'
+        art = f'<div class="card-art" style="view-transition-name: zodiac-{slug}"><img src="assets/{source}" width="600" height="900" alt="" loading="lazy" decoding="async"></div>'
+    else:
+        art = f'<div class="card-art simple-art simple-{index % 3}" aria-hidden="true"><span>{symbols[index]}&#xfe0e;</span><i></i></div>'
     if card["available"]:
         return f"""
-        <a class="sign-card" href="{esc(card['href'])}" style="animation-delay: {delay}s">
+        <a class="sign-card sign-{slug}" data-reveal href="{esc(card['href'])}">
+          {art}
+          <div class="card-copy">
           <h2 class="sign-card-name">{esc(card['name'])}</h2>
           <p class="sign-card-teaser">{esc(card['teaser'])}</p>
+          </div>
         </a>"""
     return f"""
         <div class="sign-card sign-card-pending" style="animation-delay: {delay}s">
@@ -383,18 +394,26 @@ def build_html(cards_html: str, strings: dict, week_label: str) -> str:
     .grid {{ grid-template-columns: repeat(2, 1fr); }}
   }}
 </style>
+<link rel="stylesheet" href="assets/deck.css">
+<script defer src="assets/deck.js"></script>
 </head>
-<body>
+<body class="deck-home">
   <div class="wrap">
     <div class="lang-toggle">
       <a href="{esc(strings['lang_toggle_href'])}">{esc(strings['lang_toggle_text'])}</a>
     </div>
 
-    <header>
+    <header class="deck-header">
+      <p class="edition-label">Weekly Tarot Digest</p>
       <h1>{esc(strings['title'])}</h1>
       <p class="week-date">{esc(week_label)}</p>
       <p class="subtitle">{esc(strings['subtitle'])}</p>
       <button type="button" id="how-it-works-trigger" class="how-it-works-link">{esc(strings['how_it_works_link'])}</button>
+      <div class="opening-deck" aria-hidden="true">
+        <img class="opening-card opening-pisces" src="assets/pisces.webp" width="600" height="900" alt="" fetchpriority="high">
+        <img class="opening-card opening-leo" src="assets/leo.webp" width="600" height="900" alt="" fetchpriority="high">
+        <img class="opening-card opening-gemini" src="assets/gemini.webp" width="600" height="900" alt="" fetchpriority="high">
+      </div>
     </header>
 
     <section class="grid">{cards_html}
@@ -417,10 +436,20 @@ def build_html(cards_html: str, strings: dict, week_label: str) -> str:
       function openModal() {{
         overlay.classList.add('open');
         overlay.setAttribute('aria-hidden', 'false');
+        document.querySelector('.deck-header').inert = true;
+        document.querySelector('.grid').inert = true;
+        document.querySelector('.lang-toggle').inert = true;
+        document.body.style.overflow = 'hidden';
+        closeBtn.focus();
       }}
       function closeModal() {{
         overlay.classList.remove('open');
         overlay.setAttribute('aria-hidden', 'true');
+        document.querySelector('.deck-header').inert = false;
+        document.querySelector('.grid').inert = false;
+        document.querySelector('.lang-toggle').inert = false;
+        document.body.style.overflow = '';
+        trigger.focus();
       }}
 
       trigger.addEventListener('click', openModal);
@@ -429,11 +458,12 @@ def build_html(cards_html: str, strings: dict, week_label: str) -> str:
         if (e.target === overlay) closeModal();
       }});
       document.addEventListener('keydown', function (e) {{
+        if (!overlay.classList.contains('open')) return;
         if (e.key === 'Escape') closeModal();
+        if (e.key === 'Tab') {{ e.preventDefault(); closeBtn.focus(); }}
       }});
     }})();
   </script>
-  <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
 """
@@ -454,6 +484,9 @@ def main():
             print(f"WARNING: {count} em dash(es) slipped through into {strings['output_path'].name}, flagging for manual review.")
 
         strings["output_path"].write_text(html_out, encoding="utf-8")
+        public_path = Path(__file__).parent / 'public' / strings['output_path'].name
+        public_path.parent.mkdir(exist_ok=True)
+        public_path.write_text(html_out, encoding='utf-8')
         available = sum(1 for s in ZODIAC_ORDER if load_sign_card(s, lang)["available"])
         print(f"Wrote {strings['output_path']}  ({available}/12 signs available)")
 
