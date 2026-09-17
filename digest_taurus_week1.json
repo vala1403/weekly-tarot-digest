@@ -1,60 +1,60 @@
 {
   "sign": "Taurus",
-  "week_of": "2026-09-14",
+  "week_of": "2026-09-21",
   "categories": {
     "love": {
-      "summary": "Several readers sense a mix of romantic opportunity and relational reassessment this week, so Taurus is encouraged to lean toward honest, trustworthy connections while stepping back from those who drain their energy.",
+      "summary": "Most readers see a promising new romantic connection or emotional fulfillment heading toward Taurus, so stay open to love and trust that genuine bonds are forming naturally around you.",
       "reader_count": 4,
-      "disagreement": "Some readers focused on romantic opportunity and choosing the right partner, while others emphasized pulling back from draining relationships and prioritizing personal boundaries."
+      "disagreement": "One reader warned that self-sabotage rooted in fear of failure may be quietly undermining the very romantic potential others describe as on the horizon."
     },
     "finance": {
-      "summary": "Most readers see this as a meaningful moment for Taurus to claim greater financial stability, encouraging bold action and creative, long-term thinking to build the abundance that is rightfully theirs.",
-      "reader_count": 4,
-      "disagreement": "One reader urged assertive action against unfair treatment, while others focused on positive incoming opportunities and building sustainable security rather than addressing wrongs."
+      "summary": "Most readers sense financial rewards on the horizon this week, built through steady effort and consistent action, so resist impulsive spending and channel any incoming gains toward something that grows over time.",
+      "reader_count": 3,
+      "disagreement": "No notable disagreement among readers who discussed this theme."
     },
     "career": {
-      "summary": "Several readers see this as a pivotal week for Taurus to assert themselves professionally, whether by speaking up, setting boundaries, or pursuing new opportunities, channeling their unique strengths with confidence and intention.",
+      "summary": "Most readers see fresh opportunities and career growth on the horizon this week, so embrace bold action and hard work rather than waiting for perfect conditions or guaranteed results.",
       "reader_count": 4,
-      "disagreement": "Some readers highlighted recognition and advancement, while others focused on reinvention after loss or redirecting energy away from draining responsibilities."
+      "disagreement": "One reading cautioned that Taurus may be overextending and should shed draining responsibilities, while others focused on seizing new opportunities and pushing forward."
     },
     "family": {
-      "summary": "Only a few readers touched on family this week, with those who did pointing to the importance of addressing burdens and responsibilities head-on rather than staying passive, while working toward lasting stability for those you love.",
-      "reader_count": 3,
-      "disagreement": "Some readers focused on releasing the weight of others' problems, while one emphasized actively confronting shared financial or family obligations rather than staying silent."
+      "summary": "Only one reader touched on family dynamics this week, pointing to potential conflict from someone trying to drag you into their personal disputes, so staying alert and disengaged from unnecessary drama is the best approach.",
+      "reader_count": 1,
+      "disagreement": "No notable disagreement, as only one reader discussed this theme."
     }
   },
-  "overall_tone": "empowering",
-  "overall_tone_summary": "Taurus steps into their strength this week with growing confidence and hope.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "A bright undercurrent of possibility carries Taurus steadily through the week.",
   "readers": [
     {
-      "video_id": "wqwFuSQBBeU",
-      "channel_theme": "Career success brings recognition and possible advancement this week.",
+      "video_id": "zYVp9IJjITw",
+      "channel_theme": "Taurus risks unconsciously sabotaging promising connections due to deep fear and self-doubt.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=zYVp9IJjITw"
+    },
+    {
+      "video_id": "eLdE2BMnNOE",
+      "channel_theme": "Bold action on unproven opportunities is key to career and financial growth.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=wqwFuSQBBeU"
+      "url": "https://www.youtube.com/watch?v=eLdE2BMnNOE"
     },
     {
-      "video_id": "hBPXLipUPr0",
-      "channel_theme": "Stop absorbing others' problems and firmly protect your own energy.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=hBPXLipUPr0"
-    },
-    {
-      "video_id": "BgJnbHmAct4",
-      "channel_theme": "Boldly confront unfair financial or legal treatment and demand what you deserve.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=BgJnbHmAct4"
-    },
-    {
-      "video_id": "MC1_5NruLTw",
-      "channel_theme": "Taurus keeps resisting a meaningful romantic opportunity due to internal barriers.",
-      "tone": "introspective",
-      "url": "https://www.youtube.com/watch?v=MC1_5NruLTw"
-    },
-    {
-      "video_id": "qFBdGXvtbqQ",
-      "channel_theme": "Choose a trustworthy partner and build long-term security creatively.",
+      "video_id": "1XXRGFoXnk4",
+      "channel_theme": "Processing inner feelings unlocks a deeply joyful and fulfilling emotional life ahead.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=qFBdGXvtbqQ"
+      "url": "https://www.youtube.com/watch?v=1XXRGFoXnk4"
+    },
+    {
+      "video_id": "9nE7XF1PboQ",
+      "channel_theme": "Release draining burdens and overextension to restore stability and energy.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=9nE7XF1PboQ"
+    },
+    {
+      "video_id": "SR_povlb-ho",
+      "channel_theme": "Beware of being pulled into others' drama and conflicts this week.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=SR_povlb-ho"
     }
   ]
 }

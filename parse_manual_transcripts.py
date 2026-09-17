@@ -63,8 +63,12 @@ NEW_HEADER_FROM = "2026-09-14"
 FILENAME_RE = re.compile(r"^([a-zA-Z]+)-(\d+)$")
 TIMESTAMP_RE = re.compile(r"^\d{1,2}:\d{2}\d+ (?:minutes?|seconds?)(?:, \d+ seconds?)?")
 # The metadata-header subscriber line, e.g. "15.7K subscribers", "1M
-# subscribers", "652 subscribers". Kept verbatim as subscribers_at_capture.
-SUBSCRIBER_RE = re.compile(r"^\d[\d.,]*[KMB]? subscribers?$", re.IGNORECASE)
+# subscribers", "652 subscribers". Also matches the truncated "15.8K
+# subscribe" form some channel layouts render (seen 2026-09-21 across six
+# files from four different channels) -- YouTube renders this line
+# differently depending on the channel's page layout, so both are expected,
+# not a one-off typo. Kept verbatim as subscribers_at_capture either way.
+SUBSCRIBER_RE = re.compile(r"^\d[\d.,]*[KMB]? subscribe(?:rs?)?$", re.IGNORECASE)
 # Covers every point a copy-paste could start mid-word inside "Transcript"
 # (ript/cript/script/nscript/anscript/ranscript/transcript), not just the
 # n-prefixed forms.

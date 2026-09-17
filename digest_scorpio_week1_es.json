@@ -1,59 +1,59 @@
 {
   "sign": "Escorpio",
-  "week_of": "2026-09-14",
+  "week_of": "2026-09-21",
   "categories": {
     "love": {
-      "summary": "Esta semana Escorpio se encuentra rodeado de una mezcla de energía romántica nueva y familiar, y es probable que salgan a la luz sentimientos o verdades que estaban ocultos. Confía en tu intuición antes de comprometerte con algo o alguien nuevo.",
-      "reader_count": 3,
-      "disagreement": "Algunos lectores vieron a una figura encantadora intentando arrastrar a Escorpio de vuelta a algo potencialmente deshonesto. Otros sugirieron que una conexión genuina y profunda está floreciendo, o que está llegando una nueva propuesta que vale la pena explorar."
+      "summary": "El amor ocupa un lugar central esta semana para Escorpio. La mayoría de los lectores señalan que hay un verdadero potencial romántico surgiendo o consolidándose, así que mantente abierto y emocionalmente disponible para que las conexiones significativas puedan echar raíces de verdad.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores destacaron una relación dolorosa o confusa que se está desvaneciendo, mientras que otros apuntaron a nuevas posibilidades románticas y señales de admiración que llegan desde afuera."
     },
     "finance": {
-      "summary": "La mayoría de los lectores ven a Escorpio atravesando un período de crecimiento financiero pausado y consciente. Es momento de sembrar con ahorro cuidadoso y planificación estratégica, ya que los resultados concretos y las nuevas oportunidades están empezando a tomar forma.",
-      "reader_count": 4,
-      "disagreement": "Un lector desvía la mirada hacia el entorno de Escorpio y advierte sobre la necesidad de alejarse de alguien codicioso o controlador en su vida financiera, mientras que otros se centran por completo en la estrategia interna y el crecimiento personal de Escorpio."
+      "summary": "Solo un par de lectores abordaron las finanzas esta semana, pero quienes lo hicieron señalaron oportunidades prometedoras en el horizonte, ya sea una apertura concreta en el mundo real o un proyecto apasionante, con posibilidad de generar recompensas importantes en los próximos meses.",
+      "reader_count": 2,
+      "disagreement": "Un lector señaló una oportunidad financiera práctica y bien fundamentada, mientras que el otro se enfocó en perseguir un sueño largamente acariciado como camino hacia el bienestar económico futuro."
     },
     "career": {
-      "summary": "La mayoría de los lectores coinciden en que esta es una semana clave para que Escorpio deje de dudar y pase a la acción concreta en ese proyecto o ambición prometedora, ya sea comprometiéndose de lleno, colaborando con otros o asumiendo ese rol más importante que lleva tiempo gestándose.",
-      "reader_count": 5,
-      "disagreement": "Algunos lectores vieron a Escorpio avanzando con determinación y aprovechando nuevas oportunidades, mientras que uno sugirió que quizás sea necesario considerar abandonar del todo un proyecto actual."
+      "summary": "La mayoría de los lectores coinciden en que esta es una semana clave para que Escorpio deje de dudar y actúe con determinación en sus metas profesionales. El reconocimiento, los nuevos comienzos y las oportunidades significativas están esperando al otro lado de esa decisión.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores se enfocaron en regresar a un rol existente con una bienvenida cálida, mientras que otros pusieron el énfasis en aprovechar una oportunidad completamente nueva, impulsada por la sólida reputación de Escorpio."
     },
     "family": {
-      "summary": "La mayoría de los lectores perciben una energía cálida y unificadora en el entorno familiar y social de Escorpio esta semana. Aprovecha los momentos compartidos y los lazos comunitarios, que se están fortaleciendo de manera natural.",
-      "reader_count": 4,
-      "disagreement": "Un lector señaló que quienes están cerca de Escorpio podrían sentirse inquietos ante sus cambios, mientras que otros se enfocaron en la armonía y la unión sin señalar ningún tipo de fricción."
+      "summary": "Alrededor de la mitad de los lectores tocaron el tema de la familia y las relaciones esta semana. Hay una sensación compartida de que las conversaciones sinceras y los intercambios honestos con los seres queridos pueden ayudar a Escorpio a superar las limitaciones actuales y reconectarse después de un período de alejamiento.",
+      "reader_count": 3,
+      "disagreement": "Un lector subrayó la importancia de la reciprocidad y el equilibrio en las relaciones existentes, mientras que otro se centró en personas que se acercan a ofrecer apoyo, lo que sugiere puntos de partida distintos para esa reconexión."
     }
   },
-  "overall_tone_summary": "El optimismo marca el camino esta semana, aunque hay una corriente de tensión que merece tu atención. Quinta semana consecutiva con esta tendencia.",
+  "overall_tone_summary": "Esta semana, Escorpio atraviesa transformaciones profundas que lo están cambiando desde adentro.",
   "readers": [
     {
-      "video_id": "G5By4WRd4pI",
-      "channel_theme": "Deja de planear y toma acción decisiva ahora mismo en tu proyecto más prometedor.",
+      "video_id": "tOnkWlilDFw",
+      "channel_theme": "Una relación confusa tiene a Escorpio debatiéndose entre quedarse y marcharse.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=tOnkWlilDFw"
+    },
+    {
+      "video_id": "ID1NzjkbujA",
+      "channel_theme": "Las relaciones necesitan un intercambio de energía equilibrado, no un esfuerzo unilateral.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=ID1NzjkbujA"
+    },
+    {
+      "video_id": "HS0d0tSk2Ms",
+      "channel_theme": "Los demás están deseando darle la bienvenida a Escorpio tras un período de aislamiento.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=G5By4WRd4pI"
+      "url": "https://www.youtube.com/watch?v=HS0d0tSk2Ms"
     },
     {
-      "video_id": "2vUBpgCkI5E",
-      "channel_theme": "Hay un interés romántico encantador pero deshonesto del que debes alejarte sin dudarlo.",
-      "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=2vUBpgCkI5E"
-    },
-    {
-      "video_id": "9XtsvWyGcmY",
-      "channel_theme": "Un gran cambio está despejando tu camino hacia un rol o posición más elevada.",
-      "tone": "empoderador",
-      "url": "https://www.youtube.com/watch?v=9XtsvWyGcmY"
-    },
-    {
-      "video_id": "jhxnw6aOwLA",
-      "channel_theme": "Podrían llegarte oportunidades inesperadas de parte de personas en posiciones de autoridad, ayudándote a construir un legado duradero.",
+      "video_id": "JYCouGCHIWY",
+      "channel_theme": "Alguien admira a Escorpio en silencio y pregunta por él o ella desde la distancia.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=jhxnw6aOwLA"
+      "url": "https://www.youtube.com/watch?v=JYCouGCHIWY"
     },
     {
-      "video_id": "aHRCAk_jOTo",
-      "channel_theme": "Una salida poco convencional de un proyecto actual podría resultar sorprendentemente acertada.",
-      "tone": "turbulento",
-      "url": "https://www.youtube.com/watch?v=aHRCAk_jOTo"
+      "video_id": "fnuj2XzIlNI",
+      "channel_theme": "Un proyecto apasionante podría traer importantes recompensas económicas en cuestión de meses.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=fnuj2XzIlNI"
     }
   ]
 }

@@ -1,59 +1,59 @@
 {
   "sign": "Cáncer",
-  "week_of": "2026-09-14",
+  "week_of": "2026-09-21",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores perciben conexiones románticas prometedoras o vínculos que se profundizan para Cáncer esta semana, así que mantente abierto a lo que está surgiendo en lugar de dejar que las heridas del pasado o la duda te frenen.",
-      "reader_count": 4,
-      "disagreement": "Una lectora hizo énfasis en la cautela respecto a heridas de relaciones anteriores, mientras que los demás se inclinaron con más optimismo hacia nuevas conexiones y compromisos que se consolidan, sin esa misma reserva."
+      "summary": "La mayoría de los lectores perciben el cierre de un capítulo romántico complicado, lo que abre la puerta a algo más estable y satisfactorio. Mantener el corazón abierto ayudará a Cáncer a recibir con brazos abiertos lo que está por llegar.",
+      "reader_count": 3,
+      "disagreement": "Algunos lectores describieron una situación que se cierra por completo y despeja el camino, mientras que uno destacó que aún persisten conflictos emocionales y dudas sobre si realmente todo ha terminado."
     },
     "finance": {
-      "summary": "Solo algunos lectores abordaron el tema financiero esta semana, y quienes lo hicieron señalaron la llegada de apoyo, nuevas oportunidades y la sensación de que las dificultades económicas del pasado pudieron haber tenido un propósito mayor, así que mantente receptivo a la ayuda y a las nuevas posibilidades de trabajo a medida que las cosas comienzan a cambiar.",
-      "reader_count": 3,
-      "disagreement": "Algunos lectores vieron llegar nuevas oportunidades financieras, mientras que uno sugirió que una pérdida dolorosa está siendo resignificada como parte de un plan divino, más que como una ganancia concreta."
+      "summary": "La mayoría de los lectores coinciden en que el avance económico de Cáncer es lento pero seguro. El consejo más consistente para esta semana es mantener la paciencia y seguir comprometido con los planes a largo plazo, ya que esa constancia es la clave para construir una estabilidad duradera.",
+      "reader_count": 4,
+      "disagreement": "Un lector sugirió que Cáncer podría estar buscando ayuda económica externa o préstamos, mientras que los demás se centraron en la paciencia y la perseverancia desde los propios recursos, sin depender de apoyos externos."
     },
     "career": {
-      "summary": "El impulso profesional es un tema central esta semana, con crecimiento, nuevos comienzos y enfoques renovados que apuntan hacia un movimiento positivo en el ámbito laboral, así que mantente constante y paciente en lugar de forzar los resultados.",
+      "summary": "Esta semana se están abriendo nuevas oportunidades profesionales para Cáncer y el impulso está creciendo. Lo más recomendable es acercarse a ellas con disposición y compromiso, dejando de lado la duda o el exceso de precaución.",
       "reader_count": 4,
-      "disagreement": "Algunos lectores vieron avances activos y reconocimiento que ya se están manifestando, mientras que otros sugirieron ir más despacio y evitar tomar decisiones apresuradas."
+      "disagreement": "Algunos lectores alentaron a actuar con valentía y espontaneidad sin darle demasiadas vueltas al asunto, mientras que uno aconsejó ir más despacio y revisar bien las decisiones antes de comprometerse."
     },
     "family": {
-      "summary": "Solo dos lectores mencionaron el ámbito familiar esta semana, pero ambos apuntaron hacia un hogar nutrido y orientado al crecimiento, ya sea a través de un cambio de vida compartido con una pareja o apoyándose en una comunidad de personas que genuinamente te respaldan.",
-      "reader_count": 2,
-      "disagreement": null
+      "summary": "Varios lectores tocaron esta semana el tema de la familia y los vínculos afectivos, resaltando la importancia de rodearse de personas leales y positivas, y de mantenerse abierto a señales significativas relacionadas con el hogar o a reencuentros emotivos con personas del pasado.",
+      "reader_count": 3,
+      "disagreement": "Algunos lectores se enfocaron en relaciones de apoyo que llevan mucho tiempo presentes, mientras que uno hizo hincapié en reconectar con personas que se habían perdido de vista, lo que sugiere distintos puntos de entrada a la temática del sentido de pertenencia."
     }
   },
-  "overall_tone_summary": "La transformación sigue presente, pero una corriente luminosa y llena de esperanza impulsa a Cáncer hacia adelante esta semana.",
+  "overall_tone_summary": "Esta semana se perciben advertencias sutiles que invitan a Cáncer a tomarse un momento antes de actuar.",
   "readers": [
     {
-      "video_id": "S2qoJx558oI",
-      "channel_theme": "Una decepción amorosa del pasado te está impidiendo abrirte a una nueva conexión prometedora.",
+      "video_id": "4x9GvdsNL1k",
+      "channel_theme": "Persiste un conflicto interno relacionado con una relación pasada que aún no se siente resuelta.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=4x9GvdsNL1k"
+    },
+    {
+      "video_id": "rJj1WQbuoeY",
+      "channel_theme": "Puede aparecer una nueva pareja con los pies en la tierra, así que conviene estar abierto y disfrutar del proceso.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=rJj1WQbuoeY"
+    },
+    {
+      "video_id": "oxB9j2tvL3Q",
+      "channel_theme": "Deja de dudar y comprométete de lleno con tu objetivo más importante ahora mismo.",
       "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=S2qoJx558oI"
+      "url": "https://www.youtube.com/watch?v=oxB9j2tvL3Q"
     },
     {
-      "video_id": "6DAbxqHS6pE",
-      "channel_theme": "El avance profesional es veloz y se acerca pronto una gran oportunidad a largo plazo.",
+      "video_id": "iHRghKuqE04",
+      "channel_theme": "Un capítulo romántico turbulento llega a su fin, dejando espacio para algo verdaderamente satisfactorio.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=6DAbxqHS6pE"
+      "url": "https://www.youtube.com/watch?v=iHRghKuqE04"
     },
     {
-      "video_id": "NLK7ehxIGgM",
-      "channel_theme": "Es posible que se esté gestando un gran cambio de vida o mudanza junto a una visión compartida con tu pareja.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=NLK7ehxIGgM"
-    },
-    {
-      "video_id": "yPVclNrcvAA",
-      "channel_theme": "Unas rutinas diarias sencillas y constantes te servirán mejor ahora que cualquier estrategia complicada.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=yPVclNrcvAA"
-    },
-    {
-      "video_id": "ma9hRWB0VNU",
-      "channel_theme": "Una pérdida económica es resignificada como parte de un plan divino con un propósito profundo.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=ma9hRWB0VNU"
+      "video_id": "1vNinJ6YX7c",
+      "channel_theme": "Revisa bien cualquier contrato antes de firmarlo, ya que las nuevas oportunidades pueden esconder riesgos no evidentes.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=1vNinJ6YX7c"
     }
   ]
 }

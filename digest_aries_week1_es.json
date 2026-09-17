@@ -1,59 +1,59 @@
 {
   "sign": "Aries",
-  "week_of": "2026-09-14",
+  "week_of": "2026-09-21",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores perciben una complejidad emocional en el amor esta semana, así que presta atención a los vínculos que se están formando o transformando a tu alrededor, ya que la paciencia y el momento oportuno podrían determinar si una relación se profundiza o se desvanece.",
-      "reader_count": 4,
-      "disagreement": "Algunos lectores vieron una conexión romántica nueva o en crecimiento, mientras que una lectura sugirió que Aries podría estar preparándose para alejarse de una relación existente a pesar de un profundo vínculo mutuo."
+      "summary": "La mayoría de los lectores perciben que una conexión romántica nueva y significativa está por llegar a la vida de Aries esta semana, así que mantente abierto a las posibilidades y permite que las cosas se aclaren antes de tomar decisiones apresuradas.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores se enfocaron en la llegada emocionante de un nuevo romance, mientras que una lectura resaltó una profunda incertidumbre y la disposición emocional de alejarse definitivamente de una relación existente."
     },
     "finance": {
-      "summary": "La mayoría de los lectores esta semana perciben una creciente estabilidad financiera y prometedoras oportunidades que se abren para Aries, ya sea a través del trabajo, asuntos legales, propiedades o finanzas familiares, así que mantente abierto a fuentes inesperadas de ingresos y a la abundancia que está por llegar.",
-      "reader_count": 3,
-      "disagreement": null
+      "summary": "Solo 2 de los 5 lectores abordaron el tema financiero esta semana. Uno señaló la llegada de abundancia como fruto de esfuerzos pasados, mientras que el otro recomendó saldar deudas para construir una base económica más sólida de cara al futuro.",
+      "reader_count": 2,
+      "disagreement": "Algunos lectores vieron las finanzas como un momento de recompensa inminente, mientras que otros se centraron en la necesidad de cumplir con las obligaciones pendientes primero. Las perspectivas difieren en si la abundancia ya está llegando o si aún se está trabajando para alcanzarla."
     },
     "career": {
-      "summary": "Varios lectores perciben cambios profesionales significativos que se están desarrollando para Aries esta semana, así que mantente alerta ante las oportunidades que emergen y cuida bien tus ideas, porque algo importante parece estar echando raíces.",
-      "reader_count": 4,
-      "disagreement": "Algunos lectores hicieron énfasis en ir más despacio y evitar decisiones apresuradas, mientras que otros señalaron nuevos comienzos audaces y oportunidades activas que ya están en marcha."
+      "summary": "Tres lectores ven cambios positivos en el horizonte profesional de Aries, ya sea a través de un nuevo puesto, un ascenso o un impulso renovado, por lo que esta es una semana ideal para comprometerte de lleno con tus metas y actuar con constancia y enfoque para construir algo verdaderamente significativo.",
+      "reader_count": 3,
+      "disagreement": "Algunos lectores se enfocaron en cambios externos como nuevos empleos o reconectar con colegas, mientras que uno destacó la importancia del compromiso interno y el esfuerzo disciplinado hacia una meta o proyecto personal."
     },
     "family": {
-      "summary": "Solo dos lectores abordaron el tema familiar esta semana, pero ambos señalaron que las conexiones con hermanos o seres queridos cercanos tendrán un papel importante, ya sea a través de reuniones alegres o de cambios significativos que se desarrollan a su alrededor.",
+      "summary": "Solo un par de lectores mencionaron el tema familiar esta semana. Quienes lo hicieron sugirieron que apoyarse en las relaciones cercanas y en los seres queridos de confianza puede ofrecer consuelo y estabilidad, especialmente mientras Aries sopesa una decisión personal importante.",
       "reader_count": 2,
-      "disagreement": "Una lectora destacó una reunión divertida y emotiva, mientras que la otra sugirió que los lazos familiares están ligados a decisiones importantes y transiciones, más que a momentos de celebración."
+      "disagreement": null
     }
   },
-  "overall_tone_summary": "Esta semana invita a Aries a detenerse, mirar hacia adentro y encontrar claridad.",
+  "overall_tone_summary": "Dos lecturas fuertemente esperanzadoras marcan esta semana, con una luz clara en el horizonte.",
   "readers": [
     {
-      "video_id": "CZHk9sUzUvk",
-      "channel_theme": "La paciencia y la calma son la clave para resolver las tensiones de esta semana.",
-      "tone": "reflexivo",
-      "url": "https://www.youtube.com/watch?v=CZHk9sUzUvk"
-    },
-    {
-      "video_id": "DlHSVBZ57V8",
-      "channel_theme": "La disrupción despeja el camino y trae conexiones inesperadas y reencuentros llenos de alegría.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=DlHSVBZ57V8"
-    },
-    {
-      "video_id": "Xz7noG9ZCbU",
-      "channel_theme": "El reconocimiento y el ascenso están cerca, pero protege tus ideas de quienes podrían sabotearlas.",
-      "tone": "triunfante",
-      "url": "https://www.youtube.com/watch?v=Xz7noG9ZCbU"
-    },
-    {
-      "video_id": "11WCThBKdKQ",
-      "channel_theme": "Aries podría elegir alejarse a pesar de un amor profundo y correspondido.",
-      "tone": "agridulce",
-      "url": "https://www.youtube.com/watch?v=11WCThBKdKQ"
-    },
-    {
-      "video_id": "7MiyTj_6eJk",
-      "channel_theme": "Una gran oportunidad, aún invisible, ya está echando raíces para Aries.",
+      "video_id": "TMOZ_GTPiMo",
+      "channel_theme": "Una nueva oportunidad laboral promete conexiones valiosas y un comienzo muy prometedor.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=7MiyTj_6eJk"
+      "url": "https://www.youtube.com/watch?v=TMOZ_GTPiMo"
+    },
+    {
+      "video_id": "mz_ZzoVF1tI",
+      "channel_theme": "Saldar tus deudas pendientes ahora te permitirá construir una base financiera mucho más sólida en el futuro.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=mz_ZzoVF1tI"
+    },
+    {
+      "video_id": "QgLn58Pc2ng",
+      "channel_theme": "Comprometerte por completo con ese proyecto de pasión o negocio es tu prioridad principal en este momento.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=QgLn58Pc2ng"
+    },
+    {
+      "video_id": "CAFmiV2V7j8",
+      "channel_theme": "Detente y reflexiona con calma antes de actuar ante una decisión importante en el amor.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=CAFmiV2V7j8"
+    },
+    {
+      "video_id": "U7a08WlW2wA",
+      "channel_theme": "Te debatís entre mantener la esperanza y prepararte en silencio para dar un paso atrás.",
+      "tone": "reflexivo",
+      "url": "https://www.youtube.com/watch?v=U7a08WlW2wA"
     }
   ]
 }

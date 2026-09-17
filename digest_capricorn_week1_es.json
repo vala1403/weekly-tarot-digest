@@ -1,59 +1,59 @@
 {
   "sign": "Capricornio",
-  "week_of": "2026-09-14",
+  "week_of": "2026-09-21",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores ven nuevos comienzos románticos en el horizonte para Capricornio esta semana, así que abre tu corazón soltando las heridas del pasado y manteniéndote receptivo al amor que puede llegar desde donde menos lo esperas.",
-      "reader_count": 4,
-      "disagreement": "Una lectora describió una situación romántica estancada en la que una persona se aleja mientras la otra permanece emocionalmente comprometida, lo cual contrasta con los esperanzadores nuevos comienzos que la mayoría destacó."
+      "summary": "La mayoría de los lectores perciben una conexión romántica significativa o un punto de inflexión emocional en el horizonte para Capricornio, así que mantente abierto a los vínculos profundos sin perder de vista a quién dejas entrar en tu espacio personal.",
+      "reader_count": 3,
+      "disagreement": "Una lectura advirtió sobre personas tóxicas en las relaciones, mientras que las demás se inclinaron hacia un reencuentro esperanzador o un entendimiento mutuo, sin hacer ese tipo de advertencia."
     },
     "finance": {
-      "summary": "La mayoría de los lectores esta semana señalan un giro financiero hacia mayor estabilidad y abundancia, así que en lugar de forzar resultados o actuar de forma impulsiva, confía en el proceso y deja que las oportunidades se desarrollen a su propio ritmo.",
-      "reader_count": 4,
-      "disagreement": "Una lectora destacó la llegada inminente de un golpe de suerte inesperado, mientras que otros sugirieron que la mejora será gradual y requerirá soltar o planificar con estrategia."
+      "summary": "La mayoría de los lectores perciben un punto de inflexión financiero esta semana: el estancamiento comienza a ceder y surgen nuevas oportunidades, así que recibe con apertura lo que llegue a tu vida sin descuidar el gasto y manteniendo las decisiones firmes y tranquilas.",
+      "reader_count": 5,
+      "disagreement": "Algunos lectores se centraron en actuar con cautela para proteger lo ganado, mientras que otros hicieron énfasis en abrirse y soltar las dudas propias para recibir plenamente la abundancia que se acerca."
     },
     "career": {
-      "summary": "Los cinco lectores perciben un cambio profesional significativo llegando para Capricornio esta semana, así que deja de dudar, abraza el cambio y da pasos audaces hacia adelante porque el impulso que necesitas ya está a tu alcance.",
+      "summary": "La mayoría de los lectores ven una oportunidad profesional prometedora en el horizonte para Capricornio esta semana, así que persíguela con confianza, mantén la constancia y evita abandonar tu situación actual antes de tener algo mejor bien asegurado.",
       "reader_count": 5,
-      "disagreement": "Algunos lectores se enfocaron en los avances que surgen al soltar frustraciones del pasado, mientras que otros hicieron hincapié en tomar la iniciativa con ideas frescas o nuevos proyectos, lo que sugiere puntos de partida ligeramente distintos para el mismo movimiento hacia adelante."
+      "disagreement": "Algunos lectores destacaron la importancia de la cautela y de consolidar la estabilidad antes de dar pasos, mientras que otros animaron a perseguir la oportunidad que se avecina con valentía y pasión, sin titubear."
     },
     "family": {
-      "summary": "Solo dos lectores abordaron el tema familiar esta semana, pero ambos señalaron la importancia de soltar, ya sea el orgullo o los viejos rencores, para que puedan arraigarse relaciones más armoniosas y de mayor apoyo.",
-      "reader_count": 2,
-      "disagreement": "Una lectora se centró en asumir un rol de mentor dentro de la familia, mientras que la otra destacó la necesidad de liberar rencores para restaurar la armonía en el hogar."
+      "summary": "Solo unos pocos lectores abordaron el tema familiar esta semana, pero quienes lo hicieron sugieren que aliviar las tensiones y apoyarte en tu red de personas cercanas van de la mano, así que haz un esfuerzo por comprender a quienes te rodean y permite que otros te ayuden a aligerar la carga.",
+      "reader_count": 3,
+      "disagreement": null
     }
   },
-  "overall_tone_summary": "Cambios profundos se afianzan mientras Capricornio avanza con determinación hacia una transformación significativa. Segunda semana consecutiva.",
+  "overall_tone_summary": "Dos lecturas esperanzadoras superan el impulso transformador, iluminando la semana con un optimismo sereno y reconfortante.",
   "readers": [
     {
-      "video_id": "nW4tCqAaptA",
-      "channel_theme": "Una conexión romántica profunda y destinada a nivel del alma está encontrando su camino hacia ti de forma natural.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=nW4tCqAaptA"
+      "video_id": "ED4ylqrYmfs",
+      "channel_theme": "La precaución es fundamental: evita las personas tóxicas y los riesgos financieros imprudentes esta semana.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=ED4ylqrYmfs"
     },
     {
-      "video_id": "FQkkEnSHoJY",
-      "channel_theme": "Soltar los viejos rencores abre la puerta a la armonía en el amor, las finanzas, la carrera y la familia.",
+      "video_id": "xhJWE_-zodk",
+      "channel_theme": "Un gran despertar de propósito de vida está llegando, así que persíguelo con toda tu pasión.",
       "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=FQkkEnSHoJY"
+      "url": "https://www.youtube.com/watch?v=xhJWE_-zodk"
     },
     {
-      "video_id": "O6SB85mQt6k",
-      "channel_theme": "Energía de matrimonio y potencial de ascenso hacen de esta una semana llena de oportunidades destacadas.",
+      "video_id": "yYJsGUW5wIc",
+      "channel_theme": "Apoyarte en tu red de personas cercanas te traerá claridad y te ayudará a aligerar la carga.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=O6SB85mQt6k"
+      "url": "https://www.youtube.com/watch?v=yYJsGUW5wIc"
     },
     {
-      "video_id": "au6IE14m0J0",
-      "channel_theme": "Una abundancia inesperada llega de repente, como un regalo que cae directo en tus manos.",
-      "tone": "empoderador",
-      "url": "https://www.youtube.com/watch?v=au6IE14m0J0"
+      "video_id": "1bMWBxE_eEk",
+      "channel_theme": "Capricornio asume un rol de pacificador, resolviendo conflictos tanto en el trabajo como en el hogar.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=1bMWBxE_eEk"
     },
     {
-      "video_id": "X5MsADHn_o4",
-      "channel_theme": "Una persona se está alejando mientras tú permaneces atrapado emocionalmente en una espera sin salida.",
-      "tone": "agridulce",
-      "url": "https://www.youtube.com/watch?v=X5MsADHn_o4"
+      "video_id": "vdKnmUUOm7Q",
+      "channel_theme": "Es posible que te hayas comprometido con demasiadas cosas, así que practica la moderación y simplifica tus obligaciones.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=vdKnmUUOm7Q"
     }
   ]
 }

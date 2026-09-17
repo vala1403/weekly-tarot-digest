@@ -1,60 +1,60 @@
 {
   "sign": "Leo",
-  "week_of": "2026-09-14",
+  "week_of": "2026-09-21",
   "categories": {
     "love": {
-      "summary": "Most readers this week point to a new romantic connection or commitment on the horizon for Leo, suggesting the universe may be rewarding those who have remained open to love and partnership.",
-      "reader_count": 4,
-      "disagreement": "One reader noted that unbalanced existing relationships could naturally come to a close, while others focused purely on fresh beginnings and harmony in new connections."
+      "summary": "Romantic energy is building strongly for Leo this week, with most readers pointing to meaningful new or deepening connections on the horizon, so stay open to genuine bonds and be willing to release those who do not truly support you.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw slow, cautious romantic unfolding with communication delays, while others suggested exciting new arrivals and potential long-term commitments like engagement or marriage coming quickly."
     },
     "finance": {
-      "summary": "Most readers sense financial abundance or positive developments are on the way for Leo, so trust the timing and stay open to real opportunities materializing, even if a brief waiting period is required first.",
-      "reader_count": 4,
-      "disagreement": "One reader suggested Leo may be clinging to a financially secure but unfulfilling situation, while others pointed to incoming abundance and exciting new beginnings rather than stagnation."
+      "summary": "A meaningful financial opportunity or turning point appears to be on its way for Leo, and three readers suggest acting boldly and wisely on it to build lasting material security over the coming months.",
+      "reader_count": 3,
+      "disagreement": "Some readers pointed to an incoming offer or trusted person bringing opportunity, while one emphasized Leo taking independent, proactive steps rather than waiting for something to arrive."
     },
     "career": {
-      "summary": "All five readers point to a significant professional shift or new opportunity taking shape for Leo this week, so trust your instincts, take bold action, and be willing to step outside your comfort zone to pursue work that truly excites you.",
-      "reader_count": 5,
-      "disagreement": "Some readers saw Leo already having made a bold move and now receiving validation, while others suggested the leap forward is still ahead and requires courage to initiate."
+      "summary": "Most readers this week agree that Leo is being called to step boldly into new professional territory, so push past hesitation, lean on your existing strengths, and pursue those bigger goals with confidence.",
+      "reader_count": 4,
+      "disagreement": "Some readers focused on actively ignoring outside negativity while chasing goals, while others emphasized internal discipline and cutting distractions as the key to unlocking opportunity."
     },
     "family": {
-      "summary": "About half the readers touched on family this week, with the prevailing sense being one of healing and harmony returning to relationships, suggesting Leo focus on inner work while trusting that peace is being restored around them.",
+      "summary": "Only a few readers touched on family this week; those who did suggested that caring for loved ones remains a natural priority for Leo, though family opinions need not dictate your choices, and a long-standing financial matter involving relatives may finally be reaching resolution.",
       "reader_count": 3,
-      "disagreement": "Some readers focused on personal, inward healing and growth, while others pointed to outward resolution and smoother dynamics within family or new family roles."
+      "disagreement": "One reader highlighted family as a source of judgment to set boundaries with, while another framed family ties as a source of warmth and natural caretaking."
     }
   },
   "overall_tone": "hopeful",
-  "overall_tone_summary": "A bright, expectant energy lifts Leo's week with genuine promise ahead.",
+  "overall_tone_summary": "A wave of optimism carries Leo forward, with strength close behind. Second week running.",
   "readers": [
     {
-      "video_id": "0lRIM8_HUs8",
-      "channel_theme": "Ancestral healing and independent inner work are uniquely emphasized this week.",
+      "video_id": "emtQuLz6jvU",
+      "channel_theme": "Communication delays are creating anxiety but a romantic connection will eventually come together.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=emtQuLz6jvU"
+    },
+    {
+      "video_id": "7FP4C3Zuwfg",
+      "channel_theme": "Cut ties with deceivers and boldly ignore family or social pressure holding you back.",
+      "tone": "empowering",
+      "url": "https://www.youtube.com/watch?v=7FP4C3Zuwfg"
+    },
+    {
+      "video_id": "an2KVvhxHh0",
+      "channel_theme": "A flattering romantic invitation and a surprise financial windfall are both heading your way.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=0lRIM8_HUs8"
+      "url": "https://www.youtube.com/watch?v=an2KVvhxHh0"
     },
     {
-      "video_id": "uyGZBj4gG48",
-      "channel_theme": "Past bold decisions are being validated with rewards and recognition now.",
-      "tone": "affirming",
-      "url": "https://www.youtube.com/watch?v=uyGZBj4gG48"
-    },
-    {
-      "video_id": "rKXSV7VcB2E",
-      "channel_theme": "You may be clinging to a stable but deeply unfulfilling situation for security.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=rKXSV7VcB2E"
-    },
-    {
-      "video_id": "6_tRCD-VrZY",
-      "channel_theme": "Family harmony and resolution are returning after a period of conflict.",
+      "video_id": "T65go1vwZu4",
+      "channel_theme": "A trusted person will offer a financial opportunity leading to major life changes within ten months.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=6_tRCD-VrZY"
+      "url": "https://www.youtube.com/watch?v=T65go1vwZu4"
     },
     {
-      "video_id": "HTH1SwVEXgE",
-      "channel_theme": "A romantic connection with someone outside your usual type may be arriving.",
+      "video_id": "u87IrpOpMpk",
+      "channel_theme": "Engagement or marriage possibilities make this a standout week for deep romantic commitment.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=HTH1SwVEXgE"
+      "url": "https://www.youtube.com/watch?v=u87IrpOpMpk"
     }
   ]
 }

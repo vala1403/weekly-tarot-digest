@@ -1,60 +1,60 @@
 {
   "sign": "Cancer",
-  "week_of": "2026-09-14",
+  "week_of": "2026-09-21",
   "categories": {
     "love": {
-      "summary": "Most readers see promising new romantic connections or deepening bonds forming for Cancer this week, so stay open to what is developing rather than letting past wounds or hesitation hold you back.",
-      "reader_count": 4,
-      "disagreement": "One reader focused on caution around past relationship wounds, while others leaned more optimistically toward new connections and deepening commitments without that hesitation."
+      "summary": "Most readers see a complicated romantic chapter wrapping up, creating space for something more stable and fulfilling to arrive, so staying open-hearted will help Cancer welcome what comes next.",
+      "reader_count": 3,
+      "disagreement": "Some readers described a situation fully closing and clearing the path forward, while one emphasized lingering emotional conflict and uncertainty about whether it is truly over."
     },
     "finance": {
-      "summary": "Only a few readers touched on finances this week, with those who did pointing to incoming support, new opportunities, and a sense that past financial difficulties may have served a greater purpose, so stay open to help and new work as things begin to shift.",
-      "reader_count": 3,
-      "disagreement": "Some readers saw new financial opportunities arriving, while one suggested a painful loss is being reframed as part of a divine plan rather than a fresh gain."
+      "summary": "Most readers agree that financial progress for Cancer is slow but steady, so staying patient and committed to long-term plans is the most consistent advice for building lasting security this week.",
+      "reader_count": 4,
+      "disagreement": "One reader suggested Cancer may be actively seeking outside financial help or loans, while others focused on self-sustained patience and persistence rather than external assistance."
     },
     "career": {
-      "summary": "Career momentum is a strong theme this week, with growth, new beginnings, and fresh approaches all pointing toward positive professional movement, so stay consistent and patient rather than forcing outcomes.",
+      "summary": "New professional opportunities and momentum are building for Cancer this week, so approach them with openness and commitment rather than hesitation or over-caution.",
       "reader_count": 4,
-      "disagreement": "Some readers saw active advancement and recognition already unfolding, while others suggested slowing down and avoiding rushed decisions."
+      "disagreement": "Some readers encouraged bold, spontaneous action without overthinking, while one advised slowing down to review decisions carefully before committing."
     },
     "family": {
-      "summary": "Only two readers touched on family this week, but both pointed to a nurturing, growth-oriented home life, whether through a shared life change with a partner or by leaning into a community of people who genuinely support you.",
-      "reader_count": 2,
-      "disagreement": "No notable disagreement between readers."
+      "summary": "A few readers this week touched on family and connection, pointing to the value of surrounding yourself with loyal, uplifting people while staying open to meaningful nudges around home life or heartfelt reunions with those from your past.",
+      "reader_count": 3,
+      "disagreement": "Some readers focused on long-standing supportive relationships, while one emphasized reconnecting with lost people from the past, suggesting different entry points into the theme of belonging."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "Transformation lingers, but a bright, hopeful current carries Cancer forward this week.",
+  "overall_tone": "cautious",
+  "overall_tone_summary": "Gentle warnings thread through this week, urging Cancer to pause before leaping.",
   "readers": [
     {
-      "video_id": "S2qoJx558oI",
-      "channel_theme": "Past heartbreak is holding you back from a promising new connection.",
+      "video_id": "4x9GvdsNL1k",
+      "channel_theme": "Internal conflict lingers over a past relationship that still feels unresolved.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=4x9GvdsNL1k"
+    },
+    {
+      "video_id": "rJj1WQbuoeY",
+      "channel_theme": "A grounded new partner may appear, so stay playful and open.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=rJj1WQbuoeY"
+    },
+    {
+      "video_id": "oxB9j2tvL3Q",
+      "channel_theme": "Stop hesitating and commit fully to your most important goal now.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=S2qoJx558oI"
+      "url": "https://www.youtube.com/watch?v=oxB9j2tvL3Q"
     },
     {
-      "video_id": "6DAbxqHS6pE",
-      "channel_theme": "Career advancement is rapid, with a major long-term opportunity approaching soon.",
+      "video_id": "iHRghKuqE04",
+      "channel_theme": "A messy romantic chapter closes, clearing space for something truly fulfilling.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=6DAbxqHS6pE"
+      "url": "https://www.youtube.com/watch?v=iHRghKuqE04"
     },
     {
-      "video_id": "NLK7ehxIGgM",
-      "channel_theme": "A big life move or relocation may be happening alongside a shared partner vision.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=NLK7ehxIGgM"
-    },
-    {
-      "video_id": "yPVclNrcvAA",
-      "channel_theme": "Simple, consistent daily routines will serve you better than complex strategies now.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=yPVclNrcvAA"
-    },
-    {
-      "video_id": "ma9hRWB0VNU",
-      "channel_theme": "A financial loss is reframed as part of a meaningful divine plan.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=ma9hRWB0VNU"
+      "video_id": "1vNinJ6YX7c",
+      "channel_theme": "Review contracts carefully before signing, as new opportunities carry hidden risks.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=1vNinJ6YX7c"
     }
   ]
 }

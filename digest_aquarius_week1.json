@@ -1,60 +1,60 @@
 {
   "sign": "Aquarius",
-  "week_of": "2026-09-14",
+  "week_of": "2026-09-21",
   "categories": {
     "love": {
-      "summary": "Most readers sense a romantic crossroads for Aquarius this week, with the clearest advice being to trust your instincts and be selective, welcoming genuine connections while letting go of those who are unavailable or inconsistent.",
-      "reader_count": 3,
-      "disagreement": "Some readers saw a promising new connection on the horizon, while one suggested the current romantic situation involves someone unreliable and worth walking away from."
+      "summary": "Most readers agree that releasing a past or stagnant connection is the key step before a meaningful new relationship can begin, so Aquarius is encouraged to let go of what no longer serves them in order to make room for something deeper.",
+      "reader_count": 4,
+      "disagreement": "Some readers focused on grief and emotional pain tied to letting go, while others pointed more directly toward a promising new connection or even commitment waiting on the other side of that release."
     },
     "finance": {
-      "summary": "Most readers this week sense meaningful financial opportunities on the horizon for Aquarius, so the key is to move beyond wishful thinking and take real, grounded steps to nurture what is beginning to grow.",
+      "summary": "Most readers this week see promising financial opportunities and an underlying sense of abundance available to Aquarius, but the consistent advice is to shift your mindset and stay committed in order to fully bring those possibilities to life.",
       "reader_count": 4,
-      "disagreement": "Some readers emphasized patience and natural unfolding, while one stressed the need to stop daydreaming and take immediate, concrete action."
+      "disagreement": "Some readers focused on an incoming external opportunity, while one suggested the abundance is already present and simply waiting to be recognized internally."
     },
     "career": {
-      "summary": "Most readers see this as a pivotal moment for Aquarius to step boldly into greater professional recognition, with past efforts now opening doors, so take decisive action and narrow your focus to make the most of this opportunity.",
+      "summary": "Most readers see professional momentum building this week, pointing toward breakthroughs, new opportunities, and growth, so stay open to stepping up and release any attachments holding you back from moving forward.",
       "reader_count": 4,
-      "disagreement": "One reader suggested unseen obstacles are blocking progress despite aligned goals, while others saw the path as open and ready for confident advancement."
+      "disagreement": "One reading suggested feeling stuck and uncertain about career progress, while others pointed toward imminent breakthroughs and expanding opportunities."
     },
     "family": {
-      "summary": "Only a few readers touched on family this week, but those who did pointed to themes of emotional healing, nurturing home environments, and drawing wisdom from elders as part of navigating meaningful life transitions.",
+      "summary": "Several readers sense that a difficult or painful chapter in family relationships is coming to a close, suggesting that healing old wounds, whether from childhood or long-standing conflict, is the key step forward now.",
       "reader_count": 3,
-      "disagreement": "One reading focused on healing old wounds, while another emphasized a warm and welcoming home life, suggesting different starting points on the emotional spectrum."
+      "disagreement": "Some readers highlighted supportive, uplifting energy from loved ones, while others pointed to grief, loss, or deep emotional strain requiring strength to endure."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "Optimism leads the week, though a few cautionary undercurrents ask for mindfulness. Fourth week running.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Two readings echo transformation, making change the undeniable heartbeat of this week.",
   "readers": [
     {
-      "video_id": "IgbXgpGdRhE",
-      "channel_theme": "Bold leadership energy pushes Aquarius to chase passions and claim new success.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=IgbXgpGdRhE"
-    },
-    {
-      "video_id": "Fdmn7DQt-os",
-      "channel_theme": "An unconventional but genuine romantic partner may soon enter Aquarius's life.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=Fdmn7DQt-os"
-    },
-    {
-      "video_id": "rlhh9QNz0bc",
-      "channel_theme": "A hidden blockage is quietly preventing Aquarius's destined abundance from arriving.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=rlhh9QNz0bc"
-    },
-    {
-      "video_id": "2RaYyZQjpIM",
-      "channel_theme": "Aquarius must stop daydreaming and take real action to reach their goals.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=2RaYyZQjpIM"
-    },
-    {
-      "video_id": "3R48LmRQAkg",
-      "channel_theme": "A frail elder becomes a surprising guide through Aquarius's major life changes.",
+      "video_id": "owqX2qHabFo",
+      "channel_theme": "A supportive spiritual circle is actively rallying around you during this transition.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=3R48LmRQAkg"
+      "url": "https://www.youtube.com/watch?v=owqX2qHabFo"
+    },
+    {
+      "video_id": "fn6gbojfNPo",
+      "channel_theme": "Love and grief are painfully intertwined, requiring deep strength to let go.",
+      "tone": "bittersweet",
+      "url": "https://www.youtube.com/watch?v=fn6gbojfNPo"
+    },
+    {
+      "video_id": "kQ1R1jlOsqg",
+      "channel_theme": "A major career breakthrough will dramatically and suddenly reshape your entire life path.",
+      "tone": "triumphant",
+      "url": "https://www.youtube.com/watch?v=kQ1R1jlOsqg"
+    },
+    {
+      "video_id": "6q6b4AK0aYQ",
+      "channel_theme": "Past wounds are blocking a new romantic connection from fully opening up.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=6q6b4AK0aYQ"
+    },
+    {
+      "video_id": "MKqaS-fHyZo",
+      "channel_theme": "Childhood trauma is identified as the root cause of your current emotional blocks.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=MKqaS-fHyZo"
     }
   ]
 }

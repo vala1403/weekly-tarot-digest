@@ -1,60 +1,60 @@
 {
   "sign": "Virgo",
-  "week_of": "2026-09-14",
+  "week_of": "2026-09-21",
   "categories": {
     "love": {
-      "summary": "Most readers this week see new or deepening romantic connections on the horizon for Virgo, so stay open to meaningful bonds forming or growing stronger around you.",
-      "reader_count": 4,
-      "disagreement": "One reader flags a potentially painful past connection seeking re-entry, while others focus on fresh, positive romantic arrivals or deepening commitment."
+      "summary": "Love readings this week are mixed, with some readers seeing a connection edging toward commitment while others point to turbulence or necessary endings, so Virgo may need to honestly assess whether a relationship has the foundation to grow or should be released.",
+      "reader_count": 3,
+      "disagreement": "Some readers saw a bond moving toward deeper commitment, while others suggested an ending or ongoing conflict may need resolution first."
     },
     "finance": {
-      "summary": "Most readers this week see Virgo moving into a promising period of financial abundance and material stability, suggesting that diligent effort and focus could help you make the most of incoming opportunities.",
+      "summary": "Nearly all readers point to significant financial growth ahead for Virgo, so this is an ideal week to leverage existing skills, take calculated risks, or explore new income streams to build lasting security and abundance.",
       "reader_count": 4,
-      "disagreement": "Four readers pointed to growing abundance and opportunity, while one suggested financial upheaval and instability driven by forces outside your control."
+      "disagreement": "One reader suggested a more passive windfall or inheritance coming to Virgo, while others emphasized active effort and deliberate risk-taking as the path to financial gain."
     },
     "career": {
-      "summary": "Most readers see this as a pivotal moment for professional growth and new beginnings, so commit fully to your goals and trust that steady, dedicated effort will lead to meaningful long-term progress.",
-      "reader_count": 5,
-      "disagreement": "Most readers emphasize positive momentum and new opportunities. One reader suggests sudden disruptions like job loss may occur, framing them as redirections rather than setbacks."
+      "summary": "Most readers see this as a pivotal week for Virgo to pursue meaningful professional goals, so release what is holding you back and trust that momentum, recognition, and a clearer sense of purpose are building in your favor.",
+      "reader_count": 4,
+      "disagreement": "Some readers focused on laying groundwork for long-term goals, while others suggested immediate new opportunities and recognition are already arriving."
     },
     "family": {
-      "summary": "Most readers this week sense a positive family focus for Virgo, with reconnection, emotional support, and even the possibility of family expansion all in the air, making it a good time to nurture the relationships that truly uplift you.",
-      "reader_count": 4,
-      "disagreement": "One reader focused on family growth and new beginnings, while another highlighted emotional distance and difficulty connecting with a supportive person in your life."
+      "summary": "Few readers touched on family or home life this week, but those who did pointed to positive shifts, whether that means refreshing your living environment or being more selective about who you keep close.",
+      "reader_count": 2,
+      "disagreement": "No notable disagreement, though one reader focused on the home environment changing for the better, while another emphasized evaluating the people around you rather than the space itself."
     }
   },
   "overall_tone": "hopeful",
-  "overall_tone_summary": "A bright undercurrent of possibility carries Virgo steadily forward this week. Second week running.",
+  "overall_tone_summary": "Quiet optimism carries Virgo forward, with one bright spark of liberation. Third week running.",
   "readers": [
     {
-      "video_id": "27sw-SQarVw",
-      "channel_theme": "A past person who caused pain may be trying to return to your life.",
+      "video_id": "mx-09awycFU",
+      "channel_theme": "A fire or water sign may be ready to commit to Virgo soon.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=27sw-SQarVw"
+      "url": "https://www.youtube.com/watch?v=mx-09awycFU"
     },
     {
-      "video_id": "vP7n15cemsA",
-      "channel_theme": "A devoted past-life soul connection may be entering your romantic sphere now.",
+      "video_id": "YJc_qGkYLnM",
+      "channel_theme": "A troubled romance faces a critical choice between staying or leaving.",
+      "tone": "uncertain",
+      "url": "https://www.youtube.com/watch?v=YJc_qGkYLnM"
+    },
+    {
+      "video_id": "Mm4EHNLS-Qg",
+      "channel_theme": "Virgo's money skills could turn investments or business into lasting security.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=vP7n15cemsA"
+      "url": "https://www.youtube.com/watch?v=Mm4EHNLS-Qg"
     },
     {
-      "video_id": "UPnjlP8zZhY",
-      "channel_theme": "Strong energy supports a new job or renewed professional purpose this week.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=UPnjlP8zZhY"
+      "video_id": "KRuhopnnWio",
+      "channel_theme": "Letting go unlocks new love, income streams, career starts, and home changes.",
+      "tone": "liberating",
+      "url": "https://www.youtube.com/watch?v=KRuhopnnWio"
     },
     {
-      "video_id": "j98tKfL9xCo",
-      "channel_theme": "Commitment, engagement, or marriage may be on the horizon for some Virgos.",
-      "tone": "abundant",
-      "url": "https://www.youtube.com/watch?v=j98tKfL9xCo"
-    },
-    {
-      "video_id": "k-UWHyFk_v0",
-      "channel_theme": "Financial and career disruptions are reframes as necessary universal redirections for growth.",
+      "video_id": "AUb_foWSqjU",
+      "channel_theme": "A major windfall or inheritance is heading Virgo's way very soon.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=k-UWHyFk_v0"
+      "url": "https://www.youtube.com/watch?v=AUb_foWSqjU"
     }
   ]
 }

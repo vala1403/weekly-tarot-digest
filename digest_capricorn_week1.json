@@ -1,60 +1,60 @@
 {
   "sign": "Capricorn",
-  "week_of": "2026-09-14",
+  "week_of": "2026-09-21",
   "categories": {
     "love": {
-      "summary": "Most readers see new romantic beginnings on the horizon for Capricorn this week, so open your heart by releasing past hurt and staying receptive to love coming from unexpected directions.",
-      "reader_count": 4,
-      "disagreement": "One reader described a stalled romantic situation where one person pulls away while the other remains emotionally invested, contrasting with the hopeful new beginnings most others emphasized."
+      "summary": "Most readers sense a meaningful romantic connection or emotional turning point on the horizon for Capricorn, so stay open to deep bonds while remaining mindful of who you allow into your personal space.",
+      "reader_count": 3,
+      "disagreement": "One reading cautioned about toxic individuals in relationships, while others leaned toward hopeful reunion or mutual understanding with no such warning."
     },
     "finance": {
-      "summary": "Most readers this week point to a financial shift toward greater stability and abundance, so rather than forcing outcomes or making impulsive moves, trust the process and let opportunities develop at their own pace.",
-      "reader_count": 4,
-      "disagreement": "One reader emphasized an unexpected windfall arriving soon, while others suggested improvement will be gradual and requires letting go or strategic planning."
+      "summary": "Most readers sense a financial turning point this week, with stagnation lifting and new opportunities emerging, so embrace what comes your way while keeping spending measured and decisions steady.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on cautious, careful action to protect gains, while others emphasized openness and releasing self-doubt to fully receive incoming abundance."
     },
     "career": {
-      "summary": "All five readers sense a significant professional shift arriving for Capricorn this week, so stop hesitating, embrace change, and take bold steps forward because the momentum you need is already within reach.",
+      "summary": "Most readers see a promising professional opportunity on the horizon for Capricorn this week, so pursue it with confidence, follow through consistently, and avoid walking away from your current situation before something better is firmly in place.",
       "reader_count": 5,
-      "disagreement": "Some readers focused on breakthroughs emerging from releasing past frustrations, while others emphasized taking initiative with fresh ideas or new ventures, suggesting slightly different starting points for the same forward movement."
+      "disagreement": "Some readers emphasized caution and securing stability before making moves, while others encouraged bold, passionate pursuit of the incoming opportunity without hesitation."
     },
     "family": {
-      "summary": "Only two readers touched on family this week, but both pointed to the importance of letting go, whether of pride or old grievances, so that more supportive and harmonious relationships can take root.",
-      "reader_count": 2,
-      "disagreement": "One reader focused on stepping into a mentorship role within the family, while the other emphasized releasing grudges to restore domestic harmony."
+      "summary": "Only a few readers touched on family this week, but those who did suggest that easing tensions and leaning on your support network go hand in hand, so make an effort to understand those around you and let others help lighten your load.",
+      "reader_count": 3,
+      "disagreement": null
     }
   },
-  "overall_tone": "transformative",
-  "overall_tone_summary": "Deep shifts take hold as Capricorn moves boldly through meaningful change. Second week running.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "Two hopeful readings edge out the transformative pull, lighting the week with quiet optimism.",
   "readers": [
     {
-      "video_id": "nW4tCqAaptA",
-      "channel_theme": "A destined soul-level romantic connection is naturally making its way to you.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=nW4tCqAaptA"
+      "video_id": "ED4ylqrYmfs",
+      "channel_theme": "Caution is key: avoid toxic people and reckless financial risks this week.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=ED4ylqrYmfs"
     },
     {
-      "video_id": "FQkkEnSHoJY",
-      "channel_theme": "Releasing old grudges unlocks harmony across love, finances, career, and family.",
+      "video_id": "xhJWE_-zodk",
+      "channel_theme": "A major life purpose awakening is arriving, so pursue it passionately.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=FQkkEnSHoJY"
+      "url": "https://www.youtube.com/watch?v=xhJWE_-zodk"
     },
     {
-      "video_id": "O6SB85mQt6k",
-      "channel_theme": "Marriage energy and promotion potential make this a standout week for opportunity.",
+      "video_id": "yYJsGUW5wIc",
+      "channel_theme": "Leaning on your support network will bring clarity and lighten your load.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=O6SB85mQt6k"
+      "url": "https://www.youtube.com/watch?v=yYJsGUW5wIc"
     },
     {
-      "video_id": "au6IE14m0J0",
-      "channel_theme": "Unexpected abundance arrives suddenly, like a gift landing right in your hands.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=au6IE14m0J0"
+      "video_id": "1bMWBxE_eEk",
+      "channel_theme": "Capricorn steps into a peacemaker role, resolving conflicts at work and home.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=1bMWBxE_eEk"
     },
     {
-      "video_id": "X5MsADHn_o4",
-      "channel_theme": "One person is pulling away while you remain emotionally stuck in limbo.",
-      "tone": "bittersweet",
-      "url": "https://www.youtube.com/watch?v=X5MsADHn_o4"
+      "video_id": "vdKnmUUOm7Q",
+      "channel_theme": "You may have overcommitted, so practice moderation and simplify your obligations.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=vdKnmUUOm7Q"
     }
   ]
 }

@@ -1,60 +1,60 @@
 {
   "sign": "Scorpio",
-  "week_of": "2026-09-14",
+  "week_of": "2026-09-21",
   "categories": {
     "love": {
-      "summary": "A mix of new and returning romantic energy surrounds Scorpio this week, with hidden feelings or truths likely surfacing soon, so trust your instincts before committing to anything or anyone new.",
-      "reader_count": 3,
-      "disagreement": "Some readers saw a charming figure attempting to pull Scorpio back into something potentially dishonest. Others suggested an authentic deeper connection is growing, or that a fresh offer worth exploring is arriving."
+      "summary": "Love is a central focus this week for Scorpio, with most readers pointing to real romantic potential either emerging or deepening, so stay open and emotionally present to let meaningful connections fully take root.",
+      "reader_count": 5,
+      "disagreement": "Some readers highlighted a painful or confusing relationship that is fading, while others pointed to fresh romantic possibilities and admiration coming in from the outside."
     },
     "finance": {
-      "summary": "Most readers see Scorpio in a period of deliberate, patient financial growth, so focus on planting seeds now through careful saving and strategic planning, as tangible results and new opportunities are already beginning to take shape.",
-      "reader_count": 4,
-      "disagreement": "One reader shifts focus outward, warning Scorpio to distance themselves from a greedy or controlling person in their financial life, while others focus entirely on Scorpio's own internal strategy and growth."
+      "summary": "Only a couple of readers touched on finances this week, but those who did pointed to promising new opportunities, whether a concrete real-world opening or a passion project, potentially yielding meaningful rewards in the months ahead.",
+      "reader_count": 2,
+      "disagreement": "One reader pointed to a grounded, practical financial opportunity, while the other focused on pursuing a long-held dream for future financial gain."
     },
     "career": {
-      "summary": "Most readers see this as a pivotal week for Scorpio to stop hesitating and take real action on a promising project or ambition, whether by committing fully, collaborating with others, or stepping into a larger role that has been building for some time.",
-      "reader_count": 5,
-      "disagreement": "Some readers saw Scorpio boldly advancing and seizing new opportunities, while one suggested Scorpio may need to consider walking away from a current endeavor entirely."
+      "summary": "Most readers agree that this is a pivotal week for Scorpio to stop hesitating and take committed action toward professional goals, with recognition, fresh starts, and meaningful opportunities all waiting on the other side of that decision.",
+      "reader_count": 4,
+      "disagreement": "Some readers focused on returning to an existing role with a warm welcome, while others emphasized seizing a brand-new opportunity built on Scorpio's strong reputation."
     },
     "family": {
-      "summary": "Most readers see a warm, unifying energy around Scorpio's family and social world this week, so lean into shared experiences and community bonds as they deepen naturally.",
-      "reader_count": 4,
-      "disagreement": "One reader noted that those close to Scorpio may be unsettled by Scorpio's changes, while others focused on harmony and togetherness with no friction implied."
+      "summary": "Around half the readers touched on family and relationships this week, with a shared sense that meaningful conversations and honest exchanges with loved ones can help Scorpio break through current limitations and reconnect after a period of withdrawal.",
+      "reader_count": 3,
+      "disagreement": "One reader emphasized reciprocity and balance in existing relationships, while another focused on others reaching out to offer support, suggesting different starting points for reconnection."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "Optimism leads the way, though one turbulent undercurrent deserves your attention. Fifth week running.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Deep shifts are reshaping Scorpio from the inside out this week.",
   "readers": [
     {
-      "video_id": "G5By4WRd4pI",
-      "channel_theme": "Stop planning and take decisive action on your most promising project now.",
+      "video_id": "tOnkWlilDFw",
+      "channel_theme": "A confusing relationship is leaving Scorpio torn between staying and leaving.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=tOnkWlilDFw"
+    },
+    {
+      "video_id": "ID1NzjkbujA",
+      "channel_theme": "Relationships need balanced energy exchange, not one-sided effort.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=ID1NzjkbujA"
+    },
+    {
+      "video_id": "HS0d0tSk2Ms",
+      "channel_theme": "Others are eager to welcome Scorpio back after a period of isolation.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=G5By4WRd4pI"
+      "url": "https://www.youtube.com/watch?v=HS0d0tSk2Ms"
     },
     {
-      "video_id": "2vUBpgCkI5E",
-      "channel_theme": "A charming but dishonest romantic interest should be firmly walked away from.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=2vUBpgCkI5E"
-    },
-    {
-      "video_id": "9XtsvWyGcmY",
-      "channel_theme": "A major shakeup is clearing your path toward a higher role or position.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=9XtsvWyGcmY"
-    },
-    {
-      "video_id": "jhxnw6aOwLA",
-      "channel_theme": "Unexpected opportunities from bosses could arrive, helping you build a lasting legacy.",
+      "video_id": "JYCouGCHIWY",
+      "channel_theme": "Someone is quietly admiring and inquiring about Scorpio from a distance.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=jhxnw6aOwLA"
+      "url": "https://www.youtube.com/watch?v=JYCouGCHIWY"
     },
     {
-      "video_id": "aHRCAk_jOTo",
-      "channel_theme": "An unconventional exit from a current endeavor may prove surprisingly wise.",
-      "tone": "turbulent",
-      "url": "https://www.youtube.com/watch?v=aHRCAk_jOTo"
+      "video_id": "fnuj2XzIlNI",
+      "channel_theme": "A passion project could bring significant financial rewards within months.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=fnuj2XzIlNI"
     }
   ]
 }

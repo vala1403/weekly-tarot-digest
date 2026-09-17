@@ -1,60 +1,60 @@
 {
   "sign": "Aries",
-  "week_of": "2026-09-14",
+  "week_of": "2026-09-21",
   "categories": {
     "love": {
-      "summary": "Most readers sense emotional complexity in love this week, so pay attention to the connections forming or shifting around you, as patience and careful timing could determine whether a bond deepens or fades.",
-      "reader_count": 4,
-      "disagreement": "Some readers saw a new or growing romantic connection developing, while one reading suggested Aries may be preparing to walk away from an existing relationship despite a deep mutual bond."
+      "summary": "Most readers sense a new or meaningful romantic connection entering Aries' life this week, so stay open to the possibilities and allow clarity to develop before rushing into any decisions.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on an exciting new romantic arrival, while one reading emphasized deep uncertainty and emotional readiness to walk away from an existing connection."
     },
     "finance": {
-      "summary": "Most readers this week sense growing financial stability and promising new opportunities ahead for Aries, whether through work, legal matters, property, or family finances, so stay open to unexpected sources of income and incoming abundance.",
-      "reader_count": 3,
-      "disagreement": null
+      "summary": "Only 2 of the 5 readers touched on finances this week. One pointed to incoming abundance from past efforts, while the other advised clearing debts to build a stronger financial footing going forward.",
+      "reader_count": 2,
+      "disagreement": "Some readers saw finances as a time of incoming reward, while others focused on clearing obligations first. The outlooks differ in whether abundance is arriving or still being worked toward."
     },
     "career": {
-      "summary": "Several readers sense meaningful professional shifts unfolding for Aries this week, so stay alert to emerging opportunities and guard your ideas carefully as something significant appears to be taking root.",
-      "reader_count": 4,
-      "disagreement": "Some readers emphasized slowing down and avoiding rushed decisions, while others pointed to bold new beginnings and active opportunities already in motion."
+      "summary": "Three readers see positive career shifts ahead for Aries, whether through a new role, a promotion, or fresh momentum, so this is a strong week to commit fully to your goals and take consistent, focused action toward building something meaningful.",
+      "reader_count": 3,
+      "disagreement": "Some readers focused on external changes like new jobs or reconnecting with colleagues, while one emphasized internal commitment and disciplined effort toward a personal goal or project."
     },
     "family": {
-      "summary": "Only two readers touched on family this week, but both pointed to connections with siblings or close loved ones playing a meaningful role, whether through joyful gatherings or significant life changes unfolding around them.",
+      "summary": "Only a couple of readers touched on family this week. Those who did suggested that leaning on close relationships and trusted loved ones can offer comfort and grounding, especially as Aries weighs an important personal decision.",
       "reader_count": 2,
-      "disagreement": "One reader highlighted a fun, uplifting reunion, while the other suggested family ties are tied to bigger choices and transitions rather than celebratory moments."
+      "disagreement": null
     }
   },
-  "overall_tone": "reflective",
-  "overall_tone_summary": "This week invites Aries to pause, look inward, and find clarity.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "Two strong hopeful readings carry this week, with light on the horizon.",
   "readers": [
     {
-      "video_id": "CZHk9sUzUvk",
-      "channel_theme": "Patience and stillness are the keys to resolving tensions this week.",
-      "tone": "reflective",
-      "url": "https://www.youtube.com/watch?v=CZHk9sUzUvk"
-    },
-    {
-      "video_id": "DlHSVBZ57V8",
-      "channel_theme": "Disruption clears the path, bringing surprise connections and joyful reunions.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=DlHSVBZ57V8"
-    },
-    {
-      "video_id": "Xz7noG9ZCbU",
-      "channel_theme": "Recognition and promotion await, but guard your ideas from sabotage.",
-      "tone": "triumphant",
-      "url": "https://www.youtube.com/watch?v=Xz7noG9ZCbU"
-    },
-    {
-      "video_id": "11WCThBKdKQ",
-      "channel_theme": "Aries may choose to walk away despite a deep mutual love.",
-      "tone": "bittersweet",
-      "url": "https://www.youtube.com/watch?v=11WCThBKdKQ"
-    },
-    {
-      "video_id": "7MiyTj_6eJk",
-      "channel_theme": "A major unseen opportunity is already taking root for Aries.",
+      "video_id": "TMOZ_GTPiMo",
+      "channel_theme": "A fresh career opportunity promises strong new connections and a thriving start.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=7MiyTj_6eJk"
+      "url": "https://www.youtube.com/watch?v=TMOZ_GTPiMo"
+    },
+    {
+      "video_id": "mz_ZzoVF1tI",
+      "channel_theme": "Clearing outstanding debts now will build a stronger financial foundation ahead.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=mz_ZzoVF1tI"
+    },
+    {
+      "video_id": "QgLn58Pc2ng",
+      "channel_theme": "Full commitment to a passion project or business is your key focus.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=QgLn58Pc2ng"
+    },
+    {
+      "video_id": "CAFmiV2V7j8",
+      "channel_theme": "Pause and reflect before acting on a major relationship decision.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=CAFmiV2V7j8"
+    },
+    {
+      "video_id": "U7a08WlW2wA",
+      "channel_theme": "You feel torn between hoping and quietly preparing to walk away.",
+      "tone": "reflective",
+      "url": "https://www.youtube.com/watch?v=U7a08WlW2wA"
     }
   ]
 }

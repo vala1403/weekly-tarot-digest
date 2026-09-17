@@ -1,59 +1,59 @@
 {
   "sign": "Tauro",
-  "week_of": "2026-09-14",
+  "week_of": "2026-09-21",
   "categories": {
     "love": {
-      "summary": "Varios lectores perciben una mezcla de oportunidad romántica y necesidad de reevaluar ciertos vínculos esta semana. Se le aconseja a Tauro acercarse a las conexiones honestas y confiables, y alejarse de aquellas personas que le roban la energía.",
+      "summary": "La mayoría de los lectores perciben una prometedora conexión romántica o una profunda satisfacción emocional acercándose a Tauro, así que mantente abierto al amor y confía en que los vínculos genuinos se están tejiendo de manera natural a tu alrededor.",
       "reader_count": 4,
-      "disagreement": "Algunos lectores pusieron el foco en la oportunidad romántica y en elegir a la pareja adecuada, mientras que otros hicieron hincapié en la necesidad de apartarse de relaciones agotadoras y priorizar los propios límites."
+      "disagreement": "Un lector advirtió que el autosabotaje nacido del miedo al fracaso puede estar socavando en silencio el mismo potencial romántico que otros describen como inminente."
     },
     "finance": {
-      "summary": "La mayoría de los lectores coinciden en que este es un momento importante para que Tauro consolide su estabilidad financiera. Se le anima a actuar con decisión y a pensar de forma creativa y a largo plazo para construir la abundancia que merece.",
-      "reader_count": 4,
-      "disagreement": "Un lector instó a actuar con firmeza ante tratos injustos, mientras que los demás se centraron en las oportunidades positivas que se aproximan y en la construcción de una seguridad económica sostenible, sin hacer hincapié en resolver agravios pasados."
+      "summary": "La mayoría de los lectores perciben recompensas económicas en el horizonte esta semana, construidas a base de esfuerzo constante y acción sostenida, así que evita los gastos impulsivos y canaliza cualquier ganancia que llegue hacia algo que pueda crecer con el tiempo.",
+      "reader_count": 3,
+      "disagreement": null
     },
     "career": {
-      "summary": "Varios lectores ven esta semana como un momento decisivo para que Tauro se afirme en el ámbito profesional, ya sea alzando la voz, poniendo límites o buscando nuevas oportunidades, todo ello aprovechando sus fortalezas únicas con confianza e intención.",
+      "summary": "La mayoría de los lectores ven nuevas oportunidades y crecimiento profesional asomándose esta semana, así que apuesta por la acción decidida y el trabajo duro en lugar de esperar condiciones perfectas o resultados garantizados.",
       "reader_count": 4,
-      "disagreement": "Algunos lectores resaltaron el reconocimiento y la posibilidad de avanzar profesionalmente, mientras que otros se enfocaron en reinventarse tras una pérdida o en redirigir la energía lejos de responsabilidades que resultan agotadoras."
+      "disagreement": "Una lectura advirtió que Tauro podría estar extendiéndose demasiado y debería soltar las responsabilidades que le drenan la energía, mientras que otros se enfocaron en aprovechar las nuevas oportunidades y seguir adelante."
     },
     "family": {
-      "summary": "Solo unos pocos lectores abordaron el tema familiar esta semana, y quienes lo hicieron señalaron la importancia de enfrentar las cargas y responsabilidades de frente en lugar de mantenerse en una postura pasiva, trabajando hacia una estabilidad duradera para las personas que uno quiere.",
-      "reader_count": 3,
-      "disagreement": "Algunos lectores pusieron el acento en soltar el peso de los problemas ajenos, mientras que otro destacó la importancia de confrontar activamente las obligaciones financieras o familiares compartidas en lugar de guardar silencio."
+      "summary": "Solo un lector abordó las dinámicas familiares esta semana, señalando un posible conflicto por parte de alguien que intenta arrastrarte a sus problemas personales, por lo que mantenerse alerta y al margen del drama innecesario es la mejor estrategia.",
+      "reader_count": 1,
+      "disagreement": null
     }
   },
-  "overall_tone_summary": "Tauro entra esta semana con fuerza renovada, mayor confianza y una creciente sensación de esperanza.",
+  "overall_tone_summary": "Una luminosa corriente de posibilidad acompaña a Tauro con paso firme a lo largo de la semana.",
   "readers": [
     {
-      "video_id": "wqwFuSQBBeU",
-      "channel_theme": "El éxito profesional trae reconocimiento y posibles avances esta semana.",
+      "video_id": "zYVp9IJjITw",
+      "channel_theme": "Tauro corre el riesgo de sabotear inconscientemente conexiones prometedoras por un profundo miedo y falta de confianza en sí mismo.",
+      "tone": "cauteloso",
+      "url": "https://www.youtube.com/watch?v=zYVp9IJjITw"
+    },
+    {
+      "video_id": "eLdE2BMnNOE",
+      "channel_theme": "Actuar con decisión ante oportunidades inciertas es la clave para el crecimiento profesional y financiero.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=wqwFuSQBBeU"
+      "url": "https://www.youtube.com/watch?v=eLdE2BMnNOE"
     },
     {
-      "video_id": "hBPXLipUPr0",
-      "channel_theme": "Deja de cargar con los problemas de los demás y protege tu energía con firmeza.",
-      "tone": "empoderador",
-      "url": "https://www.youtube.com/watch?v=hBPXLipUPr0"
-    },
-    {
-      "video_id": "BgJnbHmAct4",
-      "channel_theme": "Enfrenta con valentía cualquier trato injusto en lo económico o legal y exige lo que te corresponde.",
-      "tone": "empoderador",
-      "url": "https://www.youtube.com/watch?v=BgJnbHmAct4"
-    },
-    {
-      "video_id": "MC1_5NruLTw",
-      "channel_theme": "Tauro sigue resistiéndose a una oportunidad romántica significativa por barreras internas que aún no ha resuelto.",
-      "tone": "introspectivo",
-      "url": "https://www.youtube.com/watch?v=MC1_5NruLTw"
-    },
-    {
-      "video_id": "qFBdGXvtbqQ",
-      "channel_theme": "Elige a una pareja de confianza y construye seguridad a largo plazo con creatividad.",
+      "video_id": "1XXRGFoXnk4",
+      "channel_theme": "Procesar las emociones internas abre la puerta a una vida afectiva plena y profundamente satisfactoria.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=qFBdGXvtbqQ"
+      "url": "https://www.youtube.com/watch?v=1XXRGFoXnk4"
+    },
+    {
+      "video_id": "9nE7XF1PboQ",
+      "channel_theme": "Suelta las cargas agotadoras y el exceso de responsabilidades para recuperar la estabilidad y la energía.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=9nE7XF1PboQ"
+    },
+    {
+      "video_id": "SR_povlb-ho",
+      "channel_theme": "Ten cuidado de no dejarte arrastrar por los dramas y conflictos ajenos esta semana.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=SR_povlb-ho"
     }
   ]
 }
