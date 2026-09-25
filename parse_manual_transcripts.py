@@ -26,6 +26,14 @@ Header formats:
   sidecar. subscribers_at_capture is kept verbatim, not parsed to a number: it
   is point-in-time and must not be read as a current count. This format is not
   applied retroactively to earlier weeks.
+- Weeks ON OR AFTER 2026-09-28 ("fixed", FIXED_HEADER_FROM): a fixed five-line
+  header, counted over non-blank lines (blank-line counts between them vary):
+  1 URL, 2 video title, 3 channel name (once, not repeated), 4 "N subscribers"
+  line, 5 onward transcript body. Stored values are the same as the metadata
+  format: channel verbatim with channel_source "manual", the raw
+  subscribers_at_capture string, and video_title. A file that does not fit
+  this layout stops the run before anything is written, naming the file;
+  nothing is guessed. Earlier weeks keep their own format and are not reparsed.
 
 Usage: python3 parse_manual_transcripts.py --week-of YYYY-MM-DD [--source-dir DIR]
 
@@ -59,6 +67,10 @@ EXPECTED_FILES_PER_SIGN = 5
 # body). Earlier weeks are parsed as "legacy" and are never reprocessed under
 # the new rules.
 NEW_HEADER_FROM = "2026-09-14"
+# Weeks on or after this date use the "fixed" five-line header (URL, video
+# title, channel, "N subscribers", body), counted over non-blank lines. Files
+# that don't fit it stop the run instead of falling back to pattern matching.
+FIXED_HEADER_FROM = "2026-09-28"
 
 FILENAME_RE = re.compile(r"^([a-zA-Z]+)-(\d+)$")
 TIMESTAMP_RE = re.compile(r"^\d{1,2}:\d{2}\d+ (?:minutes?|seconds?)(?:, \d+ seconds?)?")
@@ -77,6 +89,10 @@ BOILERPLATE_RE = re.compile(
     r"^(?:" + "|".join(_TRANSCRIPT_SUFFIXES) + r"|search transcript|sync to video time)$",
     re.IGNORECASE,
 )
+
+
+class HeaderFormatError(ValueError):
+    """A "fixed"-format source file doesn't match the five-line header."""
 
 
 def match_sign(raw_name: str) -> str | None:
@@ -180,6 +196,11 @@ def parse_file(path: Path, header_format: str = "legacy", expected_sign: str | N
     two consecutive lines, then an "N subscribers" line. Parsed by pattern
     (anchored on the subscriber line), tolerant of varying blank-line counts.
     channel_source is "manual"; subscribers_at_capture is the raw string.
+
+    header_format="fixed" (FIXED_HEADER_FROM on): non-blank lines 1-4 are URL,
+    video title, channel, "N subscribers"; line 5 onward is the body. Same
+    stored values as "metadata". Raises HeaderFormatError naming the file if
+    the layout doesn't match.
     """
     lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
     warnings: list[str] = []
@@ -203,6 +224,36 @@ def parse_file(path: Path, header_format: str = "legacy", expected_sign: str | N
         "subscribers_at_capture": None,
         "warnings": warnings,
     }
+
+    if header_format == "fixed":
+        # Header lines are counted over non-blank lines; blank-line counts
+        # between them vary from file to file.
+        header_i = [i for i, ln in enumerate(lines) if ln.strip()][:4]
+        problems = []
+        if len(header_i) < 4:
+            problems.append(f"only {len(header_i)} non-blank line(s), expected a 4-line header")
+        else:
+            title, channel, subscribers = (lines[i].strip() for i in header_i[1:4])
+            if not url.startswith(("https://", "http://")):
+                problems.append(f"line 1 is not a URL: {url!r}")
+            for n, value in ((2, title), (3, channel)):
+                if SUBSCRIBER_RE.match(value) or BOILERPLATE_RE.match(value):
+                    problems.append(f"line {n} is not a {'video title' if n == 2 else 'channel name'}: {value!r}")
+            if not SUBSCRIBER_RE.match(subscribers):
+                problems.append(f"line 4 is not a subscriber count: {subscribers!r}")
+        if problems:
+            raise HeaderFormatError(f"{path.name}: " + "; ".join(problems))
+
+        result["video_title"] = title
+        result["channel"] = channel
+        result["channel_source"] = "manual"
+        result["subscribers_at_capture"] = subscribers
+        if expected_sign and expected_sign.lower() not in title.lower():
+            warnings.append(
+                f"fixed header: video title does not mention '{expected_sign}' ({title!r})"
+            )
+        result["text"] = _clean_body(lines[header_i[3] + 1:])
+        return result
 
     if header_format == "metadata":
         # Anchor on the "N subscribers" line; everything between it and the URL
@@ -312,13 +363,37 @@ def main():
     TRANSCRIPTS_DIR.mkdir(parents=True, exist_ok=True)
 
     week_str = str(args.week_of)
-    header_format = "metadata" if week_str >= NEW_HEADER_FROM else "legacy"
+    if week_str >= FIXED_HEADER_FROM:
+        header_format = "fixed"
+    elif week_str >= NEW_HEADER_FROM:
+        header_format = "metadata"
+    else:
+        header_format = "legacy"
     print(f"Week of {week_str} -- header format: {header_format}"
-          + (f" (video-title / channel / subscriber block, {NEW_HEADER_FROM} on)"
-             if header_format == "metadata" else " (URL then transcript body)"))
+          + {
+              "fixed": f" (URL / video title / channel / subscribers / body, {FIXED_HEADER_FROM} on)",
+              "metadata": f" (video-title / channel / subscriber block, {NEW_HEADER_FROM} on)",
+              "legacy": " (URL then transcript body)",
+          }[header_format])
     print()
 
     by_sign = discover_files(source_dir)
+
+    if header_format == "fixed":
+        # Check every file before writing anything, so a bad header can't
+        # leave the week half-parsed.
+        bad = []
+        for sign in SIGNS:
+            for path in by_sign[sign]:
+                try:
+                    parse_file(path, header_format, expected_sign=sign)
+                except HeaderFormatError as e:
+                    bad.append(str(e))
+        if bad:
+            print("ERROR: these files do not match the fixed 5-line header. Nothing was written:")
+            for msg in bad:
+                print(f"  {msg}")
+            return 1
 
     any_flags = False
     for sign in SIGNS:
@@ -358,7 +433,7 @@ def main():
             print(f"    chars: {char_count}{flag_str}")
             print(f"    channel: {channel or '(not stated in source)'}"
                   + (f" [{parsed['channel_source']}]" if parsed["channel_source"] else ""))
-            if header_format == "metadata":
+            if header_format in ("metadata", "fixed"):
                 print(f"    video_title: {parsed['video_title'] or '(none found)'}")
                 print(f"    subscribers_at_capture: {parsed['subscribers_at_capture'] or '(none found)'}")
             print(f"    preview: {text[:200]!r}")
@@ -367,7 +442,7 @@ def main():
                 out_path = TRANSCRIPTS_DIR / f"{video_id}.txt"
                 out_path.write_text(text, encoding="utf-8")
                 channel_path = TRANSCRIPTS_DIR / f"{video_id}.channel.json"
-                if header_format == "metadata":
+                if header_format in ("metadata", "fixed"):
                     sidecar = {
                         "channel": channel,
                         "channel_source": parsed["channel_source"],
