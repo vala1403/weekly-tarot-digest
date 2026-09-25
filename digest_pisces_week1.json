@@ -1,60 +1,60 @@
 {
   "sign": "Pisces",
-  "week_of": "2026-09-21",
+  "week_of": "2026-09-28",
   "categories": {
     "love": {
-      "summary": "Most readers this week sense romantic movement for Pisces, whether through someone from the past returning or a new admirer stepping forward, so take things slowly and let connections unfold with care rather than rushing in.",
-      "reader_count": 4,
-      "disagreement": "Some readers pointed to a cautious, emotionally wounded new connection, while others suggested a more straightforward reconnection or mutual interest, with one noting that differences between partners may not be a concern at all."
+      "summary": "Romantic relationships are at a crossroads for Pisces this week, and most readers suggest releasing what no longer serves you to make room for a deeper, more meaningful connection that carries real long-term potential.",
+      "reader_count": 5,
+      "disagreement": "Some readers saw a promising new or deepening bond on the horizon, while others emphasized letting go of an unhealthy or finished relationship before love can truly flourish."
     },
     "finance": {
-      "summary": "Most readers point to a period of growing financial success this week, so stay persistent on your current path and focus your energy on promising new directions rather than depleted ones.",
-      "reader_count": 4,
-      "disagreement": "No notable disagreement among readers."
+      "summary": "Most readers see this as a strong time for Pisces to steadily build lasting financial stability, favoring patience and long-term effort over quick gains.",
+      "reader_count": 3,
+      "disagreement": "Some readers focused on growing abundance through strategy and effort, while one suggested financial fear may be trapping Pisces in an unhealthy situation that needs breaking free from."
     },
     "career": {
-      "summary": "Most readers see this as a pivotal moment in Pisces' career, with breakthroughs, recognition, or major achievements on the horizon, so keep pushing forward on your chosen path and stay open to the inspired idea that could change everything.",
-      "reader_count": 5,
-      "disagreement": "Some readers focused on reaching a peak or competing successfully, while others emphasized transformation and the need to change direction entirely."
+      "summary": "Career shifts and new professional opportunities are on the horizon for Pisces, so lean into your strengths, stay visible, and resist the urge to walk away before something meaningful has a chance to unfold.",
+      "reader_count": 4,
+      "disagreement": "Some readers highlighted exciting incoming opportunities like promotions or collaborations, while one suggested that losing or leaving a job could be the catalyst needed for more purposeful work."
     },
     "family": {
-      "summary": "Only two readers touched on family this week, with one pointing to a future of committed partnership, marriage, and children, while the other suggested someone in Pisces' orbit may already have or be starting a family.",
+      "summary": "Only two readers touched on family this week, but they offered different perspectives, with one pointing to emotional fulfillment and domestic harmony ahead, while another encouraged bold independence from the family home.",
       "reader_count": 2,
-      "disagreement": "Some readers saw a hopeful future family forming with Pisces at the center. Others suggested a third party's family situation may signal the closing of a past romantic chapter."
+      "disagreement": "Some readers saw family life as a source of coming comfort and happiness. Others suggested Pisces may need to leave the family home to grow independently."
     }
   },
   "overall_tone": "hopeful",
-  "overall_tone_summary": "Two readings bloom with hope, grounding this week in quiet optimism.",
+  "overall_tone_summary": "Three readings align on hope, carrying Pisces forward with gentle optimism this week. Second week running.",
   "readers": [
     {
-      "video_id": "vsz_DsELOpI",
-      "channel_theme": "A past connection is actively seeking to rekindle things with Pisces.",
+      "video_id": "d9ZAcjDUOPg",
+      "channel_theme": "Across all areas, abundance and positive transformation are actively building toward fruition.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=vsz_DsELOpI"
+      "url": "https://www.youtube.com/watch?v=d9ZAcjDUOPg"
     },
     {
-      "video_id": "inyx8TJt0as",
-      "channel_theme": "A secret admirer fears rejection but will eventually pursue Pisces romantically.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=inyx8TJt0as"
-    },
-    {
-      "video_id": "GM4VwgoFhQY",
-      "channel_theme": "A breakthrough idea within eight weeks will accelerate Pisces' progress dramatically.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=GM4VwgoFhQY"
-    },
-    {
-      "video_id": "Uo33J08bZF4",
-      "channel_theme": "An incoming romantic interest carries deep emotional wounds, so caution is advised.",
+      "video_id": "eRJOZRenML0",
+      "channel_theme": "A toxic, imbalanced relationship is proving very difficult for Pisces to leave.",
       "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=Uo33J08bZF4"
+      "url": "https://www.youtube.com/watch?v=eRJOZRenML0"
     },
     {
-      "video_id": "0l08OM7f7hM",
-      "channel_theme": "Despite differences, a relationship holds promise and good news is coming soon.",
-      "tone": "reflective",
-      "url": "https://www.youtube.com/watch?v=0l08OM7f7hM"
+      "video_id": "rY4D3vpTaTQ",
+      "channel_theme": "Pisces faces a key choice between a returning ex and a new love interest.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=rY4D3vpTaTQ"
+    },
+    {
+      "video_id": "4m11C6xS5Bk",
+      "channel_theme": "A slow but steady romance is emerging with genuine marriage potential.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=4m11C6xS5Bk"
+    },
+    {
+      "video_id": "K0OapfdcG-w",
+      "channel_theme": "Releasing unhealthy bonds, jobs, and living situations is essential for real growth.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=K0OapfdcG-w"
     }
   ]
 }

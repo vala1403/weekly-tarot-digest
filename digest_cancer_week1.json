@@ -1,60 +1,60 @@
 {
   "sign": "Cancer",
-  "week_of": "2026-09-21",
+  "week_of": "2026-09-28",
   "categories": {
     "love": {
-      "summary": "Most readers see a complicated romantic chapter wrapping up, creating space for something more stable and fulfilling to arrive, so staying open-hearted will help Cancer welcome what comes next.",
+      "summary": "Most readers foresee a promising new romantic connection approaching for Cancer, possibly carrying soulmate energy, so stay open to love and avoid wasting time on those who send mixed signals.",
       "reader_count": 3,
-      "disagreement": "Some readers described a situation fully closing and clearing the path forward, while one emphasized lingering emotional conflict and uncertainty about whether it is truly over."
+      "disagreement": "One reading emphasized the new connection reigniting emotional warmth and advised moving on from mixed signals quickly, while others focused more on soulmate potential and building a lasting partnership."
     },
     "finance": {
-      "summary": "Most readers agree that financial progress for Cancer is slow but steady, so staying patient and committed to long-term plans is the most consistent advice for building lasting security this week.",
+      "summary": "Most readers agree that financial steadiness and consistent focus are Cancer's best allies this week, with slow and deliberate effort toward money goals being the clearest path to tangible growth and emerging opportunities.",
       "reader_count": 4,
-      "disagreement": "One reader suggested Cancer may be actively seeking outside financial help or loans, while others focused on self-sustained patience and persistence rather than external assistance."
+      "disagreement": "One reader flagged potential financial stress or shortfalls, while others leaned toward optimism and abundance. The tone ranges from cautionary to encouraging depending on the reading."
     },
     "career": {
-      "summary": "New professional opportunities and momentum are building for Cancer this week, so approach them with openness and commitment rather than hesitation or over-caution.",
+      "summary": "Several readers see Cancer stepping into greater professional visibility this week, with bold moves toward independence or new opportunities helping to elevate their path and earn meaningful recognition.",
       "reader_count": 4,
-      "disagreement": "Some readers encouraged bold, spontaneous action without overthinking, while one advised slowing down to review decisions carefully before committing."
+      "disagreement": "One reader focused on slow, doubt-filled inner progress rather than outward action or recognition, which contrasts with the more assertive, visibility-focused advice from others."
     },
     "family": {
-      "summary": "A few readers this week touched on family and connection, pointing to the value of surrounding yourself with loyal, uplifting people while staying open to meaningful nudges around home life or heartfelt reunions with those from your past.",
-      "reader_count": 3,
-      "disagreement": "Some readers focused on long-standing supportive relationships, while one emphasized reconnecting with lost people from the past, suggesting different entry points into the theme of belonging."
+      "summary": "Home and family carry positive, nurturing energy this week for Cancer, so lean into the warmth around you by acknowledging the support network already present and welcoming opportunities for connection, renewal, or togetherness.",
+      "reader_count": 4,
+      "disagreement": "Some readers focused on external support and community around Cancer, while one pointed inward toward a personal calling to nurture or guide younger generations as a life purpose."
     }
   },
-  "overall_tone": "cautious",
-  "overall_tone_summary": "Gentle warnings thread through this week, urging Cancer to pause before leaping.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "A bright, open week invites Cancer to lean into possibility and trust.",
   "readers": [
     {
-      "video_id": "4x9GvdsNL1k",
-      "channel_theme": "Internal conflict lingers over a past relationship that still feels unresolved.",
+      "video_id": "etW4ukQNiHk",
+      "channel_theme": "A water sign soulmate connection may be building toward a powerful partnership.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=etW4ukQNiHk"
+    },
+    {
+      "video_id": "DrF3rxa4-18",
+      "channel_theme": "Cancer may have a special life calling to guide or support younger generations.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=DrF3rxa4-18"
+    },
+    {
+      "video_id": "xLjk316LBLo",
+      "channel_theme": "Home reunions, moves, or renovations bring positive family energy this week.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=4x9GvdsNL1k"
+      "url": "https://www.youtube.com/watch?v=xLjk316LBLo"
     },
     {
-      "video_id": "rJj1WQbuoeY",
-      "channel_theme": "A grounded new partner may appear, so stay playful and open.",
+      "video_id": "WZCONMlNYWQ",
+      "channel_theme": "Cancer's support network is always present, even when unnoticed or unacknowledged.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=rJj1WQbuoeY"
+      "url": "https://www.youtube.com/watch?v=WZCONMlNYWQ"
     },
     {
-      "video_id": "oxB9j2tvL3Q",
-      "channel_theme": "Stop hesitating and commit fully to your most important goal now.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=oxB9j2tvL3Q"
-    },
-    {
-      "video_id": "iHRghKuqE04",
-      "channel_theme": "A messy romantic chapter closes, clearing space for something truly fulfilling.",
+      "video_id": "BHhDUR8qifw",
+      "channel_theme": "Cancer should quickly move on from partners sending mixed signals.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=iHRghKuqE04"
-    },
-    {
-      "video_id": "1vNinJ6YX7c",
-      "channel_theme": "Review contracts carefully before signing, as new opportunities carry hidden risks.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=1vNinJ6YX7c"
+      "url": "https://www.youtube.com/watch?v=BHhDUR8qifw"
     }
   ]
 }

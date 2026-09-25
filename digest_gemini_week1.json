@@ -1,60 +1,60 @@
 {
   "sign": "Gemini",
-  "week_of": "2026-09-21",
+  "week_of": "2026-09-28",
   "categories": {
     "love": {
-      "summary": "Most readers foresee a meaningful new romantic connection or deepening bond on the horizon for Gemini, so stay open and nurture whatever emerges with care and intention.",
+      "summary": "A promising new romantic connection appears to be on the horizon for Gemini, and taking care of unresolved personal matters first will help create the space needed to welcome it fully.",
       "reader_count": 4,
-      "disagreement": "One reader focused on a significant relationship coming to a close, while the others pointed toward new beginnings or deepening commitments."
+      "disagreement": "One reader focused on self-love and existing support rather than a new connection, while another reflected on a past relationship that was meaningful but set aside due to life being too full."
     },
     "finance": {
-      "summary": "Most readers this week see financial momentum steadily building for Gemini, so stay consistent with your efforts and remain open to new resources or opportunities that may be arriving sooner than expected.",
-      "reader_count": 4,
-      "disagreement": "Some readers pointed to a sudden or unexpected windfall arriving, while others emphasized slow, disciplined effort as the path to material stability."
+      "summary": "Financial growth and potential rewards are on the horizon for Gemini, whether through a bonus, rising property value, or increased income, though caution is advised against overextending on large purchases.",
+      "reader_count": 3,
+      "disagreement": "One reader framed prosperity as a long-term goal requiring effort, while others suggested more immediate financial gains or stability are already arriving."
     },
     "career": {
-      "summary": "Most readers see this as a pivotal week for Gemini to take bold, decisive action in their career, so trust your preparation and move forward with confidence, as momentum and opportunity are aligning in your favor.",
+      "summary": "All five readers point to a significant professional shift this week, so take deliberate and authentic steps toward your goals while staying open to unexpected opportunities that could mark an exciting new beginning.",
       "reader_count": 5,
-      "disagreement": "One reader urged rest and balance alongside hard work, while others focused purely on pushing forward without mention of pacing yourself."
+      "disagreement": "Some readers saw Gemini building toward a fresh, exciting opportunity with no looking back. Others suggested Gemini may first need to dismantle misaligned ambitions before finding their true path."
     },
     "family": {
-      "summary": "A few readers touched on family dynamics this week, suggesting it is worth keeping communication clear and avoiding unnecessary drama, as staying grounded and thoughtful can help prevent misunderstandings from escalating.",
-      "reader_count": 3,
-      "disagreement": "One reader warned against getting pulled into family conflict, while another suggested a supportive male figure may step in to ease challenges rather than conflict being something to navigate alone."
+      "summary": "Family themes this week center on stability, whether through home changes, lasting legacies, or the people surrounding Gemini, so lean into the relationships and environments that offer genuine security and support.",
+      "reader_count": 4,
+      "disagreement": "Some readers focused on warmth and security in home and family life, while one noted that not everyone in Gemini's circle will be supportive or reliable."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "A bright undercurrent of possibility runs through nearly every moment this week. Third week running.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Deep shifts are reshaping how Gemini sees itself and the path ahead.",
   "readers": [
     {
-      "video_id": "qrHlXWR_Edo",
-      "channel_theme": "A soul connection is ending while inner conflict over letting go persists.",
+      "video_id": "EThWq5sha4A",
+      "channel_theme": "Building generational wealth and a lasting legacy is a central focus.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=EThWq5sha4A"
+    },
+    {
+      "video_id": "aJvhC9VfhiI",
+      "channel_theme": "Gemini may be living out someone else's ambitions rather than their own.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=qrHlXWR_Edo"
+      "url": "https://www.youtube.com/watch?v=aJvhC9VfhiI"
     },
     {
-      "video_id": "D5mF3vQHwKg",
-      "channel_theme": "Avoid being drawn into family or friend drama and distractions.",
+      "video_id": "r27Em_ph1iY",
+      "channel_theme": "Self-love is emphasized as the essential foundation for moving forward.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=r27Em_ph1iY"
+    },
+    {
+      "video_id": "5eoOMnebFyU",
+      "channel_theme": "A financial bonus tied to rising property value appears on the horizon.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=5eoOMnebFyU"
+    },
+    {
+      "video_id": "Q3RkLe50piU",
+      "channel_theme": "Pets and their instincts can help guide Gemini toward trustworthy new connections.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=D5mF3vQHwKg"
-    },
-    {
-      "video_id": "2Wfyw5s-9o0",
-      "channel_theme": "Work travel or relocation may be on the horizon for Gemini.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=2Wfyw5s-9o0"
-    },
-    {
-      "video_id": "gDUN5_ASeAo",
-      "channel_theme": "A major connection may redirect your path, forcing a bold choice.",
-      "tone": "empowering",
-      "url": "https://www.youtube.com/watch?v=gDUN5_ASeAo"
-    },
-    {
-      "video_id": "YTolGQdJ6UA",
-      "channel_theme": "A protective male family member steps up to offer you support.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=YTolGQdJ6UA"
+      "url": "https://www.youtube.com/watch?v=Q3RkLe50piU"
     }
   ]
 }

@@ -1,60 +1,60 @@
 {
   "sign": "Libra",
-  "week_of": "2026-09-21",
+  "week_of": "2026-09-28",
   "categories": {
     "love": {
-      "summary": "Most readers this week sense a meaningful romantic energy returning for Libra, with past connections or lessons resurfacing in a new light, so approach with open but cautious communication to ensure any rekindled bond is genuine and worth the emotional investment.",
+      "summary": "New romantic connections and meaningful relationships appear to be on the horizon for Libra, so embrace patience and trust that the right people and experiences will unfold naturally rather than letting self-doubt hold you back.",
       "reader_count": 4,
-      "disagreement": "Some readers focused specifically on romantic reunions, while one broadened the theme to include any meaningful relationship, not just romantic partners."
+      "disagreement": "Some readers focused on fresh romantic beginnings, while one highlighted working through inner fear and emotional avoidance as the more pressing theme for Libra this week."
     },
     "finance": {
-      "summary": "A few readers this week sense promising financial energy building for Libra, whether through returns on past efforts, favorable deals, or new abundance, so staying open to fresh approaches could help unlock what is coming.",
-      "reader_count": 3,
-      "disagreement": "Some readers saw rewards flowing naturally from past investments, while one suggested Libra must actively break old patterns first before abundance can arrive."
+      "summary": "Most readers see financial abundance or rewards arriving soon, so align your mindset with deserving more and focus your energy on nurturing the opportunities already taking shape.",
+      "reader_count": 4,
+      "disagreement": "Some readers tied the windfall to mindset and manifestation, while others linked it to releasing draining habits or taking strategic, focused action."
     },
     "career": {
-      "summary": "Career progress and professional advancement are on the horizon for Libra this week, with most readers encouraging a willingness to take risks, learn from the past, and step beyond comfort zones to reach the next level.",
+      "summary": "A meaningful career opportunity is on the horizon for Libra this week, and most readers agree that embracing it decisively, while letting your results speak for themselves, is the key to unlocking a significant professional shift.",
       "reader_count": 4,
-      "disagreement": "Some readers pointed to an imminent breakthrough with little hesitation, while others suggested meaningful risks and releasing old habits are required before success arrives."
+      "disagreement": "Some readers focused on bold, immediate action to seize the opportunity. Others emphasized quiet confidence and keeping plans private while your work speaks for you."
     },
     "family": {
-      "summary": "Only a couple of readers touched on family and close relationships this week, but those who did highlighted the joy of reconnecting with loved ones and the grounding support that long-held bonds can offer.",
-      "reader_count": 2,
-      "disagreement": "One reader focused on family gatherings and reunions, while another emphasized friendships and community as the primary source of connection and guidance."
+      "summary": "Most readers point to warmth, emotional fulfillment, and a sense of comfort within the home this week, so lean into that nurturing energy and protect the joy you are already building around you.",
+      "reader_count": 4,
+      "disagreement": "One reader highlighted potential changes or relocation disrupting current stability, while others focused on existing contentment and positive home energy."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "Two readings glow with promise, gently lifting the week's overall spirit.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Deep shifts are underway, reshaping how Libra sees what truly matters.",
   "readers": [
     {
-      "video_id": "5pkipdKrTOw",
-      "channel_theme": "A major career promotion or breakthrough is described as imminent and unavoidable.",
+      "video_id": "2xXkkVgIs4o",
+      "channel_theme": "Libra already knows their feelings but uses self-doubt to avoid vulnerability.",
+      "tone": "introspective",
+      "url": "https://www.youtube.com/watch?v=2xXkkVgIs4o"
+    },
+    {
+      "video_id": "XFIWNmKYFlk",
+      "channel_theme": "A major financial windfall or inheritance may soon arrive for Libra.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=5pkipdKrTOw"
+      "url": "https://www.youtube.com/watch?v=XFIWNmKYFlk"
     },
     {
-      "video_id": "gX-a7FQIhrQ",
-      "channel_theme": "A familiar romantic energy returns, feeling like a compelling past connection reborn.",
-      "tone": "reflective",
-      "url": "https://www.youtube.com/watch?v=gX-a7FQIhrQ"
-    },
-    {
-      "video_id": "yVEF9XTJIKI",
-      "channel_theme": "Libra is warned to speak up clearly or risk being stuck in the friend zone.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=yVEF9XTJIKI"
-    },
-    {
-      "video_id": "MJ6KCa1Ewj0",
-      "channel_theme": "Joyful family reunions and legal or financial wins are both highlighted together.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=MJ6KCa1Ewj0"
-    },
-    {
-      "video_id": "bA08FlGIQHU",
-      "channel_theme": "Breaking repetitive financial patterns through creativity is urged as the key to abundance.",
+      "video_id": "DHRVHkE7cPE",
+      "channel_theme": "Pregnancy or a deeply desired romantic wish may finally come true.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=bA08FlGIQHU"
+      "url": "https://www.youtube.com/watch?v=DHRVHkE7cPE"
+    },
+    {
+      "video_id": "eEjQUZjXGEQ",
+      "channel_theme": "A spiritual partner will arrive and push Libra toward personal growth.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=eEjQUZjXGEQ"
+    },
+    {
+      "video_id": "ES9bCJOfeQo",
+      "channel_theme": "Reinvent your professional identity and let results speak for themselves.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=ES9bCJOfeQo"
     }
   ]
 }

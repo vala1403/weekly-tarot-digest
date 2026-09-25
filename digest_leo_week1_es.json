@@ -1,59 +1,59 @@
 {
   "sign": "Leo",
-  "week_of": "2026-09-21",
+  "week_of": "2026-09-28",
   "categories": {
     "love": {
-      "summary": "La energía romántica se está intensificando con fuerza para Leo esta semana, y la mayoría de los lectores apuntan a conexiones nuevas o más profundas que se asoman en el horizonte. Mantente abierto a los vínculos genuinos y dispuesto a soltar a quienes no te apoyan de verdad.",
-      "reader_count": 5,
-      "disagreement": "Algunos lectores vieron un despliegue romántico lento y cauteloso con demoras en la comunicación, mientras que otros señalaron la llegada emocionante de alguien nuevo y la posibilidad de compromisos serios, como un noviazgo formal o matrimonio, que podrían concretarse pronto."
+      "summary": "La mayoría de los lectores perciben que Leo atraviesa un cambio romántico significativo esta semana, ya sea cerrando la puerta a una relación que agota o abriéndose a algo más pleno y satisfactorio. Confía en el proceso y deja que la sanación emocional te guíe hacia adelante.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores vieron un esperanzador nuevo comienzo o un reencuentro en el horizonte, mientras que uno se centró en la distancia emocional y el miedo al compromiso como obstáculos que impiden a Leo abrirse plenamente al amor."
     },
     "finance": {
-      "summary": "Una oportunidad financiera importante o un punto de inflexión parece estar en camino para Leo, y tres lectores sugieren actuar con decisión e inteligencia para construir una seguridad material duradera en los próximos meses.",
-      "reader_count": 3,
-      "disagreement": "Algunos lectores mencionaron una oferta entrante o una persona de confianza que trae la oportunidad, mientras que uno destacó que Leo debe tomar las riendas de forma independiente y actuar con iniciativa en lugar de esperar que algo llegue solo."
+      "summary": "La mayoría de los lectores perciben una mezcla de desafíos y oportunidades financieras esta semana. Concentra tu energía en aquello que tiene mayor potencial y no dudes en dejar ir lo que te cuesta más de lo que te aporta.",
+      "reader_count": 4,
+      "disagreement": "Un lector describió a Leo en una posición financiera sólida y abundante, mientras que otros señalaron contratiempos, gastos que drenan los recursos y la necesidad de priorizar con cuidado."
     },
     "career": {
-      "summary": "La mayoría de los lectores esta semana coinciden en que Leo está siendo llamado a dar un paso audaz hacia nuevos horizontes profesionales. Supera la duda, apóyate en tus fortalezas actuales y persigue tus metas más ambiciosas con plena confianza.",
+      "summary": "La mayoría de los lectores ven a Leo en el umbral de un nuevo y audaz capítulo profesional. Da pasos seguros y apasionados hacia las oportunidades que se presentan, y confía en que el esfuerzo constante te traerá el reconocimiento y el comienzo fresco que mereces.",
       "reader_count": 4,
-      "disagreement": "Algunos lectores se enfocaron en ignorar activamente la negatividad externa mientras se persiguen los objetivos, mientras que otros pusieron el acento en la disciplina interna y en eliminar las distracciones como la clave para abrir paso a las oportunidades."
+      "disagreement": "Algunos lectores describieron una búsqueda activa que todavía está en curso, mientras que otros apuntaron a una ruptura clara con lo anterior y una llegada inmediata a algo nuevo."
     },
     "family": {
-      "summary": "Solo unos pocos lectores abordaron el tema familiar esta semana. Quienes lo hicieron sugirieron que cuidar a los seres queridos sigue siendo una prioridad natural para Leo, aunque las opiniones familiares no tienen por qué dictar tus decisiones. Además, un asunto financiero pendiente con familiares podría estar llegando finalmente a su resolución.",
-      "reader_count": 3,
-      "disagreement": "Un lector señaló a la familia como una fuente de juicios con la que conviene establecer límites, mientras que otro presentó los lazos familiares como una fuente de calidez y cuidado natural."
+      "summary": "Ninguno de los cinco lectores abordó temas familiares para Leo esta semana, por lo que no hay una orientación compartida de la que partir en esta categoría.",
+      "reader_count": 0,
+      "disagreement": null
     }
   },
-  "overall_tone_summary": "Una ola de optimismo impulsa a Leo hacia adelante, con fortaleza pisándole los talones. Segunda semana consecutiva en esta energía.",
+  "overall_tone_summary": "Una luminosa corriente de posibilidad acompaña a Leo en una semana alentadora y llena de perspectivas. Tercera semana consecutiva.",
   "readers": [
     {
-      "video_id": "emtQuLz6jvU",
-      "channel_theme": "Los retrasos en la comunicación están generando ansiedad, pero la conexión romántica terminará por concretarse.",
+      "video_id": "85PLwWsIakg",
+      "channel_theme": "Comprométete de lleno con un propósito que valga la pena en lugar de dispersar tu energía en demasiadas cosas.",
+      "tone": "alentador",
+      "url": "https://www.youtube.com/watch?v=85PLwWsIakg"
+    },
+    {
+      "video_id": "uMz7GZtNjAo",
+      "channel_theme": "La distancia emocional y el miedo están impidiendo que Leo se comprometa plenamente en el amor.",
       "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=emtQuLz6jvU"
+      "url": "https://www.youtube.com/watch?v=uMz7GZtNjAo"
     },
     {
-      "video_id": "7FP4C3Zuwfg",
-      "channel_theme": "Corta lazos con quienes te engañan e ignora con valentía la presión familiar o social que te está frenando.",
-      "tone": "empoderador",
-      "url": "https://www.youtube.com/watch?v=7FP4C3Zuwfg"
+      "video_id": "4SaEY2P1_yQ",
+      "channel_theme": "Los finales en el amor y en la carrera están despejando el camino para que llegue algo mejor.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=4SaEY2P1_yQ"
     },
     {
-      "video_id": "an2KVvhxHh0",
-      "channel_theme": "Una invitación romántica muy halagadora y una sorpresa financiera inesperada están en camino hacia ti.",
+      "video_id": "MRmdqu57okY",
+      "channel_theme": "Actuar con decisión ahora podría abrir la puerta a una prometedora oportunidad profesional.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=an2KVvhxHh0"
+      "url": "https://www.youtube.com/watch?v=MRmdqu57okY"
     },
     {
-      "video_id": "T65go1vwZu4",
-      "channel_theme": "Una persona de confianza te ofrecerá una oportunidad financiera que traerá cambios importantes en tu vida en los próximos diez meses.",
+      "video_id": "NZDCmZ4yqsc",
+      "channel_theme": "Es muy probable que una conexión de almas del pasado regrese después de una separación marcada por la desconfianza.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=T65go1vwZu4"
-    },
-    {
-      "video_id": "u87IrpOpMpk",
-      "channel_theme": "Las posibilidades de compromiso o matrimonio hacen de esta una semana excepcional para el amor profundo y duradero.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=u87IrpOpMpk"
+      "url": "https://www.youtube.com/watch?v=NZDCmZ4yqsc"
     }
   ]
 }

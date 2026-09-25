@@ -1,59 +1,59 @@
 {
   "sign": "Cáncer",
-  "week_of": "2026-09-21",
+  "week_of": "2026-09-28",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores perciben el cierre de un capítulo romántico complicado, lo que abre la puerta a algo más estable y satisfactorio. Mantener el corazón abierto ayudará a Cáncer a recibir con brazos abiertos lo que está por llegar.",
+      "summary": "La mayoría de los lectores vaticinan que se acerca una conexión romántica prometedora para Cáncer, posiblemente con energía de alma gemela, así que mantente abierto al amor y no pierdas tu tiempo con quienes solo te envían señales confusas.",
       "reader_count": 3,
-      "disagreement": "Algunos lectores describieron una situación que se cierra por completo y despeja el camino, mientras que uno destacó que aún persisten conflictos emocionales y dudas sobre si realmente todo ha terminado."
+      "disagreement": "Una lectura destacó que esta nueva conexión puede reavivar el calor emocional y aconsejó alejarse rápidamente de quienes mandan señales mixtas, mientras que otras se centraron más en el potencial de alma gemela y en construir una relación duradera."
     },
     "finance": {
-      "summary": "La mayoría de los lectores coinciden en que el avance económico de Cáncer es lento pero seguro. El consejo más consistente para esta semana es mantener la paciencia y seguir comprometido con los planes a largo plazo, ya que esa constancia es la clave para construir una estabilidad duradera.",
+      "summary": "La mayoría de los lectores coinciden en que la estabilidad financiera y la constancia son los mejores aliados de Cáncer esta semana. El avance pausado y deliberado hacia las metas económicas es el camino más claro hacia un crecimiento tangible y nuevas oportunidades que comienzan a asomar.",
       "reader_count": 4,
-      "disagreement": "Un lector sugirió que Cáncer podría estar buscando ayuda económica externa o préstamos, mientras que los demás se centraron en la paciencia y la perseverancia desde los propios recursos, sin depender de apoyos externos."
+      "disagreement": "Un lector advirtió sobre posibles tensiones económicas o imprevistos, mientras que otros se inclinaron por el optimismo y la abundancia. El tono varía entre cauteloso y alentador según la lectura."
     },
     "career": {
-      "summary": "Esta semana se están abriendo nuevas oportunidades profesionales para Cáncer y el impulso está creciendo. Lo más recomendable es acercarse a ellas con disposición y compromiso, dejando de lado la duda o el exceso de precaución.",
+      "summary": "Varios lectores ven a Cáncer ganando mayor visibilidad profesional esta semana, con movimientos audaces hacia la independencia o nuevas oportunidades que elevan su camino y le hacen ganar un reconocimiento verdaderamente significativo.",
       "reader_count": 4,
-      "disagreement": "Algunos lectores alentaron a actuar con valentía y espontaneidad sin darle demasiadas vueltas al asunto, mientras que uno aconsejó ir más despacio y revisar bien las decisiones antes de comprometerse."
+      "disagreement": "Un lector se enfocó en un progreso interior lento y cargado de dudas, más que en la acción externa o el reconocimiento, lo cual contrasta con el enfoque más decidido y orientado a la visibilidad que proponen los demás."
     },
     "family": {
-      "summary": "Varios lectores tocaron esta semana el tema de la familia y los vínculos afectivos, resaltando la importancia de rodearse de personas leales y positivas, y de mantenerse abierto a señales significativas relacionadas con el hogar o a reencuentros emotivos con personas del pasado.",
-      "reader_count": 3,
-      "disagreement": "Algunos lectores se enfocaron en relaciones de apoyo que llevan mucho tiempo presentes, mientras que uno hizo hincapié en reconectar con personas que se habían perdido de vista, lo que sugiere distintos puntos de entrada a la temática del sentido de pertenencia."
+      "summary": "El hogar y la familia irradian una energía positiva y amorosa esta semana para Cáncer, así que abrázate a esa calidez que te rodea: reconoce la red de apoyo que ya tienes y recibe con los brazos abiertos las oportunidades de conexión, renovación y encuentro.",
+      "reader_count": 4,
+      "disagreement": "Algunos lectores se centraron en el apoyo externo y la comunidad que rodea a Cáncer, mientras que uno miró hacia adentro, señalando un llamado personal a nutrir y guiar a las generaciones más jóvenes como parte de su propósito de vida."
     }
   },
-  "overall_tone_summary": "Esta semana se perciben advertencias sutiles que invitan a Cáncer a tomarse un momento antes de actuar.",
+  "overall_tone_summary": "Una semana luminosa y llena de posibilidades invita a Cáncer a abrirse a lo que puede venir y a confiar en el proceso.",
   "readers": [
     {
-      "video_id": "4x9GvdsNL1k",
-      "channel_theme": "Persiste un conflicto interno relacionado con una relación pasada que aún no se siente resuelta.",
+      "video_id": "etW4ukQNiHk",
+      "channel_theme": "Una conexión de alma gemela con un signo de agua podría estar encaminándose hacia una unión poderosa.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=etW4ukQNiHk"
+    },
+    {
+      "video_id": "DrF3rxa4-18",
+      "channel_theme": "Cáncer puede tener un llamado especial en la vida para guiar o apoyar a las generaciones más jóvenes.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=DrF3rxa4-18"
+    },
+    {
+      "video_id": "xLjk316LBLo",
+      "channel_theme": "Reencuentros familiares, mudanzas o renovaciones en el hogar traen una energía positiva esta semana.",
       "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=4x9GvdsNL1k"
+      "url": "https://www.youtube.com/watch?v=xLjk316LBLo"
     },
     {
-      "video_id": "rJj1WQbuoeY",
-      "channel_theme": "Puede aparecer una nueva pareja con los pies en la tierra, así que conviene estar abierto y disfrutar del proceso.",
+      "video_id": "WZCONMlNYWQ",
+      "channel_theme": "La red de apoyo de Cáncer siempre está presente, incluso cuando no se nota o no se reconoce.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=rJj1WQbuoeY"
+      "url": "https://www.youtube.com/watch?v=WZCONMlNYWQ"
     },
     {
-      "video_id": "oxB9j2tvL3Q",
-      "channel_theme": "Deja de dudar y comprométete de lleno con tu objetivo más importante ahora mismo.",
-      "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=oxB9j2tvL3Q"
-    },
-    {
-      "video_id": "iHRghKuqE04",
-      "channel_theme": "Un capítulo romántico turbulento llega a su fin, dejando espacio para algo verdaderamente satisfactorio.",
+      "video_id": "BHhDUR8qifw",
+      "channel_theme": "Cáncer debería alejarse cuanto antes de las parejas que solo envían señales confusas.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=iHRghKuqE04"
-    },
-    {
-      "video_id": "1vNinJ6YX7c",
-      "channel_theme": "Revisa bien cualquier contrato antes de firmarlo, ya que las nuevas oportunidades pueden esconder riesgos no evidentes.",
-      "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=1vNinJ6YX7c"
+      "url": "https://www.youtube.com/watch?v=BHhDUR8qifw"
     }
   ]
 }

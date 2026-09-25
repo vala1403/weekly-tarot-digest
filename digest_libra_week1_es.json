@@ -1,59 +1,59 @@
 {
   "sign": "Libra",
-  "week_of": "2026-09-21",
+  "week_of": "2026-09-28",
   "categories": {
     "love": {
-      "summary": "La mayoría de los lectores esta semana perciben que una energía romántica significativa regresa para Libra, trayendo consigo conexiones pasadas o lecciones que ahora se ven bajo una nueva luz. Se recomienda acercarse con una comunicación abierta pero prudente, para asegurarse de que cualquier vínculo que se reavive sea genuino y valga realmente la pena desde lo emocional.",
+      "summary": "Nuevas conexiones románticas y relaciones significativas parecen estar acercándose para Libra, así que cultiva la paciencia y confía en que las personas y experiencias indicadas llegarán de forma natural, sin permitir que la duda interna te frene.",
       "reader_count": 4,
-      "disagreement": "Algunos lectores se centraron específicamente en reencuentros románticos, mientras que uno amplió el tema para incluir cualquier relación significativa, no solo las de pareja."
+      "disagreement": "Algunas lectoras se enfocaron en nuevos comienzos románticos, mientras que una destacó que el tema más urgente para Libra esta semana es sanar el miedo interior y la tendencia a evitar la vulnerabilidad emocional."
     },
     "finance": {
-      "summary": "Varios lectores esta semana perciben que una energía financiera prometedora comienza a tomar forma para Libra, ya sea a través de los frutos del esfuerzo pasado, acuerdos favorables o nueva abundancia que se aproxima. Mantenerse abierto a enfoques distintos podría ser la clave para recibir lo que está por llegar.",
-      "reader_count": 3,
-      "disagreement": "Algunos lectores vieron las recompensas llegando de forma natural gracias a inversiones anteriores, mientras que uno sugirió que Libra primero debe romper con los viejos patrones antes de que pueda llegar la abundancia."
+      "summary": "La mayoría de las lectoras perciben que la abundancia o una recompensa económica está por llegar, así que alinea tu mentalidad con el merecimiento y enfoca tu energía en nutrir las oportunidades que ya están tomando forma.",
+      "reader_count": 4,
+      "disagreement": "Algunas lectoras vincularon la llegada de dinero con la mentalidad y la manifestación, mientras que otras la relacionaron con soltar hábitos que drenan la energía o con tomar acciones estratégicas y enfocadas."
     },
     "career": {
-      "summary": "El avance profesional y el progreso en la carrera están a la vuelta de la esquina para Libra esta semana. La mayoría de los lectores animan a asumir riesgos con valentía, aprender del pasado y salir de la zona de confort para alcanzar el siguiente nivel.",
+      "summary": "Una oportunidad profesional importante se asoma en el horizonte de Libra esta semana, y la mayoría de las lectoras coinciden en que abrazarla con decisión, dejando que tus resultados hablen por sí solos, es la clave para desbloquear un cambio significativo en tu carrera.",
       "reader_count": 4,
-      "disagreement": "Algunos lectores señalaron que un gran avance es inminente y no requiere mucha vacilación, mientras que otros indicaron que es necesario asumir riesgos reales y soltar hábitos antiguos antes de que llegue el éxito."
+      "disagreement": "Algunas lectoras se enfocaron en actuar con valentía e inmediatez para aprovechar la oportunidad. Otras pusieron el acento en mantener una confianza tranquila, guardar los planes con discreción y dejar que el trabajo hable por sí mismo."
     },
     "family": {
-      "summary": "Solo un par de lectores abordaron el tema de la familia y las relaciones cercanas esta semana, pero quienes lo hicieron destacaron la alegría de reconectarse con los seres queridos y el apoyo sólido que ofrecen los lazos cultivados durante mucho tiempo.",
-      "reader_count": 2,
-      "disagreement": "Un lector se enfocó en reuniones familiares y reencuentros, mientras que otro destacó las amistades y la comunidad como la principal fuente de conexión y orientación."
+      "summary": "La mayoría de las lectoras señalan una semana de calidez, plenitud emocional y bienestar en el hogar, así que abrázate a esa energía amorosa y protege la alegría que ya estás construyendo a tu alrededor.",
+      "reader_count": 4,
+      "disagreement": "Una lectora mencionó posibles cambios o una mudanza que podrían alterar la estabilidad actual, mientras que las demás se centraron en el bienestar ya existente y en la energía positiva dentro del hogar."
     }
   },
-  "overall_tone_summary": "Dos lecturas brillan con mucho potencial, elevando con suavidad el espíritu general de la semana.",
+  "overall_tone_summary": "Se están produciendo cambios profundos que transforman la manera en que Libra percibe lo que realmente importa en su vida.",
   "readers": [
     {
-      "video_id": "5pkipdKrTOw",
-      "channel_theme": "Se describe un gran ascenso o avance profesional como algo inminente e inevitable.",
+      "video_id": "2xXkkVgIs4o",
+      "channel_theme": "Libra ya sabe lo que siente, pero usa la duda como escudo para evitar ser vulnerable.",
+      "tone": "introspectivo",
+      "url": "https://www.youtube.com/watch?v=2xXkkVgIs4o"
+    },
+    {
+      "video_id": "XFIWNmKYFlk",
+      "channel_theme": "Una gran entrada de dinero o una herencia podría estar a punto de llegar para Libra.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=5pkipdKrTOw"
+      "url": "https://www.youtube.com/watch?v=XFIWNmKYFlk"
     },
     {
-      "video_id": "gX-a7FQIhrQ",
-      "channel_theme": "Una energía romántica familiar regresa, con la sensación de que una conexión del pasado renace con nueva fuerza.",
-      "tone": "reflexivo",
-      "url": "https://www.youtube.com/watch?v=gX-a7FQIhrQ"
-    },
-    {
-      "video_id": "yVEF9XTJIKI",
-      "channel_theme": "Se advierte a Libra que exprese lo que siente con claridad, o corre el riesgo de quedarse atrapado en la zona de amistad.",
-      "tone": "cauteloso",
-      "url": "https://www.youtube.com/watch?v=yVEF9XTJIKI"
-    },
-    {
-      "video_id": "MJ6KCa1Ewj0",
-      "channel_theme": "Se destacan juntos la alegría de los reencuentros familiares y los logros en el ámbito legal o financiero.",
-      "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=MJ6KCa1Ewj0"
-    },
-    {
-      "video_id": "bA08FlGIQHU",
-      "channel_theme": "Se urge a Libra a romper con los patrones financieros repetitivos a través de la creatividad, presentándolo como el verdadero camino hacia la abundancia.",
+      "video_id": "DHRVHkE7cPE",
+      "channel_theme": "Un embarazo o un deseo romántico muy anhelado podría finalmente hacerse realidad.",
       "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=bA08FlGIQHU"
+      "url": "https://www.youtube.com/watch?v=DHRVHkE7cPE"
+    },
+    {
+      "video_id": "eEjQUZjXGEQ",
+      "channel_theme": "Una pareja con afinidad espiritual llegará y empujará a Libra hacia su propio crecimiento personal.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=eEjQUZjXGEQ"
+    },
+    {
+      "video_id": "ES9bCJOfeQo",
+      "channel_theme": "Reinventa tu identidad profesional y deja que tus logros hablen por ti.",
+      "tone": "esperanzador",
+      "url": "https://www.youtube.com/watch?v=ES9bCJOfeQo"
     }
   ]
 }

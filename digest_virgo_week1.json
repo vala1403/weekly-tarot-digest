@@ -1,60 +1,60 @@
 {
   "sign": "Virgo",
-  "week_of": "2026-09-21",
+  "week_of": "2026-09-28",
   "categories": {
     "love": {
-      "summary": "Love readings this week are mixed, with some readers seeing a connection edging toward commitment while others point to turbulence or necessary endings, so Virgo may need to honestly assess whether a relationship has the foundation to grow or should be released.",
+      "summary": "A meaningful romantic connection or commitment seems to be on the horizon for Virgo, and most readers encourage leaning into it rather than holding back out of fear or hesitation.",
       "reader_count": 3,
-      "disagreement": "Some readers saw a bond moving toward deeper commitment, while others suggested an ending or ongoing conflict may need resolution first."
+      "disagreement": "One reading described a troubled, cyclical connection full of uncertainty, while others pointed to a hopeful new bond or deepening commitment."
     },
     "finance": {
-      "summary": "Nearly all readers point to significant financial growth ahead for Virgo, so this is an ideal week to leverage existing skills, take calculated risks, or explore new income streams to build lasting security and abundance.",
+      "summary": "Most readers sense financial activity stirring for Virgo this week, whether through rebalancing, new opportunities, or unexpected windfalls, so putting in consistent, organized effort now is the clearest shared advice for turning potential into real growth.",
       "reader_count": 4,
-      "disagreement": "One reader suggested a more passive windfall or inheritance coming to Virgo, while others emphasized active effort and deliberate risk-taking as the path to financial gain."
+      "disagreement": "Some readers pointed to caution and reassessment of current resources, while one suggested a significant, possibly life-changing financial windfall arriving with little effort required."
     },
     "career": {
-      "summary": "Most readers see this as a pivotal week for Virgo to pursue meaningful professional goals, so release what is holding you back and trust that momentum, recognition, and a clearer sense of purpose are building in your favor.",
+      "summary": "Most readers see professional momentum building for Virgo this week, so stay persistent, keep honing your skills, and remain open to new opportunities that could significantly advance your path.",
       "reader_count": 4,
-      "disagreement": "Some readers focused on laying groundwork for long-term goals, while others suggested immediate new opportunities and recognition are already arriving."
+      "disagreement": "Some readers focused on an incoming opportunity or recognition waiting to be claimed, while one highlighted inner doubt as the main hurdle to overcome first."
     },
     "family": {
-      "summary": "Few readers touched on family or home life this week, but those who did pointed to positive shifts, whether that means refreshing your living environment or being more selective about who you keep close.",
-      "reader_count": 2,
-      "disagreement": "No notable disagreement, though one reader focused on the home environment changing for the better, while another emphasized evaluating the people around you rather than the space itself."
+      "summary": "Few readers touched on family this week; the one who did suggested a joyful reunion or celebration with a loved one, possibly a water sign, may be on the horizon for Virgo.",
+      "reader_count": 1,
+      "disagreement": null
     }
   },
   "overall_tone": "hopeful",
-  "overall_tone_summary": "Quiet optimism carries Virgo forward, with one bright spark of liberation. Third week running.",
+  "overall_tone_summary": "A bright, forward-looking energy carries Virgo through this week with quiet confidence. Fourth week running.",
   "readers": [
     {
-      "video_id": "mx-09awycFU",
-      "channel_theme": "A fire or water sign may be ready to commit to Virgo soon.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=mx-09awycFU"
-    },
-    {
-      "video_id": "YJc_qGkYLnM",
-      "channel_theme": "A troubled romance faces a critical choice between staying or leaving.",
-      "tone": "uncertain",
-      "url": "https://www.youtube.com/watch?v=YJc_qGkYLnM"
-    },
-    {
-      "video_id": "Mm4EHNLS-Qg",
-      "channel_theme": "Virgo's money skills could turn investments or business into lasting security.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=Mm4EHNLS-Qg"
-    },
-    {
-      "video_id": "KRuhopnnWio",
-      "channel_theme": "Letting go unlocks new love, income streams, career starts, and home changes.",
-      "tone": "liberating",
-      "url": "https://www.youtube.com/watch?v=KRuhopnnWio"
-    },
-    {
-      "video_id": "AUb_foWSqjU",
-      "channel_theme": "A major windfall or inheritance is heading Virgo's way very soon.",
+      "video_id": "MvuFJHfKOwU",
+      "channel_theme": "A soulmate bond or long-awaited commitment is finally coming into focus.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=AUb_foWSqjU"
+      "url": "https://www.youtube.com/watch?v=MvuFJHfKOwU"
+    },
+    {
+      "video_id": "ZtXtJCOlMO4",
+      "channel_theme": "Organizing your resources now will help attract new abundance soon.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=ZtXtJCOlMO4"
+    },
+    {
+      "video_id": "m1Zl2QR2bbI",
+      "channel_theme": "Take a chance on love and new ventures despite lingering self-doubt.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=m1Zl2QR2bbI"
+    },
+    {
+      "video_id": "rTzsGS0PLJ0",
+      "channel_theme": "A life-changing financial windfall and public career recognition are both possible.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=rTzsGS0PLJ0"
+    },
+    {
+      "video_id": "roDgwSlGU-k",
+      "channel_theme": "A push-pull romantic cycle is leaving you confused about where things stand.",
+      "tone": "reflective",
+      "url": "https://www.youtube.com/watch?v=roDgwSlGU-k"
     }
   ]
 }
