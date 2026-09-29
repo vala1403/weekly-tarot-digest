@@ -155,3 +155,7 @@
   @view-transition { navigation: none; }
   ::view-transition-group(*), ::view-transition-old(*), ::view-transition-new(*) { animation: none !important; }
 }
+.signup-section { max-width: 560px; margin: 56px auto 0; text-align: center; }
+.signup-section h2 { margin: 0 0 10px; color: var(--blue); }
+.signup-blurb { max-width: 440px; margin: 0 auto 20px; font-size: 17px; line-height: 1.5; color: #754425; text-wrap: pretty; }
+.signup-form { min-height: 434px; }

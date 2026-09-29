@@ -18,6 +18,8 @@ import json
 import sys
 from pathlib import Path
 
+from signup_form import render_signup_section
+
 # Thin single-weight line-art icons, 24x24 viewBox, stroke="currentColor".
 ICON_SVG = {
     "love": '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20.5s-7.5-4.6-10-9.3C.6 8 2 4.5 5.3 4c2.2-.3 4 .9 6.7 3.6C14.7 4.9 16.5 3.7 18.7 4c3.3.5 4.7 4 3.3 7.2-2.5 4.7-10 9.3-10 9.3z"/></svg>',
@@ -642,6 +644,8 @@ def build_html(digest: dict, sign_slug: str, week_of_display: str, cards_html: s
       </table>
       </div>
     </section>
+
+    {render_signup_section(lang)}
 
     <footer>
       {strings['footer'](esc(digest['sign']), esc(week_of_display))}

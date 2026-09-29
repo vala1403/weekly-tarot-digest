@@ -17,6 +17,8 @@ import json
 import sys
 from pathlib import Path
 
+from signup_form import render_signup_section
+
 EM_DASH = "—"
 
 THEME_LOG_PATH = Path(__file__).parent / "data" / "theme-log.json"
@@ -418,6 +420,8 @@ def build_html(cards_html: str, strings: dict, week_label: str) -> str:
 
     <section class="grid">{cards_html}
     </section>
+
+    {render_signup_section(strings['html_lang'])}
 
     <div id="how-it-works-modal" class="modal-overlay" aria-hidden="true">
       <div class="modal-box" role="dialog" aria-modal="true" aria-labelledby="how-it-works-title">
