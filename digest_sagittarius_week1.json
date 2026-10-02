@@ -1,60 +1,60 @@
 {
   "sign": "Sagittarius",
-  "week_of": "2026-09-28",
+  "week_of": "2026-10-05",
   "categories": {
     "love": {
-      "summary": "Most readers sense a meaningful romantic connection forming or deepening for Sagittarius this week, so allow genuine bonds to develop slowly rather than rushing, as patience now sets the foundation for something lasting.",
+      "summary": "Most readers sense a meaningful romantic connection on the horizon for Sagittarius, so remain open as a deep and reciprocal bond appears to be naturally unfolding or drawing closer this week.",
       "reader_count": 4,
-      "disagreement": "One reader described a painful revelation causing heartbreak and grief, while most others pointed to a fulfilling and hopeful romantic outlook ahead."
+      "disagreement": "Some readers saw an existing relationship deepening or reaching a milestone, while others suggested a new romantic interest is still waiting in the wings before stepping forward."
     },
     "finance": {
-      "summary": "Most readers see this as a promising period for Sagittarius financially, with rewards and opportunities on the horizon, so tidy up any loose ends and lean into your skills to make the most of what is coming your way.",
+      "summary": "Most readers point to a meaningful financial upswing this week, whether through a windfall, wise investment, or a release of past financial missteps, so stay open to unexpected opportunities and trust that abundance is shifting in your favor.",
       "reader_count": 4,
-      "disagreement": "One reading pointed to financial stress and a sense of lack, while most others emphasized incoming rewards and favorable opportunities."
+      "disagreement": "Some readers emphasized a dramatic, near-miraculous financial breakthrough, while others described a more gradual recovery from past mistakes and a slow shift away from scarcity thinking."
     },
     "career": {
-      "summary": "Most readers see Sagittarius at a meaningful turning point in their work life this week, where ongoing projects gain momentum and persistent effort begins to pay off, so stay engaged and trust that your hard work is building toward real reward.",
+      "summary": "Professional momentum is building for Sagittarius this week, with stagnation giving way to growth and bold forward movement, so lean into your ideas and bring your full energy and creativity to your work.",
       "reader_count": 4,
-      "disagreement": "One reader suggested leaving a stagnant project behind for a fresh start, while others focused on pushing through and seeing current efforts finally come to fruition."
+      "disagreement": "One reader focused on creative and communicative roles as the path to fulfillment, while others emphasized leadership, recognition, and general professional advancement rather than a specific vocational direction."
     },
     "family": {
-      "summary": "Few readers touched on family or friendships this week; the one who did suggested that tension and conflict within close circles may be adding to emotional unrest, so approaching those dynamics with care could help restore balance.",
-      "reader_count": 1,
-      "disagreement": null
+      "summary": "A few readers this week see joyful reunions or celebrations with loved ones on the horizon for Sagittarius, though one cautions that a messy family situation may pull them in unwillingly before things can finally settle.",
+      "reader_count": 3,
+      "disagreement": "Most readers pointed to warm, celebratory gatherings. One suggested Sagittarius may be drawn into a difficult situation against their will rather than a straightforwardly joyful event."
     }
   },
-  "overall_tone": "transformative",
-  "overall_tone_summary": "Deep shifts are reshaping the path forward for Sagittarius this week. Second week running.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "A bright, optimistic current runs through Sagittarius this week, lifting spirits forward.",
   "readers": [
     {
-      "video_id": "7CPsLZgjjas",
-      "channel_theme": "Past romance left emotional scars, but collaborative growth is actively underway.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=7CPsLZgjjas"
+      "video_id": "NsmGsXZyl3U",
+      "channel_theme": "A loved one returning home brings celebration and emotional fulfillment.",
+      "tone": "celebratory",
+      "url": "https://www.youtube.com/watch?v=NsmGsXZyl3U"
     },
     {
-      "video_id": "THGx1kONZU8",
-      "channel_theme": "A mature, lasting love connection is finally arriving after past hardship.",
+      "video_id": "kR5MFGM8p14",
+      "channel_theme": "A near-miraculous, life-changing financial blessing is on its way.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=THGx1kONZU8"
+      "url": "https://www.youtube.com/watch?v=kR5MFGM8p14"
     },
     {
-      "video_id": "7AFbVDAT0MQ",
-      "channel_theme": "A soulmate is approaching as old unhealthy relationship patterns finally end.",
+      "video_id": "XpSSIK8GOWc",
+      "channel_theme": "A secret admirer is watching and waiting to make their move.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=7AFbVDAT0MQ"
+      "url": "https://www.youtube.com/watch?v=XpSSIK8GOWc"
     },
     {
-      "video_id": "ctWVR-OuMXQ",
-      "channel_theme": "Leaving stagnation behind, a new reciprocal opportunity and connection are forming.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=ctWVR-OuMXQ"
+      "video_id": "iA7VsnTvkaM",
+      "channel_theme": "Others are actively seeking your leadership and professional input now.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=iA7VsnTvkaM"
     },
     {
-      "video_id": "XBX5U33ZiP0",
-      "channel_theme": "A painful revelation is causing heartbreak and stirring conflict in close circles.",
-      "tone": "turbulent",
-      "url": "https://www.youtube.com/watch?v=XBX5U33ZiP0"
+      "video_id": "4SbcShHgtvc",
+      "channel_theme": "Sagittarius is pulled into a messy family conflict against their will.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=4SbcShHgtvc"
     }
   ]
 }

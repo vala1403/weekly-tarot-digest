@@ -1,59 +1,59 @@
 {
   "sign": "Acuario",
-  "week_of": "2026-09-28",
+  "week_of": "2026-10-05",
   "categories": {
     "love": {
-      "summary": "Solo una lectora abordó el amor esta semana, lo que sugiere que algunos Acuario podrían necesitar proteger la profundidad emocional en una relación actual y confiar en su corazón para encontrar un desenlace pleno y satisfactorio.",
-      "reader_count": 1,
-      "disagreement": null
+      "summary": "Varios lectores perciben movimientos importantes en el plano romántico para Acuario esta semana, ya sea a través de conexiones profundas del alma o de romances que vuelven a encenderse. Todo apunta a que vale la pena abrirse y poner sobre la mesa los sentimientos que han quedado sin decir, en lugar de dejarlos acumularse sin resolución.",
+      "reader_count": 3,
+      "disagreement": "Algunos lectores percibieron tensión y resistencia emocional dentro de relaciones existentes, mientras que otros señalaron la posibilidad de una nueva conexión romántica llena de calidez mutua y marcada por el destino."
     },
     "finance": {
-      "summary": "La mayoría de las lectoras ven cómo la estabilidad financiera y las recompensas comienzan a tomar forma para Acuario esta semana, así que mantén la paciencia y enfócate en tu visión a largo plazo mientras los esfuerzos del pasado empiezan a dar frutos de manera duradera y significativa.",
-      "reader_count": 4,
-      "disagreement": "Algunas lectoras pusieron el énfasis en recompensas por trabajo pasado que están a punto de llegar, mientras que otras se centraron en una nueva oportunidad que aún requiere paciencia y dedicación antes de dar resultados."
+      "summary": "Varios lectores coinciden en que se acercan oportunidades de abundancia financiera para Acuario esta semana. El consejo compartido es confiar en la intuición, cultivar la gratitud y sentirse con el poder de tomar decisiones que realmente vayan de acuerdo con los propios valores y condiciones.",
+      "reader_count": 3,
+      "disagreement": null
     },
     "career": {
-      "summary": "La mayoría de las lectoras perciben este momento como un gran avance profesional para Acuario, así que apóyate en la valentía, la creatividad y la adaptabilidad para alcanzar el reconocimiento y el éxito duradero que parecen estar al alcance de tu mano.",
+      "summary": "La mayoría de los lectores esta semana ven un impulso positivo tomando forma en la carrera de Acuario, con avances, reconocimiento y una energía más fluida que en conjunto señalan una ventana de oportunidad que vale la pena aprovechar con seguridad y determinación.",
       "reader_count": 4,
-      "disagreement": "Una lectora sugirió que Acuario podría estar lista para dejar atrás su situación actual, mientras que otras se enfocaron en crecer dentro de ella para alcanzar mayor éxito y estabilidad."
+      "disagreement": "Algunos lectores se enfocaron en un cambio interno que lleva a una acción audaz, mientras que otros apuntaron a una validación externa a través del reconocimiento o de condiciones más favorables en el trabajo."
     },
     "family": {
-      "summary": "Pocas lectoras tocaron el tema familiar esta semana, pero quienes lo hicieron destacaron la importancia de la estabilidad, proteger lo que más importa y apoyarse en relaciones de confianza durante los momentos difíciles.",
+      "summary": "Solo un par de lectores tocaron el tema familiar esta semana. Uno señaló la necesidad de tener conversaciones honestas en relaciones que atraviesan momentos difíciles, mientras que otro animó a alejarse de los conflictos y rodearse de personas que aporten energía positiva.",
       "reader_count": 2,
-      "disagreement": null
+      "disagreement": "Un lector hizo énfasis en afrontar las conversaciones difíciles de frente, mientras que otro sugirió alejarse del conflicto por completo y centrarse en cultivar vínculos que nutran y apoyen."
     }
   },
-  "overall_tone_summary": "Grandes cambios están transformando lo que Acuario creía que ya tenía resuelto. Segunda semana consecutiva.",
+  "overall_tone_summary": "Acuario entra esta semana con una confianza renovada y decidida, listo para reclamar lo que le pertenece.",
   "readers": [
     {
-      "video_id": "HbQeNgWP964",
-      "channel_theme": "Una señal interna te indica que simplemente has superado tu situación laboral actual.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=HbQeNgWP964"
+      "video_id": "UKEk7pouX3g",
+      "channel_theme": "Una de las partes se resiste a una conexión profunda del alma, generando un desequilibrio emocional entre ambos.",
+      "tone": "intenso",
+      "url": "https://www.youtube.com/watch?v=UKEk7pouX3g"
     },
     {
-      "video_id": "84Vu3razWvA",
-      "channel_theme": "La inestabilidad financiera llega a su fin y da paso a una abundancia duradera y a un creciente reconocimiento profesional.",
+      "video_id": "6Fa_0Nxu1Qk",
+      "channel_theme": "Evitar las conversaciones difíciles está impidiendo que ciclos importantes de tu vida lleguen a su cierre.",
+      "tone": "transformador",
+      "url": "https://www.youtube.com/watch?v=6Fa_0Nxu1Qk"
+    },
+    {
+      "video_id": "ZR49nJ83pYw",
+      "channel_theme": "La gratitud y la autosuficiencia son tus claves para atraer la abundancia verdadera.",
       "tone": "empoderador",
-      "url": "https://www.youtube.com/watch?v=84Vu3razWvA"
+      "url": "https://www.youtube.com/watch?v=ZR49nJ83pYw"
     },
     {
-      "video_id": "beDc-FEs8nI",
-      "channel_theme": "Actuar con decisión en medio de la competencia traerá pronto un gran avance triunfal.",
-      "tone": "triunfante",
-      "url": "https://www.youtube.com/watch?v=beDc-FEs8nI"
-    },
-    {
-      "video_id": "hegNtvOEj4c",
-      "channel_theme": "Cuidar tus relaciones cercanas y tu vida en el hogar moldea el camino que tienes por delante.",
+      "video_id": "OfXOz8Rh3Fs",
+      "channel_theme": "Un romance profundamente compatible y marcado por el destino está por reavivarse o llegar muy pronto.",
       "tone": "esperanzador",
-      "url": "https://www.youtube.com/watch?v=hegNtvOEj4c"
+      "url": "https://www.youtube.com/watch?v=OfXOz8Rh3Fs"
     },
     {
-      "video_id": "u6DV0aREUzQ",
-      "channel_theme": "Un mentor de confianza te anima a perseverar en lugar de rendirte ahora.",
-      "tone": "transformador",
-      "url": "https://www.youtube.com/watch?v=u6DV0aREUzQ"
+      "video_id": "2LiAkWepcv4",
+      "channel_theme": "Los demás ya reconocen tu versatilidad y es posible que un ascenso esté en camino.",
+      "tone": "empoderador",
+      "url": "https://www.youtube.com/watch?v=2LiAkWepcv4"
     }
   ]
 }

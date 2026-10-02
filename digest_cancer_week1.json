@@ -1,60 +1,60 @@
 {
   "sign": "Cancer",
-  "week_of": "2026-09-28",
+  "week_of": "2026-10-05",
   "categories": {
     "love": {
-      "summary": "Most readers foresee a promising new romantic connection approaching for Cancer, possibly carrying soulmate energy, so stay open to love and avoid wasting time on those who send mixed signals.",
-      "reader_count": 3,
-      "disagreement": "One reading emphasized the new connection reigniting emotional warmth and advised moving on from mixed signals quickly, while others focused more on soulmate potential and building a lasting partnership."
+      "summary": "Most readers sense a meaningful romantic connection forming for Cancer this week, so stay open and flexible as this potential partnership may require patience and clarity to fully unfold.",
+      "reader_count": 4,
+      "disagreement": "Some readers described an optimistic and authentic new connection approaching, while one reading emphasized a confusing soul bond where both parties remain emotionally misaligned and undefined."
     },
     "finance": {
-      "summary": "Most readers agree that financial steadiness and consistent focus are Cancer's best allies this week, with slow and deliberate effort toward money goals being the clearest path to tangible growth and emerging opportunities.",
+      "summary": "Several readers see promising financial opportunities emerging for Cancer this week, so consider investing energy steadily and sustainably rather than all at once to make the most of what is unfolding.",
       "reader_count": 4,
-      "disagreement": "One reader flagged potential financial stress or shortfalls, while others leaned toward optimism and abundance. The tone ranges from cautionary to encouraging depending on the reading."
+      "disagreement": "One reader highlighted resolving a formal agreement or contract, which stands apart from the more opportunity-focused outlook shared by the others."
     },
     "career": {
-      "summary": "Several readers see Cancer stepping into greater professional visibility this week, with bold moves toward independence or new opportunities helping to elevate their path and earn meaningful recognition.",
+      "summary": "Most readers point to a significant professional opportunity this week, so commit fully to your craft and follow through on meaningful plans that align with your long-term goals.",
       "reader_count": 4,
-      "disagreement": "One reader focused on slow, doubt-filled inner progress rather than outward action or recognition, which contrasts with the more assertive, visibility-focused advice from others."
+      "disagreement": "Some readers focused on structured resolutions and formal commitments, while others emphasized effortless new opportunities and the confidence to set boundaries."
     },
     "family": {
-      "summary": "Home and family carry positive, nurturing energy this week for Cancer, so lean into the warmth around you by acknowledging the support network already present and welcoming opportunities for connection, renewal, or togetherness.",
-      "reader_count": 4,
-      "disagreement": "Some readers focused on external support and community around Cancer, while one pointed inward toward a personal calling to nurture or guide younger generations as a life purpose."
+      "summary": "Only a few readers touched on family this week, but those who did pointed to themes of resolution and deeper connection, whether through finding the right home, restoring balance in shared arrangements, or recognizing bonds that go beyond the surface level.",
+      "reader_count": 3,
+      "disagreement": "Some readers focused on practical resolutions like housing and fairness in shared spaces, while one suggested the connections at play are spiritual or soul-level rather than circumstantial."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "A bright, open week invites Cancer to lean into possibility and trust.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Deep shifts are rewriting the rules Cancer lives by this week.",
   "readers": [
     {
-      "video_id": "etW4ukQNiHk",
-      "channel_theme": "A water sign soulmate connection may be building toward a powerful partnership.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=etW4ukQNiHk"
-    },
-    {
-      "video_id": "DrF3rxa4-18",
-      "channel_theme": "Cancer may have a special life calling to guide or support younger generations.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=DrF3rxa4-18"
-    },
-    {
-      "video_id": "xLjk316LBLo",
-      "channel_theme": "Home reunions, moves, or renovations bring positive family energy this week.",
+      "video_id": "YmzFppo_w0I",
+      "channel_theme": "Overworking less may be the key to attracting more material abundance.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=xLjk316LBLo"
+      "url": "https://www.youtube.com/watch?v=YmzFppo_w0I"
     },
     {
-      "video_id": "WZCONMlNYWQ",
-      "channel_theme": "Cancer's support network is always present, even when unnoticed or unacknowledged.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=WZCONMlNYWQ"
+      "video_id": "l-ymzG14ISQ",
+      "channel_theme": "A major career opportunity could significantly alter Cancer's professional trajectory.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=l-ymzG14ISQ"
     },
     {
-      "video_id": "BHhDUR8qifw",
-      "channel_theme": "Cancer should quickly move on from partners sending mixed signals.",
+      "video_id": "ZlkVA3zbA5Y",
+      "channel_theme": "An official contract or agreement may finally reach a fair resolution.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=BHhDUR8qifw"
+      "url": "https://www.youtube.com/watch?v=ZlkVA3zbA5Y"
+    },
+    {
+      "video_id": "LLWPLyARKCE",
+      "channel_theme": "A confusing soul connection leaves both parties emotionally misaligned and undefined.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=LLWPLyARKCE"
+    },
+    {
+      "video_id": "YsrBxSX4bGw",
+      "channel_theme": "A deeply authentic relationship is coming, built on honesty and mutual chemistry.",
+      "tone": "triumphant",
+      "url": "https://www.youtube.com/watch?v=YsrBxSX4bGw"
     }
   ]
 }

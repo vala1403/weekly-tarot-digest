@@ -1,60 +1,60 @@
 {
   "sign": "Gemini",
-  "week_of": "2026-09-28",
+  "week_of": "2026-10-05",
   "categories": {
     "love": {
-      "summary": "A promising new romantic connection appears to be on the horizon for Gemini, and taking care of unresolved personal matters first will help create the space needed to welcome it fully.",
+      "summary": "Most readers see a new romantic connection or meaningful love choice approaching for Gemini, so staying open and confident in what you want could make all the difference in what unfolds.",
       "reader_count": 4,
-      "disagreement": "One reader focused on self-love and existing support rather than a new connection, while another reflected on a past relationship that was meaningful but set aside due to life being too full."
+      "disagreement": "One reader suggested Gemini is actively suppressing feelings for an existing deep connection, while others pointed to an entirely new romantic beginning."
     },
     "finance": {
-      "summary": "Financial growth and potential rewards are on the horizon for Gemini, whether through a bonus, rising property value, or increased income, though caution is advised against overextending on large purchases.",
-      "reader_count": 3,
-      "disagreement": "One reader framed prosperity as a long-term goal requiring effort, while others suggested more immediate financial gains or stability are already arriving."
+      "summary": "Financial pressures appear to be lifting, and most readers encourage Gemini to take a steady, long-term approach by focusing on what genuinely yields results rather than chasing complicated or immediately lucrative paths.",
+      "reader_count": 4,
+      "disagreement": "One reader suggested new opportunities may bring personal rather than financial value, while others leaned toward tangible financial improvement and strategic growth."
     },
     "career": {
-      "summary": "All five readers point to a significant professional shift this week, so take deliberate and authentic steps toward your goals while staying open to unexpected opportunities that could mark an exciting new beginning.",
+      "summary": "Most readers see this as a pivotal week for Gemini professionally, with steady effort and a willingness to focus on what truly works opening the door to meaningful career progress and recognition.",
       "reader_count": 5,
-      "disagreement": "Some readers saw Gemini building toward a fresh, exciting opportunity with no looking back. Others suggested Gemini may first need to dismantle misaligned ambitions before finding their true path."
+      "disagreement": "Some readers highlighted slow, committed progress toward an existing goal, while others pointed to bold action around a new opportunity or shift in direction."
     },
     "family": {
-      "summary": "Family themes this week center on stability, whether through home changes, lasting legacies, or the people surrounding Gemini, so lean into the relationships and environments that offer genuine security and support.",
-      "reader_count": 4,
-      "disagreement": "Some readers focused on warmth and security in home and family life, while one noted that not everyone in Gemini's circle will be supportive or reliable."
+      "summary": "A few readers highlight warmth and positivity in family life this week, with cherished wishes potentially coming true and loved ones offering a supportive, harmonious presence around Gemini.",
+      "reader_count": 3,
+      "disagreement": null
     }
   },
-  "overall_tone": "transformative",
-  "overall_tone_summary": "Deep shifts are reshaping how Gemini sees itself and the path ahead.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "A bright undercurrent of possibility lifts Gemini through even uncertain moments this week.",
   "readers": [
     {
-      "video_id": "EThWq5sha4A",
-      "channel_theme": "Building generational wealth and a lasting legacy is a central focus.",
+      "video_id": "zY2Gv9ahce0",
+      "channel_theme": "Family wishes are actively coming true for Gemini right now.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=EThWq5sha4A"
+      "url": "https://www.youtube.com/watch?v=zY2Gv9ahce0"
     },
     {
-      "video_id": "aJvhC9VfhiI",
-      "channel_theme": "Gemini may be living out someone else's ambitions rather than their own.",
+      "video_id": "cOk0VH-sTkU",
+      "channel_theme": "A major promotion or career offer is imminent, so think big.",
+      "tone": "expansive",
+      "url": "https://www.youtube.com/watch?v=cOk0VH-sTkU"
+    },
+    {
+      "video_id": "HSqAaskKHtc",
+      "channel_theme": "New opportunities may reward emotionally rather than financially.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=aJvhC9VfhiI"
+      "url": "https://www.youtube.com/watch?v=HSqAaskKHtc"
     },
     {
-      "video_id": "r27Em_ph1iY",
-      "channel_theme": "Self-love is emphasized as the essential foundation for moving forward.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=r27Em_ph1iY"
+      "video_id": "NHq6-Px9sNI",
+      "channel_theme": "Gemini is suppressing deep feelings for a soulmate connection.",
+      "tone": "conflicted",
+      "url": "https://www.youtube.com/watch?v=NHq6-Px9sNI"
     },
     {
-      "video_id": "5eoOMnebFyU",
-      "channel_theme": "A financial bonus tied to rising property value appears on the horizon.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=5eoOMnebFyU"
-    },
-    {
-      "video_id": "Q3RkLe50piU",
-      "channel_theme": "Pets and their instincts can help guide Gemini toward trustworthy new connections.",
+      "video_id": "pSwXTmrvjLQ",
+      "channel_theme": "A romantic proposal or commitment is approaching as a conscious choice.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=Q3RkLe50piU"
+      "url": "https://www.youtube.com/watch?v=pSwXTmrvjLQ"
     }
   ]
 }

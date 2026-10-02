@@ -1,60 +1,60 @@
 {
   "sign": "Pisces",
-  "week_of": "2026-09-28",
+  "week_of": "2026-10-05",
   "categories": {
     "love": {
-      "summary": "Romantic relationships are at a crossroads for Pisces this week, and most readers suggest releasing what no longer serves you to make room for a deeper, more meaningful connection that carries real long-term potential.",
-      "reader_count": 5,
-      "disagreement": "Some readers saw a promising new or deepening bond on the horizon, while others emphasized letting go of an unhealthy or finished relationship before love can truly flourish."
+      "summary": "Three readers suggest love is in a positive, grounding place for Pisces this week, with a relationship either flowing in naturally or deepening into something stable and committed, so lean into the ease and let the connection develop organically.",
+      "reader_count": 3,
+      "disagreement": "One reader highlighted a light, effortless new connection while another emphasized a solid, long-term commitment with a grounded partner. These are compatible but distinct focuses."
     },
     "finance": {
-      "summary": "Most readers see this as a strong time for Pisces to steadily build lasting financial stability, favoring patience and long-term effort over quick gains.",
-      "reader_count": 3,
-      "disagreement": "Some readers focused on growing abundance through strategy and effort, while one suggested financial fear may be trapping Pisces in an unhealthy situation that needs breaking free from."
+      "summary": "Several readers see financial momentum building for Pisces this week, whether through revisiting old ideas, resolving disputes, or pursuing new opportunities, so trust your resourcefulness and stay persistent even when others try to discourage you.",
+      "reader_count": 4,
+      "disagreement": "No notable disagreement among readers."
     },
     "career": {
-      "summary": "Career shifts and new professional opportunities are on the horizon for Pisces, so lean into your strengths, stay visible, and resist the urge to walk away before something meaningful has a chance to unfold.",
+      "summary": "Most readers see career momentum building for Pisces this week, so trust your abilities, push forward on ambitious goals, and know that any workplace challenges or doubts are likely to resolve in your favor.",
       "reader_count": 4,
-      "disagreement": "Some readers highlighted exciting incoming opportunities like promotions or collaborations, while one suggested that losing or leaving a job could be the catalyst needed for more purposeful work."
+      "disagreement": "Some readers focused on external obstacles like jealousy and blame-shifting, while others suggested smooth, confidence-boosting wins with little friction involved."
     },
     "family": {
-      "summary": "Only two readers touched on family this week, but they offered different perspectives, with one pointing to emotional fulfillment and domestic harmony ahead, while another encouraged bold independence from the family home.",
+      "summary": "Only two readers touched on family this week, but both pointed to an emotionally nuanced home life, suggesting Pisces focus on personal growth and resist letting others' expectations define their path forward.",
       "reader_count": 2,
-      "disagreement": "Some readers saw family life as a source of coming comfort and happiness. Others suggested Pisces may need to leave the family home to grow independently."
+      "disagreement": "One reader saw a hopeful, joy-filled family future ahead, while the other emphasized a bittersweet need to gradually create distance from something close to home."
     }
   },
-  "overall_tone": "hopeful",
-  "overall_tone_summary": "Three readings align on hope, carrying Pisces forward with gentle optimism this week. Second week running.",
+  "overall_tone": "transformative",
+  "overall_tone_summary": "Powerful shifts are reshaping what Pisces thought was permanent this week.",
   "readers": [
     {
-      "video_id": "d9ZAcjDUOPg",
-      "channel_theme": "Across all areas, abundance and positive transformation are actively building toward fruition.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=d9ZAcjDUOPg"
+      "video_id": "qnrWuO0HiN0",
+      "channel_theme": "Build disciplined structures now around your biggest long-held ambitions.",
+      "tone": "expansive",
+      "url": "https://www.youtube.com/watch?v=qnrWuO0HiN0"
     },
     {
-      "video_id": "eRJOZRenML0",
-      "channel_theme": "A toxic, imbalanced relationship is proving very difficult for Pisces to leave.",
-      "tone": "cautionary",
-      "url": "https://www.youtube.com/watch?v=eRJOZRenML0"
-    },
-    {
-      "video_id": "rY4D3vpTaTQ",
-      "channel_theme": "Pisces faces a key choice between a returning ex and a new love interest.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=rY4D3vpTaTQ"
-    },
-    {
-      "video_id": "4m11C6xS5Bk",
-      "channel_theme": "A slow but steady romance is emerging with genuine marriage potential.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=4m11C6xS5Bk"
-    },
-    {
-      "video_id": "K0OapfdcG-w",
-      "channel_theme": "Releasing unhealthy bonds, jobs, and living situations is essential for real growth.",
+      "video_id": "rcHY0DEhl14",
+      "channel_theme": "Something close to home requires gradual, organic distancing for growth.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=K0OapfdcG-w"
+      "url": "https://www.youtube.com/watch?v=rcHY0DEhl14"
+    },
+    {
+      "video_id": "i8CT9e5sZ5U",
+      "channel_theme": "Documentation helps you win a business dispute or compensation claim.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=i8CT9e5sZ5U"
+    },
+    {
+      "video_id": "7zy_9TgjqdU",
+      "channel_theme": "A dreaded presentation surprises you by exceeding all expectations.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=7zy_9TgjqdU"
+    },
+    {
+      "video_id": "I-Dl4e3yJBk",
+      "channel_theme": "Jealous people nearby are actively trying to undermine your progress.",
+      "tone": "cautionary",
+      "url": "https://www.youtube.com/watch?v=I-Dl4e3yJBk"
     }
   ]
 }

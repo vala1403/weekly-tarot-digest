@@ -1,60 +1,60 @@
 {
   "sign": "Libra",
-  "week_of": "2026-09-28",
+  "week_of": "2026-10-05",
   "categories": {
     "love": {
-      "summary": "New romantic connections and meaningful relationships appear to be on the horizon for Libra, so embrace patience and trust that the right people and experiences will unfold naturally rather than letting self-doubt hold you back.",
+      "summary": "Most readers sense a meaningful shift toward deeper emotional connection and feeling truly valued in love, so allow yourself to remain open and embrace the relationships or moments that make you feel genuinely chosen and cherished.",
       "reader_count": 4,
-      "disagreement": "Some readers focused on fresh romantic beginnings, while one highlighted working through inner fear and emotional avoidance as the more pressing theme for Libra this week."
+      "disagreement": "One reader suggested stepping away from a relationship that no longer meets your needs, while others pointed to deepening bonds, reunions, and emotional openness as the week's focus."
     },
     "finance": {
-      "summary": "Most readers see financial abundance or rewards arriving soon, so align your mindset with deserving more and focus your energy on nurturing the opportunities already taking shape.",
-      "reader_count": 4,
-      "disagreement": "Some readers tied the windfall to mindset and manifestation, while others linked it to releasing draining habits or taking strategic, focused action."
+      "summary": "Most readers point to financial improvement ahead for Libra this week, so lean into opportunities for growth, whether through collaboration, saving, or simply allowing new resources to flow in.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on caution, reassessing draining commitments or overcoming self-doubt. Others emphasized straightforward gains, rewards, and abundance coming in with little resistance."
     },
     "career": {
-      "summary": "A meaningful career opportunity is on the horizon for Libra this week, and most readers agree that embracing it decisively, while letting your results speak for themselves, is the key to unlocking a significant professional shift.",
-      "reader_count": 4,
-      "disagreement": "Some readers focused on bold, immediate action to seize the opportunity. Others emphasized quiet confidence and keeping plans private while your work speaks for you."
+      "summary": "Most readers see a professional turning point this week, with endings making way for exciting new beginnings, so embrace the shift and let go of work that no longer serves your growth.",
+      "reader_count": 5,
+      "disagreement": "Some readers focused on closing cycles and slowing down to reflect, while others emphasized bold new opportunities arriving with recognition and expanded potential."
     },
     "family": {
-      "summary": "Most readers point to warmth, emotional fulfillment, and a sense of comfort within the home this week, so lean into that nurturing energy and protect the joy you are already building around you.",
-      "reader_count": 4,
-      "disagreement": "One reader highlighted potential changes or relocation disrupting current stability, while others focused on existing contentment and positive home energy."
+      "summary": "All five readers point to a week centered on warmth, togetherness, and joy in family and social life, so open up to those around you and embrace shared plans or gatherings as a source of genuine fulfillment.",
+      "reader_count": 5,
+      "disagreement": "No notable disagreement. Some readers focused on internal emotional openness, while others emphasized external celebrations, but both point toward the same communal joy."
     }
   },
-  "overall_tone": "transformative",
-  "overall_tone_summary": "Deep shifts are underway, reshaping how Libra sees what truly matters.",
+  "overall_tone": "hopeful",
+  "overall_tone_summary": "A bright current of optimism runs through Libra's week, lifting the spirit.",
   "readers": [
     {
-      "video_id": "2xXkkVgIs4o",
-      "channel_theme": "Libra already knows their feelings but uses self-doubt to avoid vulnerability.",
-      "tone": "introspective",
-      "url": "https://www.youtube.com/watch?v=2xXkkVgIs4o"
-    },
-    {
-      "video_id": "XFIWNmKYFlk",
-      "channel_theme": "A major financial windfall or inheritance may soon arrive for Libra.",
+      "video_id": "YNJt561Z08Y",
+      "channel_theme": "Loved ones and a shared project are the central highlight this week.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=XFIWNmKYFlk"
+      "url": "https://www.youtube.com/watch?v=YNJt561Z08Y"
     },
     {
-      "video_id": "DHRVHkE7cPE",
-      "channel_theme": "Pregnancy or a deeply desired romantic wish may finally come true.",
+      "video_id": "q00oy8tGvgY",
+      "channel_theme": "A major professional chapter closes, opening the door to an exciting new adventure.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=DHRVHkE7cPE"
+      "url": "https://www.youtube.com/watch?v=q00oy8tGvgY"
     },
     {
-      "video_id": "eEjQUZjXGEQ",
-      "channel_theme": "A spiritual partner will arrive and push Libra toward personal growth.",
-      "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=eEjQUZjXGEQ"
-    },
-    {
-      "video_id": "ES9bCJOfeQo",
-      "channel_theme": "Reinvent your professional identity and let results speak for themselves.",
+      "video_id": "VhBa_FiAb-M",
+      "channel_theme": "Open emotional sharing with loved ones could spark a joyful celebration.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=ES9bCJOfeQo"
+      "url": "https://www.youtube.com/watch?v=VhBa_FiAb-M"
+    },
+    {
+      "video_id": "F0pRRyHFa7Y",
+      "channel_theme": "A proposal or meaningful reunion makes Libra feel truly chosen and cherished.",
+      "tone": "celebratory",
+      "url": "https://www.youtube.com/watch?v=F0pRRyHFa7Y"
+    },
+    {
+      "video_id": "njfYjAS21ZI",
+      "channel_theme": "Libra is encouraged to reward themselves with small luxuries for their hard work.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=njfYjAS21ZI"
     }
   ]
 }

@@ -1,60 +1,60 @@
 {
   "sign": "Virgo",
-  "week_of": "2026-09-28",
+  "week_of": "2026-10-05",
   "categories": {
     "love": {
-      "summary": "A meaningful romantic connection or commitment seems to be on the horizon for Virgo, and most readers encourage leaning into it rather than holding back out of fear or hesitation.",
-      "reader_count": 3,
-      "disagreement": "One reading described a troubled, cyclical connection full of uncertainty, while others pointed to a hopeful new bond or deepening commitment."
+      "summary": "Most readers sense fresh romantic energy heading Virgo's way this week, so staying open and approaching new connections with a light, pressure-free attitude may allow love to unfold more naturally.",
+      "reader_count": 4,
+      "disagreement": "One reader focused on an existing difficult relationship moving toward recovery, while others pointed to entirely new romantic possibilities emerging."
     },
     "finance": {
-      "summary": "Most readers sense financial activity stirring for Virgo this week, whether through rebalancing, new opportunities, or unexpected windfalls, so putting in consistent, organized effort now is the clearest shared advice for turning potential into real growth.",
+      "summary": "Most readers sense financial momentum building this week, whether through unexpected windfalls or steady progress, so trust the shift and keep moving forward without clinging to where you currently stand.",
       "reader_count": 4,
-      "disagreement": "Some readers pointed to caution and reassessment of current resources, while one suggested a significant, possibly life-changing financial windfall arriving with little effort required."
+      "disagreement": "Some readers pointed to a sudden lucky break, while others emphasized slow and deliberate growth toward stability."
     },
     "career": {
-      "summary": "Most readers see professional momentum building for Virgo this week, so stay persistent, keep honing your skills, and remain open to new opportunities that could significantly advance your path.",
+      "summary": "Most readers this week see Virgo stepping into a leadership role and taking confident, decisive action in work or business, so stop hesitating and channel your expertise into the professional chapter you have been preparing for.",
       "reader_count": 4,
-      "disagreement": "Some readers focused on an incoming opportunity or recognition waiting to be claimed, while one highlighted inner doubt as the main hurdle to overcome first."
+      "disagreement": "One reader focused on nurturing a passion project with spiritual backing, while others emphasized stopping procrastination and asserting leadership more broadly."
     },
     "family": {
-      "summary": "Few readers touched on family this week; the one who did suggested a joyful reunion or celebration with a loved one, possibly a water sign, may be on the horizon for Virgo.",
-      "reader_count": 1,
-      "disagreement": null
+      "summary": "Family and close connections carry real emotional weight for Virgo this week, with several readers pointing to nurturing bonds, shared experiences, and even ancestral support as sources of meaningful togetherness.",
+      "reader_count": 3,
+      "disagreement": "One reader focused on spiritual and ancestral support alongside relationships, while others emphasized real-world family bonding or group travel, suggesting different sources of that connection."
     }
   },
   "overall_tone": "hopeful",
-  "overall_tone_summary": "A bright, forward-looking energy carries Virgo through this week with quiet confidence. Fourth week running.",
+  "overall_tone_summary": "A bright undercurrent of possibility lifts Virgo through the week. Fifth week running.",
   "readers": [
     {
-      "video_id": "MvuFJHfKOwU",
-      "channel_theme": "A soulmate bond or long-awaited commitment is finally coming into focus.",
+      "video_id": "EeYg5W-qhZc",
+      "channel_theme": "Ancestral and spiritual presences are actively supporting Virgo this week.",
+      "tone": "hopeful",
+      "url": "https://www.youtube.com/watch?v=EeYg5W-qhZc"
+    },
+    {
+      "video_id": "U_Wfz7JPuoI",
+      "channel_theme": "A group trip with loved ones brings joyful togetherness and social connection.",
       "tone": "transformative",
-      "url": "https://www.youtube.com/watch?v=MvuFJHfKOwU"
+      "url": "https://www.youtube.com/watch?v=U_Wfz7JPuoI"
     },
     {
-      "video_id": "ZtXtJCOlMO4",
-      "channel_theme": "Organizing your resources now will help attract new abundance soon.",
+      "video_id": "fYpNS-RwJv4",
+      "channel_theme": "Virgo is called to lead boldly using hard-won knowledge and experience.",
+      "tone": "transformative",
+      "url": "https://www.youtube.com/watch?v=fYpNS-RwJv4"
+    },
+    {
+      "video_id": "DRh1ODd78M0",
+      "channel_theme": "Positive energy surrounds nurturing family bonds or even starting a new family.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=ZtXtJCOlMO4"
+      "url": "https://www.youtube.com/watch?v=DRh1ODd78M0"
     },
     {
-      "video_id": "m1Zl2QR2bbI",
-      "channel_theme": "Take a chance on love and new ventures despite lingering self-doubt.",
+      "video_id": "QcHALVW0eHQ",
+      "channel_theme": "A troubled romance shows signs of returning stronger after a difficult phase.",
       "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=m1Zl2QR2bbI"
-    },
-    {
-      "video_id": "rTzsGS0PLJ0",
-      "channel_theme": "A life-changing financial windfall and public career recognition are both possible.",
-      "tone": "hopeful",
-      "url": "https://www.youtube.com/watch?v=rTzsGS0PLJ0"
-    },
-    {
-      "video_id": "roDgwSlGU-k",
-      "channel_theme": "A push-pull romantic cycle is leaving you confused about where things stand.",
-      "tone": "reflective",
-      "url": "https://www.youtube.com/watch?v=roDgwSlGU-k"
+      "url": "https://www.youtube.com/watch?v=QcHALVW0eHQ"
     }
   ]
 }
