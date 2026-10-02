@@ -9,6 +9,7 @@ from generate_digest_html import strip_em_dashes_deep, STRINGS
 
 ROOT = Path(__file__).resolve().parent
 PUBLIC = ROOT / 'public'
+GOOGLE_VERIFICATION_FILE = 'google63d4fbba07ea59ea.html'
 
 
 class Page(HTMLParser):
@@ -30,7 +31,7 @@ def normalized(text):
 
 
 def main():
-    pages = list(PUBLIC.glob('*.html'))
+    pages = [p for p in PUBLIC.glob('*.html') if p.name != GOOGLE_VERIFICATION_FILE]
     assert len(pages) == 26
     for path in pages:
         assert path.read_bytes() == (ROOT / path.name).read_bytes(), f'Stale public copy: {path}'
